@@ -1,0 +1,543 @@
+{
+ "n": 3,
+ "title": "1st Declension Nouns",
+ "words": [
+  {
+   "c": "",
+   "e": "sister",
+   "f": {
+    "acc": "τὴν ἀδελφήν",
+    "dat": "τῇ ἀδελφῇ",
+    "gen": "τῆς ἀδελφῆς"
+   },
+   "fp": {
+    "acc": "tayn ah-dehl-FAYN",
+    "dat": "tay ah-dehl-FAY",
+    "gen": "tays ah-dehl-FAYS"
+   },
+   "g": "ἀδελφή",
+   "gen": "",
+   "id": "3:ἀδελφή",
+   "m": "related to ἀδελφός (brother, L4) — same root, female form",
+   "p": "noun",
+   "ph": "ah-dehl-FAY"
+  },
+  {
+   "c": "",
+   "e": "truth",
+   "f": {
+    "acc": "τὴν ἀλήθειαν",
+    "dat": "τῇ ἀληθείᾳ",
+    "gen": "τῆς ἀληθείας"
+   },
+   "fp": {
+    "acc": "tayn ah-LAY-thay-ahn",
+    "dat": "tay ah-lay-THAY-ah",
+    "gen": "tays ah-lay-THAY-ahs"
+   },
+   "g": "ἀλήθεια",
+   "gen": "",
+   "id": "3:ἀλήθεια",
+   "m": "\"aletheia\" is literally the philosophical term for *truth* (unconcealment)",
+   "p": "noun",
+   "ph": "ah-LAY-thay-ah"
+  },
+  {
+   "c": "",
+   "e": "kingdom, reign, or rule",
+   "f": {
+    "acc": "τὴν βασιλείαν",
+    "dat": "τῇ βασιλείᾳ",
+    "gen": "τῆς βασιλείας"
+   },
+   "fp": {
+    "acc": "tayn bah-see-LAY-ahn",
+    "dat": "tay bah-see-LAY-ah",
+    "gen": "tays bah-see-LAY-ahs"
+   },
+   "g": "βασιλεία",
+   "gen": "",
+   "id": "3:βασιλεία",
+   "m": "root of \"basilica,\" a grand royal/church building — *kingdom*",
+   "p": "noun",
+   "ph": "bah-see-LAY-ah"
+  },
+  {
+   "c": "",
+   "e": "earth, soil, or land",
+   "f": {
+    "acc": "τὴν γῆν",
+    "dat": "τῇ γῇ",
+    "gen": "τῆς γῆς"
+   },
+   "fp": {
+    "acc": "tayn gayn",
+    "dat": "tay gay",
+    "gen": "tays gays"
+   },
+   "g": "γῆ",
+   "gen": "",
+   "id": "3:γῆ",
+   "m": "root of \"geography,\" \"geology\" — study of the *earth*",
+   "p": "noun",
+   "ph": "gay"
+  },
+  {
+   "c": "",
+   "e": "glory, honor",
+   "f": {
+    "acc": "τὴν δόξαν",
+    "dat": "τῇ δόξῃ",
+    "gen": "τῆς δόξης"
+   },
+   "fp": {
+    "acc": "tayn DO-ksahn",
+    "dat": "tay DO-ksay",
+    "gen": "tays DO-ksays"
+   },
+   "g": "δόξα",
+   "gen": "",
+   "id": "3:δόξα",
+   "m": "\"doxology\" — a hymn of *glory* and praise",
+   "p": "noun",
+   "ph": "DO-ksah"
+  },
+  {
+   "c": "",
+   "e": "assembly, church",
+   "f": {
+    "acc": "τὴν ἐκκλησίαν",
+    "dat": "τῇ ἐκκλησίᾳ",
+    "gen": "τῆς ἐκκλησίας"
+   },
+   "fp": {
+    "acc": "tayn ehk-klay-SEE-ahn",
+    "dat": "tay ehk-klay-SEE-ah",
+    "gen": "tays ehk-klay-SEE-ahs"
+   },
+   "g": "ἐκκλησία",
+   "gen": "",
+   "id": "3:ἐκκλησία",
+   "m": "\"ecclesiastical\" — church-related",
+   "p": "noun",
+   "ph": "ehk-klay-SEE-ah"
+  },
+  {
+   "c": "",
+   "e": "I have",
+   "g": "ἔχω",
+   "gen": "",
+   "id": "3:ἔχω",
+   "m": "sounds like \"echo\" — what you *have* keeps echoing/staying with you",
+   "p": "verb",
+   "ph": "EH-khoh",
+   "vf": [
+    {
+     "a": [
+      "I have"
+     ],
+     "e": "I have",
+     "g": "ἔχω",
+     "l": 2,
+     "ph": "EH-khoh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you have"
+     ],
+     "e": "you have",
+     "g": "ἔχεις",
+     "l": 2,
+     "ph": "EH-khays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he has",
+      "she has",
+      "it has"
+     ],
+     "e": "he/she/it has",
+     "g": "ἔχει",
+     "l": 2,
+     "ph": "EH-khay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we have"
+     ],
+     "e": "we have",
+     "g": "ἔχομεν",
+     "l": 2,
+     "ph": "EH-kho-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all have",
+      "you all have"
+     ],
+     "e": "y'all have",
+     "g": "ἔχετε",
+     "l": 2,
+     "ph": "EH-kheh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they have"
+     ],
+     "e": "they have",
+     "g": "ἔχουσιν",
+     "l": 2,
+     "ph": "EH-khoo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was having",
+      "I had",
+      "I used to have",
+      "they were having",
+      "they had",
+      "they used to have"
+     ],
+     "e": "I was having / they were having",
+     "g": "εἶχον",
+     "l": 10,
+     "ph": "AY-khon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were having",
+      "you had",
+      "you used to have"
+     ],
+     "e": "you were having",
+     "g": "εἶχες",
+     "l": 10,
+     "ph": "AY-khehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was having",
+      "she was having",
+      "it was having",
+      "he had",
+      "she had",
+      "it had",
+      "he used to have",
+      "she used to have",
+      "it used to have"
+     ],
+     "e": "he/she/it was having",
+     "g": "εἶχεν",
+     "l": 10,
+     "ph": "AY-khehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were having",
+      "we had",
+      "we used to have"
+     ],
+     "e": "we were having",
+     "g": "εἴχομεν",
+     "l": 10,
+     "ph": "AY-kho-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were having",
+      "you all were having",
+      "y'all had",
+      "you all had",
+      "y'all used to have",
+      "you all used to have"
+     ],
+     "e": "y'all were having",
+     "g": "εἴχετε",
+     "l": 10,
+     "ph": "AY-kheh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will have"
+     ],
+     "e": "I will have",
+     "g": "ἕξω",
+     "l": 12,
+     "ph": "HEH-ksoh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will have"
+     ],
+     "e": "you will have",
+     "g": "ἕξεις",
+     "l": 12,
+     "ph": "HEH-ksays",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will have",
+      "she will have",
+      "it will have"
+     ],
+     "e": "he/she/it will have",
+     "g": "ἕξει",
+     "l": 12,
+     "ph": "HEH-ksay",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will have"
+     ],
+     "e": "we will have",
+     "g": "ἕξομεν",
+     "l": 12,
+     "ph": "HEH-kso-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will have",
+      "you all will have"
+     ],
+     "e": "y'all will have",
+     "g": "ἕξετε",
+     "l": 12,
+     "ph": "HEH-kseh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will have"
+     ],
+     "e": "they will have",
+     "g": "ἕξουσιν",
+     "l": 12,
+     "ph": "HEH-ksoo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I had",
+      "they had"
+     ],
+     "e": "I had / they had",
+     "g": "ἔσχον",
+     "l": 14,
+     "ph": "EH-skhon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you had"
+     ],
+     "e": "you had",
+     "g": "ἔσχες",
+     "l": 14,
+     "ph": "EH-skhehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he had",
+      "she had",
+      "it had"
+     ],
+     "e": "he/she/it had",
+     "g": "ἔσχεν",
+     "l": 14,
+     "ph": "EH-skhehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we had"
+     ],
+     "e": "we had",
+     "g": "ἔσχομεν",
+     "l": 14,
+     "ph": "EH-skho-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all had",
+      "you all had"
+     ],
+     "e": "y'all had",
+     "g": "ἔσχετε",
+     "l": 14,
+     "ph": "EH-skheh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "life",
+   "f": {
+    "acc": "τὴν ζωήν",
+    "dat": "τῇ ζωῇ",
+    "gen": "τῆς ζωῆς"
+   },
+   "fp": {
+    "acc": "tayn zoh-AYN",
+    "dat": "tay zoh-AY",
+    "gen": "tays zoh-AYS"
+   },
+   "g": "ζωή",
+   "gen": "",
+   "id": "3:ζωή",
+   "m": "\"zoo\" / \"zoology\" — the study of living things, *life*",
+   "p": "noun",
+   "ph": "zoh-AY"
+  },
+  {
+   "c": "",
+   "e": "day",
+   "f": {
+    "acc": "τὴν ἡμέραν",
+    "dat": "τῇ ἡμέρᾳ",
+    "gen": "τῆς ἡμέρας"
+   },
+   "fp": {
+    "acc": "tayn hay-MEH-rahn",
+    "dat": "tay hay-MEH-rah",
+    "gen": "tays hay-MEH-rahs"
+   },
+   "g": "ἡμέρα",
+   "gen": "",
+   "id": "3:ἡμέρα",
+   "m": "\"ephemeral\" shares the root — things that last only a *day*",
+   "p": "noun",
+   "ph": "hay-MEH-rah"
+  },
+  {
+   "c": "",
+   "e": "sea, lake",
+   "f": {
+    "acc": "τὴν θάλασσαν",
+    "dat": "τῇ θαλάσσῃ",
+    "gen": "τῆς θαλάσσης"
+   },
+   "fp": {
+    "acc": "tayn THAH-lahs-sahn",
+    "dat": "tay thah-LAHS-say",
+    "gen": "tays thah-LAHS-says"
+   },
+   "g": "θάλασσα",
+   "gen": "",
+   "id": "3:θάλασσα",
+   "m": "sounds like \"the lasso\" — casting a lasso net into the *sea*",
+   "p": "noun",
+   "ph": "THAH-lahs-sah"
+  },
+  {
+   "c": "",
+   "e": "heart",
+   "f": {
+    "acc": "τὴν καρδίαν",
+    "dat": "τῇ καρδίᾳ",
+    "gen": "τῆς καρδίας"
+   },
+   "fp": {
+    "acc": "tayn kahr-DEE-ahn",
+    "dat": "tay kahr-DEE-ah",
+    "gen": "tays kahr-DEE-ahs"
+   },
+   "g": "καρδία",
+   "gen": "",
+   "id": "3:καρδία",
+   "m": "\"cardiac,\" \"cardiology\" — the *heart*",
+   "p": "noun",
+   "ph": "kahr-DEE-ah"
+  },
+  {
+   "c": "",
+   "e": "voice, sound",
+   "f": {
+    "acc": "τὴν φωνήν",
+    "dat": "τῇ φωνῇ",
+    "gen": "τῆς φωνῆς"
+   },
+   "fp": {
+    "acc": "tayn foh-NAYN",
+    "dat": "tay foh-NAY",
+    "gen": "tays foh-NAYS"
+   },
+   "g": "φωνή",
+   "gen": "",
+   "id": "3:φωνή",
+   "m": "\"phone,\" \"telephone\" — carrying *voice* and *sound*",
+   "p": "noun",
+   "ph": "foh-NAY"
+  },
+  {
+   "c": "",
+   "e": "hour, time",
+   "f": {
+    "acc": "τὴν ὥραν",
+    "dat": "τῇ ὥρᾳ",
+    "gen": "τῆς ὥρας"
+   },
+   "fp": {
+    "acc": "tayn HOH-rahn",
+    "dat": "tay HOH-rah",
+    "gen": "tays HOH-rahs"
+   },
+   "g": "ὥρα",
+   "gen": "",
+   "id": "3:ὥρα",
+   "m": "\"hour\" is a direct cognate — the *time*",
+   "p": "noun",
+   "ph": "HOH-rah"
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "n": 4,
+ "title": "2nd Declension Nouns",
+ "words": [
+  {
+   "c": "",
+   "e": "brother",
+   "f": {
+    "acc": "τὸν ἀδελφόν",
+    "dat": "τῷ ἀδελφῷ",
+    "gen": "τοῦ ἀδελφοῦ"
+   },
+   "fp": {
+    "acc": "ton ah-dehl-FON",
+    "dat": "toh ah-dehl-FOH",
+    "gen": "too ah-dehl-FOO"
+   },
+   "g": "ἀδελφός",
+   "gen": "",
+   "id": "4:ἀδελφός",
+   "m": "the male form of ἀδελφή (sister, L3): same root, -ός for the brother",
+   "p": "noun",
+   "ph": "ah-dehl-FOS"
+  },
+  {
+   "c": "",
+   "e": "but",
+   "g": "ἀλλά",
+   "gen": "",
+   "id": "4:ἀλλά",
+   "m": "sounds like \"aha, but—\" — the pivot word",
+   "p": "conjunction",
+   "ph": "ahl-LAH"
+  },
+  {
+   "c": "",
+   "e": "human, person, man",
+   "f": {
+    "acc": "τὸν ἄνθρωπον",
+    "dat": "τῷ ἀνθρώπῳ",
+    "gen": "τοῦ ἀνθρώπου"
+   },
+   "fp": {
+    "acc": "ton AHN-throh-pon",
+    "dat": "toh ahn-THROH-poh",
+    "gen": "too ahn-THROH-poo"
+   },
+   "g": "ἄνθρωπος",
+   "gen": "",
+   "id": "4:ἄνθρωπος",
+   "m": "\"anthropology\" — the study of *humans*",
+   "p": "noun",
+   "ph": "AHN-throh-pos"
+  },
+  {
+   "c": "",
+   "e": "but, and (postpositive)",
+   "g": "δέ",
+   "gen": "",
+   "id": "4:δέ",
+   "m": "tiny postpositive word — like a light \"eh, but\" tacked on after",
+   "p": "conjunction",
+   "ph": "deh"
+  },
+  {
+   "c": "",
+   "e": "slave, servant",
+   "f": {
+    "acc": "τὸν δοῦλον",
+    "dat": "τῷ δούλῳ",
+    "gen": "τοῦ δούλου"
+   },
+   "fp": {
+    "acc": "ton DOO-lon",
+    "dat": "toh DOO-loh",
+    "gen": "too DOO-loo"
+   },
+   "g": "δοῦλος",
+   "gen": "",
+   "id": "4:δοῦλος",
+   "m": "sounds like \"doo-los\" — think of \"dues,\" someone bound to *serve*",
+   "p": "noun",
+   "ph": "DOO-los"
+  },
+  {
+   "c": "",
+   "e": "deed, work",
+   "f": {
+    "acc": "τὸ ἔργον",
+    "dat": "τῷ ἔργῳ",
+    "gen": "τοῦ ἔργου"
+   },
+   "fp": {
+    "acc": "to EHR-gon",
+    "dat": "toh EHR-goh",
+    "gen": "too EHR-goo"
+   },
+   "g": "ἔργον",
+   "gen": "",
+   "id": "4:ἔργον",
+   "m": "\"ergonomic,\" \"energy\" — related to *work*",
+   "p": "noun",
+   "ph": "EHR-gon"
+  },
+  {
+   "c": "",
+   "e": "death",
+   "f": {
+    "acc": "τὸν θάνατον",
+    "dat": "τῷ θανάτῳ",
+    "gen": "τοῦ θανάτου"
+   },
+   "fp": {
+    "acc": "ton THAH-nah-ton",
+    "dat": "toh thah-NAH-toh",
+    "gen": "too thah-NAH-too"
+   },
+   "g": "θάνατος",
+   "gen": "",
+   "id": "4:θάνατος",
+   "m": "Sounds like Thanos — who brings death",
+   "p": "noun",
+   "ph": "THAH-nah-tos"
+  },
+  {
+   "c": "",
+   "e": "God, god",
+   "f": {
+    "acc": "τὸν θεόν",
+    "dat": "τῷ θεῷ",
+    "gen": "τοῦ θεοῦ"
+   },
+   "fp": {
+    "acc": "ton theh-ON",
+    "dat": "toh theh-OH",
+    "gen": "too theh-OO"
+   },
+   "g": "θεός",
+   "gen": "",
+   "id": "4:θεός",
+   "m": "\"theology,\" \"theist\" — the study of *God*",
+   "p": "noun",
+   "ph": "theh-OS"
+  },
+  {
+   "c": "",
+   "e": "Lord, master, owner",
+   "f": {
+    "acc": "τὸν κύριον",
+    "dat": "τῷ κυρίῳ",
+    "gen": "τοῦ κυρίου"
+   },
+   "fp": {
+    "acc": "ton KÜ-ree-on",
+    "dat": "toh kü-REE-oh",
+    "gen": "too kü-REE-oo"
+   },
+   "g": "κύριος",
+   "gen": "",
+   "id": "4:κύριος",
+   "m": "liturgical \"Kyrie eleison\" = \"*Lord*, have mercy\"",
+   "p": "noun",
+   "ph": "KÜ-ree-os"
+  },
+  {
+   "c": "",
+   "e": "word, logic, thought",
+   "f": {
+    "acc": "τὸν λόγον",
+    "dat": "τῷ λόγῳ",
+    "gen": "τοῦ λόγου"
+   },
+   "fp": {
+    "acc": "ton LO-gon",
+    "dat": "toh LO-goh",
+    "gen": "too LO-goo"
+   },
+   "g": "λόγος",
+   "gen": "",
+   "id": "4:λόγος",
+   "m": "\"logic,\" \"-ology\" suffix — *word*, reasoned thought",
+   "p": "noun",
+   "ph": "LO-gos"
+  },
+  {
+   "c": "",
+   "e": "law",
+   "f": {
+    "acc": "τὸν νόμον",
+    "dat": "τῷ νόμῳ",
+    "gen": "τοῦ νόμου"
+   },
+   "fp": {
+    "acc": "ton NO-mon",
+    "dat": "toh NO-moh",
+    "gen": "too NO-moo"
+   },
+   "g": "νόμος",
+   "gen": "",
+   "id": "4:νόμος",
+   "m": "\"economy\" (oikos+nomos = household *law*/management), \"autonomy\"",
+   "p": "noun",
+   "ph": "NO-mos"
+  },
+  {
+   "c": "",
+   "e": "house",
+   "f": {
+    "acc": "τὸν οἶκον",
+    "dat": "τῷ οἴκῳ",
+    "gen": "τοῦ οἴκου"
+   },
+   "fp": {
+    "acc": "ton OY-kon",
+    "dat": "toh OY-koh",
+    "gen": "too OY-koo"
+   },
+   "g": "οἶκος",
+   "gen": "",
+   "id": "4:οἶκος",
+   "m": "\"economy,\" \"ecology\" — root meaning *house*/household",
+   "p": "noun",
+   "ph": "OY-kos"
+  },
+  {
+   "c": "",
+   "e": "heaven, sky",
+   "f": {
+    "acc": "τὸν οὐρανόν",
+    "dat": "τῷ οὐρανῷ",
+    "gen": "τοῦ οὐρανοῦ"
+   },
+   "fp": {
+    "acc": "ton oo-rah-NON",
+    "dat": "toh oo-rah-NOH",
+    "gen": "too oo-rah-NOO"
+   },
+   "g": "οὐρανός",
+   "gen": "",
+   "id": "4:οὐρανός",
+   "m": "\"Uranus,\" the sky-god planet — *heaven*",
+   "p": "noun",
+   "ph": "oo-rah-NOS"
+  },
+  {
+   "c": "",
+   "e": "child",
+   "f": {
+    "acc": "τὸ τέκνον",
+    "dat": "τῷ τέκνῳ",
+    "gen": "τοῦ τέκνου"
+   },
+   "fp": {
+    "acc": "to TEH-knon",
+    "dat": "toh TEH-knoh",
+    "gen": "too TEH-knoo"
+   },
+   "g": "τέκνον",
+   "gen": "",
+   "id": "4:τέκνον",
+   "m": "sounds like \"tech-known\" — a *child* you've come to know/raise",
+   "p": "noun",
+   "ph": "TEH-knon"
+  },
+  {
+   "c": "",
+   "e": "son",
+   "f": {
+    "acc": "τὸν υἱόν",
+    "dat": "τῷ υἱῷ",
+    "gen": "τοῦ υἱοῦ"
+   },
+   "fp": {
+    "acc": "ton hwee-ON",
+    "dat": "toh hwee-OH",
+    "gen": "too hwee-OO"
+   },
+   "g": "υἱός",
+   "gen": "",
+   "id": "4:υἱός",
+   "m": "short, sharp sound — think \"you, oh son!\"",
+   "p": "noun",
+   "ph": "hwee-OS"
+  }
+ ]
+}

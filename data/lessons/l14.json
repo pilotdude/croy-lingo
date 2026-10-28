@@ -1,0 +1,2205 @@
+{
+ "n": 14,
+ "title": "The Second Aorist Active and Middle Indicative",
+ "words": [
+  {
+   "c": "",
+   "e": "I saw (serves as the 2nd aorist of ὁράω) (→ idea)",
+   "g": "εἶδον",
+   "gen": "",
+   "id": "14:εἶδον",
+   "m": "\"idea\" — an *idea* is something you have *seen* in your mind's eye; the aorist uses a different root (ἰδ-) than ὁράω",
+   "p": "verb",
+   "ph": "AY-don"
+  },
+  {
+   "c": "",
+   "e": "I said (serves as the 2nd aorist of λέγω, a verb to be learned later) (→ epic)",
+   "g": "εἶπον",
+   "gen": "",
+   "id": "14:εἶπον",
+   "m": "\"epic\" — a long poem that is *said* aloud, a story *told*; pairs with λέγω (I say, L2)",
+   "p": "verb",
+   "ph": "AY-pon"
+  },
+  {
+   "c": "",
+   "e": "I came, went (serves as the 2nd aorist of ἔρχομαι)",
+   "g": "ἦλθον",
+   "gen": "",
+   "id": "14:ἦλθον",
+   "m": "ἔρχομαι (L9): same meaning, different stem; sounds like \"Elton\" — \"*Elton* John *came* to town\"",
+   "p": "verb",
+   "ph": "AYL-thon"
+  },
+  {
+   "c": "",
+   "e": "I brought, bore, carried (irregular 1st aorist of φέρω, conjugated with -κα, not -σα)",
+   "g": "ἤνεγκα",
+   "gen": "",
+   "id": "14:ἤνεγκα",
+   "m": "φέρω (L12) with a different stem; sounds like \"ink-a\" — \"I *carried* the ink, ah!\"; note the ending -κα where a 1st aorist usually has -σα",
+   "p": "verb",
+   "ph": "AY-nehn-kah"
+  },
+  {
+   "c": "",
+   "e": "wine (→ oenophile)",
+   "f": {
+    "acc": "τὸν οἶνον",
+    "dat": "τῷ οἴνῳ",
+    "gen": "τοῦ οἴνου"
+   },
+   "fp": {
+    "acc": "ton OY-non",
+    "dat": "toh OY-noh",
+    "gen": "too OY-noo"
+   },
+   "g": "οἶνος, ὁ",
+   "gen": "m",
+   "id": "14:οἶνος",
+   "m": "\"oenophile\" — a *wine* lover; \"oenology\" — the study of *wine*",
+   "p": "noun",
+   "ph": "OY-nos, ho"
+  },
+  {
+   "c": "",
+   "e": "I will see (serves as the deponent future of ὁράω)",
+   "g": "ὄψομαι",
+   "gen": "",
+   "id": "14:ὄψομαι",
+   "m": "\"optic,\" \"optical\" — same ὀπ- root as *seeing*; ὄψ-ομαι = *I will see*; deponent -ομαι ending (L9: active meaning)",
+   "p": "verb",
+   "ph": "O-pso-mai"
+  },
+  {
+   "c": "",
+   "e": "I drink (→ pinocytosis)",
+   "g": "πίνω",
+   "gen": "",
+   "id": "14:πίνω",
+   "m": "\"pinocytosis\" — a cell *drinking* in fluid",
+   "p": "verb",
+   "ph": "PEE-noh",
+   "vf": [
+    {
+     "a": [
+      "I drink"
+     ],
+     "e": "I drink",
+     "g": "πίνω",
+     "l": 2,
+     "ph": "PEE-noh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you drink"
+     ],
+     "e": "you drink",
+     "g": "πίνεις",
+     "l": 2,
+     "ph": "PEE-nays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he drinks",
+      "she drinks",
+      "it drinks"
+     ],
+     "e": "he/she/it drinks",
+     "g": "πίνει",
+     "l": 2,
+     "ph": "PEE-nay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we drink"
+     ],
+     "e": "we drink",
+     "g": "πίνομεν",
+     "l": 2,
+     "ph": "PEE-no-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all drink",
+      "you all drink"
+     ],
+     "e": "y'all drink",
+     "g": "πίνετε",
+     "l": 2,
+     "ph": "PEE-neh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they drink"
+     ],
+     "e": "they drink",
+     "g": "πίνουσιν",
+     "l": 2,
+     "ph": "PEE-noo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being drunk",
+      "I am drunk",
+      "I drink for myself",
+      "I drink myself"
+     ],
+     "e": "I am being drunk / I drink for myself",
+     "g": "πίνομαι",
+     "l": 9,
+     "ph": "PEE-no-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being drunk",
+      "you are drunk",
+      "you drink for yourself",
+      "you drink yourself"
+     ],
+     "e": "you are being drunk / you drink for yourself",
+     "g": "πίνῃ",
+     "l": 9,
+     "ph": "PEE-nay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being drunk",
+      "he is drunk",
+      "he drinks for himself",
+      "he drinks himself",
+      "she is being drunk",
+      "she is drunk",
+      "she drinks for herself",
+      "she drinks herself",
+      "it is being drunk",
+      "it is drunk",
+      "it drinks for itself",
+      "it drinks itself"
+     ],
+     "e": "he/she/it is being drunk / he/she/it drinks for himself/herself/itself",
+     "g": "πίνεται",
+     "l": 9,
+     "ph": "PEE-neh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being drunk",
+      "we are drunk",
+      "we drink for ourselves",
+      "we drink ourselves"
+     ],
+     "e": "we are being drunk / we drink for ourselves",
+     "g": "πινόμεθα",
+     "l": 9,
+     "ph": "pee-NO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being drunk",
+      "y'all are drunk",
+      "y'all drink for yourselves",
+      "y'all drink yourselves",
+      "you all are being drunk",
+      "you all are drunk",
+      "you all drink for yourselves",
+      "you all drink yourselves"
+     ],
+     "e": "y'all are being drunk / y'all drink for yourselves",
+     "g": "πίνεσθε",
+     "l": 9,
+     "ph": "PEE-neh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being drunk",
+      "they are drunk",
+      "they drink for themselves",
+      "they drink themselves"
+     ],
+     "e": "they are being drunk / they drink for themselves",
+     "g": "πίνονται",
+     "l": 9,
+     "ph": "PEE-non-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was drinking",
+      "I drank",
+      "I used to drink",
+      "they were drinking",
+      "they drank",
+      "they used to drink"
+     ],
+     "e": "I was drinking / they were drinking",
+     "g": "ἔπινον",
+     "l": 10,
+     "ph": "EH-pee-non",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were drinking",
+      "you drank",
+      "you used to drink"
+     ],
+     "e": "you were drinking",
+     "g": "ἔπινες",
+     "l": 10,
+     "ph": "EH-pee-nehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was drinking",
+      "he drank",
+      "he used to drink",
+      "she was drinking",
+      "she drank",
+      "she used to drink",
+      "it was drinking",
+      "it drank",
+      "it used to drink"
+     ],
+     "e": "he/she/it was drinking",
+     "g": "ἔπινεν",
+     "l": 10,
+     "ph": "EH-pee-nehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were drinking",
+      "we drank",
+      "we used to drink"
+     ],
+     "e": "we were drinking",
+     "g": "ἐπίνομεν",
+     "l": 10,
+     "ph": "eh-PEE-no-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were drinking",
+      "y'all drank",
+      "y'all used to drink",
+      "you all were drinking",
+      "you all drank",
+      "you all used to drink"
+     ],
+     "e": "y'all were drinking",
+     "g": "ἐπίνετε",
+     "l": 10,
+     "ph": "eh-PEE-neh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being drunk",
+      "I was drunk",
+      "I was drinking for myself",
+      "I drank for myself",
+      "I was drinking myself",
+      "I drank myself"
+     ],
+     "e": "I was being drunk / I was drinking for myself",
+     "g": "ἐπινόμην",
+     "l": 11,
+     "ph": "eh-pee-NO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being drunk",
+      "you were drunk",
+      "you were drinking for yourself",
+      "you drank for yourself",
+      "you were drinking yourself",
+      "you drank yourself"
+     ],
+     "e": "you were being drunk / you were drinking for yourself",
+     "g": "ἐπίνου",
+     "l": 11,
+     "ph": "eh-PEE-noo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being drunk",
+      "he was drunk",
+      "he was drinking for himself",
+      "he drank for himself",
+      "he was drinking himself",
+      "he drank himself",
+      "she was being drunk",
+      "she was drunk",
+      "she was drinking for herself",
+      "she drank for herself",
+      "she was drinking herself",
+      "she drank herself",
+      "it was being drunk",
+      "it was drunk",
+      "it was drinking for itself",
+      "it drank for itself",
+      "it was drinking itself",
+      "it drank itself"
+     ],
+     "e": "he/she/it was being drunk / he/she/it was drinking for himself/herself/itself",
+     "g": "ἐπίνετο",
+     "l": 11,
+     "ph": "eh-PEE-neh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being drunk",
+      "we were drunk",
+      "we were drinking for ourselves",
+      "we drank for ourselves",
+      "we were drinking ourselves",
+      "we drank ourselves"
+     ],
+     "e": "we were being drunk / we were drinking for ourselves",
+     "g": "ἐπινόμεθα",
+     "l": 11,
+     "ph": "eh-pee-NO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being drunk",
+      "y'all were drunk",
+      "y'all were drinking for yourselves",
+      "y'all drank for yourselves",
+      "y'all were drinking yourselves",
+      "y'all drank yourselves",
+      "you all were being drunk",
+      "you all were drunk",
+      "you all were drinking for yourselves",
+      "you all drank for yourselves",
+      "you all were drinking yourselves",
+      "you all drank yourselves"
+     ],
+     "e": "y'all were being drunk / y'all were drinking for yourselves",
+     "g": "ἐπίνεσθε",
+     "l": 11,
+     "ph": "eh-PEE-neh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being drunk",
+      "they were drunk",
+      "they were drinking for themselves",
+      "they drank for themselves",
+      "they were drinking themselves",
+      "they drank themselves"
+     ],
+     "e": "they were being drunk / they were drinking for themselves",
+     "g": "ἐπίνοντο",
+     "l": 11,
+     "ph": "eh-PEE-non-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will drink"
+     ],
+     "e": "I will drink",
+     "g": "πίομαι",
+     "l": 12,
+     "ph": "PEE-o-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will drink"
+     ],
+     "e": "you will drink",
+     "g": "πίῃ",
+     "l": 12,
+     "ph": "PEE-ay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will drink",
+      "she will drink",
+      "it will drink"
+     ],
+     "e": "he/she/it will drink",
+     "g": "πίεται",
+     "l": 12,
+     "ph": "PEE-eh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will drink"
+     ],
+     "e": "we will drink",
+     "g": "πιόμεθα",
+     "l": 12,
+     "ph": "pee-O-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will drink",
+      "you all will drink"
+     ],
+     "e": "y'all will drink",
+     "g": "πίεσθε",
+     "l": 12,
+     "ph": "PEE-eh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will drink"
+     ],
+     "e": "they will drink",
+     "g": "πίονται",
+     "l": 12,
+     "ph": "PEE-on-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I drank",
+      "they drank"
+     ],
+     "e": "I drank / they drank",
+     "g": "ἔπιον",
+     "l": 14,
+     "ph": "EH-pee-on",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you drank"
+     ],
+     "e": "you drank",
+     "g": "ἔπιες",
+     "l": 14,
+     "ph": "EH-pee-ehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he drank",
+      "she drank",
+      "it drank"
+     ],
+     "e": "he/she/it drank",
+     "g": "ἔπιεν",
+     "l": 14,
+     "ph": "EH-pee-ehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we drank"
+     ],
+     "e": "we drank",
+     "g": "ἐπίομεν",
+     "l": 14,
+     "ph": "eh-PEE-o-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all drank",
+      "you all drank"
+     ],
+     "e": "y'all drank",
+     "g": "ἐπίετε",
+     "l": 14,
+     "ph": "eh-PEE-eh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will drink (deponent fut. of πίνω)",
+   "g": "πίομαι",
+   "gen": "",
+   "id": "14:πίομαι",
+   "m": "πίνω (L14) with the ν gone: πί-ο-μαι — \"*pie, oh my*, I will *drink* to that!\"; deponent -ομαι (L9)",
+   "p": "verb",
+   "ph": "PEE-o-mai"
+  },
+  {
+   "c": "",
+   "e": "I drank (2nd aorist of πίνω)",
+   "g": "ἔπιον",
+   "gen": "",
+   "id": "14:ἔπιον",
+   "m": "πίνω (L14) with the augment ἔ- (L10) and the imperfect-style ending -ον: \"a *pint* on me!\" — I *drank* it",
+   "p": "verb",
+   "ph": "EH-pee-on"
+  },
+  {
+   "c": "",
+   "e": "I fall",
+   "g": "πίπτω",
+   "gen": "",
+   "id": "14:πίπτω",
+   "m": "\"ptosis\" — a *falling* (drooping) of an organ; \"pip-toe\": you *fall* and stub your toe",
+   "p": "verb",
+   "ph": "PEE-ptoh",
+   "vf": [
+    {
+     "a": [
+      "I fall"
+     ],
+     "e": "I fall",
+     "g": "πίπτω",
+     "l": 2,
+     "ph": "PEE-ptoh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you fall"
+     ],
+     "e": "you fall",
+     "g": "πίπτεις",
+     "l": 2,
+     "ph": "PEE-ptays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he falls",
+      "she falls",
+      "it falls"
+     ],
+     "e": "he/she/it falls",
+     "g": "πίπτει",
+     "l": 2,
+     "ph": "PEE-ptay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we fall"
+     ],
+     "e": "we fall",
+     "g": "πίπτομεν",
+     "l": 2,
+     "ph": "PEE-pto-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all fall",
+      "you all fall"
+     ],
+     "e": "y'all fall",
+     "g": "πίπτετε",
+     "l": 2,
+     "ph": "PEE-pteh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they fall"
+     ],
+     "e": "they fall",
+     "g": "πίπτουσιν",
+     "l": 2,
+     "ph": "PEE-ptoo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was falling",
+      "I fell",
+      "I used to fall",
+      "they were falling",
+      "they fell",
+      "they used to fall"
+     ],
+     "e": "I was falling / they were falling",
+     "g": "ἔπιπτον",
+     "l": 10,
+     "ph": "EH-pee-pton",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were falling",
+      "you fell",
+      "you used to fall"
+     ],
+     "e": "you were falling",
+     "g": "ἔπιπτες",
+     "l": 10,
+     "ph": "EH-pee-ptehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was falling",
+      "he fell",
+      "he used to fall",
+      "she was falling",
+      "she fell",
+      "she used to fall",
+      "it was falling",
+      "it fell",
+      "it used to fall"
+     ],
+     "e": "he/she/it was falling",
+     "g": "ἔπιπτεν",
+     "l": 10,
+     "ph": "EH-pee-ptehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were falling",
+      "we fell",
+      "we used to fall"
+     ],
+     "e": "we were falling",
+     "g": "ἐπίπτομεν",
+     "l": 10,
+     "ph": "eh-PEE-pto-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were falling",
+      "y'all fell",
+      "y'all used to fall",
+      "you all were falling",
+      "you all fell",
+      "you all used to fall"
+     ],
+     "e": "y'all were falling",
+     "g": "ἐπίπτετε",
+     "l": 10,
+     "ph": "eh-PEE-pteh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I fell",
+      "they fell"
+     ],
+     "e": "I fell / they fell",
+     "g": "ἔπεσον",
+     "l": 14,
+     "ph": "EH-peh-son",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you fell"
+     ],
+     "e": "you fell",
+     "g": "ἔπεσες",
+     "l": 14,
+     "ph": "EH-peh-sehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he fell",
+      "she fell",
+      "it fell"
+     ],
+     "e": "he/she/it fell",
+     "g": "ἔπεσεν",
+     "l": 14,
+     "ph": "EH-peh-sehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we fell"
+     ],
+     "e": "we fell",
+     "g": "ἐπέσομεν",
+     "l": 14,
+     "ph": "eh-PEH-so-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all fell",
+      "you all fell"
+     ],
+     "e": "y'all fell",
+     "g": "ἐπέσετε",
+     "l": 14,
+     "ph": "eh-PEH-seh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I fell (2nd aorist of πίπτω)",
+   "g": "ἔπεσον",
+   "gen": "",
+   "id": "14:ἔπεσον",
+   "m": "πίπτω (L14) with a different stem, πεσ-: \"*pesto* fell off the plate\" + the augment ἔ- (L10)",
+   "p": "verb",
+   "ph": "EH-peh-son"
+  },
+  {
+   "c": "+ dat",
+   "e": "I come to, approach (usually + dative)",
+   "g": "προσέρχομαι",
+   "gen": "",
+   "id": "14:προσέρχομαι",
+   "m": "πρός (toward, L6) + ἔρχομαι (L9) — \"come *toward*\" = *approach*; deponent (L9); the one approached is in the dative",
+   "p": "verb",
+   "ph": "pro-SEHR-kho-mai",
+   "vf": [
+    {
+     "a": [
+      "I come to",
+      "I approach"
+     ],
+     "e": "I come to",
+     "g": "προσέρχομαι",
+     "l": 9,
+     "ph": "pro-SEHR-kho-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you come to",
+      "you approach"
+     ],
+     "e": "you come to",
+     "g": "προσέρχῃ",
+     "l": 9,
+     "ph": "pro-SEHR-khay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he comes to",
+      "she comes to",
+      "it comes to",
+      "he approaches",
+      "she approaches",
+      "it approaches"
+     ],
+     "e": "he/she/it comes to",
+     "g": "προσέρχεται",
+     "l": 9,
+     "ph": "pro-SEHR-kheh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we come to",
+      "we approach"
+     ],
+     "e": "we come to",
+     "g": "προσερχόμεθα",
+     "l": 9,
+     "ph": "pro-sehr-KHO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all come to",
+      "you all come to",
+      "y'all approach",
+      "you all approach"
+     ],
+     "e": "y'all come to",
+     "g": "προσέρχεσθε",
+     "l": 9,
+     "ph": "pro-SEHR-kheh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they come to",
+      "they approach"
+     ],
+     "e": "they come to",
+     "g": "προσέρχονται",
+     "l": 9,
+     "ph": "pro-SEHR-khon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was coming to",
+      "I came to",
+      "I used to come to",
+      "I was approaching",
+      "I approached",
+      "I used to approach"
+     ],
+     "e": "I was coming to",
+     "g": "προσηρχόμην",
+     "l": 11,
+     "ph": "pro-sayr-KHO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were coming to",
+      "you came to",
+      "you used to come to",
+      "you were approaching",
+      "you approached",
+      "you used to approach"
+     ],
+     "e": "you were coming to",
+     "g": "προσήρχου",
+     "l": 11,
+     "ph": "pro-SAYR-khoo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was coming to",
+      "he came to",
+      "he used to come to",
+      "she was coming to",
+      "she came to",
+      "she used to come to",
+      "it was coming to",
+      "it came to",
+      "it used to come to",
+      "he was approaching",
+      "he approached",
+      "he used to approach",
+      "she was approaching",
+      "she approached",
+      "she used to approach",
+      "it was approaching",
+      "it approached",
+      "it used to approach"
+     ],
+     "e": "he/she/it was coming to",
+     "g": "προσήρχετο",
+     "l": 11,
+     "ph": "pro-SAYR-kheh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were coming to",
+      "we came to",
+      "we used to come to",
+      "we were approaching",
+      "we approached",
+      "we used to approach"
+     ],
+     "e": "we were coming to",
+     "g": "προσηρχόμεθα",
+     "l": 11,
+     "ph": "pro-sayr-KHO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were coming to",
+      "y'all came to",
+      "y'all used to come to",
+      "you all were coming to",
+      "you all came to",
+      "you all used to come to",
+      "y'all were approaching",
+      "y'all approached",
+      "y'all used to approach",
+      "you all were approaching",
+      "you all approached",
+      "you all used to approach"
+     ],
+     "e": "y'all were coming to",
+     "g": "προσήρχεσθε",
+     "l": 11,
+     "ph": "pro-SAYR-kheh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were coming to",
+      "they came to",
+      "they used to come to",
+      "they were approaching",
+      "they approached",
+      "they used to approach"
+     ],
+     "e": "they were coming to",
+     "g": "προσήρχοντο",
+     "l": 11,
+     "ph": "pro-SAYR-khon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will come to",
+      "I will approach"
+     ],
+     "e": "I will come to",
+     "g": "προσελεύσομαι",
+     "l": 12,
+     "ph": "pro-seh-LYOO-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will come to",
+      "you will approach"
+     ],
+     "e": "you will come to",
+     "g": "προσελεύσῃ",
+     "l": 12,
+     "ph": "pro-seh-LYOO-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will come to",
+      "she will come to",
+      "it will come to",
+      "he will approach",
+      "she will approach",
+      "it will approach"
+     ],
+     "e": "he/she/it will come to",
+     "g": "προσελεύσεται",
+     "l": 12,
+     "ph": "pro-seh-LYOO-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will come to",
+      "we will approach"
+     ],
+     "e": "we will come to",
+     "g": "προσελευσόμεθα",
+     "l": 12,
+     "ph": "pro-seh-lyoo-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will come to",
+      "you all will come to",
+      "y'all will approach",
+      "you all will approach"
+     ],
+     "e": "y'all will come to",
+     "g": "προσελεύσεσθε",
+     "l": 12,
+     "ph": "pro-seh-LYOO-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will come to",
+      "they will approach"
+     ],
+     "e": "they will come to",
+     "g": "προσελεύσονται",
+     "l": 12,
+     "ph": "pro-seh-LYOO-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I came to",
+      "I approached",
+      "they came to",
+      "they approached"
+     ],
+     "e": "I came to / they came to",
+     "g": "προσῆλθον",
+     "l": 14,
+     "ph": "pro-SAYL-thon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you came to",
+      "you approached"
+     ],
+     "e": "you came to",
+     "g": "προσῆλθες",
+     "l": 14,
+     "ph": "pro-SAYL-thehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he came to",
+      "she came to",
+      "it came to",
+      "he approached",
+      "she approached",
+      "it approached"
+     ],
+     "e": "he/she/it came to",
+     "g": "προσῆλθεν",
+     "l": 14,
+     "ph": "pro-SAYL-thehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we came to",
+      "we approached"
+     ],
+     "e": "we came to",
+     "g": "προσήλθομεν",
+     "l": 14,
+     "ph": "pro-SAYL-tho-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all came to",
+      "you all came to",
+      "y'all approached",
+      "you all approached"
+     ],
+     "e": "y'all came to",
+     "g": "προσήλθετε",
+     "l": 14,
+     "ph": "pro-SAYL-theh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I offer, present",
+   "g": "προσφέρω",
+   "gen": "",
+   "id": "14:προσφέρω",
+   "m": "πρός (toward, L6) + φέρω (bring, L12) — \"bring *toward*\" someone = *offer*, *present*",
+   "p": "verb",
+   "ph": "pro-SFEH-roh",
+   "vf": [
+    {
+     "a": [
+      "I offer",
+      "I present"
+     ],
+     "e": "I offer",
+     "g": "προσφέρω",
+     "l": 2,
+     "ph": "pro-SFEH-roh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you offer",
+      "you present"
+     ],
+     "e": "you offer",
+     "g": "προσφέρεις",
+     "l": 2,
+     "ph": "pro-SFEH-rays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he offers",
+      "she offers",
+      "it offers",
+      "he presents",
+      "she presents",
+      "it presents"
+     ],
+     "e": "he/she/it offers",
+     "g": "προσφέρει",
+     "l": 2,
+     "ph": "pro-SFEH-ray",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we offer",
+      "we present"
+     ],
+     "e": "we offer",
+     "g": "προσφέρομεν",
+     "l": 2,
+     "ph": "pro-SFEH-ro-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all offer",
+      "you all offer",
+      "y'all present",
+      "you all present"
+     ],
+     "e": "y'all offer",
+     "g": "προσφέρετε",
+     "l": 2,
+     "ph": "pro-SFEH-reh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they offer",
+      "they present"
+     ],
+     "e": "they offer",
+     "g": "προσφέρουσιν",
+     "l": 2,
+     "ph": "pro-SFEH-roo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being offered",
+      "I am offered",
+      "I offer for myself",
+      "I offer myself",
+      "I am being presented",
+      "I am presented",
+      "I present for myself",
+      "I present myself"
+     ],
+     "e": "I am being offered / I offer for myself",
+     "g": "προσφέρομαι",
+     "l": 9,
+     "ph": "pro-SFEH-ro-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being offered",
+      "you are offered",
+      "you offer for yourself",
+      "you offer yourself",
+      "you are being presented",
+      "you are presented",
+      "you present for yourself",
+      "you present yourself"
+     ],
+     "e": "you are being offered / you offer for yourself",
+     "g": "προσφέρῃ",
+     "l": 9,
+     "ph": "pro-SFEH-ray",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being offered",
+      "he is offered",
+      "he offers for himself",
+      "he offers himself",
+      "she is being offered",
+      "she is offered",
+      "she offers for herself",
+      "she offers herself",
+      "it is being offered",
+      "it is offered",
+      "it offers for itself",
+      "it offers itself",
+      "he is being presented",
+      "he is presented",
+      "he presents for himself",
+      "he presents himself",
+      "she is being presented",
+      "she is presented",
+      "she presents for herself",
+      "she presents herself",
+      "it is being presented",
+      "it is presented",
+      "it presents for itself",
+      "it presents itself"
+     ],
+     "e": "he/she/it is being offered / he/she/it offers for himself/herself/itself",
+     "g": "προσφέρεται",
+     "l": 9,
+     "ph": "pro-SFEH-reh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being offered",
+      "we are offered",
+      "we offer for ourselves",
+      "we offer ourselves",
+      "we are being presented",
+      "we are presented",
+      "we present for ourselves",
+      "we present ourselves"
+     ],
+     "e": "we are being offered / we offer for ourselves",
+     "g": "προσφερόμεθα",
+     "l": 9,
+     "ph": "pro-sfeh-RO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being offered",
+      "y'all are offered",
+      "y'all offer for yourselves",
+      "y'all offer yourselves",
+      "you all are being offered",
+      "you all are offered",
+      "you all offer for yourselves",
+      "you all offer yourselves",
+      "y'all are being presented",
+      "y'all are presented",
+      "y'all present for yourselves",
+      "y'all present yourselves",
+      "you all are being presented",
+      "you all are presented",
+      "you all present for yourselves",
+      "you all present yourselves"
+     ],
+     "e": "y'all are being offered / y'all offer for yourselves",
+     "g": "προσφέρεσθε",
+     "l": 9,
+     "ph": "pro-SFEH-reh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being offered",
+      "they are offered",
+      "they offer for themselves",
+      "they offer themselves",
+      "they are being presented",
+      "they are presented",
+      "they present for themselves",
+      "they present themselves"
+     ],
+     "e": "they are being offered / they offer for themselves",
+     "g": "προσφέρονται",
+     "l": 9,
+     "ph": "pro-SFEH-ron-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was offering",
+      "I offered",
+      "I used to offer",
+      "I was presenting",
+      "I presented",
+      "I used to present",
+      "they were offering",
+      "they offered",
+      "they used to offer",
+      "they were presenting",
+      "they presented",
+      "they used to present"
+     ],
+     "e": "I was offering / they were offering",
+     "g": "προσέφερον",
+     "l": 10,
+     "ph": "pro-SEH-feh-ron",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were offering",
+      "you offered",
+      "you used to offer",
+      "you were presenting",
+      "you presented",
+      "you used to present"
+     ],
+     "e": "you were offering",
+     "g": "προσέφερες",
+     "l": 10,
+     "ph": "pro-SEH-feh-rehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was offering",
+      "he offered",
+      "he used to offer",
+      "she was offering",
+      "she offered",
+      "she used to offer",
+      "it was offering",
+      "it offered",
+      "it used to offer",
+      "he was presenting",
+      "he presented",
+      "he used to present",
+      "she was presenting",
+      "she presented",
+      "she used to present",
+      "it was presenting",
+      "it presented",
+      "it used to present"
+     ],
+     "e": "he/she/it was offering",
+     "g": "προσέφερεν",
+     "l": 10,
+     "ph": "pro-SEH-feh-rehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were offering",
+      "we offered",
+      "we used to offer",
+      "we were presenting",
+      "we presented",
+      "we used to present"
+     ],
+     "e": "we were offering",
+     "g": "προσεφέρομεν",
+     "l": 10,
+     "ph": "pro-seh-FEH-ro-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were offering",
+      "y'all offered",
+      "y'all used to offer",
+      "you all were offering",
+      "you all offered",
+      "you all used to offer",
+      "y'all were presenting",
+      "y'all presented",
+      "y'all used to present",
+      "you all were presenting",
+      "you all presented",
+      "you all used to present"
+     ],
+     "e": "y'all were offering",
+     "g": "προσεφέρετε",
+     "l": 10,
+     "ph": "pro-seh-FEH-reh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being offered",
+      "I was offered",
+      "I was offering for myself",
+      "I offered for myself",
+      "I was offering myself",
+      "I offered myself",
+      "I was being presented",
+      "I was presented",
+      "I was presenting for myself",
+      "I presented for myself",
+      "I was presenting myself",
+      "I presented myself"
+     ],
+     "e": "I was being offered / I was offering for myself",
+     "g": "προσεφερόμην",
+     "l": 11,
+     "ph": "pro-seh-feh-RO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being offered",
+      "you were offered",
+      "you were offering for yourself",
+      "you offered for yourself",
+      "you were offering yourself",
+      "you offered yourself",
+      "you were being presented",
+      "you were presented",
+      "you were presenting for yourself",
+      "you presented for yourself",
+      "you were presenting yourself",
+      "you presented yourself"
+     ],
+     "e": "you were being offered / you were offering for yourself",
+     "g": "προσεφέρου",
+     "l": 11,
+     "ph": "pro-seh-FEH-roo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being offered",
+      "he was offered",
+      "he was offering for himself",
+      "he offered for himself",
+      "he was offering himself",
+      "he offered himself",
+      "she was being offered",
+      "she was offered",
+      "she was offering for herself",
+      "she offered for herself",
+      "she was offering herself",
+      "she offered herself",
+      "it was being offered",
+      "it was offered",
+      "it was offering for itself",
+      "it offered for itself",
+      "it was offering itself",
+      "it offered itself",
+      "he was being presented",
+      "he was presented",
+      "he was presenting for himself",
+      "he presented for himself",
+      "he was presenting himself",
+      "he presented himself",
+      "she was being presented",
+      "she was presented",
+      "she was presenting for herself",
+      "she presented for herself",
+      "she was presenting herself",
+      "she presented herself",
+      "it was being presented",
+      "it was presented",
+      "it was presenting for itself",
+      "it presented for itself",
+      "it was presenting itself",
+      "it presented itself"
+     ],
+     "e": "he/she/it was being offered / he/she/it was offering for himself/herself/itself",
+     "g": "προσεφέρετο",
+     "l": 11,
+     "ph": "pro-seh-FEH-reh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being offered",
+      "we were offered",
+      "we were offering for ourselves",
+      "we offered for ourselves",
+      "we were offering ourselves",
+      "we offered ourselves",
+      "we were being presented",
+      "we were presented",
+      "we were presenting for ourselves",
+      "we presented for ourselves",
+      "we were presenting ourselves",
+      "we presented ourselves"
+     ],
+     "e": "we were being offered / we were offering for ourselves",
+     "g": "προσεφερόμεθα",
+     "l": 11,
+     "ph": "pro-seh-feh-RO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being offered",
+      "y'all were offered",
+      "y'all were offering for yourselves",
+      "y'all offered for yourselves",
+      "y'all were offering yourselves",
+      "y'all offered yourselves",
+      "you all were being offered",
+      "you all were offered",
+      "you all were offering for yourselves",
+      "you all offered for yourselves",
+      "you all were offering yourselves",
+      "you all offered yourselves",
+      "y'all were being presented",
+      "y'all were presented",
+      "y'all were presenting for yourselves",
+      "y'all presented for yourselves",
+      "y'all were presenting yourselves",
+      "y'all presented yourselves",
+      "you all were being presented",
+      "you all were presented",
+      "you all were presenting for yourselves",
+      "you all presented for yourselves",
+      "you all were presenting yourselves",
+      "you all presented yourselves"
+     ],
+     "e": "y'all were being offered / y'all were offering for yourselves",
+     "g": "προσεφέρεσθε",
+     "l": 11,
+     "ph": "pro-seh-FEH-reh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being offered",
+      "they were offered",
+      "they were offering for themselves",
+      "they offered for themselves",
+      "they were offering themselves",
+      "they offered themselves",
+      "they were being presented",
+      "they were presented",
+      "they were presenting for themselves",
+      "they presented for themselves",
+      "they were presenting themselves",
+      "they presented themselves"
+     ],
+     "e": "they were being offered / they were offering for themselves",
+     "g": "προσεφέροντο",
+     "l": 11,
+     "ph": "pro-seh-FEH-ron-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will offer",
+      "I will present"
+     ],
+     "e": "I will offer",
+     "g": "προσοίσω",
+     "l": 12,
+     "ph": "pro-SOY-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will offer",
+      "you will present"
+     ],
+     "e": "you will offer",
+     "g": "προσοίσεις",
+     "l": 12,
+     "ph": "pro-SOY-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will offer",
+      "she will offer",
+      "it will offer",
+      "he will present",
+      "she will present",
+      "it will present"
+     ],
+     "e": "he/she/it will offer",
+     "g": "προσοίσει",
+     "l": 12,
+     "ph": "pro-SOY-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will offer",
+      "we will present"
+     ],
+     "e": "we will offer",
+     "g": "προσοίσομεν",
+     "l": 12,
+     "ph": "pro-SOY-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will offer",
+      "you all will offer",
+      "y'all will present",
+      "you all will present"
+     ],
+     "e": "y'all will offer",
+     "g": "προσοίσετε",
+     "l": 12,
+     "ph": "pro-SOY-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will offer",
+      "they will present"
+     ],
+     "e": "they will offer",
+     "g": "προσοίσουσιν",
+     "l": 12,
+     "ph": "pro-SOY-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I offered",
+      "I presented"
+     ],
+     "e": "I offered",
+     "g": "προσήνεγκα",
+     "l": 13,
+     "ph": "pro-SAY-nehn-kah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you offered",
+      "you presented"
+     ],
+     "e": "you offered",
+     "g": "προσήνεγκας",
+     "l": 13,
+     "ph": "pro-SAY-nehn-kahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he offered",
+      "she offered",
+      "it offered",
+      "he presented",
+      "she presented",
+      "it presented"
+     ],
+     "e": "he/she/it offered",
+     "g": "προσήνεγκεν",
+     "l": 13,
+     "ph": "pro-SAY-nehn-kehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we offered",
+      "we presented"
+     ],
+     "e": "we offered",
+     "g": "προσηνέγκαμεν",
+     "l": 13,
+     "ph": "pro-say-NEHN-kah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all offered",
+      "you all offered",
+      "y'all presented",
+      "you all presented"
+     ],
+     "e": "y'all offered",
+     "g": "προσηνέγκατε",
+     "l": 13,
+     "ph": "pro-say-NEHN-kah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they offered",
+      "they presented"
+     ],
+     "e": "they offered",
+     "g": "προσήνεγκαν",
+     "l": 13,
+     "ph": "pro-SAY-nehn-kahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "sign, miracle, portent (→ semaphore)",
+   "f": {
+    "acc": "τὸ σημεῖον",
+    "dat": "τῷ σημείῳ",
+    "gen": "τοῦ σημείου"
+   },
+   "fp": {
+    "acc": "to say-MAY-on",
+    "dat": "toh say-MAY-oh",
+    "gen": "too say-MAY-oo"
+   },
+   "g": "σημεῖον, τό",
+   "gen": "n",
+   "id": "14:σημεῖον",
+   "m": "\"semaphore\" — signal flags that carry a *sign*; \"semantics\" — the study of *signs*/meaning",
+   "p": "noun",
+   "ph": "say-MAY-on, to"
+  },
+  {
+   "c": "",
+   "e": "I ate (2nd aorist of ἐσθίω; its future is φάγομαι, L12)",
+   "g": "ἔφαγον",
+   "gen": "",
+   "id": "14:ἔφαγον",
+   "m": "ἐσθίω (L7, \"esophagus\") and φάγομαι (L12, \"sarcophagus,\" \"-phage\" = *eating*): the same stem φαγ- with the augment ἔ-",
+   "p": "verb",
+   "ph": "EH-fah-gon"
+  },
+  {
+   "c": "",
+   "e": "I flee (→ fugitive)",
+   "g": "φεύγω",
+   "gen": "",
+   "id": "14:φεύγω",
+   "m": "\"fugitive\" — one who *flees*; \"refuge\" — where you *flee* to",
+   "p": "verb",
+   "ph": "FYOO-goh",
+   "vf": [
+    {
+     "a": [
+      "I flee"
+     ],
+     "e": "I flee",
+     "g": "φεύγω",
+     "l": 2,
+     "ph": "FYOO-goh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you flee"
+     ],
+     "e": "you flee",
+     "g": "φεύγεις",
+     "l": 2,
+     "ph": "FYOO-gays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he flees",
+      "she flees",
+      "it flees"
+     ],
+     "e": "he/she/it flees",
+     "g": "φεύγει",
+     "l": 2,
+     "ph": "FYOO-gay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we flee"
+     ],
+     "e": "we flee",
+     "g": "φεύγομεν",
+     "l": 2,
+     "ph": "FYOO-go-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all flee",
+      "you all flee"
+     ],
+     "e": "y'all flee",
+     "g": "φεύγετε",
+     "l": 2,
+     "ph": "FYOO-geh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they flee"
+     ],
+     "e": "they flee",
+     "g": "φεύγουσιν",
+     "l": 2,
+     "ph": "FYOO-goo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was fleeing",
+      "I fled",
+      "I used to flee",
+      "they were fleeing",
+      "they fled",
+      "they used to flee"
+     ],
+     "e": "I was fleeing / they were fleeing",
+     "g": "ἔφευγον",
+     "l": 10,
+     "ph": "EH-fyoo-gon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were fleeing",
+      "you fled",
+      "you used to flee"
+     ],
+     "e": "you were fleeing",
+     "g": "ἔφευγες",
+     "l": 10,
+     "ph": "EH-fyoo-gehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was fleeing",
+      "he fled",
+      "he used to flee",
+      "she was fleeing",
+      "she fled",
+      "she used to flee",
+      "it was fleeing",
+      "it fled",
+      "it used to flee"
+     ],
+     "e": "he/she/it was fleeing",
+     "g": "ἔφευγεν",
+     "l": 10,
+     "ph": "EH-fyoo-gehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were fleeing",
+      "we fled",
+      "we used to flee"
+     ],
+     "e": "we were fleeing",
+     "g": "ἐφεύγομεν",
+     "l": 10,
+     "ph": "eh-FYOO-go-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were fleeing",
+      "y'all fled",
+      "y'all used to flee",
+      "you all were fleeing",
+      "you all fled",
+      "you all used to flee"
+     ],
+     "e": "y'all were fleeing",
+     "g": "ἐφεύγετε",
+     "l": 10,
+     "ph": "eh-FYOO-geh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will flee"
+     ],
+     "e": "I will flee",
+     "g": "φεύξομαι",
+     "l": 12,
+     "ph": "FYOO-kso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will flee"
+     ],
+     "e": "you will flee",
+     "g": "φεύξῃ",
+     "l": 12,
+     "ph": "FYOO-ksay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will flee",
+      "she will flee",
+      "it will flee"
+     ],
+     "e": "he/she/it will flee",
+     "g": "φεύξεται",
+     "l": 12,
+     "ph": "FYOO-kseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will flee"
+     ],
+     "e": "we will flee",
+     "g": "φευξόμεθα",
+     "l": 12,
+     "ph": "fyoo-KSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will flee",
+      "you all will flee"
+     ],
+     "e": "y'all will flee",
+     "g": "φεύξεσθε",
+     "l": 12,
+     "ph": "FYOO-kseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will flee"
+     ],
+     "e": "they will flee",
+     "g": "φεύξονται",
+     "l": 12,
+     "ph": "FYOO-kson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I fled",
+      "they fled"
+     ],
+     "e": "I fled / they fled",
+     "g": "ἔφυγον",
+     "l": 14,
+     "ph": "EH-fü-gon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you fled"
+     ],
+     "e": "you fled",
+     "g": "ἔφυγες",
+     "l": 14,
+     "ph": "EH-fü-gehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he fled",
+      "she fled",
+      "it fled"
+     ],
+     "e": "he/she/it fled",
+     "g": "ἔφυγεν",
+     "l": 14,
+     "ph": "EH-fü-gehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we fled"
+     ],
+     "e": "we fled",
+     "g": "ἐφύγομεν",
+     "l": 14,
+     "ph": "eh-FÜ-go-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all fled",
+      "you all fled"
+     ],
+     "e": "y'all fled",
+     "g": "ἐφύγετε",
+     "l": 14,
+     "ph": "eh-FÜ-geh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will flee (deponent fut. of φεύγω)",
+   "g": "φεύξομαι",
+   "gen": "",
+   "id": "14:φεύξομαι",
+   "m": "φεύγω (L14): γ + σ blend into ξ (as in L12: γράψω, διδάξω); deponent -ομαι (L9)",
+   "p": "verb",
+   "ph": "FYOO-kso-mai"
+  },
+  {
+   "c": "",
+   "e": "I fled (2nd aorist of φεύγω)",
+   "g": "ἔφυγον",
+   "gen": "",
+   "id": "14:ἔφυγον",
+   "m": "φεύγω (L14) with the augment ἔ- (L10): \"fugue\" and \"fugitive\" — he *fled*",
+   "p": "verb",
+   "ph": "EH-fü-gon"
+  }
+ ]
+}

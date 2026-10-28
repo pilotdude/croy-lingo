@@ -1,0 +1,3603 @@
+{
+ "n": 12,
+ "title": "The Future Indicative",
+ "words": [
+  {
+   "c": "",
+   "e": "I open",
+   "g": "ἀνοίγω",
+   "gen": "",
+   "id": "12:ἀνοίγω",
+   "m": "ἀνά (up, L10) + the sound \"an-OY-go\" — a door creaking *open*: \"oy!\" and you go through",
+   "p": "verb",
+   "ph": "ah-NOY-goh",
+   "vf": [
+    {
+     "a": [
+      "I open"
+     ],
+     "e": "I open",
+     "g": "ἀνοίγω",
+     "l": 2,
+     "ph": "ah-NOY-goh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you open"
+     ],
+     "e": "you open",
+     "g": "ἀνοίγεις",
+     "l": 2,
+     "ph": "ah-NOY-gays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he opens",
+      "she opens",
+      "it opens"
+     ],
+     "e": "he/she/it opens",
+     "g": "ἀνοίγει",
+     "l": 2,
+     "ph": "ah-NOY-gay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we open"
+     ],
+     "e": "we open",
+     "g": "ἀνοίγομεν",
+     "l": 2,
+     "ph": "ah-NOY-go-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all open",
+      "you all open"
+     ],
+     "e": "y'all open",
+     "g": "ἀνοίγετε",
+     "l": 2,
+     "ph": "ah-NOY-geh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they open"
+     ],
+     "e": "they open",
+     "g": "ἀνοίγουσιν",
+     "l": 2,
+     "ph": "ah-NOY-goo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being opened",
+      "I am opened",
+      "I open for myself",
+      "I open myself"
+     ],
+     "e": "I am being opened / I open for myself",
+     "g": "ἀνοίγομαι",
+     "l": 9,
+     "ph": "ah-NOY-go-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being opened",
+      "you are opened",
+      "you open for yourself",
+      "you open yourself"
+     ],
+     "e": "you are being opened / you open for yourself",
+     "g": "ἀνοίγῃ",
+     "l": 9,
+     "ph": "ah-NOY-gay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being opened",
+      "he is opened",
+      "he opens for himself",
+      "he opens himself",
+      "she is being opened",
+      "she is opened",
+      "she opens for herself",
+      "she opens herself",
+      "it is being opened",
+      "it is opened",
+      "it opens for itself",
+      "it opens itself"
+     ],
+     "e": "he/she/it is being opened / he/she/it opens for himself/herself/itself",
+     "g": "ἀνοίγεται",
+     "l": 9,
+     "ph": "ah-NOY-geh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being opened",
+      "we are opened",
+      "we open for ourselves",
+      "we open ourselves"
+     ],
+     "e": "we are being opened / we open for ourselves",
+     "g": "ἀνοιγόμεθα",
+     "l": 9,
+     "ph": "ah-noy-GO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being opened",
+      "y'all are opened",
+      "y'all open for yourselves",
+      "y'all open yourselves",
+      "you all are being opened",
+      "you all are opened",
+      "you all open for yourselves",
+      "you all open yourselves"
+     ],
+     "e": "y'all are being opened / y'all open for yourselves",
+     "g": "ἀνοίγεσθε",
+     "l": 9,
+     "ph": "ah-NOY-geh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being opened",
+      "they are opened",
+      "they open for themselves",
+      "they open themselves"
+     ],
+     "e": "they are being opened / they open for themselves",
+     "g": "ἀνοίγονται",
+     "l": 9,
+     "ph": "ah-NOY-gon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I will open"
+     ],
+     "e": "I will open",
+     "g": "ἀνοίξω",
+     "l": 12,
+     "ph": "ah-NOY-ksoh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will open"
+     ],
+     "e": "you will open",
+     "g": "ἀνοίξεις",
+     "l": 12,
+     "ph": "ah-NOY-ksays",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will open",
+      "she will open",
+      "it will open"
+     ],
+     "e": "he/she/it will open",
+     "g": "ἀνοίξει",
+     "l": 12,
+     "ph": "ah-NOY-ksay",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will open"
+     ],
+     "e": "we will open",
+     "g": "ἀνοίξομεν",
+     "l": 12,
+     "ph": "ah-NOY-kso-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will open",
+      "you all will open"
+     ],
+     "e": "y'all will open",
+     "g": "ἀνοίξετε",
+     "l": 12,
+     "ph": "ah-NOY-kseh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will open"
+     ],
+     "e": "they will open",
+     "g": "ἀνοίξουσιν",
+     "l": 12,
+     "ph": "ah-NOY-ksoo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will open for myself",
+      "I will open myself"
+     ],
+     "e": "I will open for myself",
+     "g": "ἀνοίξομαι",
+     "l": 12,
+     "ph": "ah-NOY-kso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will open for yourself",
+      "you will open yourself"
+     ],
+     "e": "you will open for yourself",
+     "g": "ἀνοίξῃ",
+     "l": 12,
+     "ph": "ah-NOY-ksay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will open for himself",
+      "he will open himself",
+      "she will open for herself",
+      "she will open herself",
+      "it will open for itself",
+      "it will open itself"
+     ],
+     "e": "he/she/it will open for himself/herself/itself",
+     "g": "ἀνοίξεται",
+     "l": 12,
+     "ph": "ah-NOY-kseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will open for ourselves",
+      "we will open ourselves"
+     ],
+     "e": "we will open for ourselves",
+     "g": "ἀνοιξόμεθα",
+     "l": 12,
+     "ph": "ah-noy-KSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will open for yourselves",
+      "y'all will open yourselves",
+      "you all will open for yourselves",
+      "you all will open yourselves"
+     ],
+     "e": "y'all will open for yourselves",
+     "g": "ἀνοίξεσθε",
+     "l": 12,
+     "ph": "ah-NOY-kseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will open for themselves",
+      "they will open themselves"
+     ],
+     "e": "they will open for themselves",
+     "g": "ἀνοίξονται",
+     "l": 12,
+     "ph": "ah-NOY-kson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will become (deponent fut. of γίνομαι)",
+   "g": "γενήσομαι",
+   "gen": "",
+   "id": "12:γενήσομαι",
+   "m": "γίνομαι (L9) → \"genesis,\" the *becoming*; the future adds -σ- before the ending: γεν-ήσ-ομαι (deponent: middle form, active meaning, L9)",
+   "p": "verb",
+   "ph": "geh-NAY-so-mai"
+  },
+  {
+   "c": "",
+   "e": "I will know (deponent fut. of γινώσκω)",
+   "g": "γνώσομαι",
+   "gen": "",
+   "id": "12:γνώσομαι",
+   "m": "γινώσκω (L2) → \"agnostic\"/\"gnostic\" (knowing); root γνω- + σ + -ομαι = *I will know*",
+   "p": "verb",
+   "ph": "GNOH-so-mai"
+  },
+  {
+   "c": "",
+   "e": "I will teach",
+   "g": "διδάξω",
+   "gen": "",
+   "id": "12:διδάξω",
+   "m": "διδάσκω (L2, \"didactic\"); the σκ + σ blend into ξ (\"x\"): διδάσκ-σω → διδάξω",
+   "p": "verb",
+   "ph": "dee-DAH-ksoh"
+  },
+  {
+   "c": "",
+   "e": "teacher",
+   "f": {
+    "acc": "τὸν διδάσκαλον",
+    "dat": "τῷ διδασκάλῳ",
+    "gen": "τοῦ διδασκάλου"
+   },
+   "fp": {
+    "acc": "ton dee-DAH-skah-lon",
+    "dat": "toh dee-dah-SKAH-loh",
+    "gen": "too dee-dah-SKAH-loo"
+   },
+   "g": "διδάσκαλος, ὁ",
+   "gen": "m",
+   "id": "12:διδάσκαλος",
+   "m": "from διδάσκω (L2, I teach): the one who does the *teaching*; \"didactic\"",
+   "p": "noun",
+   "ph": "dee-DAH-skah-los, ho"
+  },
+  {
+   "c": "",
+   "e": "I glorify",
+   "g": "δοξάζω",
+   "gen": "",
+   "id": "12:δοξάζω",
+   "m": "δόξα (glory, L3) + the verb ending -ζω: \"doxology\" — to give *glory*",
+   "p": "verb",
+   "ph": "do-KSAH-zoh",
+   "vf": [
+    {
+     "a": [
+      "I glorify"
+     ],
+     "e": "I glorify",
+     "g": "δοξάζω",
+     "l": 2,
+     "ph": "do-KSAH-zoh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you glorify"
+     ],
+     "e": "you glorify",
+     "g": "δοξάζεις",
+     "l": 2,
+     "ph": "do-KSAH-zays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he glorifies",
+      "she glorifies",
+      "it glorifies"
+     ],
+     "e": "he/she/it glorifies",
+     "g": "δοξάζει",
+     "l": 2,
+     "ph": "do-KSAH-zay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we glorify"
+     ],
+     "e": "we glorify",
+     "g": "δοξάζομεν",
+     "l": 2,
+     "ph": "do-KSAH-zo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all glorify",
+      "you all glorify"
+     ],
+     "e": "y'all glorify",
+     "g": "δοξάζετε",
+     "l": 2,
+     "ph": "do-KSAH-zeh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they glorify"
+     ],
+     "e": "they glorify",
+     "g": "δοξάζουσιν",
+     "l": 2,
+     "ph": "do-KSAH-zoo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being glorified",
+      "I am glorified",
+      "I glorify for myself",
+      "I glorify myself"
+     ],
+     "e": "I am being glorified / I glorify for myself",
+     "g": "δοξάζομαι",
+     "l": 9,
+     "ph": "do-KSAH-zo-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being glorified",
+      "you are glorified",
+      "you glorify for yourself",
+      "you glorify yourself"
+     ],
+     "e": "you are being glorified / you glorify for yourself",
+     "g": "δοξάζῃ",
+     "l": 9,
+     "ph": "do-KSAH-zay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being glorified",
+      "he is glorified",
+      "he glorifies for himself",
+      "he glorifies himself",
+      "she is being glorified",
+      "she is glorified",
+      "she glorifies for herself",
+      "she glorifies herself",
+      "it is being glorified",
+      "it is glorified",
+      "it glorifies for itself",
+      "it glorifies itself"
+     ],
+     "e": "he/she/it is being glorified / he/she/it glorifies for himself/herself/itself",
+     "g": "δοξάζεται",
+     "l": 9,
+     "ph": "do-KSAH-zeh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being glorified",
+      "we are glorified",
+      "we glorify for ourselves",
+      "we glorify ourselves"
+     ],
+     "e": "we are being glorified / we glorify for ourselves",
+     "g": "δοξαζόμεθα",
+     "l": 9,
+     "ph": "do-ksah-ZO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being glorified",
+      "y'all are glorified",
+      "y'all glorify for yourselves",
+      "y'all glorify yourselves",
+      "you all are being glorified",
+      "you all are glorified",
+      "you all glorify for yourselves",
+      "you all glorify yourselves"
+     ],
+     "e": "y'all are being glorified / y'all glorify for yourselves",
+     "g": "δοξάζεσθε",
+     "l": 9,
+     "ph": "do-KSAH-zeh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being glorified",
+      "they are glorified",
+      "they glorify for themselves",
+      "they glorify themselves"
+     ],
+     "e": "they are being glorified / they glorify for themselves",
+     "g": "δοξάζονται",
+     "l": 9,
+     "ph": "do-KSAH-zon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was glorifying",
+      "I glorified",
+      "I used to glorify",
+      "they were glorifying",
+      "they glorified",
+      "they used to glorify"
+     ],
+     "e": "I was glorifying / they were glorifying",
+     "g": "ἐδόξαζον",
+     "l": 10,
+     "ph": "eh-DO-ksah-zon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were glorifying",
+      "you glorified",
+      "you used to glorify"
+     ],
+     "e": "you were glorifying",
+     "g": "ἐδόξαζες",
+     "l": 10,
+     "ph": "eh-DO-ksah-zehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was glorifying",
+      "he glorified",
+      "he used to glorify",
+      "she was glorifying",
+      "she glorified",
+      "she used to glorify",
+      "it was glorifying",
+      "it glorified",
+      "it used to glorify"
+     ],
+     "e": "he/she/it was glorifying",
+     "g": "ἐδόξαζεν",
+     "l": 10,
+     "ph": "eh-DO-ksah-zehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were glorifying",
+      "we glorified",
+      "we used to glorify"
+     ],
+     "e": "we were glorifying",
+     "g": "ἐδοξάζομεν",
+     "l": 10,
+     "ph": "eh-do-KSAH-zo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were glorifying",
+      "y'all glorified",
+      "y'all used to glorify",
+      "you all were glorifying",
+      "you all glorified",
+      "you all used to glorify"
+     ],
+     "e": "y'all were glorifying",
+     "g": "ἐδοξάζετε",
+     "l": 10,
+     "ph": "eh-do-KSAH-zeh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being glorified",
+      "I was glorified",
+      "I was glorifying for myself",
+      "I glorified for myself"
+     ],
+     "e": "I was being glorified / I was glorifying for myself",
+     "g": "ἐδοξαζόμην",
+     "l": 11,
+     "ph": "eh-do-ksah-ZO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being glorified",
+      "you were glorified",
+      "you were glorifying for yourself",
+      "you glorified for yourself"
+     ],
+     "e": "you were being glorified / you were glorifying for yourself",
+     "g": "ἐδοξάζου",
+     "l": 11,
+     "ph": "eh-do-KSAH-zoo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being glorified",
+      "he was glorified",
+      "he was glorifying for himself",
+      "he glorified for himself",
+      "she was being glorified",
+      "she was glorified",
+      "she was glorifying for herself",
+      "she glorified for herself",
+      "it was being glorified",
+      "it was glorified",
+      "it was glorifying for itself",
+      "it glorified for itself"
+     ],
+     "e": "he/she/it was being glorified / he/she/it was glorifying for himself/herself/itself",
+     "g": "ἐδοξάζετο",
+     "l": 11,
+     "ph": "eh-do-KSAH-zeh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being glorified",
+      "we were glorified",
+      "we were glorifying for ourselves",
+      "we glorified for ourselves"
+     ],
+     "e": "we were being glorified / we were glorifying for ourselves",
+     "g": "ἐδοξαζόμεθα",
+     "l": 11,
+     "ph": "eh-do-ksah-ZO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being glorified",
+      "y'all were glorified",
+      "y'all were glorifying for yourselves",
+      "y'all glorified for yourselves",
+      "you all were being glorified",
+      "you all were glorified",
+      "you all were glorifying for yourselves",
+      "you all glorified for yourselves"
+     ],
+     "e": "y'all were being glorified / y'all were glorifying for yourselves",
+     "g": "ἐδοξάζεσθε",
+     "l": 11,
+     "ph": "eh-do-KSAH-zeh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being glorified",
+      "they were glorified",
+      "they were glorifying for themselves",
+      "they glorified for themselves"
+     ],
+     "e": "they were being glorified / they were glorifying for themselves",
+     "g": "ἐδοξάζοντο",
+     "l": 11,
+     "ph": "eh-do-KSAH-zon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will glorify"
+     ],
+     "e": "I will glorify",
+     "g": "δοξάσω",
+     "l": 12,
+     "ph": "do-KSAH-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will glorify"
+     ],
+     "e": "you will glorify",
+     "g": "δοξάσεις",
+     "l": 12,
+     "ph": "do-KSAH-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will glorify",
+      "she will glorify",
+      "it will glorify"
+     ],
+     "e": "he/she/it will glorify",
+     "g": "δοξάσει",
+     "l": 12,
+     "ph": "do-KSAH-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will glorify"
+     ],
+     "e": "we will glorify",
+     "g": "δοξάσομεν",
+     "l": 12,
+     "ph": "do-KSAH-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will glorify",
+      "you all will glorify"
+     ],
+     "e": "y'all will glorify",
+     "g": "δοξάσετε",
+     "l": 12,
+     "ph": "do-KSAH-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will glorify"
+     ],
+     "e": "they will glorify",
+     "g": "δοξάσουσιν",
+     "l": 12,
+     "ph": "do-KSAH-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will glorify for myself",
+      "I will glorify myself"
+     ],
+     "e": "I will glorify for myself",
+     "g": "δοξάσομαι",
+     "l": 12,
+     "ph": "do-KSAH-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will glorify for yourself",
+      "you will glorify yourself"
+     ],
+     "e": "you will glorify for yourself",
+     "g": "δοξάσῃ",
+     "l": 12,
+     "ph": "do-KSAH-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will glorify for himself",
+      "he will glorify himself",
+      "she will glorify for herself",
+      "she will glorify herself",
+      "it will glorify for itself",
+      "it will glorify itself"
+     ],
+     "e": "he/she/it will glorify for himself/herself/itself",
+     "g": "δοξάσεται",
+     "l": 12,
+     "ph": "do-KSAH-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will glorify for ourselves",
+      "we will glorify ourselves"
+     ],
+     "e": "we will glorify for ourselves",
+     "g": "δοξασόμεθα",
+     "l": 12,
+     "ph": "do-ksah-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will glorify for yourselves",
+      "y'all will glorify yourselves",
+      "you all will glorify for yourselves",
+      "you all will glorify yourselves"
+     ],
+     "e": "y'all will glorify for yourselves",
+     "g": "δοξάσεσθε",
+     "l": 12,
+     "ph": "do-KSAH-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will glorify for themselves",
+      "they will glorify themselves"
+     ],
+     "e": "they will glorify for themselves",
+     "g": "δοξάσονται",
+     "l": 12,
+     "ph": "do-KSAH-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I glorified"
+     ],
+     "e": "I glorified",
+     "g": "ἐδόξασα",
+     "l": 13,
+     "ph": "eh-DO-ksah-sah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you glorified"
+     ],
+     "e": "you glorified",
+     "g": "ἐδόξασας",
+     "l": 13,
+     "ph": "eh-DO-ksah-sahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he glorified",
+      "she glorified",
+      "it glorified"
+     ],
+     "e": "he/she/it glorified",
+     "g": "ἐδόξασεν",
+     "l": 13,
+     "ph": "eh-DO-ksah-sehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we glorified"
+     ],
+     "e": "we glorified",
+     "g": "ἐδοξάσαμεν",
+     "l": 13,
+     "ph": "eh-do-KSAH-sah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all glorified",
+      "you all glorified"
+     ],
+     "e": "y'all glorified",
+     "g": "ἐδοξάσατε",
+     "l": 13,
+     "ph": "eh-do-KSAH-sah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they glorified"
+     ],
+     "e": "they glorified",
+     "g": "ἐδόξασαν",
+     "l": 13,
+     "ph": "eh-DO-ksah-sahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I glorified for myself",
+      "I glorified myself"
+     ],
+     "e": "I glorified for myself",
+     "g": "ἐδοξασάμην",
+     "l": 13,
+     "ph": "eh-do-ksah-SAH-mayn",
+     "pn": "1s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "you glorified for yourself",
+      "you glorified yourself"
+     ],
+     "e": "you glorified for yourself",
+     "g": "ἐδοξάσω",
+     "l": 13,
+     "ph": "eh-do-KSAH-soh",
+     "pn": "2s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "he glorified for himself",
+      "he glorified himself",
+      "she glorified for herself",
+      "she glorified herself",
+      "it glorified for itself",
+      "it glorified itself"
+     ],
+     "e": "he/she/it glorified for himself/herself/itself",
+     "g": "ἐδοξάσατο",
+     "l": 13,
+     "ph": "eh-do-KSAH-sah-to",
+     "pn": "3s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "we glorified for ourselves",
+      "we glorified ourselves"
+     ],
+     "e": "we glorified for ourselves",
+     "g": "ἐδοξασάμεθα",
+     "l": 13,
+     "ph": "eh-do-ksah-SAH-meh-thah",
+     "pn": "1p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "y'all glorified for yourselves",
+      "y'all glorified yourselves",
+      "you all glorified for yourselves",
+      "you all glorified yourselves"
+     ],
+     "e": "y'all glorified for yourselves",
+     "g": "ἐδοξάσασθε",
+     "l": 13,
+     "ph": "eh-do-KSAH-sah-stheh",
+     "pn": "2p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "they glorified for themselves",
+      "they glorified themselves"
+     ],
+     "e": "they glorified for themselves",
+     "g": "ἐδοξάσαντο",
+     "l": 13,
+     "ph": "eh-do-KSAH-sahn-to",
+     "pn": "3p",
+     "t": "am",
+     "tl": "aorist middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will be able (deponent fut. of δύναμαι)",
+   "g": "δυνήσομαι",
+   "gen": "",
+   "id": "12:δυνήσομαι",
+   "m": "δύναμαι (L9, \"dynamite\"): the stem vowel lengthens α → η (as in γεν-ήσ-ομαι), then σ + -ομαι: δυν-ήσ-ομαι; deponent (L9) = middle form, active meaning",
+   "p": "verb",
+   "ph": "dü-NAY-so-mai"
+  },
+  {
+   "c": "",
+   "e": "if, whether (usually followed by an indicative mood verb)",
+   "g": "εἰ",
+   "gen": "",
+   "id": "12:εἰ",
+   "m": "sounds like \"ay\" — \"ay, *if* you say so\"; don't confuse with εἰς (into, L6) or εἰμί (I am, L7)",
+   "p": "conjunction",
+   "ph": "ay"
+  },
+  {
+   "c": "",
+   "e": "I will come (deponent fut. of ἔρχομαι)",
+   "g": "ἐλεύσομαι",
+   "gen": "",
+   "id": "12:ἐλεύσομαι",
+   "m": "sounds like \"el-YOU-so-my\" — \"*you*, so-and-so, I *will come*!\"; different stem from ἔρχομαι (L9), so learn the pair; deponent (L9)",
+   "p": "verb",
+   "ph": "eh-LYOO-so-mai"
+  },
+  {
+   "c": "",
+   "e": "I will have (fut. of ἔχω; note the rough breathing)",
+   "g": "ἕξω",
+   "gen": "",
+   "id": "12:ἕξω",
+   "m": "ἔχω (L3, \"echo\"): the χ + σ blend into ξ (as σκ + σ did in διδάξω), and the breathing changes from smooth to rough; \"I'll *have* a *hex* on you\"",
+   "p": "verb",
+   "ph": "HEH-ksoh"
+  },
+  {
+   "c": "",
+   "e": "I will be (fut. of εἰμί)",
+   "g": "ἔσομαι",
+   "gen": "",
+   "id": "12:ἔσομαι",
+   "m": "εἰμί (L7, \"hey, me!\") → \"ESS-oh-my\" — \"*I will be*, oh my!\"; future stem ἐσ- + middle endings (-ομαι, -ῃ, -εται…)",
+   "p": "verb",
+   "ph": "EH-so-mai",
+   "vf": [
+    {
+     "a": [
+      "I will be"
+     ],
+     "e": "I will be",
+     "g": "ἔσομαι",
+     "l": 12,
+     "ph": "EH-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "you will be"
+     ],
+     "e": "you will be",
+     "g": "ἔσῃ",
+     "l": 12,
+     "ph": "EH-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "he will be",
+      "she will be",
+      "it will be"
+     ],
+     "e": "he/she/it will be",
+     "g": "ἔσται",
+     "l": 12,
+     "ph": "EH-stai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "we will be"
+     ],
+     "e": "we will be",
+     "g": "ἐσόμεθα",
+     "l": 12,
+     "ph": "eh-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "y'all will be",
+      "you all will be"
+     ],
+     "e": "y'all will be",
+     "g": "ἔσεσθε",
+     "l": 12,
+     "ph": "EH-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "they will be"
+     ],
+     "e": "they will be",
+     "g": "ἔσονται",
+     "l": 12,
+     "ph": "EH-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will find (fut. of εὑρίσκω)",
+   "g": "εὑρήσω",
+   "gen": "",
+   "id": "12:εὑρήσω",
+   "m": "εὑρίσκω (L8, \"Eureka!\"): the stem εὑρ- + η + σω = εὑρ-ή-σω; an *active* ending (-σω), so not deponent",
+   "p": "verb",
+   "ph": "hyoo-RAY-soh"
+  },
+  {
+   "c": "",
+   "e": "I marvel, wonder (thaumaturge)",
+   "g": "θαυμάζω",
+   "gen": "",
+   "id": "12:θαυμάζω",
+   "m": "\"thaumaturge\" — a *wonder*-worker, one who makes people *marvel*",
+   "p": "verb",
+   "ph": "thow-MAH-zoh",
+   "vf": [
+    {
+     "a": [
+      "I marvel",
+      "I wonder"
+     ],
+     "e": "I marvel",
+     "g": "θαυμάζω",
+     "l": 2,
+     "ph": "thow-MAH-zoh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you marvel",
+      "you wonder"
+     ],
+     "e": "you marvel",
+     "g": "θαυμάζεις",
+     "l": 2,
+     "ph": "thow-MAH-zays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he marvels",
+      "she marvels",
+      "it marvels",
+      "he wonders",
+      "she wonders",
+      "it wonders"
+     ],
+     "e": "he/she/it marvels",
+     "g": "θαυμάζει",
+     "l": 2,
+     "ph": "thow-MAH-zay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we marvel",
+      "we wonder"
+     ],
+     "e": "we marvel",
+     "g": "θαυμάζομεν",
+     "l": 2,
+     "ph": "thow-MAH-zo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all marvel",
+      "you all marvel",
+      "y'all wonder",
+      "you all wonder"
+     ],
+     "e": "y'all marvel",
+     "g": "θαυμάζετε",
+     "l": 2,
+     "ph": "thow-MAH-zeh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they marvel",
+      "they wonder"
+     ],
+     "e": "they marvel",
+     "g": "θαυμάζουσιν",
+     "l": 2,
+     "ph": "thow-MAH-zoo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was marveling",
+      "I marveled",
+      "I used to marvel",
+      "I was wondering",
+      "I wondered",
+      "I used to wonder",
+      "they were marveling",
+      "they marveled",
+      "they used to marvel",
+      "they were wondering",
+      "they wondered",
+      "they used to wonder"
+     ],
+     "e": "I was marveling / they were marveling",
+     "g": "ἐθαύμαζον",
+     "l": 10,
+     "ph": "eh-THOW-mah-zon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were marveling",
+      "you marveled",
+      "you used to marvel",
+      "you were wondering",
+      "you wondered",
+      "you used to wonder"
+     ],
+     "e": "you were marveling",
+     "g": "ἐθαύμαζες",
+     "l": 10,
+     "ph": "eh-THOW-mah-zehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was marveling",
+      "he marveled",
+      "he used to marvel",
+      "she was marveling",
+      "she marveled",
+      "she used to marvel",
+      "it was marveling",
+      "it marveled",
+      "it used to marvel",
+      "he was wondering",
+      "he wondered",
+      "he used to wonder",
+      "she was wondering",
+      "she wondered",
+      "she used to wonder",
+      "it was wondering",
+      "it wondered",
+      "it used to wonder"
+     ],
+     "e": "he/she/it was marveling",
+     "g": "ἐθαύμαζεν",
+     "l": 10,
+     "ph": "eh-THOW-mah-zehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were marveling",
+      "we marveled",
+      "we used to marvel",
+      "we were wondering",
+      "we wondered",
+      "we used to wonder"
+     ],
+     "e": "we were marveling",
+     "g": "ἐθαυμάζομεν",
+     "l": 10,
+     "ph": "eh-thow-MAH-zo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were marveling",
+      "y'all marveled",
+      "y'all used to marvel",
+      "you all were marveling",
+      "you all marveled",
+      "you all used to marvel",
+      "y'all were wondering",
+      "y'all wondered",
+      "y'all used to wonder",
+      "you all were wondering",
+      "you all wondered",
+      "you all used to wonder"
+     ],
+     "e": "y'all were marveling",
+     "g": "ἐθαυμάζετε",
+     "l": 10,
+     "ph": "eh-thow-MAH-zeh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will marvel",
+      "I will wonder"
+     ],
+     "e": "I will marvel",
+     "g": "θαυμάσω",
+     "l": 12,
+     "ph": "thow-MAH-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will marvel",
+      "you will wonder"
+     ],
+     "e": "you will marvel",
+     "g": "θαυμάσεις",
+     "l": 12,
+     "ph": "thow-MAH-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will marvel",
+      "she will marvel",
+      "it will marvel",
+      "he will wonder",
+      "she will wonder",
+      "it will wonder"
+     ],
+     "e": "he/she/it will marvel",
+     "g": "θαυμάσει",
+     "l": 12,
+     "ph": "thow-MAH-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will marvel",
+      "we will wonder"
+     ],
+     "e": "we will marvel",
+     "g": "θαυμάσομεν",
+     "l": 12,
+     "ph": "thow-MAH-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will marvel",
+      "you all will marvel",
+      "y'all will wonder",
+      "you all will wonder"
+     ],
+     "e": "y'all will marvel",
+     "g": "θαυμάσετε",
+     "l": 12,
+     "ph": "thow-MAH-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will marvel",
+      "they will wonder"
+     ],
+     "e": "they will marvel",
+     "g": "θαυμάσουσιν",
+     "l": 12,
+     "ph": "thow-MAH-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will marvel",
+      "I will wonder"
+     ],
+     "e": "I will marvel",
+     "g": "θαυμάσομαι",
+     "l": 12,
+     "ph": "thow-MAH-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will marvel",
+      "you will wonder"
+     ],
+     "e": "you will marvel",
+     "g": "θαυμάσῃ",
+     "l": 12,
+     "ph": "thow-MAH-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will marvel",
+      "she will marvel",
+      "it will marvel",
+      "he will wonder",
+      "she will wonder",
+      "it will wonder"
+     ],
+     "e": "he/she/it will marvel",
+     "g": "θαυμάσεται",
+     "l": 12,
+     "ph": "thow-MAH-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will marvel",
+      "we will wonder"
+     ],
+     "e": "we will marvel",
+     "g": "θαυμασόμεθα",
+     "l": 12,
+     "ph": "thow-mah-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will marvel",
+      "you all will marvel",
+      "y'all will wonder",
+      "you all will wonder"
+     ],
+     "e": "y'all will marvel",
+     "g": "θαυμάσεσθε",
+     "l": 12,
+     "ph": "thow-MAH-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will marvel",
+      "they will wonder"
+     ],
+     "e": "they will marvel",
+     "g": "θαυμάσονται",
+     "l": 12,
+     "ph": "thow-MAH-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I marveled",
+      "I wondered"
+     ],
+     "e": "I marveled",
+     "g": "ἐθαύμασα",
+     "l": 13,
+     "ph": "eh-THOW-mah-sah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you marveled",
+      "you wondered"
+     ],
+     "e": "you marveled",
+     "g": "ἐθαύμασας",
+     "l": 13,
+     "ph": "eh-THOW-mah-sahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he marveled",
+      "she marveled",
+      "it marveled",
+      "he wondered",
+      "she wondered",
+      "it wondered"
+     ],
+     "e": "he/she/it marveled",
+     "g": "ἐθαύμασεν",
+     "l": 13,
+     "ph": "eh-THOW-mah-sehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we marveled",
+      "we wondered"
+     ],
+     "e": "we marveled",
+     "g": "ἐθαυμάσαμεν",
+     "l": 13,
+     "ph": "eh-thow-MAH-sah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all marveled",
+      "you all marveled",
+      "y'all wondered",
+      "you all wondered"
+     ],
+     "e": "y'all marveled",
+     "g": "ἐθαυμάσατε",
+     "l": 13,
+     "ph": "eh-thow-MAH-sah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they marveled",
+      "they wondered"
+     ],
+     "e": "they marveled",
+     "g": "ἐθαύμασαν",
+     "l": 13,
+     "ph": "eh-THOW-mah-sahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will marvel, wonder (deponent middle fut. of θαυμάζω; also θαυμάσω)",
+   "g": "θαυμάσομαι",
+   "gen": "",
+   "id": "12:θαυμάσομαι",
+   "m": "θαυμάζω (L12, \"thaumaturge\"): the ζ drops and σ is added, as in δοξάζω → δοξάσω; this is the deponent middle future. θαυμάσω (L12) is the regular active future with the same meaning: both are correct",
+   "p": "verb",
+   "ph": "thow-MAH-so-mai"
+  },
+  {
+   "c": "",
+   "e": "I will marvel, wonder (active fut. of θαυμάζω; also θαυμάσομαι)",
+   "g": "θαυμάσω",
+   "gen": "",
+   "id": "12:θαυμάσω",
+   "m": "θαυμάζω (L12, \"thaumaturge\"): the ζ drops and σ is added, as in δοξάζω → δοξάσω; this is the regular active future. θαυμάσομαι (L12) is the deponent middle future with the same meaning: both are correct",
+   "p": "verb",
+   "ph": "thow-MAH-soh"
+  },
+  {
+   "c": "",
+   "e": "I preach, proclaim",
+   "g": "κηρύσσω",
+   "gen": "",
+   "id": "12:κηρύσσω",
+   "m": "\"kerygma\" — the *proclamation* of the gospel",
+   "p": "verb",
+   "ph": "kay-RÜS-soh",
+   "vf": [
+    {
+     "a": [
+      "I preach",
+      "I proclaim"
+     ],
+     "e": "I preach",
+     "g": "κηρύσσω",
+     "l": 2,
+     "ph": "kay-RÜS-soh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you preach",
+      "you proclaim"
+     ],
+     "e": "you preach",
+     "g": "κηρύσσεις",
+     "l": 2,
+     "ph": "kay-RÜS-says",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he preaches",
+      "she preaches",
+      "it preaches",
+      "he proclaims",
+      "she proclaims",
+      "it proclaims"
+     ],
+     "e": "he/she/it preaches",
+     "g": "κηρύσσει",
+     "l": 2,
+     "ph": "kay-RÜS-say",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we preach",
+      "we proclaim"
+     ],
+     "e": "we preach",
+     "g": "κηρύσσομεν",
+     "l": 2,
+     "ph": "kay-RÜS-so-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all preach",
+      "you all preach",
+      "y'all proclaim",
+      "you all proclaim"
+     ],
+     "e": "y'all preach",
+     "g": "κηρύσσετε",
+     "l": 2,
+     "ph": "kay-RÜS-seh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they preach",
+      "they proclaim"
+     ],
+     "e": "they preach",
+     "g": "κηρύσσουσιν",
+     "l": 2,
+     "ph": "kay-RÜS-soo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being preached",
+      "I am preached",
+      "I preach for myself",
+      "I preach myself",
+      "I am being proclaimed",
+      "I am proclaimed",
+      "I proclaim for myself",
+      "I proclaim myself"
+     ],
+     "e": "I am being preached / I preach for myself",
+     "g": "κηρύσσομαι",
+     "l": 9,
+     "ph": "kay-RÜS-so-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being preached",
+      "you are preached",
+      "you preach for yourself",
+      "you preach yourself",
+      "you are being proclaimed",
+      "you are proclaimed",
+      "you proclaim for yourself",
+      "you proclaim yourself"
+     ],
+     "e": "you are being preached / you preach for yourself",
+     "g": "κηρύσσῃ",
+     "l": 9,
+     "ph": "kay-RÜS-say",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being preached",
+      "he is preached",
+      "he preaches for himself",
+      "he preaches himself",
+      "she is being preached",
+      "she is preached",
+      "she preaches for herself",
+      "she preaches herself",
+      "it is being preached",
+      "it is preached",
+      "it preaches for itself",
+      "it preaches itself",
+      "he is being proclaimed",
+      "he is proclaimed",
+      "he proclaims for himself",
+      "he proclaims himself",
+      "she is being proclaimed",
+      "she is proclaimed",
+      "she proclaims for herself",
+      "she proclaims herself",
+      "it is being proclaimed",
+      "it is proclaimed",
+      "it proclaims for itself",
+      "it proclaims itself"
+     ],
+     "e": "he/she/it is being preached / he/she/it preaches for himself/herself/itself",
+     "g": "κηρύσσεται",
+     "l": 9,
+     "ph": "kay-RÜS-seh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being preached",
+      "we are preached",
+      "we preach for ourselves",
+      "we preach ourselves",
+      "we are being proclaimed",
+      "we are proclaimed",
+      "we proclaim for ourselves",
+      "we proclaim ourselves"
+     ],
+     "e": "we are being preached / we preach for ourselves",
+     "g": "κηρυσσόμεθα",
+     "l": 9,
+     "ph": "kay-rüs-SO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being preached",
+      "y'all are preached",
+      "y'all preach for yourselves",
+      "y'all preach yourselves",
+      "you all are being preached",
+      "you all are preached",
+      "you all preach for yourselves",
+      "you all preach yourselves",
+      "y'all are being proclaimed",
+      "y'all are proclaimed",
+      "y'all proclaim for yourselves",
+      "y'all proclaim yourselves",
+      "you all are being proclaimed",
+      "you all are proclaimed",
+      "you all proclaim for yourselves",
+      "you all proclaim yourselves"
+     ],
+     "e": "y'all are being preached / y'all preach for yourselves",
+     "g": "κηρύσσεσθε",
+     "l": 9,
+     "ph": "kay-RÜS-seh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being preached",
+      "they are preached",
+      "they preach for themselves",
+      "they preach themselves",
+      "they are being proclaimed",
+      "they are proclaimed",
+      "they proclaim for themselves",
+      "they proclaim themselves"
+     ],
+     "e": "they are being preached / they preach for themselves",
+     "g": "κηρύσσονται",
+     "l": 9,
+     "ph": "kay-RÜS-son-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was preaching",
+      "I preached",
+      "I used to preach",
+      "I was proclaiming",
+      "I proclaimed",
+      "I used to proclaim",
+      "they were preaching",
+      "they preached",
+      "they used to preach",
+      "they were proclaiming",
+      "they proclaimed",
+      "they used to proclaim"
+     ],
+     "e": "I was preaching / they were preaching",
+     "g": "ἐκήρυσσον",
+     "l": 10,
+     "ph": "eh-KAY-rüs-son",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were preaching",
+      "you preached",
+      "you used to preach",
+      "you were proclaiming",
+      "you proclaimed",
+      "you used to proclaim"
+     ],
+     "e": "you were preaching",
+     "g": "ἐκήρυσσες",
+     "l": 10,
+     "ph": "eh-KAY-rüs-sehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was preaching",
+      "he preached",
+      "he used to preach",
+      "she was preaching",
+      "she preached",
+      "she used to preach",
+      "it was preaching",
+      "it preached",
+      "it used to preach",
+      "he was proclaiming",
+      "he proclaimed",
+      "he used to proclaim",
+      "she was proclaiming",
+      "she proclaimed",
+      "she used to proclaim",
+      "it was proclaiming",
+      "it proclaimed",
+      "it used to proclaim"
+     ],
+     "e": "he/she/it was preaching",
+     "g": "ἐκήρυσσεν",
+     "l": 10,
+     "ph": "eh-KAY-rüs-sehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were preaching",
+      "we preached",
+      "we used to preach",
+      "we were proclaiming",
+      "we proclaimed",
+      "we used to proclaim"
+     ],
+     "e": "we were preaching",
+     "g": "ἐκηρύσσομεν",
+     "l": 10,
+     "ph": "eh-kay-RÜS-so-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were preaching",
+      "y'all preached",
+      "y'all used to preach",
+      "you all were preaching",
+      "you all preached",
+      "you all used to preach",
+      "y'all were proclaiming",
+      "y'all proclaimed",
+      "y'all used to proclaim",
+      "you all were proclaiming",
+      "you all proclaimed",
+      "you all used to proclaim"
+     ],
+     "e": "y'all were preaching",
+     "g": "ἐκηρύσσετε",
+     "l": 10,
+     "ph": "eh-kay-RÜS-seh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being preached",
+      "I was preached",
+      "I was preaching for myself",
+      "I preached for myself",
+      "I was being proclaimed",
+      "I was proclaimed",
+      "I was proclaiming for myself",
+      "I proclaimed for myself"
+     ],
+     "e": "I was being preached / I was preaching for myself",
+     "g": "ἐκηρυσσόμην",
+     "l": 11,
+     "ph": "eh-kay-rüs-SO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being preached",
+      "you were preached",
+      "you were preaching for yourself",
+      "you preached for yourself",
+      "you were being proclaimed",
+      "you were proclaimed",
+      "you were proclaiming for yourself",
+      "you proclaimed for yourself"
+     ],
+     "e": "you were being preached / you were preaching for yourself",
+     "g": "ἐκηρύσσου",
+     "l": 11,
+     "ph": "eh-kay-RÜS-soo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being preached",
+      "he was preached",
+      "he was preaching for himself",
+      "he preached for himself",
+      "she was being preached",
+      "she was preached",
+      "she was preaching for herself",
+      "she preached for herself",
+      "it was being preached",
+      "it was preached",
+      "it was preaching for itself",
+      "it preached for itself",
+      "he was being proclaimed",
+      "he was proclaimed",
+      "he was proclaiming for himself",
+      "he proclaimed for himself",
+      "she was being proclaimed",
+      "she was proclaimed",
+      "she was proclaiming for herself",
+      "she proclaimed for herself",
+      "it was being proclaimed",
+      "it was proclaimed",
+      "it was proclaiming for itself",
+      "it proclaimed for itself"
+     ],
+     "e": "he/she/it was being preached / he/she/it was preaching for himself/herself/itself",
+     "g": "ἐκηρύσσετο",
+     "l": 11,
+     "ph": "eh-kay-RÜS-seh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being preached",
+      "we were preached",
+      "we were preaching for ourselves",
+      "we preached for ourselves",
+      "we were being proclaimed",
+      "we were proclaimed",
+      "we were proclaiming for ourselves",
+      "we proclaimed for ourselves"
+     ],
+     "e": "we were being preached / we were preaching for ourselves",
+     "g": "ἐκηρυσσόμεθα",
+     "l": 11,
+     "ph": "eh-kay-rüs-SO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being preached",
+      "y'all were preached",
+      "y'all were preaching for yourselves",
+      "y'all preached for yourselves",
+      "you all were being preached",
+      "you all were preached",
+      "you all were preaching for yourselves",
+      "you all preached for yourselves",
+      "y'all were being proclaimed",
+      "y'all were proclaimed",
+      "y'all were proclaiming for yourselves",
+      "y'all proclaimed for yourselves",
+      "you all were being proclaimed",
+      "you all were proclaimed",
+      "you all were proclaiming for yourselves",
+      "you all proclaimed for yourselves"
+     ],
+     "e": "y'all were being preached / y'all were preaching for yourselves",
+     "g": "ἐκηρύσσεσθε",
+     "l": 11,
+     "ph": "eh-kay-RÜS-seh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being preached",
+      "they were preached",
+      "they were preaching for themselves",
+      "they preached for themselves",
+      "they were being proclaimed",
+      "they were proclaimed",
+      "they were proclaiming for themselves",
+      "they proclaimed for themselves"
+     ],
+     "e": "they were being preached / they were preaching for themselves",
+     "g": "ἐκηρύσσοντο",
+     "l": 11,
+     "ph": "eh-kay-RÜS-son-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will preach",
+      "I will proclaim"
+     ],
+     "e": "I will preach",
+     "g": "κηρύξω",
+     "l": 12,
+     "ph": "kay-RÜ-ksoh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will preach",
+      "you will proclaim"
+     ],
+     "e": "you will preach",
+     "g": "κηρύξεις",
+     "l": 12,
+     "ph": "kay-RÜ-ksays",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will preach",
+      "she will preach",
+      "it will preach",
+      "he will proclaim",
+      "she will proclaim",
+      "it will proclaim"
+     ],
+     "e": "he/she/it will preach",
+     "g": "κηρύξει",
+     "l": 12,
+     "ph": "kay-RÜ-ksay",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will preach",
+      "we will proclaim"
+     ],
+     "e": "we will preach",
+     "g": "κηρύξομεν",
+     "l": 12,
+     "ph": "kay-RÜ-kso-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will preach",
+      "you all will preach",
+      "y'all will proclaim",
+      "you all will proclaim"
+     ],
+     "e": "y'all will preach",
+     "g": "κηρύξετε",
+     "l": 12,
+     "ph": "kay-RÜ-kseh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will preach",
+      "they will proclaim"
+     ],
+     "e": "they will preach",
+     "g": "κηρύξουσιν",
+     "l": 12,
+     "ph": "kay-RÜ-ksoo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will preach for myself",
+      "I will preach myself",
+      "I will proclaim for myself",
+      "I will proclaim myself"
+     ],
+     "e": "I will preach for myself",
+     "g": "κηρύξομαι",
+     "l": 12,
+     "ph": "kay-RÜ-kso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will preach for yourself",
+      "you will preach yourself",
+      "you will proclaim for yourself",
+      "you will proclaim yourself"
+     ],
+     "e": "you will preach for yourself",
+     "g": "κηρύξῃ",
+     "l": 12,
+     "ph": "kay-RÜ-ksay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will preach for himself",
+      "he will preach himself",
+      "she will preach for herself",
+      "she will preach herself",
+      "it will preach for itself",
+      "it will preach itself",
+      "he will proclaim for himself",
+      "he will proclaim himself",
+      "she will proclaim for herself",
+      "she will proclaim herself",
+      "it will proclaim for itself",
+      "it will proclaim itself"
+     ],
+     "e": "he/she/it will preach for himself/herself/itself",
+     "g": "κηρύξεται",
+     "l": 12,
+     "ph": "kay-RÜ-kseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will preach for ourselves",
+      "we will preach ourselves",
+      "we will proclaim for ourselves",
+      "we will proclaim ourselves"
+     ],
+     "e": "we will preach for ourselves",
+     "g": "κηρυξόμεθα",
+     "l": 12,
+     "ph": "kay-rü-KSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will preach for yourselves",
+      "y'all will preach yourselves",
+      "you all will preach for yourselves",
+      "you all will preach yourselves",
+      "y'all will proclaim for yourselves",
+      "y'all will proclaim yourselves",
+      "you all will proclaim for yourselves",
+      "you all will proclaim yourselves"
+     ],
+     "e": "y'all will preach for yourselves",
+     "g": "κηρύξεσθε",
+     "l": 12,
+     "ph": "kay-RÜ-kseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will preach for themselves",
+      "they will preach themselves",
+      "they will proclaim for themselves",
+      "they will proclaim themselves"
+     ],
+     "e": "they will preach for themselves",
+     "g": "κηρύξονται",
+     "l": 12,
+     "ph": "kay-RÜ-kson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I preached",
+      "I proclaimed"
+     ],
+     "e": "I preached",
+     "g": "ἐκήρυξα",
+     "l": 13,
+     "ph": "eh-KAY-rü-ksah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you preached",
+      "you proclaimed"
+     ],
+     "e": "you preached",
+     "g": "ἐκήρυξας",
+     "l": 13,
+     "ph": "eh-KAY-rü-ksahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he preached",
+      "she preached",
+      "it preached",
+      "he proclaimed",
+      "she proclaimed",
+      "it proclaimed"
+     ],
+     "e": "he/she/it preached",
+     "g": "ἐκήρυξεν",
+     "l": 13,
+     "ph": "eh-KAY-rü-ksehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we preached",
+      "we proclaimed"
+     ],
+     "e": "we preached",
+     "g": "ἐκηρύξαμεν",
+     "l": 13,
+     "ph": "eh-kay-RÜ-ksah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all preached",
+      "you all preached",
+      "y'all proclaimed",
+      "you all proclaimed"
+     ],
+     "e": "y'all preached",
+     "g": "ἐκηρύξατε",
+     "l": 13,
+     "ph": "eh-kay-RÜ-ksah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they preached",
+      "they proclaimed"
+     ],
+     "e": "they preached",
+     "g": "ἐκήρυξαν",
+     "l": 13,
+     "ph": "eh-KAY-rü-ksahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I preached for myself",
+      "I preached myself",
+      "I proclaimed for myself",
+      "I proclaimed myself"
+     ],
+     "e": "I preached for myself",
+     "g": "ἐκηρυξάμην",
+     "l": 13,
+     "ph": "eh-kay-rü-KSAH-mayn",
+     "pn": "1s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "you preached for yourself",
+      "you preached yourself",
+      "you proclaimed for yourself",
+      "you proclaimed yourself"
+     ],
+     "e": "you preached for yourself",
+     "g": "ἐκηρύξω",
+     "l": 13,
+     "ph": "eh-kay-RÜ-ksoh",
+     "pn": "2s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "he preached for himself",
+      "he preached himself",
+      "she preached for herself",
+      "she preached herself",
+      "it preached for itself",
+      "it preached itself",
+      "he proclaimed for himself",
+      "he proclaimed himself",
+      "she proclaimed for herself",
+      "she proclaimed herself",
+      "it proclaimed for itself",
+      "it proclaimed itself"
+     ],
+     "e": "he/she/it preached for himself/herself/itself",
+     "g": "ἐκηρύξατο",
+     "l": 13,
+     "ph": "eh-kay-RÜ-ksah-to",
+     "pn": "3s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "we preached for ourselves",
+      "we preached ourselves",
+      "we proclaimed for ourselves",
+      "we proclaimed ourselves"
+     ],
+     "e": "we preached for ourselves",
+     "g": "ἐκηρυξάμεθα",
+     "l": 13,
+     "ph": "eh-kay-rü-KSAH-meh-thah",
+     "pn": "1p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "y'all preached for yourselves",
+      "y'all preached yourselves",
+      "you all preached for yourselves",
+      "you all preached yourselves",
+      "y'all proclaimed for yourselves",
+      "y'all proclaimed yourselves",
+      "you all proclaimed for yourselves",
+      "you all proclaimed yourselves"
+     ],
+     "e": "y'all preached for yourselves",
+     "g": "ἐκηρύξασθε",
+     "l": 13,
+     "ph": "eh-kay-RÜ-ksah-stheh",
+     "pn": "2p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "they preached for themselves",
+      "they preached themselves",
+      "they proclaimed for themselves",
+      "they proclaimed themselves"
+     ],
+     "e": "they preached for themselves",
+     "g": "ἐκηρύξαντο",
+     "l": 13,
+     "ph": "eh-kay-RÜ-ksahn-to",
+     "pn": "3p",
+     "t": "am",
+     "tl": "aorist middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will take, receive (deponent fut. of λαμβάνω)",
+   "g": "λήμψομαι",
+   "gen": "",
+   "id": "12:λήμψομαι",
+   "m": "λαμβάνω (L5, \"lamb, I take you\"): α → η, and β + σ blend into ψ (\"ps\"): λήμψομαι; deponent (L9)",
+   "p": "verb",
+   "ph": "LAYM-pso-mai"
+  },
+  {
+   "c": "",
+   "e": "now",
+   "g": "νῦν",
+   "gen": "",
+   "id": "12:νῦν",
+   "m": "looks and sounds like English *now* (Latin *nunc*) — n…n, *now*",
+   "p": "other",
+   "ph": "nün"
+  },
+  {
+   "c": "",
+   "e": "I will bring, bear, carry (fut. of φέρω)",
+   "g": "οἴσω",
+   "gen": "",
+   "id": "12:οἴσω",
+   "m": "φέρω (L12, \"Christopher\"): a completely different stem, οἰ-; \"*Oy*, so I'll *bring* it\"; learn it as a pair with φέρω, like ἔρχομαι / ἐλεύσομαι (L9)",
+   "p": "verb",
+   "ph": "OY-soh"
+  },
+  {
+   "c": "",
+   "e": "I pray",
+   "g": "προσεύχομαι",
+   "gen": "",
+   "id": "12:προσεύχομαι",
+   "m": "πρός (toward, L6) + εὔχομαι (to wish, vow): turning *toward* God with a wish = *pray*; deponent (L9)",
+   "p": "verb",
+   "ph": "pro-SYOO-kho-mai",
+   "vf": [
+    {
+     "a": [
+      "I pray"
+     ],
+     "e": "I pray",
+     "g": "προσεύχομαι",
+     "l": 9,
+     "ph": "pro-SYOO-kho-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you pray"
+     ],
+     "e": "you pray",
+     "g": "προσεύχῃ",
+     "l": 9,
+     "ph": "pro-SYOO-khay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he prays",
+      "she prays",
+      "it prays"
+     ],
+     "e": "he/she/it prays",
+     "g": "προσεύχεται",
+     "l": 9,
+     "ph": "pro-SYOO-kheh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we pray"
+     ],
+     "e": "we pray",
+     "g": "προσευχόμεθα",
+     "l": 9,
+     "ph": "pro-syoo-KHO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all pray",
+      "you all pray"
+     ],
+     "e": "y'all pray",
+     "g": "προσεύχεσθε",
+     "l": 9,
+     "ph": "pro-SYOO-kheh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they pray"
+     ],
+     "e": "they pray",
+     "g": "προσεύχονται",
+     "l": 9,
+     "ph": "pro-SYOO-khon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was praying",
+      "I prayed",
+      "I used to pray"
+     ],
+     "e": "I was praying",
+     "g": "προσηυχόμην",
+     "l": 11,
+     "ph": "pro-sayoo-KHO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were praying",
+      "you prayed",
+      "you used to pray"
+     ],
+     "e": "you were praying",
+     "g": "προσηύχου",
+     "l": 11,
+     "ph": "pro-SAYOO-khoo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was praying",
+      "he prayed",
+      "he used to pray",
+      "she was praying",
+      "she prayed",
+      "she used to pray",
+      "it was praying",
+      "it prayed",
+      "it used to pray"
+     ],
+     "e": "he/she/it was praying",
+     "g": "προσηύχετο",
+     "l": 11,
+     "ph": "pro-SAYOO-kheh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were praying",
+      "we prayed",
+      "we used to pray"
+     ],
+     "e": "we were praying",
+     "g": "προσηυχόμεθα",
+     "l": 11,
+     "ph": "pro-sayoo-KHO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were praying",
+      "y'all prayed",
+      "y'all used to pray",
+      "you all were praying",
+      "you all prayed",
+      "you all used to pray"
+     ],
+     "e": "y'all were praying",
+     "g": "προσηύχεσθε",
+     "l": 11,
+     "ph": "pro-SAYOO-kheh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were praying",
+      "they prayed",
+      "they used to pray"
+     ],
+     "e": "they were praying",
+     "g": "προσηύχοντο",
+     "l": 11,
+     "ph": "pro-SAYOO-khon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will pray"
+     ],
+     "e": "I will pray",
+     "g": "προσεύξομαι",
+     "l": 12,
+     "ph": "pro-SYOO-kso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will pray"
+     ],
+     "e": "you will pray",
+     "g": "προσεύξῃ",
+     "l": 12,
+     "ph": "pro-SYOO-ksay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will pray",
+      "she will pray",
+      "it will pray"
+     ],
+     "e": "he/she/it will pray",
+     "g": "προσεύξεται",
+     "l": 12,
+     "ph": "pro-SYOO-kseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will pray"
+     ],
+     "e": "we will pray",
+     "g": "προσευξόμεθα",
+     "l": 12,
+     "ph": "pro-syoo-KSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will pray",
+      "you all will pray"
+     ],
+     "e": "y'all will pray",
+     "g": "προσεύξεσθε",
+     "l": 12,
+     "ph": "pro-SYOO-kseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will pray"
+     ],
+     "e": "they will pray",
+     "g": "προσεύξονται",
+     "l": 12,
+     "ph": "pro-SYOO-kson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I prayed"
+     ],
+     "e": "I prayed",
+     "g": "προσηυξάμην",
+     "l": 13,
+     "ph": "pro-sayoo-KSAH-mayn",
+     "pn": "1s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "you prayed"
+     ],
+     "e": "you prayed",
+     "g": "προσηύξω",
+     "l": 13,
+     "ph": "pro-SAYOO-ksoh",
+     "pn": "2s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "he prayed",
+      "she prayed",
+      "it prayed"
+     ],
+     "e": "he/she/it prayed",
+     "g": "προσηύξατο",
+     "l": 13,
+     "ph": "pro-SAYOO-ksah-to",
+     "pn": "3s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "we prayed"
+     ],
+     "e": "we prayed",
+     "g": "προσηυξάμεθα",
+     "l": 13,
+     "ph": "pro-sayoo-KSAH-meh-thah",
+     "pn": "1p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "y'all prayed",
+      "you all prayed"
+     ],
+     "e": "y'all prayed",
+     "g": "προσηύξασθε",
+     "l": 13,
+     "ph": "pro-SAYOO-ksah-stheh",
+     "pn": "2p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "they prayed"
+     ],
+     "e": "they prayed",
+     "g": "προσηύξαντο",
+     "l": 13,
+     "ph": "pro-SAYOO-ksahn-to",
+     "pn": "3p",
+     "t": "am",
+     "tl": "aorist middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I will eat (deponent fut. of ἐσθίω; also ἔδομαι in the LXX)",
+   "g": "φάγομαι",
+   "gen": "",
+   "id": "12:φάγομαι",
+   "m": "ἐσθίω (L7, \"esophagus\"): a different stem, φαγ-; \"sarcophagus\" (flesh-*eater*), \"-phage\" = *eating*; deponent (L9)",
+   "p": "verb",
+   "ph": "FAH-go-mai"
+  },
+  {
+   "c": "",
+   "e": "I bring, bear, carry (Christopher, pheresis)",
+   "g": "φέρω",
+   "gen": "",
+   "id": "12:φέρω",
+   "m": "\"Christopher\" = *Christ-bearer*; \"pheresis\" (as in apheresis) = a *carrying* off; the Latin cousin -fer in \"conifer\" (cone-*bearing*)",
+   "p": "verb",
+   "ph": "FEH-roh",
+   "vf": [
+    {
+     "a": [
+      "I bring",
+      "I bear",
+      "I carry"
+     ],
+     "e": "I bring",
+     "g": "φέρω",
+     "l": 2,
+     "ph": "FEH-roh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you bring",
+      "you bear",
+      "you carry"
+     ],
+     "e": "you bring",
+     "g": "φέρεις",
+     "l": 2,
+     "ph": "FEH-rays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he brings",
+      "she brings",
+      "it brings",
+      "he bears",
+      "she bears",
+      "it bears",
+      "he carries",
+      "she carries",
+      "it carries"
+     ],
+     "e": "he/she/it brings",
+     "g": "φέρει",
+     "l": 2,
+     "ph": "FEH-ray",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we bring",
+      "we bear",
+      "we carry"
+     ],
+     "e": "we bring",
+     "g": "φέρομεν",
+     "l": 2,
+     "ph": "FEH-ro-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all bring",
+      "you all bring",
+      "y'all bear",
+      "you all bear",
+      "y'all carry",
+      "you all carry"
+     ],
+     "e": "y'all bring",
+     "g": "φέρετε",
+     "l": 2,
+     "ph": "FEH-reh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they bring",
+      "they bear",
+      "they carry"
+     ],
+     "e": "they bring",
+     "g": "φέρουσιν",
+     "l": 2,
+     "ph": "FEH-roo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being brought",
+      "I am brought",
+      "I bring for myself",
+      "I bring myself",
+      "I am being borne",
+      "I am borne",
+      "I bear for myself",
+      "I bear myself",
+      "I am being carried",
+      "I am carried",
+      "I carry for myself",
+      "I carry myself"
+     ],
+     "e": "I am being brought / I bring for myself",
+     "g": "φέρομαι",
+     "l": 9,
+     "ph": "FEH-ro-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being brought",
+      "you are brought",
+      "you bring for yourself",
+      "you bring yourself",
+      "you are being borne",
+      "you are borne",
+      "you bear for yourself",
+      "you bear yourself",
+      "you are being carried",
+      "you are carried",
+      "you carry for yourself",
+      "you carry yourself"
+     ],
+     "e": "you are being brought / you bring for yourself",
+     "g": "φέρῃ",
+     "l": 9,
+     "ph": "FEH-ray",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being brought",
+      "he is brought",
+      "he brings for himself",
+      "he brings himself",
+      "she is being brought",
+      "she is brought",
+      "she brings for herself",
+      "she brings herself",
+      "it is being brought",
+      "it is brought",
+      "it brings for itself",
+      "it brings itself",
+      "he is being borne",
+      "he is borne",
+      "he bears for himself",
+      "he bears himself",
+      "she is being borne",
+      "she is borne",
+      "she bears for herself",
+      "she bears herself",
+      "it is being borne",
+      "it is borne",
+      "it bears for itself",
+      "it bears itself",
+      "he is being carried",
+      "he is carried",
+      "he carries for himself",
+      "he carries himself",
+      "she is being carried",
+      "she is carried",
+      "she carries for herself",
+      "she carries herself",
+      "it is being carried",
+      "it is carried",
+      "it carries for itself",
+      "it carries itself"
+     ],
+     "e": "he/she/it is being brought / he/she/it brings for himself/herself/itself",
+     "g": "φέρεται",
+     "l": 9,
+     "ph": "FEH-reh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being brought",
+      "we are brought",
+      "we bring for ourselves",
+      "we bring ourselves",
+      "we are being borne",
+      "we are borne",
+      "we bear for ourselves",
+      "we bear ourselves",
+      "we are being carried",
+      "we are carried",
+      "we carry for ourselves",
+      "we carry ourselves"
+     ],
+     "e": "we are being brought / we bring for ourselves",
+     "g": "φερόμεθα",
+     "l": 9,
+     "ph": "feh-RO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being brought",
+      "y'all are brought",
+      "y'all bring for yourselves",
+      "y'all bring yourselves",
+      "you all are being brought",
+      "you all are brought",
+      "you all bring for yourselves",
+      "you all bring yourselves",
+      "y'all are being borne",
+      "y'all are borne",
+      "y'all bear for yourselves",
+      "y'all bear yourselves",
+      "you all are being borne",
+      "you all are borne",
+      "you all bear for yourselves",
+      "you all bear yourselves",
+      "y'all are being carried",
+      "y'all are carried",
+      "y'all carry for yourselves",
+      "y'all carry yourselves",
+      "you all are being carried",
+      "you all are carried",
+      "you all carry for yourselves",
+      "you all carry yourselves"
+     ],
+     "e": "y'all are being brought / y'all bring for yourselves",
+     "g": "φέρεσθε",
+     "l": 9,
+     "ph": "FEH-reh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being brought",
+      "they are brought",
+      "they bring for themselves",
+      "they bring themselves",
+      "they are being borne",
+      "they are borne",
+      "they bear for themselves",
+      "they bear themselves",
+      "they are being carried",
+      "they are carried",
+      "they carry for themselves",
+      "they carry themselves"
+     ],
+     "e": "they are being brought / they bring for themselves",
+     "g": "φέρονται",
+     "l": 9,
+     "ph": "FEH-ron-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was bringing",
+      "I brought",
+      "I used to bring",
+      "I was bearing",
+      "I bore",
+      "I used to bear",
+      "I was carrying",
+      "I carried",
+      "I used to carry",
+      "they were bringing",
+      "they brought",
+      "they used to bring",
+      "they were bearing",
+      "they bore",
+      "they used to bear",
+      "they were carrying",
+      "they carried",
+      "they used to carry"
+     ],
+     "e": "I was bringing / they were bringing",
+     "g": "ἔφερον",
+     "l": 10,
+     "ph": "EH-feh-ron",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were bringing",
+      "you brought",
+      "you used to bring",
+      "you were bearing",
+      "you bore",
+      "you used to bear",
+      "you were carrying",
+      "you carried",
+      "you used to carry"
+     ],
+     "e": "you were bringing",
+     "g": "ἔφερες",
+     "l": 10,
+     "ph": "EH-feh-rehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was bringing",
+      "he brought",
+      "he used to bring",
+      "she was bringing",
+      "she brought",
+      "she used to bring",
+      "it was bringing",
+      "it brought",
+      "it used to bring",
+      "he was bearing",
+      "he bore",
+      "he used to bear",
+      "she was bearing",
+      "she bore",
+      "she used to bear",
+      "it was bearing",
+      "it bore",
+      "it used to bear",
+      "he was carrying",
+      "he carried",
+      "he used to carry",
+      "she was carrying",
+      "she carried",
+      "she used to carry",
+      "it was carrying",
+      "it carried",
+      "it used to carry"
+     ],
+     "e": "he/she/it was bringing",
+     "g": "ἔφερεν",
+     "l": 10,
+     "ph": "EH-feh-rehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were bringing",
+      "we brought",
+      "we used to bring",
+      "we were bearing",
+      "we bore",
+      "we used to bear",
+      "we were carrying",
+      "we carried",
+      "we used to carry"
+     ],
+     "e": "we were bringing",
+     "g": "ἐφέρομεν",
+     "l": 10,
+     "ph": "eh-FEH-ro-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were bringing",
+      "y'all brought",
+      "y'all used to bring",
+      "you all were bringing",
+      "you all brought",
+      "you all used to bring",
+      "y'all were bearing",
+      "y'all bore",
+      "y'all used to bear",
+      "you all were bearing",
+      "you all bore",
+      "you all used to bear",
+      "y'all were carrying",
+      "y'all carried",
+      "y'all used to carry",
+      "you all were carrying",
+      "you all carried",
+      "you all used to carry"
+     ],
+     "e": "y'all were bringing",
+     "g": "ἐφέρετε",
+     "l": 10,
+     "ph": "eh-FEH-reh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being brought",
+      "I was brought",
+      "I was bringing for myself",
+      "I brought for myself",
+      "I was being borne",
+      "I was borne",
+      "I was bearing for myself",
+      "I bore for myself",
+      "I was being carried",
+      "I was carried",
+      "I was carrying for myself",
+      "I carried for myself"
+     ],
+     "e": "I was being brought / I was bringing for myself",
+     "g": "ἐφερόμην",
+     "l": 11,
+     "ph": "eh-feh-RO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being brought",
+      "you were brought",
+      "you were bringing for yourself",
+      "you brought for yourself",
+      "you were being borne",
+      "you were borne",
+      "you were bearing for yourself",
+      "you bore for yourself",
+      "you were being carried",
+      "you were carried",
+      "you were carrying for yourself",
+      "you carried for yourself"
+     ],
+     "e": "you were being brought / you were bringing for yourself",
+     "g": "ἐφέρου",
+     "l": 11,
+     "ph": "eh-FEH-roo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being brought",
+      "he was brought",
+      "he was bringing for himself",
+      "he brought for himself",
+      "she was being brought",
+      "she was brought",
+      "she was bringing for herself",
+      "she brought for herself",
+      "it was being brought",
+      "it was brought",
+      "it was bringing for itself",
+      "it brought for itself",
+      "he was being borne",
+      "he was borne",
+      "he was bearing for himself",
+      "he bore for himself",
+      "she was being borne",
+      "she was borne",
+      "she was bearing for herself",
+      "she bore for herself",
+      "it was being borne",
+      "it was borne",
+      "it was bearing for itself",
+      "it bore for itself",
+      "he was being carried",
+      "he was carried",
+      "he was carrying for himself",
+      "he carried for himself",
+      "she was being carried",
+      "she was carried",
+      "she was carrying for herself",
+      "she carried for herself",
+      "it was being carried",
+      "it was carried",
+      "it was carrying for itself",
+      "it carried for itself"
+     ],
+     "e": "he/she/it was being brought / he/she/it was bringing for himself/herself/itself",
+     "g": "ἐφέρετο",
+     "l": 11,
+     "ph": "eh-FEH-reh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being brought",
+      "we were brought",
+      "we were bringing for ourselves",
+      "we brought for ourselves",
+      "we were being borne",
+      "we were borne",
+      "we were bearing for ourselves",
+      "we bore for ourselves",
+      "we were being carried",
+      "we were carried",
+      "we were carrying for ourselves",
+      "we carried for ourselves"
+     ],
+     "e": "we were being brought / we were bringing for ourselves",
+     "g": "ἐφερόμεθα",
+     "l": 11,
+     "ph": "eh-feh-RO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being brought",
+      "y'all were brought",
+      "y'all were bringing for yourselves",
+      "y'all brought for yourselves",
+      "you all were being brought",
+      "you all were brought",
+      "you all were bringing for yourselves",
+      "you all brought for yourselves",
+      "y'all were being borne",
+      "y'all were borne",
+      "y'all were bearing for yourselves",
+      "y'all bore for yourselves",
+      "you all were being borne",
+      "you all were borne",
+      "you all were bearing for yourselves",
+      "you all bore for yourselves",
+      "y'all were being carried",
+      "y'all were carried",
+      "y'all were carrying for yourselves",
+      "y'all carried for yourselves",
+      "you all were being carried",
+      "you all were carried",
+      "you all were carrying for yourselves",
+      "you all carried for yourselves"
+     ],
+     "e": "y'all were being brought / y'all were bringing for yourselves",
+     "g": "ἐφέρεσθε",
+     "l": 11,
+     "ph": "eh-FEH-reh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being brought",
+      "they were brought",
+      "they were bringing for themselves",
+      "they brought for themselves",
+      "they were being borne",
+      "they were borne",
+      "they were bearing for themselves",
+      "they bore for themselves",
+      "they were being carried",
+      "they were carried",
+      "they were carrying for themselves",
+      "they carried for themselves"
+     ],
+     "e": "they were being brought / they were bringing for themselves",
+     "g": "ἐφέροντο",
+     "l": 11,
+     "ph": "eh-FEH-ron-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will bring",
+      "I will bear",
+      "I will carry"
+     ],
+     "e": "I will bring",
+     "g": "οἴσω",
+     "l": 12,
+     "ph": "OY-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will bring",
+      "you will bear",
+      "you will carry"
+     ],
+     "e": "you will bring",
+     "g": "οἴσεις",
+     "l": 12,
+     "ph": "OY-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will bring",
+      "she will bring",
+      "it will bring",
+      "he will bear",
+      "she will bear",
+      "it will bear",
+      "he will carry",
+      "she will carry",
+      "it will carry"
+     ],
+     "e": "he/she/it will bring",
+     "g": "οἴσει",
+     "l": 12,
+     "ph": "OY-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will bring",
+      "we will bear",
+      "we will carry"
+     ],
+     "e": "we will bring",
+     "g": "οἴσομεν",
+     "l": 12,
+     "ph": "OY-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will bring",
+      "you all will bring",
+      "y'all will bear",
+      "you all will bear",
+      "y'all will carry",
+      "you all will carry"
+     ],
+     "e": "y'all will bring",
+     "g": "οἴσετε",
+     "l": 12,
+     "ph": "OY-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will bring",
+      "they will bear",
+      "they will carry"
+     ],
+     "e": "they will bring",
+     "g": "οἴσουσιν",
+     "l": 12,
+     "ph": "OY-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I brought",
+      "I bore",
+      "I carried"
+     ],
+     "e": "I brought",
+     "g": "ἤνεγκα",
+     "l": 13,
+     "ph": "AY-nehn-kah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you brought",
+      "you bore",
+      "you carried"
+     ],
+     "e": "you brought",
+     "g": "ἤνεγκας",
+     "l": 13,
+     "ph": "AY-nehn-kahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he brought",
+      "she brought",
+      "it brought",
+      "he bore",
+      "she bore",
+      "it bore",
+      "he carried",
+      "she carried",
+      "it carried"
+     ],
+     "e": "he/she/it brought",
+     "g": "ἤνεγκεν",
+     "l": 13,
+     "ph": "AY-nehn-kehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we brought",
+      "we bore",
+      "we carried"
+     ],
+     "e": "we brought",
+     "g": "ἠνέγκαμεν",
+     "l": 13,
+     "ph": "ay-NEHN-kah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all brought",
+      "you all brought",
+      "y'all bore",
+      "you all bore",
+      "y'all carried",
+      "you all carried"
+     ],
+     "e": "y'all brought",
+     "g": "ἠνέγκατε",
+     "l": 13,
+     "ph": "ay-NEHN-kah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they brought",
+      "they bore",
+      "they carried"
+     ],
+     "e": "they brought",
+     "g": "ἤνεγκαν",
+     "l": 13,
+     "ph": "AY-nehn-kahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  }
+ ]
+}

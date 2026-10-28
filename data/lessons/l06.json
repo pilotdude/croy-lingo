@@ -1,0 +1,1766 @@
+{
+ "n": 6,
+ "title": "Prepositions & More Verbs",
+ "words": [
+  {
+   "c": "",
+   "e": "angel, messenger",
+   "f": {
+    "acc": "τὸν ἄγγελον",
+    "dat": "τῷ ἀγγέλῳ",
+    "gen": "τοῦ ἀγγέλου"
+   },
+   "fp": {
+    "acc": "ton AHN-geh-lon",
+    "dat": "toh ahn-GEH-loh",
+    "gen": "too ahn-GEH-loo"
+   },
+   "g": "ἄγγελος, ὁ",
+   "gen": "m",
+   "id": "6:ἄγγελος",
+   "m": "\"angel\" is a direct cognate — the *messenger*",
+   "p": "noun",
+   "ph": "AHN-geh-los, ho"
+  },
+  {
+   "c": "+ gen",
+   "e": "from",
+   "g": "ἀπό",
+   "gen": "",
+   "id": "6:ἀπό",
+   "m": "\"apo-\" prefix, as in \"apostasy\" — falling away *from*",
+   "p": "preposition",
+   "ph": "ah-PO"
+  },
+  {
+   "c": "",
+   "e": "I throw, put, place",
+   "g": "βάλλω",
+   "gen": "",
+   "id": "6:βάλλω",
+   "m": "\"ballistic\" — something *thrown*",
+   "p": "verb",
+   "ph": "BAHL-loh",
+   "vf": [
+    {
+     "a": [
+      "I throw",
+      "I put",
+      "I place"
+     ],
+     "e": "I throw",
+     "g": "βάλλω",
+     "l": 2,
+     "ph": "BAHL-loh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you throw",
+      "you put",
+      "you place"
+     ],
+     "e": "you throw",
+     "g": "βάλλεις",
+     "l": 2,
+     "ph": "BAHL-lays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he throws",
+      "she throws",
+      "it throws",
+      "he puts",
+      "she puts",
+      "it puts",
+      "he places",
+      "she places",
+      "it places"
+     ],
+     "e": "he/she/it throws",
+     "g": "βάλλει",
+     "l": 2,
+     "ph": "BAHL-lay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we throw",
+      "we put",
+      "we place"
+     ],
+     "e": "we throw",
+     "g": "βάλλομεν",
+     "l": 2,
+     "ph": "BAHL-lo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all throw",
+      "you all throw",
+      "y'all put",
+      "you all put",
+      "y'all place",
+      "you all place"
+     ],
+     "e": "y'all throw",
+     "g": "βάλλετε",
+     "l": 2,
+     "ph": "BAHL-leh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they throw",
+      "they put",
+      "they place"
+     ],
+     "e": "they throw",
+     "g": "βάλλουσιν",
+     "l": 2,
+     "ph": "BAHL-loo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being thrown",
+      "I am thrown",
+      "I throw for myself",
+      "I throw myself",
+      "I am being put",
+      "I am put",
+      "I put for myself",
+      "I put myself",
+      "I am being placed",
+      "I am placed",
+      "I place for myself",
+      "I place myself"
+     ],
+     "e": "I am being thrown / I throw for myself",
+     "g": "βάλλομαι",
+     "l": 9,
+     "ph": "BAHL-lo-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being thrown",
+      "you are thrown",
+      "you throw for yourself",
+      "you throw yourself",
+      "you are being put",
+      "you are put",
+      "you put for yourself",
+      "you put yourself",
+      "you are being placed",
+      "you are placed",
+      "you place for yourself",
+      "you place yourself"
+     ],
+     "e": "you are being thrown / you throw for yourself",
+     "g": "βάλλῃ",
+     "l": 9,
+     "ph": "BAHL-lay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being thrown",
+      "she is being thrown",
+      "it is being thrown",
+      "he is thrown",
+      "she is thrown",
+      "it is thrown",
+      "he throws for himself",
+      "she throws for herself",
+      "it throws for itself",
+      "he throws himself",
+      "she throws herself",
+      "it throws itself",
+      "he is being put",
+      "she is being put",
+      "it is being put",
+      "he is put",
+      "she is put",
+      "it is put",
+      "he puts for himself",
+      "she puts for herself",
+      "it puts for itself",
+      "he puts himself",
+      "she puts herself",
+      "it puts itself",
+      "he is being placed",
+      "she is being placed",
+      "it is being placed",
+      "he is placed",
+      "she is placed",
+      "it is placed",
+      "he places for himself",
+      "she places for herself",
+      "it places for itself",
+      "he places himself",
+      "she places herself",
+      "it places itself"
+     ],
+     "e": "he/she/it is being thrown / he/she/it throws for himself/herself/itself",
+     "g": "βάλλεται",
+     "l": 9,
+     "ph": "BAHL-leh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being thrown",
+      "we are thrown",
+      "we throw for ourselves",
+      "we throw ourselves",
+      "we are being put",
+      "we are put",
+      "we put for ourselves",
+      "we put ourselves",
+      "we are being placed",
+      "we are placed",
+      "we place for ourselves",
+      "we place ourselves"
+     ],
+     "e": "we are being thrown / we throw for ourselves",
+     "g": "βαλλόμεθα",
+     "l": 9,
+     "ph": "bahl-LO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being thrown",
+      "you all are being thrown",
+      "y'all are thrown",
+      "you all are thrown",
+      "y'all throw for yourselves",
+      "you all throw for yourselves",
+      "y'all throw yourselves",
+      "you all throw yourselves",
+      "y'all are being put",
+      "you all are being put",
+      "y'all are put",
+      "you all are put",
+      "y'all put for yourselves",
+      "you all put for yourselves",
+      "y'all put yourselves",
+      "you all put yourselves",
+      "y'all are being placed",
+      "you all are being placed",
+      "y'all are placed",
+      "you all are placed",
+      "y'all place for yourselves",
+      "you all place for yourselves",
+      "y'all place yourselves",
+      "you all place yourselves"
+     ],
+     "e": "y'all are being thrown / y'all throw for yourselves",
+     "g": "βάλλεσθε",
+     "l": 9,
+     "ph": "BAHL-leh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being thrown",
+      "they are thrown",
+      "they throw for themselves",
+      "they throw themselves",
+      "they are being put",
+      "they are put",
+      "they put for themselves",
+      "they put themselves",
+      "they are being placed",
+      "they are placed",
+      "they place for themselves",
+      "they place themselves"
+     ],
+     "e": "they are being thrown / they throw for themselves",
+     "g": "βάλλονται",
+     "l": 9,
+     "ph": "BAHL-lon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was throwing",
+      "I threw",
+      "I used to throw",
+      "I was putting",
+      "I put",
+      "I used to put",
+      "I was placing",
+      "I placed",
+      "I used to place",
+      "they were throwing",
+      "they threw",
+      "they used to throw",
+      "they were putting",
+      "they put",
+      "they used to put",
+      "they were placing",
+      "they placed",
+      "they used to place"
+     ],
+     "e": "I was throwing / they were throwing",
+     "g": "ἔβαλλον",
+     "l": 10,
+     "ph": "EH-bahl-lon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were throwing",
+      "you threw",
+      "you used to throw",
+      "you were putting",
+      "you put",
+      "you used to put",
+      "you were placing",
+      "you placed",
+      "you used to place"
+     ],
+     "e": "you were throwing",
+     "g": "ἔβαλλες",
+     "l": 10,
+     "ph": "EH-bahl-lehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was throwing",
+      "she was throwing",
+      "it was throwing",
+      "he threw",
+      "she threw",
+      "it threw",
+      "he used to throw",
+      "she used to throw",
+      "it used to throw",
+      "he was putting",
+      "she was putting",
+      "it was putting",
+      "he put",
+      "she put",
+      "it put",
+      "he used to put",
+      "she used to put",
+      "it used to put",
+      "he was placing",
+      "she was placing",
+      "it was placing",
+      "he placed",
+      "she placed",
+      "it placed",
+      "he used to place",
+      "she used to place",
+      "it used to place"
+     ],
+     "e": "he/she/it was throwing",
+     "g": "ἔβαλλεν",
+     "l": 10,
+     "ph": "EH-bahl-lehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were throwing",
+      "we threw",
+      "we used to throw",
+      "we were putting",
+      "we put",
+      "we used to put",
+      "we were placing",
+      "we placed",
+      "we used to place"
+     ],
+     "e": "we were throwing",
+     "g": "ἐβάλλομεν",
+     "l": 10,
+     "ph": "eh-BAHL-lo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were throwing",
+      "you all were throwing",
+      "y'all threw",
+      "you all threw",
+      "y'all used to throw",
+      "you all used to throw",
+      "y'all were putting",
+      "you all were putting",
+      "y'all put",
+      "you all put",
+      "y'all used to put",
+      "you all used to put",
+      "y'all were placing",
+      "you all were placing",
+      "y'all placed",
+      "you all placed",
+      "y'all used to place",
+      "you all used to place"
+     ],
+     "e": "y'all were throwing",
+     "g": "ἐβάλλετε",
+     "l": 10,
+     "ph": "eh-BAHL-leh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being thrown",
+      "I was thrown",
+      "I was throwing for myself",
+      "I threw for myself",
+      "I was being put",
+      "I was put",
+      "I was putting for myself",
+      "I put for myself",
+      "I was being placed",
+      "I was placed",
+      "I was placing for myself",
+      "I placed for myself"
+     ],
+     "e": "I was being thrown / I was throwing for myself",
+     "g": "ἐβαλλόμην",
+     "l": 11,
+     "ph": "eh-bahl-LO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being thrown",
+      "you were thrown",
+      "you were throwing for yourself",
+      "you threw for yourself",
+      "you were being put",
+      "you were put",
+      "you were putting for yourself",
+      "you put for yourself",
+      "you were being placed",
+      "you were placed",
+      "you were placing for yourself",
+      "you placed for yourself"
+     ],
+     "e": "you were being thrown / you were throwing for yourself",
+     "g": "ἐβάλλου",
+     "l": 11,
+     "ph": "eh-BAHL-loo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being thrown",
+      "she was being thrown",
+      "it was being thrown",
+      "he was thrown",
+      "she was thrown",
+      "it was thrown",
+      "he was throwing for himself",
+      "she was throwing for herself",
+      "it was throwing for itself",
+      "he threw for himself",
+      "she threw for herself",
+      "it threw for itself",
+      "he was being put",
+      "she was being put",
+      "it was being put",
+      "he was put",
+      "she was put",
+      "it was put",
+      "he was putting for himself",
+      "she was putting for herself",
+      "it was putting for itself",
+      "he put for himself",
+      "she put for herself",
+      "it put for itself",
+      "he was being placed",
+      "she was being placed",
+      "it was being placed",
+      "he was placed",
+      "she was placed",
+      "it was placed",
+      "he was placing for himself",
+      "she was placing for herself",
+      "it was placing for itself",
+      "he placed for himself",
+      "she placed for herself",
+      "it placed for itself"
+     ],
+     "e": "he/she/it was being thrown / he/she/it was throwing for himself/herself/itself",
+     "g": "ἐβάλλετο",
+     "l": 11,
+     "ph": "eh-BAHL-leh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being thrown",
+      "we were thrown",
+      "we were throwing for ourselves",
+      "we threw for ourselves",
+      "we were being put",
+      "we were put",
+      "we were putting for ourselves",
+      "we put for ourselves",
+      "we were being placed",
+      "we were placed",
+      "we were placing for ourselves",
+      "we placed for ourselves"
+     ],
+     "e": "we were being thrown / we were throwing for ourselves",
+     "g": "ἐβαλλόμεθα",
+     "l": 11,
+     "ph": "eh-bahl-LO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being thrown",
+      "you all were being thrown",
+      "y'all were thrown",
+      "you all were thrown",
+      "y'all were throwing for yourselves",
+      "you all were throwing for yourselves",
+      "y'all threw for yourselves",
+      "you all threw for yourselves",
+      "y'all were being put",
+      "you all were being put",
+      "y'all were put",
+      "you all were put",
+      "y'all were putting for yourselves",
+      "you all were putting for yourselves",
+      "y'all put for yourselves",
+      "you all put for yourselves",
+      "y'all were being placed",
+      "you all were being placed",
+      "y'all were placed",
+      "you all were placed",
+      "y'all were placing for yourselves",
+      "you all were placing for yourselves",
+      "y'all placed for yourselves",
+      "you all placed for yourselves"
+     ],
+     "e": "y'all were being thrown / y'all were throwing for yourselves",
+     "g": "ἐβάλλεσθε",
+     "l": 11,
+     "ph": "eh-BAHL-leh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being thrown",
+      "they were thrown",
+      "they were throwing for themselves",
+      "they threw for themselves",
+      "they were being put",
+      "they were put",
+      "they were putting for themselves",
+      "they put for themselves",
+      "they were being placed",
+      "they were placed",
+      "they were placing for themselves",
+      "they placed for themselves"
+     ],
+     "e": "they were being thrown / they were throwing for themselves",
+     "g": "ἐβάλλοντο",
+     "l": 11,
+     "ph": "eh-BAHL-lon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I threw",
+      "I put",
+      "I placed",
+      "they threw",
+      "they put",
+      "they placed"
+     ],
+     "e": "I threw / they threw",
+     "g": "ἔβαλον",
+     "l": 14,
+     "ph": "EH-bah-lon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you threw",
+      "you put",
+      "you placed"
+     ],
+     "e": "you threw",
+     "g": "ἔβαλες",
+     "l": 14,
+     "ph": "EH-bah-lehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he threw",
+      "she threw",
+      "it threw",
+      "he put",
+      "she put",
+      "it put",
+      "he placed",
+      "she placed",
+      "it placed"
+     ],
+     "e": "he/she/it threw",
+     "g": "ἔβαλεν",
+     "l": 14,
+     "ph": "EH-bah-lehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we threw",
+      "we put",
+      "we placed"
+     ],
+     "e": "we threw",
+     "g": "ἐβάλομεν",
+     "l": 14,
+     "ph": "eh-BAH-lo-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all threw",
+      "you all threw",
+      "y'all put",
+      "you all put",
+      "y'all placed",
+      "you all placed"
+     ],
+     "e": "y'all threw",
+     "g": "ἐβάλετε",
+     "l": 14,
+     "ph": "eh-BAH-leh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "+ gen",
+   "e": "through",
+   "g": "διά",
+   "gen": "",
+   "id": "6:διά+gen",
+   "m": "\"dia-\" as in \"diameter\" — measuring *through* a circle",
+   "p": "preposition",
+   "ph": "dee-AH"
+  },
+  {
+   "c": "+ acc",
+   "e": "for the sake of, because",
+   "g": "διά",
+   "gen": "",
+   "id": "6:διά+acc",
+   "m": "same word, different case — the *reason* something's done",
+   "p": "preposition",
+   "ph": "dee-AH"
+  },
+  {
+   "c": "+ acc",
+   "e": "into, to, against",
+   "g": "εἰς",
+   "gen": "",
+   "id": "6:εἰς",
+   "m": "\"eisegesis\" — reading meaning *into* a text",
+   "p": "preposition",
+   "ph": "ays"
+  },
+  {
+   "c": "+ gen",
+   "e": "out of, by",
+   "g": "ἐκ, ἐξ",
+   "gen": "",
+   "id": "6:ἐκ",
+   "m": "\"exodus\" — a going *out of*",
+   "p": "preposition",
+   "ph": "ehk, ehks"
+  },
+  {
+   "c": "+ dat",
+   "e": "in",
+   "g": "ἐν",
+   "gen": "",
+   "id": "6:ἐν",
+   "m": "\"endemic,\" \"enthusiast\" — something *in*",
+   "p": "preposition",
+   "ph": "ehn"
+  },
+  {
+   "c": "",
+   "e": "desert",
+   "f": {
+    "acc": "τὴν ἔρημον",
+    "dat": "τῇ ἐρήμῳ",
+    "gen": "τῆς ἐρήμου"
+   },
+   "fp": {
+    "acc": "tayn EH-ray-mon",
+    "dat": "tay eh-RAY-moh",
+    "gen": "tays eh-RAY-moo"
+   },
+   "g": "ἔρημος, ἡ",
+   "gen": "f",
+   "id": "6:ἔρημος",
+   "m": "\"hermit\" — one who withdraws to the *desert*",
+   "p": "noun",
+   "ph": "EH-ray-mos, hay"
+  },
+  {
+   "c": "",
+   "e": "world",
+   "f": {
+    "acc": "τὸν κόσμον",
+    "dat": "τῷ κόσμῳ",
+    "gen": "τοῦ κόσμου"
+   },
+   "fp": {
+    "acc": "ton KO-smon",
+    "dat": "toh KO-smoh",
+    "gen": "too KO-smoo"
+   },
+   "g": "κόσμος, ὁ",
+   "gen": "m",
+   "id": "6:κόσμος",
+   "m": "\"cosmic,\" \"cosmos\" — the *world*/universe",
+   "p": "noun",
+   "ph": "KO-smos, ho"
+  },
+  {
+   "c": "",
+   "e": "stone",
+   "f": {
+    "acc": "τὸν λίθον",
+    "dat": "τῷ λίθῳ",
+    "gen": "τοῦ λίθου"
+   },
+   "fp": {
+    "acc": "ton LEE-thon",
+    "dat": "toh LEE-thoh",
+    "gen": "too LEE-thoo"
+   },
+   "g": "λίθος, ὁ",
+   "gen": "m",
+   "id": "6:λίθος",
+   "m": "\"monolith,\" \"lithosphere\" — made of *stone*",
+   "p": "noun",
+   "ph": "LEE-thos, ho"
+  },
+  {
+   "c": "",
+   "e": "disciple",
+   "f": {
+    "acc": "τὸν μαθητήν",
+    "dat": "τῷ μαθητῇ",
+    "gen": "τοῦ μαθητοῦ"
+   },
+   "fp": {
+    "acc": "ton mah-thay-TAYN",
+    "dat": "toh mah-thay-TAY",
+    "gen": "too mah-thay-TOO"
+   },
+   "g": "μαθητής, ὁ",
+   "gen": "m",
+   "id": "6:μαθητής",
+   "m": "\"mathematics\" — a *disciple* is one who learns/studies",
+   "p": "noun",
+   "ph": "mah-thay-TAYS, ho"
+  },
+  {
+   "c": "",
+   "e": "I remain, stay",
+   "g": "μένω",
+   "gen": "",
+   "id": "6:μένω",
+   "m": "\"permanent\" — what *remains*",
+   "p": "verb",
+   "ph": "MEH-noh",
+   "vf": [
+    {
+     "a": [
+      "I remain",
+      "I stay"
+     ],
+     "e": "I remain",
+     "g": "μένω",
+     "l": 2,
+     "ph": "MEH-noh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you remain",
+      "you stay"
+     ],
+     "e": "you remain",
+     "g": "μένεις",
+     "l": 2,
+     "ph": "MEH-nays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he remains",
+      "she remains",
+      "it remains",
+      "he stays",
+      "she stays",
+      "it stays"
+     ],
+     "e": "he/she/it remains",
+     "g": "μένει",
+     "l": 2,
+     "ph": "MEH-nay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we remain",
+      "we stay"
+     ],
+     "e": "we remain",
+     "g": "μένομεν",
+     "l": 2,
+     "ph": "MEH-no-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all remain",
+      "you all remain",
+      "y'all stay",
+      "you all stay"
+     ],
+     "e": "y'all remain",
+     "g": "μένετε",
+     "l": 2,
+     "ph": "MEH-neh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they remain",
+      "they stay"
+     ],
+     "e": "they remain",
+     "g": "μένουσιν",
+     "l": 2,
+     "ph": "MEH-noo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was remaining",
+      "I remained",
+      "I used to remain",
+      "I was staying",
+      "I stayed",
+      "I used to stay",
+      "they were remaining",
+      "they remained",
+      "they used to remain",
+      "they were staying",
+      "they stayed",
+      "they used to stay"
+     ],
+     "e": "I was remaining / they were remaining",
+     "g": "ἔμενον",
+     "l": 10,
+     "ph": "EH-meh-non",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were remaining",
+      "you remained",
+      "you used to remain",
+      "you were staying",
+      "you stayed",
+      "you used to stay"
+     ],
+     "e": "you were remaining",
+     "g": "ἔμενες",
+     "l": 10,
+     "ph": "EH-meh-nehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was remaining",
+      "she was remaining",
+      "it was remaining",
+      "he remained",
+      "she remained",
+      "it remained",
+      "he used to remain",
+      "she used to remain",
+      "it used to remain",
+      "he was staying",
+      "she was staying",
+      "it was staying",
+      "he stayed",
+      "she stayed",
+      "it stayed",
+      "he used to stay",
+      "she used to stay",
+      "it used to stay"
+     ],
+     "e": "he/she/it was remaining",
+     "g": "ἔμενεν",
+     "l": 10,
+     "ph": "EH-meh-nehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were remaining",
+      "we remained",
+      "we used to remain",
+      "we were staying",
+      "we stayed",
+      "we used to stay"
+     ],
+     "e": "we were remaining",
+     "g": "ἐμένομεν",
+     "l": 10,
+     "ph": "eh-MEH-no-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were remaining",
+      "you all were remaining",
+      "y'all remained",
+      "you all remained",
+      "y'all used to remain",
+      "you all used to remain",
+      "y'all were staying",
+      "you all were staying",
+      "y'all stayed",
+      "you all stayed",
+      "y'all used to stay",
+      "you all used to stay"
+     ],
+     "e": "y'all were remaining",
+     "g": "ἐμένετε",
+     "l": 10,
+     "ph": "eh-MEH-neh-teh",
+     "pn": "2p",
+     "t": "ia"
+    }
+   ]
+  },
+  {
+   "c": "+ gen",
+   "e": "with",
+   "g": "μετά",
+   "gen": "",
+   "id": "6:μετά+gen",
+   "m": "\"meta-\" — being *with*/alongside",
+   "p": "preposition",
+   "ph": "meh-TAH"
+  },
+  {
+   "c": "+ acc",
+   "e": "after, behind",
+   "g": "μετά",
+   "gen": "",
+   "id": "6:μετά+acc",
+   "m": "same word, different case — coming *after*",
+   "p": "preposition",
+   "ph": "meh-TAH"
+  },
+  {
+   "c": "",
+   "e": "way, road",
+   "f": {
+    "acc": "τὴν ὁδόν",
+    "dat": "τῇ ὁδῷ",
+    "gen": "τῆς ὁδοῦ"
+   },
+   "fp": {
+    "acc": "tayn ho-DON",
+    "dat": "tay ho-DOH",
+    "gen": "tays ho-DOO"
+   },
+   "g": "ὁδός, ἡ",
+   "gen": "f",
+   "id": "6:ὁδός",
+   "m": "\"odometer\" — measures distance along the *road*",
+   "p": "noun",
+   "ph": "ho-DOS, hay"
+  },
+  {
+   "c": "",
+   "e": "I send",
+   "g": "πέμπω",
+   "gen": "",
+   "id": "6:πέμπω",
+   "m": "sounds like \"pump\" — you *send* something through a pipe",
+   "p": "verb",
+   "ph": "PEHM-poh",
+   "vf": [
+    {
+     "a": [
+      "I send"
+     ],
+     "e": "I send",
+     "g": "πέμπω",
+     "l": 2,
+     "ph": "PEHM-poh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you send"
+     ],
+     "e": "you send",
+     "g": "πέμπεις",
+     "l": 2,
+     "ph": "PEHM-pays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he sends",
+      "she sends",
+      "it sends"
+     ],
+     "e": "he/she/it sends",
+     "g": "πέμπει",
+     "l": 2,
+     "ph": "PEHM-pay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we send"
+     ],
+     "e": "we send",
+     "g": "πέμπομεν",
+     "l": 2,
+     "ph": "PEHM-po-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all send",
+      "you all send"
+     ],
+     "e": "y'all send",
+     "g": "πέμπετε",
+     "l": 2,
+     "ph": "PEHM-peh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they send"
+     ],
+     "e": "they send",
+     "g": "πέμπουσιν",
+     "l": 2,
+     "ph": "PEHM-poo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being sent",
+      "I am sent",
+      "I send for myself",
+      "I send myself"
+     ],
+     "e": "I am being sent / I send for myself",
+     "g": "πέμπομαι",
+     "l": 9,
+     "ph": "PEHM-po-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being sent",
+      "you are sent",
+      "you send for yourself",
+      "you send yourself"
+     ],
+     "e": "you are being sent / you send for yourself",
+     "g": "πέμπῃ",
+     "l": 9,
+     "ph": "PEHM-pay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being sent",
+      "she is being sent",
+      "it is being sent",
+      "he is sent",
+      "she is sent",
+      "it is sent",
+      "he sends for himself",
+      "she sends for herself",
+      "it sends for itself",
+      "he sends himself",
+      "she sends herself",
+      "it sends itself"
+     ],
+     "e": "he/she/it is being sent / he/she/it sends for himself/herself/itself",
+     "g": "πέμπεται",
+     "l": 9,
+     "ph": "PEHM-peh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being sent",
+      "we are sent",
+      "we send for ourselves",
+      "we send ourselves"
+     ],
+     "e": "we are being sent / we send for ourselves",
+     "g": "πεμπόμεθα",
+     "l": 9,
+     "ph": "pehm-PO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being sent",
+      "you all are being sent",
+      "y'all are sent",
+      "you all are sent",
+      "y'all send for yourselves",
+      "you all send for yourselves",
+      "y'all send yourselves",
+      "you all send yourselves"
+     ],
+     "e": "y'all are being sent / y'all send for yourselves",
+     "g": "πέμπεσθε",
+     "l": 9,
+     "ph": "PEHM-peh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being sent",
+      "they are sent",
+      "they send for themselves",
+      "they send themselves"
+     ],
+     "e": "they are being sent / they send for themselves",
+     "g": "πέμπονται",
+     "l": 9,
+     "ph": "PEHM-pon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was sending",
+      "I sent",
+      "I used to send",
+      "they were sending",
+      "they sent",
+      "they used to send"
+     ],
+     "e": "I was sending / they were sending",
+     "g": "ἔπεμπον",
+     "l": 10,
+     "ph": "EH-pehm-pon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were sending",
+      "you sent",
+      "you used to send"
+     ],
+     "e": "you were sending",
+     "g": "ἔπεμπες",
+     "l": 10,
+     "ph": "EH-pehm-pehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was sending",
+      "she was sending",
+      "it was sending",
+      "he sent",
+      "she sent",
+      "it sent",
+      "he used to send",
+      "she used to send",
+      "it used to send"
+     ],
+     "e": "he/she/it was sending",
+     "g": "ἔπεμπεν",
+     "l": 10,
+     "ph": "EH-pehm-pehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were sending",
+      "we sent",
+      "we used to send"
+     ],
+     "e": "we were sending",
+     "g": "ἐπέμπομεν",
+     "l": 10,
+     "ph": "eh-PEHM-po-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were sending",
+      "you all were sending",
+      "y'all sent",
+      "you all sent",
+      "y'all used to send",
+      "you all used to send"
+     ],
+     "e": "y'all were sending",
+     "g": "ἐπέμπετε",
+     "l": 10,
+     "ph": "eh-PEHM-peh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being sent",
+      "I was sent",
+      "I was sending for myself",
+      "I sent for myself"
+     ],
+     "e": "I was being sent / I was sending for myself",
+     "g": "ἐπεμπόμην",
+     "l": 11,
+     "ph": "eh-pehm-PO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being sent",
+      "you were sent",
+      "you were sending for yourself",
+      "you sent for yourself"
+     ],
+     "e": "you were being sent / you were sending for yourself",
+     "g": "ἐπέμπου",
+     "l": 11,
+     "ph": "eh-PEHM-poo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being sent",
+      "she was being sent",
+      "it was being sent",
+      "he was sent",
+      "she was sent",
+      "it was sent",
+      "he was sending for himself",
+      "she was sending for herself",
+      "it was sending for itself",
+      "he sent for himself",
+      "she sent for herself",
+      "it sent for itself"
+     ],
+     "e": "he/she/it was being sent / he/she/it was sending for himself/herself/itself",
+     "g": "ἐπέμπετο",
+     "l": 11,
+     "ph": "eh-PEHM-peh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being sent",
+      "we were sent",
+      "we were sending for ourselves",
+      "we sent for ourselves"
+     ],
+     "e": "we were being sent / we were sending for ourselves",
+     "g": "ἐπεμπόμεθα",
+     "l": 11,
+     "ph": "eh-pehm-PO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being sent",
+      "you all were being sent",
+      "y'all were sent",
+      "you all were sent",
+      "y'all were sending for yourselves",
+      "you all were sending for yourselves",
+      "y'all sent for yourselves",
+      "you all sent for yourselves"
+     ],
+     "e": "y'all were being sent / y'all were sending for yourselves",
+     "g": "ἐπέμπεσθε",
+     "l": 11,
+     "ph": "eh-PEHM-peh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being sent",
+      "they were sent",
+      "they were sending for themselves",
+      "they sent for themselves"
+     ],
+     "e": "they were being sent / they were sending for themselves",
+     "g": "ἐπέμποντο",
+     "l": 11,
+     "ph": "eh-PEHM-pon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will send"
+     ],
+     "e": "I will send",
+     "g": "πέμψω",
+     "l": 12,
+     "ph": "PEHM-psoh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will send"
+     ],
+     "e": "you will send",
+     "g": "πέμψεις",
+     "l": 12,
+     "ph": "PEHM-psays",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will send",
+      "she will send",
+      "it will send"
+     ],
+     "e": "he/she/it will send",
+     "g": "πέμψει",
+     "l": 12,
+     "ph": "PEHM-psay",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will send"
+     ],
+     "e": "we will send",
+     "g": "πέμψομεν",
+     "l": 12,
+     "ph": "PEHM-pso-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will send",
+      "you all will send"
+     ],
+     "e": "y'all will send",
+     "g": "πέμψετε",
+     "l": 12,
+     "ph": "PEHM-pseh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will send"
+     ],
+     "e": "they will send",
+     "g": "πέμψουσιν",
+     "l": 12,
+     "ph": "PEHM-psoo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will send for myself",
+      "I will send myself"
+     ],
+     "e": "I will send for myself",
+     "g": "πέμψομαι",
+     "l": 12,
+     "ph": "PEHM-pso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will send for yourself",
+      "you will send yourself"
+     ],
+     "e": "you will send for yourself",
+     "g": "πέμψῃ",
+     "l": 12,
+     "ph": "PEHM-psay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will send for himself",
+      "he will send himself",
+      "she will send for herself",
+      "she will send herself",
+      "it will send for itself",
+      "it will send itself"
+     ],
+     "e": "he/she/it will send for himself/herself/itself",
+     "g": "πέμψεται",
+     "l": 12,
+     "ph": "PEHM-pseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will send for ourselves",
+      "we will send ourselves"
+     ],
+     "e": "we will send for ourselves",
+     "g": "πεμψόμεθα",
+     "l": 12,
+     "ph": "pehm-PSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will send for yourselves",
+      "y'all will send yourselves",
+      "you all will send for yourselves",
+      "you all will send yourselves"
+     ],
+     "e": "y'all will send for yourselves",
+     "g": "πέμψεσθε",
+     "l": 12,
+     "ph": "PEHM-pseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will send for themselves",
+      "they will send themselves"
+     ],
+     "e": "they will send for themselves",
+     "g": "πέμψονται",
+     "l": 12,
+     "ph": "PEHM-pson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I sent"
+     ],
+     "e": "I sent",
+     "g": "ἔπεμψα",
+     "l": 13,
+     "ph": "EH-pehm-psah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you sent"
+     ],
+     "e": "you sent",
+     "g": "ἔπεμψας",
+     "l": 13,
+     "ph": "EH-pehm-psahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he sent",
+      "she sent",
+      "it sent"
+     ],
+     "e": "he/she/it sent",
+     "g": "ἔπεμψεν",
+     "l": 13,
+     "ph": "EH-pehm-psehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we sent"
+     ],
+     "e": "we sent",
+     "g": "ἐπέμψαμεν",
+     "l": 13,
+     "ph": "eh-PEHM-psah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all sent",
+      "you all sent"
+     ],
+     "e": "y'all sent",
+     "g": "ἐπέμψατε",
+     "l": 13,
+     "ph": "eh-PEHM-psah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they sent"
+     ],
+     "e": "they sent",
+     "g": "ἔπεμψαν",
+     "l": 13,
+     "ph": "EH-pehm-psahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I sent for myself",
+      "I sent myself"
+     ],
+     "e": "I sent for myself",
+     "g": "ἐπεμψάμην",
+     "l": 13,
+     "ph": "eh-pehm-PSAH-mayn",
+     "pn": "1s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "you sent for yourself",
+      "you sent yourself"
+     ],
+     "e": "you sent for yourself",
+     "g": "ἐπέμψω",
+     "l": 13,
+     "ph": "eh-PEHM-psoh",
+     "pn": "2s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "he sent for himself",
+      "he sent himself",
+      "she sent for herself",
+      "she sent herself",
+      "it sent for itself",
+      "it sent itself"
+     ],
+     "e": "he/she/it sent for himself/herself/itself",
+     "g": "ἐπέμψατο",
+     "l": 13,
+     "ph": "eh-PEHM-psah-to",
+     "pn": "3s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "we sent for ourselves",
+      "we sent ourselves"
+     ],
+     "e": "we sent for ourselves",
+     "g": "ἐπεμψάμεθα",
+     "l": 13,
+     "ph": "eh-pehm-PSAH-meh-thah",
+     "pn": "1p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "y'all sent for yourselves",
+      "y'all sent yourselves",
+      "you all sent for yourselves",
+      "you all sent yourselves"
+     ],
+     "e": "y'all sent for yourselves",
+     "g": "ἐπέμψασθε",
+     "l": 13,
+     "ph": "eh-PEHM-psah-stheh",
+     "pn": "2p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "they sent for themselves",
+      "they sent themselves"
+     ],
+     "e": "they sent for themselves",
+     "g": "ἐπέμψαντο",
+     "l": 13,
+     "ph": "eh-PEHM-psahn-to",
+     "pn": "3p",
+     "t": "am",
+     "tl": "aorist middle"
+    }
+   ]
+  },
+  {
+   "c": "+ gen",
+   "e": "about, concerning",
+   "g": "περί",
+   "gen": "",
+   "id": "6:περί+gen",
+   "m": "\"peri-\" as in a report revolving *about* a topic",
+   "p": "preposition",
+   "ph": "peh-REE"
+  },
+  {
+   "c": "+ acc",
+   "e": "around",
+   "g": "περί",
+   "gen": "",
+   "id": "6:περί+acc",
+   "m": "\"perimeter\" — the boundary *around* something",
+   "p": "preposition",
+   "ph": "peh-REE"
+  },
+  {
+   "c": "+ acc",
+   "e": "to, toward",
+   "g": "πρός",
+   "gen": "",
+   "id": "6:πρός",
+   "m": "\"proselyte\" — one brought *toward*/over to a new faith",
+   "p": "preposition",
+   "ph": "pros"
+  },
+  {
+   "c": "",
+   "e": "prophet",
+   "f": {
+    "acc": "τὸν προφήτην",
+    "dat": "τῷ προφήτῃ",
+    "gen": "τοῦ προφήτου"
+   },
+   "fp": {
+    "acc": "ton pro-FAY-tayn",
+    "dat": "toh pro-FAY-tay",
+    "gen": "too pro-FAY-too"
+   },
+   "g": "προφήτης, ὁ",
+   "gen": "m",
+   "id": "6:προφήτης",
+   "m": "\"prophet\" is a direct cognate — one who speaks *forth*",
+   "p": "noun",
+   "ph": "pro-FAY-tays, ho"
+  }
+ ]
+}

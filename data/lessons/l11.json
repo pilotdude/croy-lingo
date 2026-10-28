@@ -1,0 +1,1398 @@
+{
+ "n": 11,
+ "title": "The Imperfect Middle/Passive Indicative",
+ "words": [
+  {
+   "c": "",
+   "e": "amen, truly",
+   "g": "ἀμήν",
+   "gen": "",
+   "id": "11:ἀμήν",
+   "m": "\"amen\" the word that seals a prayer as *truly* so",
+   "p": "other",
+   "ph": "ah-MAYN"
+  },
+  {
+   "c": "",
+   "e": "book",
+   "f": {
+    "acc": "τὸ βιβλίον",
+    "dat": "τῷ βιβλίῳ",
+    "gen": "τοῦ βιβλίου"
+   },
+   "fp": {
+    "acc": "to bee-BLEE-on",
+    "dat": "toh bee-BLEE-oh",
+    "gen": "too bee-BLEE-oo"
+   },
+   "g": "βιβλίον, τό",
+   "gen": "n",
+   "id": "11:βιβλίον",
+   "m": "\"Bible,\" \"bibliography,\" \"bibliophile\" — all about *books*",
+   "p": "noun",
+   "ph": "bee-BLEE-on, to"
+  },
+  {
+   "c": "",
+   "e": "demon",
+   "f": {
+    "acc": "τὸ δαιμόνιον",
+    "dat": "τῷ δαιμονίῳ",
+    "gen": "τοῦ δαιμονίου"
+   },
+   "fp": {
+    "acc": "to dai-MO-nee-on",
+    "dat": "toh dai-mo-NEE-oh",
+    "gen": "too dai-mo-NEE-oo"
+   },
+   "g": "δαιμόνιον, τό",
+   "gen": "n",
+   "id": "11:δαιμόνιον",
+   "m": "\"demon,\" \"demonic\" — a direct cognate",
+   "p": "noun",
+   "ph": "dai-MO-nee-on, to"
+  },
+  {
+   "c": "",
+   "e": "I receive, accept",
+   "g": "δέχομαι",
+   "gen": "",
+   "id": "11:δέχομαι",
+   "m": "deponent -ομαι ending (L9: active meaning); sounds like \"deck-o-my\" — you *receive* a deck of cards and *accept* the hand; compare λαμβάνω (L5, take/receive)",
+   "p": "verb",
+   "ph": "DEH-kho-mai",
+   "vf": [
+    {
+     "a": [
+      "I receive",
+      "I accept"
+     ],
+     "e": "I receive",
+     "g": "δέχομαι",
+     "l": 9,
+     "ph": "DEH-kho-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you receive",
+      "you accept"
+     ],
+     "e": "you receive",
+     "g": "δέχῃ",
+     "l": 9,
+     "ph": "DEH-khay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he receives",
+      "she receives",
+      "it receives",
+      "he accepts",
+      "she accepts",
+      "it accepts"
+     ],
+     "e": "he/she/it receives",
+     "g": "δέχεται",
+     "l": 9,
+     "ph": "DEH-kheh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we receive",
+      "we accept"
+     ],
+     "e": "we receive",
+     "g": "δεχόμεθα",
+     "l": 9,
+     "ph": "deh-KHO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all receive",
+      "you all receive",
+      "y'all accept",
+      "you all accept"
+     ],
+     "e": "y'all receive",
+     "g": "δέχεσθε",
+     "l": 9,
+     "ph": "DEH-kheh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they receive",
+      "they accept"
+     ],
+     "e": "they receive",
+     "g": "δέχονται",
+     "l": 9,
+     "ph": "DEH-khon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was receiving",
+      "I received",
+      "I used to receive",
+      "I was accepting",
+      "I accepted",
+      "I used to accept"
+     ],
+     "e": "I was receiving",
+     "g": "ἐδεχόμην",
+     "l": 11,
+     "ph": "eh-deh-KHO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were receiving",
+      "you received",
+      "you used to receive",
+      "you were accepting",
+      "you accepted",
+      "you used to accept"
+     ],
+     "e": "you were receiving",
+     "g": "ἐδέχου",
+     "l": 11,
+     "ph": "eh-DEH-khoo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was receiving",
+      "she was receiving",
+      "it was receiving",
+      "he received",
+      "she received",
+      "it received",
+      "he used to receive",
+      "she used to receive",
+      "it used to receive",
+      "he was accepting",
+      "she was accepting",
+      "it was accepting",
+      "he accepted",
+      "she accepted",
+      "it accepted",
+      "he used to accept",
+      "she used to accept",
+      "it used to accept"
+     ],
+     "e": "he/she/it was receiving",
+     "g": "ἐδέχετο",
+     "l": 11,
+     "ph": "eh-DEH-kheh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were receiving",
+      "we received",
+      "we used to receive",
+      "we were accepting",
+      "we accepted",
+      "we used to accept"
+     ],
+     "e": "we were receiving",
+     "g": "ἐδεχόμεθα",
+     "l": 11,
+     "ph": "eh-deh-KHO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were receiving",
+      "you all were receiving",
+      "y'all received",
+      "you all received",
+      "y'all used to receive",
+      "you all used to receive",
+      "y'all were accepting",
+      "you all were accepting",
+      "y'all accepted",
+      "you all accepted",
+      "y'all used to accept",
+      "you all used to accept"
+     ],
+     "e": "y'all were receiving",
+     "g": "ἐδέχεσθε",
+     "l": 11,
+     "ph": "eh-DEH-kheh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were receiving",
+      "they received",
+      "they used to receive",
+      "they were accepting",
+      "they accepted",
+      "they used to accept"
+     ],
+     "e": "they were receiving",
+     "g": "ἐδέχοντο",
+     "l": 11,
+     "ph": "eh-DEH-khon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will receive",
+      "I will accept"
+     ],
+     "e": "I will receive",
+     "g": "δέξομαι",
+     "l": 12,
+     "ph": "DEH-kso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will receive",
+      "you will accept"
+     ],
+     "e": "you will receive",
+     "g": "δέξῃ",
+     "l": 12,
+     "ph": "DEH-ksay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will receive",
+      "she will receive",
+      "it will receive",
+      "he will accept",
+      "she will accept",
+      "it will accept"
+     ],
+     "e": "he/she/it will receive",
+     "g": "δέξεται",
+     "l": 12,
+     "ph": "DEH-kseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will receive",
+      "we will accept"
+     ],
+     "e": "we will receive",
+     "g": "δεξόμεθα",
+     "l": 12,
+     "ph": "deh-KSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will receive",
+      "you all will receive",
+      "y'all will accept",
+      "you all will accept"
+     ],
+     "e": "y'all will receive",
+     "g": "δέξεσθε",
+     "l": 12,
+     "ph": "DEH-kseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will receive",
+      "they will accept"
+     ],
+     "e": "they will receive",
+     "g": "δέξονται",
+     "l": 12,
+     "ph": "DEH-kson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I received",
+      "I accepted"
+     ],
+     "e": "I received",
+     "g": "ἐδεξάμην",
+     "l": 13,
+     "ph": "eh-deh-KSAH-mayn",
+     "pn": "1s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "you received",
+      "you accepted"
+     ],
+     "e": "you received",
+     "g": "ἐδέξω",
+     "l": 13,
+     "ph": "eh-DEH-ksoh",
+     "pn": "2s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "he received",
+      "she received",
+      "it received",
+      "he accepted",
+      "she accepted",
+      "it accepted"
+     ],
+     "e": "he/she/it received",
+     "g": "ἐδέξατο",
+     "l": 13,
+     "ph": "eh-DEH-ksah-to",
+     "pn": "3s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "we received",
+      "we accepted"
+     ],
+     "e": "we received",
+     "g": "ἐδεξάμεθα",
+     "l": 13,
+     "ph": "eh-deh-KSAH-meh-thah",
+     "pn": "1p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "y'all received",
+      "you all received",
+      "y'all accepted",
+      "you all accepted"
+     ],
+     "e": "y'all received",
+     "g": "ἐδέξασθε",
+     "l": 13,
+     "ph": "eh-DEH-ksah-stheh",
+     "pn": "2p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "they received",
+      "they accepted"
+     ],
+     "e": "they received",
+     "g": "ἐδέξαντο",
+     "l": 13,
+     "ph": "eh-DEH-ksahn-to",
+     "pn": "3p",
+     "t": "am",
+     "tl": "aorist middle"
+    }
+   ]
+  },
+  {
+   "c": "+ gen",
+   "e": "on, upon, over",
+   "g": "ἐπί",
+   "gen": "",
+   "id": "11:ἐπί+gen",
+   "m": "\"epidermis\" — skin, the layer *on* the body; \"epitaph\" — words *on* a tomb",
+   "p": "preposition",
+   "ph": "eh-PEE"
+  },
+  {
+   "c": "+ dat",
+   "e": "on, at, in addition to",
+   "g": "ἐπί",
+   "gen": "",
+   "id": "11:ἐπί+dat",
+   "m": "\"epidermis\" — skin, the layer *on* the body; \"epitaph\" — words *on* a tomb",
+   "p": "preposition",
+   "ph": "eh-PEE"
+  },
+  {
+   "c": "+ acc",
+   "e": "on, over, toward, for",
+   "g": "ἐπί",
+   "gen": "",
+   "id": "11:ἐπί+acc",
+   "m": "\"epidermis\" — skin, the layer *on* the body; \"epitaph\" — words *on* a tomb",
+   "p": "preposition",
+   "ph": "eh-PEE"
+  },
+  {
+   "c": "",
+   "e": "yet, still",
+   "g": "ἔτι",
+   "gen": "",
+   "id": "11:ἔτι",
+   "m": "sounds like \"eh-tee\" → \"*yet*\" — it's *still* going",
+   "p": "other",
+   "ph": "EH-tee"
+  },
+  {
+   "c": "",
+   "e": "I heal, serve",
+   "g": "θεραπεύω",
+   "gen": "",
+   "id": "11:θεραπεύω",
+   "m": "\"therapy,\" — to *heal* by *serving* a patient",
+   "p": "verb",
+   "ph": "theh-rah-PYOO-oh",
+   "vf": [
+    {
+     "a": [
+      "I heal",
+      "I serve"
+     ],
+     "e": "I heal",
+     "g": "θεραπεύω",
+     "l": 2,
+     "ph": "theh-rah-PYOO-oh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you heal",
+      "you serve"
+     ],
+     "e": "you heal",
+     "g": "θεραπεύεις",
+     "l": 2,
+     "ph": "theh-rah-PYOO-ays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he heals",
+      "she heals",
+      "it heals",
+      "he serves",
+      "she serves",
+      "it serves"
+     ],
+     "e": "he/she/it heals",
+     "g": "θεραπεύει",
+     "l": 2,
+     "ph": "theh-rah-PYOO-ay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we heal",
+      "we serve"
+     ],
+     "e": "we heal",
+     "g": "θεραπεύομεν",
+     "l": 2,
+     "ph": "theh-rah-PYOO-o-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all heal",
+      "you all heal",
+      "y'all serve",
+      "you all serve"
+     ],
+     "e": "y'all heal",
+     "g": "θεραπεύετε",
+     "l": 2,
+     "ph": "theh-rah-PYOO-eh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they heal",
+      "they serve"
+     ],
+     "e": "they heal",
+     "g": "θεραπεύουσιν",
+     "l": 2,
+     "ph": "theh-rah-PYOO-oo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being healed",
+      "I am healed",
+      "I heal for myself",
+      "I heal myself",
+      "I am being served",
+      "I am served",
+      "I serve for myself",
+      "I serve myself"
+     ],
+     "e": "I am being healed / I heal for myself",
+     "g": "θεραπεύομαι",
+     "l": 9,
+     "ph": "theh-rah-PYOO-o-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being healed",
+      "you are healed",
+      "you heal for yourself",
+      "you heal yourself",
+      "you are being served",
+      "you are served",
+      "you serve for yourself",
+      "you serve yourself"
+     ],
+     "e": "you are being healed / you heal for yourself",
+     "g": "θεραπεύῃ",
+     "l": 9,
+     "ph": "theh-rah-PYOO-ay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being healed",
+      "she is being healed",
+      "it is being healed",
+      "he is healed",
+      "she is healed",
+      "it is healed",
+      "he heals for himself",
+      "she heals for herself",
+      "it heals for itself",
+      "he heals himself",
+      "she heals herself",
+      "it heals itself",
+      "he is being served",
+      "she is being served",
+      "it is being served",
+      "he is served",
+      "she is served",
+      "it is served",
+      "he serves for himself",
+      "she serves for herself",
+      "it serves for itself",
+      "he serves himself",
+      "she serves herself",
+      "it serves itself"
+     ],
+     "e": "he/she/it is being healed / he/she/it heals for himself/herself/itself",
+     "g": "θεραπεύεται",
+     "l": 9,
+     "ph": "theh-rah-PYOO-eh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being healed",
+      "we are healed",
+      "we heal for ourselves",
+      "we heal ourselves",
+      "we are being served",
+      "we are served",
+      "we serve for ourselves",
+      "we serve ourselves"
+     ],
+     "e": "we are being healed / we heal for ourselves",
+     "g": "θεραπευόμεθα",
+     "l": 9,
+     "ph": "theh-rah-pyoo-O-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being healed",
+      "you all are being healed",
+      "y'all are healed",
+      "you all are healed",
+      "y'all heal for yourselves",
+      "you all heal for yourselves",
+      "y'all heal yourselves",
+      "you all heal yourselves",
+      "y'all are being served",
+      "you all are being served",
+      "y'all are served",
+      "you all are served",
+      "y'all serve for yourselves",
+      "you all serve for yourselves",
+      "y'all serve yourselves",
+      "you all serve yourselves"
+     ],
+     "e": "y'all are being healed / y'all heal for yourselves",
+     "g": "θεραπεύεσθε",
+     "l": 9,
+     "ph": "theh-rah-PYOO-eh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being healed",
+      "they are healed",
+      "they heal for themselves",
+      "they heal themselves",
+      "they are being served",
+      "they are served",
+      "they serve for themselves",
+      "they serve themselves"
+     ],
+     "e": "they are being healed / they heal for themselves",
+     "g": "θεραπεύονται",
+     "l": 9,
+     "ph": "theh-rah-PYOO-on-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was healing",
+      "I healed",
+      "I used to heal",
+      "I was serving",
+      "I served",
+      "I used to serve",
+      "they were healing",
+      "they healed",
+      "they used to heal",
+      "they were serving",
+      "they served",
+      "they used to serve"
+     ],
+     "e": "I was healing / they were healing",
+     "g": "ἐθεράπευον",
+     "l": 10,
+     "ph": "eh-theh-RAH-pyoo-on",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were healing",
+      "you healed",
+      "you used to heal",
+      "you were serving",
+      "you served",
+      "you used to serve"
+     ],
+     "e": "you were healing",
+     "g": "ἐθεράπευες",
+     "l": 10,
+     "ph": "eh-theh-RAH-pyoo-ehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was healing",
+      "she was healing",
+      "it was healing",
+      "he healed",
+      "she healed",
+      "it healed",
+      "he used to heal",
+      "she used to heal",
+      "it used to heal",
+      "he was serving",
+      "she was serving",
+      "it was serving",
+      "he served",
+      "she served",
+      "it served",
+      "he used to serve",
+      "she used to serve",
+      "it used to serve"
+     ],
+     "e": "he/she/it was healing",
+     "g": "ἐθεράπευεν",
+     "l": 10,
+     "ph": "eh-theh-RAH-pyoo-ehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were healing",
+      "we healed",
+      "we used to heal",
+      "we were serving",
+      "we served",
+      "we used to serve"
+     ],
+     "e": "we were healing",
+     "g": "ἐθεραπεύομεν",
+     "l": 10,
+     "ph": "eh-theh-rah-PYOO-o-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were healing",
+      "you all were healing",
+      "y'all healed",
+      "you all healed",
+      "y'all used to heal",
+      "you all used to heal",
+      "y'all were serving",
+      "you all were serving",
+      "y'all served",
+      "you all served",
+      "y'all used to serve",
+      "you all used to serve"
+     ],
+     "e": "y'all were healing",
+     "g": "ἐθεραπεύετε",
+     "l": 10,
+     "ph": "eh-theh-rah-PYOO-eh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being healed",
+      "I was healed",
+      "I was healing for myself",
+      "I healed for myself",
+      "I was being served",
+      "I was served",
+      "I was serving for myself",
+      "I served for myself"
+     ],
+     "e": "I was being healed / I was healing for myself",
+     "g": "ἐθεραπευόμην",
+     "l": 11,
+     "ph": "eh-theh-rah-pyoo-O-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being healed",
+      "you were healed",
+      "you were healing for yourself",
+      "you healed for yourself",
+      "you were being served",
+      "you were served",
+      "you were serving for yourself",
+      "you served for yourself"
+     ],
+     "e": "you were being healed / you were healing for yourself",
+     "g": "ἐθεραπεύου",
+     "l": 11,
+     "ph": "eh-theh-rah-PYOO-oo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being healed",
+      "she was being healed",
+      "it was being healed",
+      "he was healed",
+      "she was healed",
+      "it was healed",
+      "he was healing for himself",
+      "she was healing for herself",
+      "it was healing for itself",
+      "he healed for himself",
+      "she healed for herself",
+      "it healed for itself",
+      "he was being served",
+      "she was being served",
+      "it was being served",
+      "he was served",
+      "she was served",
+      "it was served",
+      "he was serving for himself",
+      "she was serving for herself",
+      "it was serving for itself",
+      "he served for himself",
+      "she served for herself",
+      "it served for itself"
+     ],
+     "e": "he/she/it was being healed / he/she/it was healing for himself/herself/itself",
+     "g": "ἐθεραπεύετο",
+     "l": 11,
+     "ph": "eh-theh-rah-PYOO-eh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being healed",
+      "we were healed",
+      "we were healing for ourselves",
+      "we healed for ourselves",
+      "we were being served",
+      "we were served",
+      "we were serving for ourselves",
+      "we served for ourselves"
+     ],
+     "e": "we were being healed / we were healing for ourselves",
+     "g": "ἐθεραπευόμεθα",
+     "l": 11,
+     "ph": "eh-theh-rah-pyoo-O-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being healed",
+      "you all were being healed",
+      "y'all were healed",
+      "you all were healed",
+      "y'all were healing for yourselves",
+      "you all were healing for yourselves",
+      "y'all healed for yourselves",
+      "you all healed for yourselves",
+      "y'all were being served",
+      "you all were being served",
+      "y'all were served",
+      "you all were served",
+      "y'all were serving for yourselves",
+      "you all were serving for yourselves",
+      "y'all served for yourselves",
+      "you all served for yourselves"
+     ],
+     "e": "y'all were being healed / y'all were healing for yourselves",
+     "g": "ἐθεραπεύεσθε",
+     "l": 11,
+     "ph": "eh-theh-rah-PYOO-eh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being healed",
+      "they were healed",
+      "they were healing for themselves",
+      "they healed for themselves",
+      "they were being served",
+      "they were served",
+      "they were serving for themselves",
+      "they served for themselves"
+     ],
+     "e": "they were being healed / they were healing for themselves",
+     "g": "ἐθεραπεύοντο",
+     "l": 11,
+     "ph": "eh-theh-rah-PYOO-on-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will heal",
+      "I will serve"
+     ],
+     "e": "I will heal",
+     "g": "θεραπεύσω",
+     "l": 12,
+     "ph": "theh-rah-PYOO-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will heal",
+      "you will serve"
+     ],
+     "e": "you will heal",
+     "g": "θεραπεύσεις",
+     "l": 12,
+     "ph": "theh-rah-PYOO-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will heal",
+      "she will heal",
+      "it will heal",
+      "he will serve",
+      "she will serve",
+      "it will serve"
+     ],
+     "e": "he/she/it will heal",
+     "g": "θεραπεύσει",
+     "l": 12,
+     "ph": "theh-rah-PYOO-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will heal",
+      "we will serve"
+     ],
+     "e": "we will heal",
+     "g": "θεραπεύσομεν",
+     "l": 12,
+     "ph": "theh-rah-PYOO-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will heal",
+      "you all will heal",
+      "y'all will serve",
+      "you all will serve"
+     ],
+     "e": "y'all will heal",
+     "g": "θεραπεύσετε",
+     "l": 12,
+     "ph": "theh-rah-PYOO-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will heal",
+      "they will serve"
+     ],
+     "e": "they will heal",
+     "g": "θεραπεύσουσιν",
+     "l": 12,
+     "ph": "theh-rah-PYOO-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will heal for myself",
+      "I will heal myself",
+      "I will serve for myself",
+      "I will serve myself"
+     ],
+     "e": "I will heal for myself",
+     "g": "θεραπεύσομαι",
+     "l": 12,
+     "ph": "theh-rah-PYOO-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will heal for yourself",
+      "you will heal yourself",
+      "you will serve for yourself",
+      "you will serve yourself"
+     ],
+     "e": "you will heal for yourself",
+     "g": "θεραπεύσῃ",
+     "l": 12,
+     "ph": "theh-rah-PYOO-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will heal for himself",
+      "he will heal himself",
+      "she will heal for herself",
+      "she will heal herself",
+      "it will heal for itself",
+      "it will heal itself",
+      "he will serve for himself",
+      "he will serve himself",
+      "she will serve for herself",
+      "she will serve herself",
+      "it will serve for itself",
+      "it will serve itself"
+     ],
+     "e": "he/she/it will heal for himself/herself/itself",
+     "g": "θεραπεύσεται",
+     "l": 12,
+     "ph": "theh-rah-PYOO-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will heal for ourselves",
+      "we will heal ourselves",
+      "we will serve for ourselves",
+      "we will serve ourselves"
+     ],
+     "e": "we will heal for ourselves",
+     "g": "θεραπευσόμεθα",
+     "l": 12,
+     "ph": "theh-rah-pyoo-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will heal for yourselves",
+      "y'all will heal yourselves",
+      "you all will heal for yourselves",
+      "you all will heal yourselves",
+      "y'all will serve for yourselves",
+      "y'all will serve yourselves",
+      "you all will serve for yourselves",
+      "you all will serve yourselves"
+     ],
+     "e": "y'all will heal for yourselves",
+     "g": "θεραπεύσεσθε",
+     "l": 12,
+     "ph": "theh-rah-PYOO-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will heal for themselves",
+      "they will heal themselves",
+      "they will serve for themselves",
+      "they will serve themselves"
+     ],
+     "e": "they will heal for themselves",
+     "g": "θεραπεύσονται",
+     "l": 12,
+     "ph": "theh-rah-PYOO-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I healed",
+      "I served"
+     ],
+     "e": "I healed",
+     "g": "ἐθεράπευσα",
+     "l": 13,
+     "ph": "eh-theh-RAH-pyoo-sah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you healed",
+      "you served"
+     ],
+     "e": "you healed",
+     "g": "ἐθεράπευσας",
+     "l": 13,
+     "ph": "eh-theh-RAH-pyoo-sahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he healed",
+      "she healed",
+      "it healed",
+      "he served",
+      "she served",
+      "it served"
+     ],
+     "e": "he/she/it healed",
+     "g": "ἐθεράπευσεν",
+     "l": 13,
+     "ph": "eh-theh-RAH-pyoo-sehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we healed",
+      "we served"
+     ],
+     "e": "we healed",
+     "g": "ἐθεραπεύσαμεν",
+     "l": 13,
+     "ph": "eh-theh-rah-PYOO-sah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all healed",
+      "you all healed",
+      "y'all served",
+      "you all served"
+     ],
+     "e": "y'all healed",
+     "g": "ἐθεραπεύσατε",
+     "l": 13,
+     "ph": "eh-theh-rah-PYOO-sah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they healed",
+      "they served"
+     ],
+     "e": "they healed",
+     "g": "ἐθεράπευσαν",
+     "l": 13,
+     "ph": "eh-theh-RAH-pyoo-sahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I healed for myself",
+      "I healed myself",
+      "I served for myself",
+      "I served myself"
+     ],
+     "e": "I healed for myself",
+     "g": "ἐθεραπευσάμην",
+     "l": 13,
+     "ph": "eh-theh-rah-pyoo-SAH-mayn",
+     "pn": "1s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "you healed for yourself",
+      "you healed yourself",
+      "you served for yourself",
+      "you served yourself"
+     ],
+     "e": "you healed for yourself",
+     "g": "ἐθεραπεύσω",
+     "l": 13,
+     "ph": "eh-theh-rah-PYOO-soh",
+     "pn": "2s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "he healed for himself",
+      "he healed himself",
+      "she healed for herself",
+      "she healed herself",
+      "it healed for itself",
+      "it healed itself",
+      "he served for himself",
+      "he served himself",
+      "she served for herself",
+      "she served herself",
+      "it served for itself",
+      "it served itself"
+     ],
+     "e": "he/she/it healed for himself/herself/itself",
+     "g": "ἐθεραπεύσατο",
+     "l": 13,
+     "ph": "eh-theh-rah-PYOO-sah-to",
+     "pn": "3s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "we healed for ourselves",
+      "we healed ourselves",
+      "we served for ourselves",
+      "we served ourselves"
+     ],
+     "e": "we healed for ourselves",
+     "g": "ἐθεραπευσάμεθα",
+     "l": 13,
+     "ph": "eh-theh-rah-pyoo-SAH-meh-thah",
+     "pn": "1p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "y'all healed for yourselves",
+      "y'all healed yourselves",
+      "you all healed for yourselves",
+      "you all healed yourselves",
+      "y'all served for yourselves",
+      "y'all served yourselves",
+      "you all served for yourselves",
+      "you all served yourselves"
+     ],
+     "e": "y'all healed for yourselves",
+     "g": "ἐθεραπεύσασθε",
+     "l": 13,
+     "ph": "eh-theh-rah-PYOO-sah-stheh",
+     "pn": "2p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "they healed for themselves",
+      "they healed themselves",
+      "they served for themselves",
+      "they served themselves"
+     ],
+     "e": "they healed for themselves",
+     "g": "ἐθεραπεύσαντο",
+     "l": 13,
+     "ph": "eh-theh-rah-PYOO-sahn-to",
+     "pn": "3p",
+     "t": "am",
+     "tl": "aorist middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "behold! see!",
+   "g": "ἰδού",
+   "gen": "",
+   "id": "11:ἰδού",
+   "m": "sounds like \"eye, do!\" — look or *behold!* with your eye",
+   "p": "other",
+   "ph": "ee-DOO"
+  },
+  {
+   "c": "",
+   "e": "on the one hand … on the other (or leave μέν untranslated) … but …",
+   "g": "μέν … δέ",
+   "gen": "",
+   "id": "11:μέν … δέ",
+   "m": "a pair: μέν sets up the first side, δέ answers — \"*men* on this side … *den* on that side\"",
+   "p": "conjunction",
+   "ph": "mehn … deh"
+  },
+  {
+   "c": "",
+   "e": "neither, nor",
+   "g": "οὔτε",
+   "gen": "",
+   "id": "11:οὔτε",
+   "m": "οὐ (not) + τέ (and) — \"not-and\" = *neither/nor*; compare οὐδέ (L9)",
+   "p": "conjunction",
+   "ph": "OO-teh"
+  },
+  {
+   "c": "",
+   "e": "eye (→ ophthalmology)",
+   "f": {
+    "acc": "τὸν ὀφθαλμόν",
+    "dat": "τῷ ὀφθαλμῷ",
+    "gen": "τοῦ ὀφθαλμοῦ"
+   },
+   "fp": {
+    "acc": "ton o-fthahl-MON",
+    "dat": "toh o-fthahl-MOH",
+    "gen": "too o-fthahl-MOO"
+   },
+   "g": "ὀφθαλμός, ὁ",
+   "gen": "m",
+   "id": "11:ὀφθαλμός",
+   "m": "\"ophthalmology\" — the doctor who treats the *eye*",
+   "p": "noun",
+   "ph": "o-fthahl-MOS, ho"
+  },
+  {
+   "c": "",
+   "e": "again (→ palimpsest)",
+   "g": "πάλιν",
+   "gen": "",
+   "id": "11:πάλιν",
+   "m": "\"palimpsest\" — a manuscript scraped clean and written on *again*",
+   "p": "other",
+   "ph": "PAH-leen"
+  },
+  {
+   "c": "",
+   "e": "and (a weak conjunction, often correlated with another τέ or καί)",
+   "g": "τέ",
+   "gen": "",
+   "id": "11:τέ",
+   "m": "tiny \"tee\" — a *weak* little \"and\" that links, like a golf *tee* holding up the next word; compare καί (L2), δέ (L4)",
+   "p": "conjunction",
+   "ph": "teh"
+  },
+  {
+   "c": "",
+   "e": "place (→ topography, topic)",
+   "f": {
+    "acc": "τὸν τόπον",
+    "dat": "τῷ τόπῳ",
+    "gen": "τοῦ τόπου"
+   },
+   "fp": {
+    "acc": "ton TO-pon",
+    "dat": "toh TO-poh",
+    "gen": "too TO-poo"
+   },
+   "g": "τόπος, ὁ",
+   "gen": "m",
+   "id": "11:τόπος",
+   "m": "\"topography\" — mapping a *place*; \"topic\" — a *place* in an argument",
+   "p": "noun",
+   "ph": "TO-pos, ho"
+  },
+  {
+   "c": "",
+   "e": "then",
+   "g": "τότε",
+   "gen": "",
+   "id": "11:τότε",
+   "m": "sounds like \"toe-teh\" — \"and *then* I stubbed my toe\"",
+   "p": "other",
+   "ph": "TO-teh"
+  }
+ ]
+}

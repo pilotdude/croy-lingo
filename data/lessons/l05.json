@@ -1,0 +1,751 @@
+{
+ "n": 5,
+ "title": "The Article",
+ "words": [
+  {
+   "c": "",
+   "e": "good, noble",
+   "g": "ἀγαθός, -ή, -όν",
+   "gen": "",
+   "id": "5:ἀγαθός",
+   "m": "\"a god, oh!\" — a noble exclamation",
+   "p": "adjective",
+   "ph": "ah-gah-THOS, -ay, -on"
+  },
+  {
+   "c": "",
+   "e": "holy, consecrated",
+   "g": "ἅγιος, -α, -ον",
+   "gen": "",
+   "id": "5:ἅγιος",
+   "m": "root of \"hagiography\" (writing about holy people)",
+   "p": "adjective",
+   "ph": "HAH-gee-os, -ah, -on"
+  },
+  {
+   "c": "",
+   "e": "for (postpositive, cannot be first word)",
+   "g": "γάρ",
+   "gen": "",
+   "id": "5:γάρ",
+   "m": "always explains a reason, like a footnote added after the fact",
+   "p": "conjunction",
+   "ph": "gahr"
+  },
+  {
+   "c": "",
+   "e": "righteous, just",
+   "g": "δίκαιος, -α, -ον",
+   "gen": "",
+   "id": "5:δίκαιος",
+   "m": "root of \"dictate justice\" — a judge rules justly",
+   "p": "adjective",
+   "ph": "DEE-kai-os, -ah, -on"
+  },
+  {
+   "c": "",
+   "e": "last (→ eschatology)",
+   "g": "ἔσχατος, -η, -ον",
+   "gen": "",
+   "id": "5:ἔσχατος",
+   "m": "\"eschatology\" = study of last things (end times)",
+   "p": "adjective",
+   "ph": "EH-skhah-tos, -ay, -on"
+  },
+  {
+   "c": "",
+   "e": "bad, evil",
+   "g": "κακός, -ή, -όν",
+   "gen": "",
+   "id": "5:κακός",
+   "m": "sounds like \"cacka\" — Poop is bad/rotten",
+   "p": "adjective",
+   "ph": "kah-KOS, -ay, -on"
+  },
+  {
+   "c": "",
+   "e": "good, beautiful (→ kaleidoscope)",
+   "g": "καλός, -ή, -όν",
+   "gen": "",
+   "id": "5:καλός",
+   "m": "\"kaleidoscope\" is a beautiful array of shapes",
+   "p": "adjective",
+   "ph": "kah-LOS, -ay, -on"
+  },
+  {
+   "c": "",
+   "e": "I take, receive",
+   "g": "λαμβάνω",
+   "gen": "",
+   "id": "5:λαμβάνω",
+   "m": "\"lamb, I take you\" — receiving a lamb as a gift",
+   "p": "verb",
+   "ph": "lahm-BAH-noh",
+   "vf": [
+    {
+     "a": [
+      "I take",
+      "I receive"
+     ],
+     "e": "I take",
+     "g": "λαμβάνω",
+     "l": 2,
+     "ph": "lahm-BAH-noh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you take",
+      "you receive"
+     ],
+     "e": "you take",
+     "g": "λαμβάνεις",
+     "l": 2,
+     "ph": "lahm-BAH-nays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he takes",
+      "she takes",
+      "it takes",
+      "he receives",
+      "she receives",
+      "it receives"
+     ],
+     "e": "he/she/it takes",
+     "g": "λαμβάνει",
+     "l": 2,
+     "ph": "lahm-BAH-nay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we take",
+      "we receive"
+     ],
+     "e": "we take",
+     "g": "λαμβάνομεν",
+     "l": 2,
+     "ph": "lahm-BAH-no-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all take",
+      "you all take",
+      "y'all receive",
+      "you all receive"
+     ],
+     "e": "y'all take",
+     "g": "λαμβάνετε",
+     "l": 2,
+     "ph": "lahm-BAH-neh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they take",
+      "they receive"
+     ],
+     "e": "they take",
+     "g": "λαμβάνουσιν",
+     "l": 2,
+     "ph": "lahm-BAH-noo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being taken",
+      "I am taken",
+      "I take for myself",
+      "I take myself",
+      "I am being received",
+      "I am received",
+      "I receive for myself",
+      "I receive myself"
+     ],
+     "e": "I am being taken / I take for myself",
+     "g": "λαμβάνομαι",
+     "l": 9,
+     "ph": "lahm-BAH-no-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being taken",
+      "you are taken",
+      "you take for yourself",
+      "you take yourself",
+      "you are being received",
+      "you are received",
+      "you receive for yourself",
+      "you receive yourself"
+     ],
+     "e": "you are being taken / you take for yourself",
+     "g": "λαμβάνῃ",
+     "l": 9,
+     "ph": "lahm-BAH-nay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being taken",
+      "she is being taken",
+      "it is being taken",
+      "he is taken",
+      "she is taken",
+      "it is taken",
+      "he takes for himself",
+      "she takes for herself",
+      "it takes for itself",
+      "he takes himself",
+      "she takes herself",
+      "it takes itself",
+      "he is being received",
+      "she is being received",
+      "it is being received",
+      "he is received",
+      "she is received",
+      "it is received",
+      "he receives for himself",
+      "she receives for herself",
+      "it receives for itself",
+      "he receives himself",
+      "she receives herself",
+      "it receives itself"
+     ],
+     "e": "he/she/it is being taken / he/she/it takes for himself/herself/itself",
+     "g": "λαμβάνεται",
+     "l": 9,
+     "ph": "lahm-BAH-neh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being taken",
+      "we are taken",
+      "we take for ourselves",
+      "we take ourselves",
+      "we are being received",
+      "we are received",
+      "we receive for ourselves",
+      "we receive ourselves"
+     ],
+     "e": "we are being taken / we take for ourselves",
+     "g": "λαμβανόμεθα",
+     "l": 9,
+     "ph": "lahm-bah-NO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being taken",
+      "you all are being taken",
+      "y'all are taken",
+      "you all are taken",
+      "y'all take for yourselves",
+      "you all take for yourselves",
+      "y'all take yourselves",
+      "you all take yourselves",
+      "y'all are being received",
+      "you all are being received",
+      "y'all are received",
+      "you all are received",
+      "y'all receive for yourselves",
+      "you all receive for yourselves",
+      "y'all receive yourselves",
+      "you all receive yourselves"
+     ],
+     "e": "y'all are being taken / y'all take for yourselves",
+     "g": "λαμβάνεσθε",
+     "l": 9,
+     "ph": "lahm-BAH-neh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being taken",
+      "they are taken",
+      "they take for themselves",
+      "they take themselves",
+      "they are being received",
+      "they are received",
+      "they receive for themselves",
+      "they receive themselves"
+     ],
+     "e": "they are being taken / they take for themselves",
+     "g": "λαμβάνονται",
+     "l": 9,
+     "ph": "lahm-BAH-non-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was taking",
+      "I took",
+      "I used to take",
+      "I was receiving",
+      "I received",
+      "I used to receive",
+      "they were taking",
+      "they took",
+      "they used to take",
+      "they were receiving",
+      "they received",
+      "they used to receive"
+     ],
+     "e": "I was taking / they were taking",
+     "g": "ἐλάμβανον",
+     "l": 10,
+     "ph": "eh-LAHM-bah-non",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were taking",
+      "you took",
+      "you used to take",
+      "you were receiving",
+      "you received",
+      "you used to receive"
+     ],
+     "e": "you were taking",
+     "g": "ἐλάμβανες",
+     "l": 10,
+     "ph": "eh-LAHM-bah-nehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was taking",
+      "she was taking",
+      "it was taking",
+      "he took",
+      "she took",
+      "it took",
+      "he used to take",
+      "she used to take",
+      "it used to take",
+      "he was receiving",
+      "she was receiving",
+      "it was receiving",
+      "he received",
+      "she received",
+      "it received",
+      "he used to receive",
+      "she used to receive",
+      "it used to receive"
+     ],
+     "e": "he/she/it was taking",
+     "g": "ἐλάμβανεν",
+     "l": 10,
+     "ph": "eh-LAHM-bah-nehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were taking",
+      "we took",
+      "we used to take",
+      "we were receiving",
+      "we received",
+      "we used to receive"
+     ],
+     "e": "we were taking",
+     "g": "ἐλαμβάνομεν",
+     "l": 10,
+     "ph": "eh-lahm-BAH-no-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were taking",
+      "you all were taking",
+      "y'all took",
+      "you all took",
+      "y'all used to take",
+      "you all used to take",
+      "y'all were receiving",
+      "you all were receiving",
+      "y'all received",
+      "you all received",
+      "y'all used to receive",
+      "you all used to receive"
+     ],
+     "e": "y'all were taking",
+     "g": "ἐλαμβάνετε",
+     "l": 10,
+     "ph": "eh-lahm-BAH-neh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being taken",
+      "I was taken",
+      "I was taking for myself",
+      "I took for myself",
+      "I was being received",
+      "I was received",
+      "I was receiving for myself",
+      "I received for myself"
+     ],
+     "e": "I was being taken / I was taking for myself",
+     "g": "ἐλαμβανόμην",
+     "l": 11,
+     "ph": "eh-lahm-bah-NO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being taken",
+      "you were taken",
+      "you were taking for yourself",
+      "you took for yourself",
+      "you were being received",
+      "you were received",
+      "you were receiving for yourself",
+      "you received for yourself"
+     ],
+     "e": "you were being taken / you were taking for yourself",
+     "g": "ἐλαμβάνου",
+     "l": 11,
+     "ph": "eh-lahm-BAH-noo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being taken",
+      "she was being taken",
+      "it was being taken",
+      "he was taken",
+      "she was taken",
+      "it was taken",
+      "he was taking for himself",
+      "she was taking for herself",
+      "it was taking for itself",
+      "he took for himself",
+      "she took for herself",
+      "it took for itself",
+      "he was being received",
+      "she was being received",
+      "it was being received",
+      "he was received",
+      "she was received",
+      "it was received",
+      "he was receiving for himself",
+      "she was receiving for herself",
+      "it was receiving for itself",
+      "he received for himself",
+      "she received for herself",
+      "it received for itself"
+     ],
+     "e": "he/she/it was being taken / he/she/it was taking for himself/herself/itself",
+     "g": "ἐλαμβάνετο",
+     "l": 11,
+     "ph": "eh-lahm-BAH-neh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being taken",
+      "we were taken",
+      "we were taking for ourselves",
+      "we took for ourselves",
+      "we were being received",
+      "we were received",
+      "we were receiving for ourselves",
+      "we received for ourselves"
+     ],
+     "e": "we were being taken / we were taking for ourselves",
+     "g": "ἐλαμβανόμεθα",
+     "l": 11,
+     "ph": "eh-lahm-bah-NO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being taken",
+      "you all were being taken",
+      "y'all were taken",
+      "you all were taken",
+      "y'all were taking for yourselves",
+      "you all were taking for yourselves",
+      "y'all took for yourselves",
+      "you all took for yourselves",
+      "y'all were being received",
+      "you all were being received",
+      "y'all were received",
+      "you all were received",
+      "y'all were receiving for yourselves",
+      "you all were receiving for yourselves",
+      "y'all received for yourselves",
+      "you all received for yourselves"
+     ],
+     "e": "y'all were being taken / y'all were taking for yourselves",
+     "g": "ἐλαμβάνεσθε",
+     "l": 11,
+     "ph": "eh-lahm-BAH-neh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being taken",
+      "they were taken",
+      "they were taking for themselves",
+      "they took for themselves",
+      "they were being received",
+      "they were received",
+      "they were receiving for themselves",
+      "they received for themselves"
+     ],
+     "e": "they were being taken / they were taking for themselves",
+     "g": "ἐλαμβάνοντο",
+     "l": 11,
+     "ph": "eh-lahm-BAH-non-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will take",
+      "I will receive"
+     ],
+     "e": "I will take",
+     "g": "λήμψομαι",
+     "l": 12,
+     "ph": "LAYM-pso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will take",
+      "you will receive"
+     ],
+     "e": "you will take",
+     "g": "λήμψῃ",
+     "l": 12,
+     "ph": "LAYM-psay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will take",
+      "she will take",
+      "it will take",
+      "he will receive",
+      "she will receive",
+      "it will receive"
+     ],
+     "e": "he/she/it will take",
+     "g": "λήμψεται",
+     "l": 12,
+     "ph": "LAYM-pseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will take",
+      "we will receive"
+     ],
+     "e": "we will take",
+     "g": "λημψόμεθα",
+     "l": 12,
+     "ph": "laym-PSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will take",
+      "you all will take",
+      "y'all will receive",
+      "you all will receive"
+     ],
+     "e": "y'all will take",
+     "g": "λήμψεσθε",
+     "l": 12,
+     "ph": "LAYM-pseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will take",
+      "they will receive"
+     ],
+     "e": "they will take",
+     "g": "λήμψονται",
+     "l": 12,
+     "ph": "LAYM-pson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I took",
+      "I received",
+      "they took",
+      "they received"
+     ],
+     "e": "I took / they took",
+     "g": "ἔλαβον",
+     "l": 14,
+     "ph": "EH-lah-bon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you took",
+      "you received"
+     ],
+     "e": "you took",
+     "g": "ἔλαβες",
+     "l": 14,
+     "ph": "EH-lah-behs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he took",
+      "she took",
+      "it took",
+      "he received",
+      "she received",
+      "it received"
+     ],
+     "e": "he/she/it took",
+     "g": "ἔλαβεν",
+     "l": 14,
+     "ph": "EH-lah-behn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we took",
+      "we received"
+     ],
+     "e": "we took",
+     "g": "ἐλάβομεν",
+     "l": 14,
+     "ph": "eh-LAH-bo-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all took",
+      "you all took",
+      "y'all received",
+      "you all received"
+     ],
+     "e": "y'all took",
+     "g": "ἐλάβετε",
+     "l": 14,
+     "ph": "eh-LAH-beh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "small, little",
+   "g": "μικρός, -ά, -όν",
+   "gen": "",
+   "id": "5:μικρός",
+   "m": "\"microscope\" — you need one to see small things",
+   "p": "adjective",
+   "ph": "mee-KROS, -ah, -on"
+  },
+  {
+   "c": "",
+   "e": "dead (→ necromancy)",
+   "g": "νεκρός, -ά, -όν",
+   "gen": "",
+   "id": "5:νεκρός",
+   "m": "\"necromancy\" — raising the dead",
+   "p": "adjective",
+   "ph": "neh-KROS, -ah, -on"
+  },
+  {
+   "c": "",
+   "e": "the",
+   "g": "ὁ, ἡ, τό",
+   "gen": "",
+   "id": "5:ὁ",
+   "m": "drill as a set; no mnemonic beats repetition",
+   "p": "pronoun",
+   "ph": "ho, hay, to"
+  },
+  {
+   "c": "",
+   "e": "faithful, believing",
+   "g": "πιστός, -ή, -όν",
+   "gen": "",
+   "id": "5:πιστός",
+   "m": "\"pistis\" = faith, so πιστός = \"faith-full\"",
+   "p": "adjective",
+   "ph": "pee-STOS, -ay, -on"
+  },
+  {
+   "c": "",
+   "e": "wicked, evil",
+   "g": "πονηρός, -ά, -όν",
+   "gen": "",
+   "id": "5:πονηρός",
+   "m": "\"pony, rob\" — a wicked pony robbing the stable",
+   "p": "adjective",
+   "ph": "po-nay-ROS, -ah, -on"
+  },
+  {
+   "c": "",
+   "e": "first (→ prototype)",
+   "g": "πρῶτος, -η, -ον",
+   "gen": "",
+   "id": "5:πρῶτος",
+   "m": "\"prototype\" — the first version of something",
+   "p": "adjective",
+   "ph": "PROH-tos, -ay, -on"
+  }
+ ]
+}

@@ -1,0 +1,3934 @@
+{
+ "n": 10,
+ "title": "Compound Verbs & More Prepositions",
+ "words": [
+  {
+   "c": "",
+   "e": "I lead",
+   "g": "ἄγω",
+   "gen": "",
+   "id": "10:ἄγω",
+   "m": "\"pedagogue\" (child-*leader*), \"demagogue\" (people-*leader*) — and the root of συνάγω (L10)",
+   "p": "verb",
+   "ph": "AH-goh",
+   "vf": [
+    {
+     "a": [
+      "I lead"
+     ],
+     "e": "I lead",
+     "g": "ἄγω",
+     "l": 2,
+     "ph": "AH-goh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you lead"
+     ],
+     "e": "you lead",
+     "g": "ἄγεις",
+     "l": 2,
+     "ph": "AH-gays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he leads",
+      "she leads",
+      "it leads"
+     ],
+     "e": "he/she/it leads",
+     "g": "ἄγει",
+     "l": 2,
+     "ph": "AH-gay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we lead"
+     ],
+     "e": "we lead",
+     "g": "ἄγομεν",
+     "l": 2,
+     "ph": "AH-go-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all lead",
+      "you all lead"
+     ],
+     "e": "y'all lead",
+     "g": "ἄγετε",
+     "l": 2,
+     "ph": "AH-geh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they lead"
+     ],
+     "e": "they lead",
+     "g": "ἄγουσιν",
+     "l": 2,
+     "ph": "AH-goo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being led",
+      "I am led",
+      "I lead for myself",
+      "I lead myself"
+     ],
+     "e": "I am being led / I lead for myself",
+     "g": "ἄγομαι",
+     "l": 9,
+     "ph": "AH-go-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being led",
+      "you are led",
+      "you lead for yourself",
+      "you lead yourself"
+     ],
+     "e": "you are being led / you lead for yourself",
+     "g": "ἄγῃ",
+     "l": 9,
+     "ph": "AH-gay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being led",
+      "she is being led",
+      "it is being led",
+      "he is led",
+      "she is led",
+      "it is led",
+      "he leads for himself",
+      "she leads for herself",
+      "it leads for itself",
+      "he leads himself",
+      "she leads herself",
+      "it leads itself"
+     ],
+     "e": "he/she/it is being led / he/she/it leads for himself/herself/itself",
+     "g": "ἄγεται",
+     "l": 9,
+     "ph": "AH-geh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being led",
+      "we are led",
+      "we lead for ourselves",
+      "we lead ourselves"
+     ],
+     "e": "we are being led / we lead for ourselves",
+     "g": "ἀγόμεθα",
+     "l": 9,
+     "ph": "ah-GO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being led",
+      "you all are being led",
+      "y'all are led",
+      "you all are led",
+      "y'all lead for yourselves",
+      "you all lead for yourselves",
+      "y'all lead yourselves",
+      "you all lead yourselves"
+     ],
+     "e": "y'all are being led / y'all lead for yourselves",
+     "g": "ἄγεσθε",
+     "l": 9,
+     "ph": "AH-geh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being led",
+      "they are led",
+      "they lead for themselves",
+      "they lead themselves"
+     ],
+     "e": "they are being led / they lead for themselves",
+     "g": "ἄγονται",
+     "l": 9,
+     "ph": "AH-gon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was leading",
+      "I led",
+      "I used to lead",
+      "they were leading",
+      "they led",
+      "they used to lead"
+     ],
+     "e": "I was leading / they were leading",
+     "g": "ἦγον",
+     "l": 10,
+     "ph": "AY-gon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were leading",
+      "you led",
+      "you used to lead"
+     ],
+     "e": "you were leading",
+     "g": "ἦγες",
+     "l": 10,
+     "ph": "AY-gehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was leading",
+      "she was leading",
+      "it was leading",
+      "he led",
+      "she led",
+      "it led",
+      "he used to lead",
+      "she used to lead",
+      "it used to lead"
+     ],
+     "e": "he/she/it was leading",
+     "g": "ἦγεν",
+     "l": 10,
+     "ph": "AY-gehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were leading",
+      "we led",
+      "we used to lead"
+     ],
+     "e": "we were leading",
+     "g": "ἤγομεν",
+     "l": 10,
+     "ph": "AY-go-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were leading",
+      "you all were leading",
+      "y'all led",
+      "you all led",
+      "y'all used to lead",
+      "you all used to lead"
+     ],
+     "e": "y'all were leading",
+     "g": "ἤγετε",
+     "l": 10,
+     "ph": "AY-geh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being led",
+      "I was led",
+      "I was leading for myself",
+      "I led for myself"
+     ],
+     "e": "I was being led / I was leading for myself",
+     "g": "ἠγόμην",
+     "l": 11,
+     "ph": "ay-GO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being led",
+      "you were led",
+      "you were leading for yourself",
+      "you led for yourself"
+     ],
+     "e": "you were being led / you were leading for yourself",
+     "g": "ἤγου",
+     "l": 11,
+     "ph": "AY-goo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being led",
+      "she was being led",
+      "it was being led",
+      "he was led",
+      "she was led",
+      "it was led",
+      "he was leading for himself",
+      "she was leading for herself",
+      "it was leading for itself",
+      "he led for himself",
+      "she led for herself",
+      "it led for itself"
+     ],
+     "e": "he/she/it was being led / he/she/it was leading for himself/herself/itself",
+     "g": "ἤγετο",
+     "l": 11,
+     "ph": "AY-geh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being led",
+      "we were led",
+      "we were leading for ourselves",
+      "we led for ourselves"
+     ],
+     "e": "we were being led / we were leading for ourselves",
+     "g": "ἠγόμεθα",
+     "l": 11,
+     "ph": "ay-GO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being led",
+      "you all were being led",
+      "y'all were led",
+      "you all were led",
+      "y'all were leading for yourselves",
+      "you all were leading for yourselves",
+      "y'all led for yourselves",
+      "you all led for yourselves"
+     ],
+     "e": "y'all were being led / y'all were leading for yourselves",
+     "g": "ἤγεσθε",
+     "l": 11,
+     "ph": "AY-geh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being led",
+      "they were led",
+      "they were leading for themselves",
+      "they led for themselves"
+     ],
+     "e": "they were being led / they were leading for themselves",
+     "g": "ἤγοντο",
+     "l": 11,
+     "ph": "AY-gon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will lead"
+     ],
+     "e": "I will lead",
+     "g": "ἄξω",
+     "l": 12,
+     "ph": "AH-ksoh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will lead"
+     ],
+     "e": "you will lead",
+     "g": "ἄξεις",
+     "l": 12,
+     "ph": "AH-ksays",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will lead",
+      "she will lead",
+      "it will lead"
+     ],
+     "e": "he/she/it will lead",
+     "g": "ἄξει",
+     "l": 12,
+     "ph": "AH-ksay",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will lead"
+     ],
+     "e": "we will lead",
+     "g": "ἄξομεν",
+     "l": 12,
+     "ph": "AH-kso-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will lead",
+      "you all will lead"
+     ],
+     "e": "y'all will lead",
+     "g": "ἄξετε",
+     "l": 12,
+     "ph": "AH-kseh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will lead"
+     ],
+     "e": "they will lead",
+     "g": "ἄξουσιν",
+     "l": 12,
+     "ph": "AH-ksoo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will lead for myself",
+      "I will lead myself"
+     ],
+     "e": "I will lead for myself",
+     "g": "ἄξομαι",
+     "l": 12,
+     "ph": "AH-kso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will lead for yourself",
+      "you will lead yourself"
+     ],
+     "e": "you will lead for yourself",
+     "g": "ἄξῃ",
+     "l": 12,
+     "ph": "AH-ksay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will lead for himself",
+      "he will lead himself",
+      "she will lead for herself",
+      "she will lead herself",
+      "it will lead for itself",
+      "it will lead itself"
+     ],
+     "e": "he/she/it will lead for himself/herself/itself",
+     "g": "ἄξεται",
+     "l": 12,
+     "ph": "AH-kseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will lead for ourselves",
+      "we will lead ourselves"
+     ],
+     "e": "we will lead for ourselves",
+     "g": "ἀξόμεθα",
+     "l": 12,
+     "ph": "ah-KSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will lead for yourselves",
+      "y'all will lead yourselves",
+      "you all will lead for yourselves",
+      "you all will lead yourselves"
+     ],
+     "e": "y'all will lead for yourselves",
+     "g": "ἄξεσθε",
+     "l": 12,
+     "ph": "AH-kseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will lead for themselves",
+      "they will lead themselves"
+     ],
+     "e": "they will lead for themselves",
+     "g": "ἄξονται",
+     "l": 12,
+     "ph": "AH-kson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I led",
+      "they led"
+     ],
+     "e": "I led / they led",
+     "g": "ἤγαγον",
+     "l": 14,
+     "ph": "AY-gah-gon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you led"
+     ],
+     "e": "you led",
+     "g": "ἤγαγες",
+     "l": 14,
+     "ph": "AY-gah-gehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he led",
+      "she led",
+      "it led"
+     ],
+     "e": "he/she/it led",
+     "g": "ἤγαγεν",
+     "l": 14,
+     "ph": "AY-gah-gehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we led"
+     ],
+     "e": "we led",
+     "g": "ἠγάγομεν",
+     "l": 14,
+     "ph": "ay-GAH-go-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all led",
+      "you all led"
+     ],
+     "e": "y'all led",
+     "g": "ἠγάγετε",
+     "l": 14,
+     "ph": "ay-GAH-geh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I take up, take away, lift up",
+   "g": "αἴρω",
+   "gen": "",
+   "id": "10:αἴρω",
+   "m": "sounds like \"air-o\" — you *lift* something *up* into the air",
+   "p": "verb",
+   "ph": "AI-roh",
+   "vf": [
+    {
+     "a": [
+      "I take up",
+      "I take away",
+      "I lift up"
+     ],
+     "e": "I take up",
+     "g": "αἴρω",
+     "l": 2,
+     "ph": "AI-roh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you take up",
+      "you take away",
+      "you lift up"
+     ],
+     "e": "you take up",
+     "g": "αἴρεις",
+     "l": 2,
+     "ph": "AI-rays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he takes up",
+      "she takes up",
+      "it takes up",
+      "he takes away",
+      "she takes away",
+      "it takes away",
+      "he lifts up",
+      "she lifts up",
+      "it lifts up"
+     ],
+     "e": "he/she/it takes up",
+     "g": "αἴρει",
+     "l": 2,
+     "ph": "AI-ray",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we take up",
+      "we take away",
+      "we lift up"
+     ],
+     "e": "we take up",
+     "g": "αἴρομεν",
+     "l": 2,
+     "ph": "AI-ro-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all take up",
+      "you all take up",
+      "y'all take away",
+      "you all take away",
+      "y'all lift up",
+      "you all lift up"
+     ],
+     "e": "y'all take up",
+     "g": "αἴρετε",
+     "l": 2,
+     "ph": "AI-reh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they take up",
+      "they take away",
+      "they lift up"
+     ],
+     "e": "they take up",
+     "g": "αἴρουσιν",
+     "l": 2,
+     "ph": "AI-roo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being taken up",
+      "I am taken up",
+      "I take up for myself",
+      "I take up myself",
+      "I am being taken away",
+      "I am taken away",
+      "I take away for myself",
+      "I take away myself",
+      "I am being lifted up",
+      "I am lifted up",
+      "I lift up for myself",
+      "I lift up myself"
+     ],
+     "e": "I am being taken up / I take up for myself",
+     "g": "αἴρομαι",
+     "l": 9,
+     "ph": "AI-ro-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being taken up",
+      "you are taken up",
+      "you take up for yourself",
+      "you take up yourself",
+      "you are being taken away",
+      "you are taken away",
+      "you take away for yourself",
+      "you take away yourself",
+      "you are being lifted up",
+      "you are lifted up",
+      "you lift up for yourself",
+      "you lift up yourself"
+     ],
+     "e": "you are being taken up / you take up for yourself",
+     "g": "αἴρῃ",
+     "l": 9,
+     "ph": "AI-ray",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being taken up",
+      "she is being taken up",
+      "it is being taken up",
+      "he is taken up",
+      "she is taken up",
+      "it is taken up",
+      "he takes up for himself",
+      "she takes up for herself",
+      "it takes up for itself",
+      "he takes up himself",
+      "she takes up herself",
+      "it takes up itself",
+      "he is being taken away",
+      "she is being taken away",
+      "it is being taken away",
+      "he is taken away",
+      "she is taken away",
+      "it is taken away",
+      "he takes away for himself",
+      "she takes away for herself",
+      "it takes away for itself",
+      "he takes away himself",
+      "she takes away herself",
+      "it takes away itself",
+      "he is being lifted up",
+      "she is being lifted up",
+      "it is being lifted up",
+      "he is lifted up",
+      "she is lifted up",
+      "it is lifted up",
+      "he lifts up for himself",
+      "she lifts up for herself",
+      "it lifts up for itself",
+      "he lifts up himself",
+      "she lifts up herself",
+      "it lifts up itself"
+     ],
+     "e": "he/she/it is being taken up / he/she/it takes up for himself/herself/itself",
+     "g": "αἴρεται",
+     "l": 9,
+     "ph": "AI-reh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being taken up",
+      "we are taken up",
+      "we take up for ourselves",
+      "we take up ourselves",
+      "we are being taken away",
+      "we are taken away",
+      "we take away for ourselves",
+      "we take away ourselves",
+      "we are being lifted up",
+      "we are lifted up",
+      "we lift up for ourselves",
+      "we lift up ourselves"
+     ],
+     "e": "we are being taken up / we take up for ourselves",
+     "g": "αἰρόμεθα",
+     "l": 9,
+     "ph": "ai-RO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being taken up",
+      "you all are being taken up",
+      "y'all are taken up",
+      "you all are taken up",
+      "y'all take up for yourselves",
+      "you all take up for yourselves",
+      "y'all take up yourselves",
+      "you all take up yourselves",
+      "y'all are being taken away",
+      "you all are being taken away",
+      "y'all are taken away",
+      "you all are taken away",
+      "y'all take away for yourselves",
+      "you all take away for yourselves",
+      "y'all take away yourselves",
+      "you all take away yourselves",
+      "y'all are being lifted up",
+      "you all are being lifted up",
+      "y'all are lifted up",
+      "you all are lifted up",
+      "y'all lift up for yourselves",
+      "you all lift up for yourselves",
+      "y'all lift up yourselves",
+      "you all lift up yourselves"
+     ],
+     "e": "y'all are being taken up / y'all take up for yourselves",
+     "g": "αἴρεσθε",
+     "l": 9,
+     "ph": "AI-reh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being taken up",
+      "they are taken up",
+      "they take up for themselves",
+      "they take up themselves",
+      "they are being taken away",
+      "they are taken away",
+      "they take away for themselves",
+      "they take away themselves",
+      "they are being lifted up",
+      "they are lifted up",
+      "they lift up for themselves",
+      "they lift up themselves"
+     ],
+     "e": "they are being taken up / they take up for themselves",
+     "g": "αἴρονται",
+     "l": 9,
+     "ph": "AI-ron-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was taking up",
+      "I took up",
+      "I used to take up",
+      "I was taking away",
+      "I took away",
+      "I used to take away",
+      "I was lifting up",
+      "I lifted up",
+      "I used to lift up",
+      "they were taking up",
+      "they took up",
+      "they used to take up",
+      "they were taking away",
+      "they took away",
+      "they used to take away",
+      "they were lifting up",
+      "they lifted up",
+      "they used to lift up"
+     ],
+     "e": "I was taking up / they were taking up",
+     "g": "ἦρον",
+     "l": 10,
+     "ph": "AY-ron",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were taking up",
+      "you took up",
+      "you used to take up",
+      "you were taking away",
+      "you took away",
+      "you used to take away",
+      "you were lifting up",
+      "you lifted up",
+      "you used to lift up"
+     ],
+     "e": "you were taking up",
+     "g": "ἦρες",
+     "l": 10,
+     "ph": "AY-rehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was taking up",
+      "she was taking up",
+      "it was taking up",
+      "he took up",
+      "she took up",
+      "it took up",
+      "he used to take up",
+      "she used to take up",
+      "it used to take up",
+      "he was taking away",
+      "she was taking away",
+      "it was taking away",
+      "he took away",
+      "she took away",
+      "it took away",
+      "he used to take away",
+      "she used to take away",
+      "it used to take away",
+      "he was lifting up",
+      "she was lifting up",
+      "it was lifting up",
+      "he lifted up",
+      "she lifted up",
+      "it lifted up",
+      "he used to lift up",
+      "she used to lift up",
+      "it used to lift up"
+     ],
+     "e": "he/she/it was taking up",
+     "g": "ἦρεν",
+     "l": 10,
+     "ph": "AY-rehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were taking up",
+      "we took up",
+      "we used to take up",
+      "we were taking away",
+      "we took away",
+      "we used to take away",
+      "we were lifting up",
+      "we lifted up",
+      "we used to lift up"
+     ],
+     "e": "we were taking up",
+     "g": "ἤρομεν",
+     "l": 10,
+     "ph": "AY-ro-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were taking up",
+      "you all were taking up",
+      "y'all took up",
+      "you all took up",
+      "y'all used to take up",
+      "you all used to take up",
+      "y'all were taking away",
+      "you all were taking away",
+      "y'all took away",
+      "you all took away",
+      "y'all used to take away",
+      "you all used to take away",
+      "y'all were lifting up",
+      "you all were lifting up",
+      "y'all lifted up",
+      "you all lifted up",
+      "y'all used to lift up",
+      "you all used to lift up"
+     ],
+     "e": "y'all were taking up",
+     "g": "ἤρετε",
+     "l": 10,
+     "ph": "AY-reh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being taken up",
+      "I was taken up",
+      "I was taking up for myself",
+      "I took up for myself",
+      "I was being taken away",
+      "I was taken away",
+      "I was taking away for myself",
+      "I took away for myself",
+      "I was being lifted up",
+      "I was lifted up",
+      "I was lifting up for myself",
+      "I lifted up for myself"
+     ],
+     "e": "I was being taken up / I was taking up for myself",
+     "g": "ἠρόμην",
+     "l": 11,
+     "ph": "ay-RO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being taken up",
+      "you were taken up",
+      "you were taking up for yourself",
+      "you took up for yourself",
+      "you were being taken away",
+      "you were taken away",
+      "you were taking away for yourself",
+      "you took away for yourself",
+      "you were being lifted up",
+      "you were lifted up",
+      "you were lifting up for yourself",
+      "you lifted up for yourself"
+     ],
+     "e": "you were being taken up / you were taking up for yourself",
+     "g": "ἤρου",
+     "l": 11,
+     "ph": "AY-roo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being taken up",
+      "she was being taken up",
+      "it was being taken up",
+      "he was taken up",
+      "she was taken up",
+      "it was taken up",
+      "he was taking up for himself",
+      "she was taking up for herself",
+      "it was taking up for itself",
+      "he took up for himself",
+      "she took up for herself",
+      "it took up for itself",
+      "he was being taken away",
+      "she was being taken away",
+      "it was being taken away",
+      "he was taken away",
+      "she was taken away",
+      "it was taken away",
+      "he was taking away for himself",
+      "she was taking away for herself",
+      "it was taking away for itself",
+      "he took away for himself",
+      "she took away for herself",
+      "it took away for itself",
+      "he was being lifted up",
+      "she was being lifted up",
+      "it was being lifted up",
+      "he was lifted up",
+      "she was lifted up",
+      "it was lifted up",
+      "he was lifting up for himself",
+      "she was lifting up for herself",
+      "it was lifting up for itself",
+      "he lifted up for himself",
+      "she lifted up for herself",
+      "it lifted up for itself"
+     ],
+     "e": "he/she/it was being taken up / he/she/it was taking up for himself/herself/itself",
+     "g": "ἤρετο",
+     "l": 11,
+     "ph": "AY-reh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being taken up",
+      "we were taken up",
+      "we were taking up for ourselves",
+      "we took up for ourselves",
+      "we were being taken away",
+      "we were taken away",
+      "we were taking away for ourselves",
+      "we took away for ourselves",
+      "we were being lifted up",
+      "we were lifted up",
+      "we were lifting up for ourselves",
+      "we lifted up for ourselves"
+     ],
+     "e": "we were being taken up / we were taking up for ourselves",
+     "g": "ἠρόμεθα",
+     "l": 11,
+     "ph": "ay-RO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being taken up",
+      "you all were being taken up",
+      "y'all were taken up",
+      "you all were taken up",
+      "y'all were taking up for yourselves",
+      "you all were taking up for yourselves",
+      "y'all took up for yourselves",
+      "you all took up for yourselves",
+      "y'all were being taken away",
+      "you all were being taken away",
+      "y'all were taken away",
+      "you all were taken away",
+      "y'all were taking away for yourselves",
+      "you all were taking away for yourselves",
+      "y'all took away for yourselves",
+      "you all took away for yourselves",
+      "y'all were being lifted up",
+      "you all were being lifted up",
+      "y'all were lifted up",
+      "you all were lifted up",
+      "y'all were lifting up for yourselves",
+      "you all were lifting up for yourselves",
+      "y'all lifted up for yourselves",
+      "you all lifted up for yourselves"
+     ],
+     "e": "y'all were being taken up / y'all were taking up for yourselves",
+     "g": "ἤρεσθε",
+     "l": 11,
+     "ph": "AY-reh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being taken up",
+      "they were taken up",
+      "they were taking up for themselves",
+      "they took up for themselves",
+      "they were being taken away",
+      "they were taken away",
+      "they were taking away for themselves",
+      "they took away for themselves",
+      "they were being lifted up",
+      "they were lifted up",
+      "they were lifting up for themselves",
+      "they lifted up for themselves"
+     ],
+     "e": "they were being taken up / they were taking up for themselves",
+     "g": "ἤροντο",
+     "l": 11,
+     "ph": "AY-ron-to",
+     "pn": "3p",
+     "t": "imp"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I go up",
+   "g": "ἀναβαίνω",
+   "gen": "",
+   "id": "10:ἀναβαίνω",
+   "m": "\"Anabasis\" — a march *up* country; ἀνά = *up*, βαίνω = *go*. Pair with καταβαίνω (L10)",
+   "p": "verb",
+   "ph": "ah-nah-BAI-noh",
+   "vf": [
+    {
+     "a": [
+      "I go up"
+     ],
+     "e": "I go up",
+     "g": "ἀναβαίνω",
+     "l": 2,
+     "ph": "ah-nah-BAI-noh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you go up"
+     ],
+     "e": "you go up",
+     "g": "ἀναβαίνεις",
+     "l": 2,
+     "ph": "ah-nah-BAI-nays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he goes up",
+      "she goes up",
+      "it goes up"
+     ],
+     "e": "he/she/it goes up",
+     "g": "ἀναβαίνει",
+     "l": 2,
+     "ph": "ah-nah-BAI-nay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we go up"
+     ],
+     "e": "we go up",
+     "g": "ἀναβαίνομεν",
+     "l": 2,
+     "ph": "ah-nah-BAI-no-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all go up",
+      "you all go up"
+     ],
+     "e": "y'all go up",
+     "g": "ἀναβαίνετε",
+     "l": 2,
+     "ph": "ah-nah-BAI-neh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they go up"
+     ],
+     "e": "they go up",
+     "g": "ἀναβαίνουσιν",
+     "l": 2,
+     "ph": "ah-nah-BAI-noo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was going up",
+      "I went up",
+      "I used to go up",
+      "they were going up",
+      "they went up",
+      "they used to go up"
+     ],
+     "e": "I was going up / they were going up",
+     "g": "ἀνέβαινον",
+     "l": 10,
+     "ph": "ah-NEH-bai-non",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were going up",
+      "you went up",
+      "you used to go up"
+     ],
+     "e": "you were going up",
+     "g": "ἀνέβαινες",
+     "l": 10,
+     "ph": "ah-NEH-bai-nehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was going up",
+      "she was going up",
+      "it was going up",
+      "he went up",
+      "she went up",
+      "it went up",
+      "he used to go up",
+      "she used to go up",
+      "it used to go up"
+     ],
+     "e": "he/she/it was going up",
+     "g": "ἀνέβαινεν",
+     "l": 10,
+     "ph": "ah-NEH-bai-nehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were going up",
+      "we went up",
+      "we used to go up"
+     ],
+     "e": "we were going up",
+     "g": "ἀνεβαίνομεν",
+     "l": 10,
+     "ph": "ah-neh-BAI-no-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were going up",
+      "you all were going up",
+      "y'all went up",
+      "you all went up",
+      "y'all used to go up",
+      "you all used to go up"
+     ],
+     "e": "y'all were going up",
+     "g": "ἀνεβαίνετε",
+     "l": 10,
+     "ph": "ah-neh-BAI-neh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will go up"
+     ],
+     "e": "I will go up",
+     "g": "ἀναβήσομαι",
+     "l": 12,
+     "ph": "ah-nah-BAY-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will go up"
+     ],
+     "e": "you will go up",
+     "g": "ἀναβήσῃ",
+     "l": 12,
+     "ph": "ah-nah-BAY-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will go up",
+      "she will go up",
+      "it will go up"
+     ],
+     "e": "he/she/it will go up",
+     "g": "ἀναβήσεται",
+     "l": 12,
+     "ph": "ah-nah-BAY-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will go up"
+     ],
+     "e": "we will go up",
+     "g": "ἀναβησόμεθα",
+     "l": 12,
+     "ph": "ah-nah-bay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will go up",
+      "you all will go up"
+     ],
+     "e": "y'all will go up",
+     "g": "ἀναβήσεσθε",
+     "l": 12,
+     "ph": "ah-nah-BAY-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will go up"
+     ],
+     "e": "they will go up",
+     "g": "ἀναβήσονται",
+     "l": 12,
+     "ph": "ah-nah-BAY-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I depart, go away, go",
+   "g": "ἀπέρχομαι",
+   "gen": "",
+   "id": "10:ἀπέρχομαι",
+   "m": "ἀπό (from, L6) + ἔρχομαι (L9) — \"come/go *from*\" = *depart*",
+   "p": "verb",
+   "ph": "ah-PEHR-kho-mai",
+   "vf": [
+    {
+     "a": [
+      "I depart",
+      "I go away",
+      "I go"
+     ],
+     "e": "I depart",
+     "g": "ἀπέρχομαι",
+     "l": 9,
+     "ph": "ah-PEHR-kho-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you depart",
+      "you go away",
+      "you go"
+     ],
+     "e": "you depart",
+     "g": "ἀπέρχῃ",
+     "l": 9,
+     "ph": "ah-PEHR-khay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he departs",
+      "she departs",
+      "it departs",
+      "he goes away",
+      "she goes away",
+      "it goes away",
+      "he goes",
+      "she goes",
+      "it goes"
+     ],
+     "e": "he/she/it departs",
+     "g": "ἀπέρχεται",
+     "l": 9,
+     "ph": "ah-PEHR-kheh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we depart",
+      "we go away",
+      "we go"
+     ],
+     "e": "we depart",
+     "g": "ἀπερχόμεθα",
+     "l": 9,
+     "ph": "ah-pehr-KHO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all depart",
+      "you all depart",
+      "y'all go away",
+      "you all go away",
+      "y'all go",
+      "you all go"
+     ],
+     "e": "y'all depart",
+     "g": "ἀπέρχεσθε",
+     "l": 9,
+     "ph": "ah-PEHR-kheh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they depart",
+      "they go away",
+      "they go"
+     ],
+     "e": "they depart",
+     "g": "ἀπέρχονται",
+     "l": 9,
+     "ph": "ah-PEHR-khon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was departing",
+      "I departed",
+      "I used to depart",
+      "I was going away",
+      "I went away",
+      "I used to go away",
+      "I was going",
+      "I went",
+      "I used to go"
+     ],
+     "e": "I was departing",
+     "g": "ἀπηρχόμην",
+     "l": 11,
+     "ph": "ah-payr-KHO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were departing",
+      "you departed",
+      "you used to depart",
+      "you were going away",
+      "you went away",
+      "you used to go away",
+      "you were going",
+      "you went",
+      "you used to go"
+     ],
+     "e": "you were departing",
+     "g": "ἀπήρχου",
+     "l": 11,
+     "ph": "ah-PAYR-khoo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was departing",
+      "she was departing",
+      "it was departing",
+      "he departed",
+      "she departed",
+      "it departed",
+      "he used to depart",
+      "she used to depart",
+      "it used to depart",
+      "he was going away",
+      "she was going away",
+      "it was going away",
+      "he went away",
+      "she went away",
+      "it went away",
+      "he used to go away",
+      "she used to go away",
+      "it used to go away",
+      "he was going",
+      "she was going",
+      "it was going",
+      "he went",
+      "she went",
+      "it went",
+      "he used to go",
+      "she used to go",
+      "it used to go"
+     ],
+     "e": "he/she/it was departing",
+     "g": "ἀπήρχετο",
+     "l": 11,
+     "ph": "ah-PAYR-kheh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were departing",
+      "we departed",
+      "we used to depart",
+      "we were going away",
+      "we went away",
+      "we used to go away",
+      "we were going",
+      "we went",
+      "we used to go"
+     ],
+     "e": "we were departing",
+     "g": "ἀπηρχόμεθα",
+     "l": 11,
+     "ph": "ah-payr-KHO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were departing",
+      "you all were departing",
+      "y'all departed",
+      "you all departed",
+      "y'all used to depart",
+      "you all used to depart",
+      "y'all were going away",
+      "you all were going away",
+      "y'all went away",
+      "you all went away",
+      "y'all used to go away",
+      "you all used to go away",
+      "y'all were going",
+      "you all were going",
+      "y'all went",
+      "you all went",
+      "y'all used to go",
+      "you all used to go"
+     ],
+     "e": "y'all were departing",
+     "g": "ἀπήρχεσθε",
+     "l": 11,
+     "ph": "ah-PAYR-kheh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were departing",
+      "they departed",
+      "they used to depart",
+      "they were going away",
+      "they went away",
+      "they used to go away",
+      "they were going",
+      "they went",
+      "they used to go"
+     ],
+     "e": "they were departing",
+     "g": "ἀπήρχοντο",
+     "l": 11,
+     "ph": "ah-PAYR-khon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will depart",
+      "I will go away",
+      "I will go"
+     ],
+     "e": "I will depart",
+     "g": "ἀπελεύσομαι",
+     "l": 12,
+     "ph": "ah-peh-LYOO-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will depart",
+      "you will go away",
+      "you will go"
+     ],
+     "e": "you will depart",
+     "g": "ἀπελεύσῃ",
+     "l": 12,
+     "ph": "ah-peh-LYOO-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will depart",
+      "she will depart",
+      "it will depart",
+      "he will go away",
+      "she will go away",
+      "it will go away",
+      "he will go",
+      "she will go",
+      "it will go"
+     ],
+     "e": "he/she/it will depart",
+     "g": "ἀπελεύσεται",
+     "l": 12,
+     "ph": "ah-peh-LYOO-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will depart",
+      "we will go away",
+      "we will go"
+     ],
+     "e": "we will depart",
+     "g": "ἀπελευσόμεθα",
+     "l": 12,
+     "ph": "ah-peh-lyoo-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will depart",
+      "you all will depart",
+      "y'all will go away",
+      "you all will go away",
+      "y'all will go",
+      "you all will go"
+     ],
+     "e": "y'all will depart",
+     "g": "ἀπελεύσεσθε",
+     "l": 12,
+     "ph": "ah-peh-LYOO-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will depart",
+      "they will go away",
+      "they will go"
+     ],
+     "e": "they will depart",
+     "g": "ἀπελεύσονται",
+     "l": 12,
+     "ph": "ah-peh-LYOO-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I departed",
+      "I went away",
+      "I went",
+      "they departed",
+      "they went away",
+      "they went"
+     ],
+     "e": "I departed / they departed",
+     "g": "ἀπῆλθον",
+     "l": 14,
+     "ph": "ah-PAYL-thon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you departed",
+      "you went away",
+      "you went"
+     ],
+     "e": "you departed",
+     "g": "ἀπῆλθες",
+     "l": 14,
+     "ph": "ah-PAYL-thehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he departed",
+      "she departed",
+      "it departed",
+      "he went away",
+      "she went away",
+      "it went away",
+      "he went",
+      "she went",
+      "it went"
+     ],
+     "e": "he/she/it departed",
+     "g": "ἀπῆλθεν",
+     "l": 14,
+     "ph": "ah-PAYL-thehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we departed",
+      "we went away",
+      "we went"
+     ],
+     "e": "we departed",
+     "g": "ἀπήλθομεν",
+     "l": 14,
+     "ph": "ah-PAYL-tho-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all departed",
+      "you all departed",
+      "y'all went away",
+      "you all went away",
+      "y'all went",
+      "you all went"
+     ],
+     "e": "y'all departed",
+     "g": "ἀπήλθετε",
+     "l": 14,
+     "ph": "ah-PAYL-theh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I die",
+   "g": "ἀποθνῄσκω",
+   "gen": "",
+   "id": "10:ἀποθνῄσκω",
+   "m": "built around the θάνατος (death, L4) sound — \"Thanos\" brings death, so you *die*; compare ἀποκτείνω",
+   "p": "verb",
+   "ph": "ah-po-THNAY-skoh",
+   "vf": [
+    {
+     "a": [
+      "I die"
+     ],
+     "e": "I die",
+     "g": "ἀποθνῄσκω",
+     "l": 2,
+     "ph": "ah-po-THNAY-skoh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you die"
+     ],
+     "e": "you die",
+     "g": "ἀποθνῄσκεις",
+     "l": 2,
+     "ph": "ah-po-THNAY-skays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he dies",
+      "she dies",
+      "it dies"
+     ],
+     "e": "he/she/it dies",
+     "g": "ἀποθνῄσκει",
+     "l": 2,
+     "ph": "ah-po-THNAY-skay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we die"
+     ],
+     "e": "we die",
+     "g": "ἀποθνῄσκομεν",
+     "l": 2,
+     "ph": "ah-po-THNAY-sko-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all die",
+      "you all die"
+     ],
+     "e": "y'all die",
+     "g": "ἀποθνῄσκετε",
+     "l": 2,
+     "ph": "ah-po-THNAY-skeh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they die"
+     ],
+     "e": "they die",
+     "g": "ἀποθνῄσκουσιν",
+     "l": 2,
+     "ph": "ah-po-THNAY-skoo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was dying",
+      "I died",
+      "I used to die",
+      "they were dying",
+      "they died",
+      "they used to die"
+     ],
+     "e": "I was dying / they were dying",
+     "g": "ἀπέθνῃσκον",
+     "l": 10,
+     "ph": "ah-PEH-thnay-skon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were dying",
+      "you died",
+      "you used to die"
+     ],
+     "e": "you were dying",
+     "g": "ἀπέθνῃσκες",
+     "l": 10,
+     "ph": "ah-PEH-thnay-skehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was dying",
+      "she was dying",
+      "it was dying",
+      "he died",
+      "she died",
+      "it died",
+      "he used to die",
+      "she used to die",
+      "it used to die"
+     ],
+     "e": "he/she/it was dying",
+     "g": "ἀπέθνῃσκεν",
+     "l": 10,
+     "ph": "ah-PEH-thnay-skehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were dying",
+      "we died",
+      "we used to die"
+     ],
+     "e": "we were dying",
+     "g": "ἀπεθνῄσκομεν",
+     "l": 10,
+     "ph": "ah-peh-THNAY-sko-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were dying",
+      "you all were dying",
+      "y'all died",
+      "you all died",
+      "y'all used to die",
+      "you all used to die"
+     ],
+     "e": "y'all were dying",
+     "g": "ἀπεθνῄσκετε",
+     "l": 10,
+     "ph": "ah-peh-THNAY-skeh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I died",
+      "they died"
+     ],
+     "e": "I died / they died",
+     "g": "ἀπέθανον",
+     "l": 14,
+     "ph": "ah-PEH-thah-non",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you died"
+     ],
+     "e": "you died",
+     "g": "ἀπέθανες",
+     "l": 14,
+     "ph": "ah-PEH-thah-nehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he died",
+      "she died",
+      "it died"
+     ],
+     "e": "he/she/it died",
+     "g": "ἀπέθανεν",
+     "l": 14,
+     "ph": "ah-PEH-thah-nehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we died"
+     ],
+     "e": "we died",
+     "g": "ἀπεθάνομεν",
+     "l": 14,
+     "ph": "ah-peh-THAH-no-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all died",
+      "you all died"
+     ],
+     "e": "y'all died",
+     "g": "ἀπεθάνετε",
+     "l": 14,
+     "ph": "ah-peh-THAH-neh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I kill",
+   "g": "ἀποκτείνω",
+   "gen": "",
+   "id": "10:ἀποκτείνω",
+   "m": "ἀπό + κτείνω — \"a-poke-teen-o\": someone gets *killed*. Contrast: ἀποθνῄσκω = you *die*, ἀποκτείνω = you *kill* someone else",
+   "p": "verb",
+   "ph": "ah-po-KTAY-noh",
+   "vf": [
+    {
+     "a": [
+      "I kill"
+     ],
+     "e": "I kill",
+     "g": "ἀποκτείνω",
+     "l": 2,
+     "ph": "ah-po-KTAY-noh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you kill"
+     ],
+     "e": "you kill",
+     "g": "ἀποκτείνεις",
+     "l": 2,
+     "ph": "ah-po-KTAY-nays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he kills",
+      "she kills",
+      "it kills"
+     ],
+     "e": "he/she/it kills",
+     "g": "ἀποκτείνει",
+     "l": 2,
+     "ph": "ah-po-KTAY-nay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we kill"
+     ],
+     "e": "we kill",
+     "g": "ἀποκτείνομεν",
+     "l": 2,
+     "ph": "ah-po-KTAY-no-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all kill",
+      "you all kill"
+     ],
+     "e": "y'all kill",
+     "g": "ἀποκτείνετε",
+     "l": 2,
+     "ph": "ah-po-KTAY-neh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they kill"
+     ],
+     "e": "they kill",
+     "g": "ἀποκτείνουσιν",
+     "l": 2,
+     "ph": "ah-po-KTAY-noo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being killed",
+      "I am killed",
+      "I kill for myself",
+      "I kill myself"
+     ],
+     "e": "I am being killed / I kill for myself",
+     "g": "ἀποκτείνομαι",
+     "l": 9,
+     "ph": "ah-po-KTAY-no-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being killed",
+      "you are killed",
+      "you kill for yourself",
+      "you kill yourself"
+     ],
+     "e": "you are being killed / you kill for yourself",
+     "g": "ἀποκτείνῃ",
+     "l": 9,
+     "ph": "ah-po-KTAY-nay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being killed",
+      "she is being killed",
+      "it is being killed",
+      "he is killed",
+      "she is killed",
+      "it is killed",
+      "he kills for himself",
+      "she kills for herself",
+      "it kills for itself",
+      "he kills himself",
+      "she kills herself",
+      "it kills itself"
+     ],
+     "e": "he/she/it is being killed / he/she/it kills for himself/herself/itself",
+     "g": "ἀποκτείνεται",
+     "l": 9,
+     "ph": "ah-po-KTAY-neh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being killed",
+      "we are killed",
+      "we kill for ourselves",
+      "we kill ourselves"
+     ],
+     "e": "we are being killed / we kill for ourselves",
+     "g": "ἀποκτεινόμεθα",
+     "l": 9,
+     "ph": "ah-po-ktay-NO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being killed",
+      "you all are being killed",
+      "y'all are killed",
+      "you all are killed",
+      "y'all kill for yourselves",
+      "you all kill for yourselves",
+      "y'all kill yourselves",
+      "you all kill yourselves"
+     ],
+     "e": "y'all are being killed / y'all kill for yourselves",
+     "g": "ἀποκτείνεσθε",
+     "l": 9,
+     "ph": "ah-po-KTAY-neh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being killed",
+      "they are killed",
+      "they kill for themselves",
+      "they kill themselves"
+     ],
+     "e": "they are being killed / they kill for themselves",
+     "g": "ἀποκτείνονται",
+     "l": 9,
+     "ph": "ah-po-KTAY-non-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was killing",
+      "I killed",
+      "I used to kill",
+      "they were killing",
+      "they killed",
+      "they used to kill"
+     ],
+     "e": "I was killing / they were killing",
+     "g": "ἀπέκτεινον",
+     "l": 10,
+     "ph": "ah-PEH-ktay-non",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were killing",
+      "you killed",
+      "you used to kill"
+     ],
+     "e": "you were killing",
+     "g": "ἀπέκτεινες",
+     "l": 10,
+     "ph": "ah-PEH-ktay-nehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was killing",
+      "she was killing",
+      "it was killing",
+      "he killed",
+      "she killed",
+      "it killed",
+      "he used to kill",
+      "she used to kill",
+      "it used to kill"
+     ],
+     "e": "he/she/it was killing",
+     "g": "ἀπέκτεινεν",
+     "l": 10,
+     "ph": "ah-PEH-ktay-nehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were killing",
+      "we killed",
+      "we used to kill"
+     ],
+     "e": "we were killing",
+     "g": "ἀπεκτείνομεν",
+     "l": 10,
+     "ph": "ah-peh-KTAY-no-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were killing",
+      "you all were killing",
+      "y'all killed",
+      "you all killed",
+      "y'all used to kill",
+      "you all used to kill"
+     ],
+     "e": "y'all were killing",
+     "g": "ἀπεκτείνετε",
+     "l": 10,
+     "ph": "ah-peh-KTAY-neh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being killed",
+      "I was killed",
+      "I was killing for myself",
+      "I killed for myself"
+     ],
+     "e": "I was being killed / I was killing for myself",
+     "g": "ἀπεκτεινόμην",
+     "l": 11,
+     "ph": "ah-peh-ktay-NO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being killed",
+      "you were killed",
+      "you were killing for yourself",
+      "you killed for yourself"
+     ],
+     "e": "you were being killed / you were killing for yourself",
+     "g": "ἀπεκτείνου",
+     "l": 11,
+     "ph": "ah-peh-KTAY-noo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being killed",
+      "she was being killed",
+      "it was being killed",
+      "he was killed",
+      "she was killed",
+      "it was killed",
+      "he was killing for himself",
+      "she was killing for herself",
+      "it was killing for itself",
+      "he killed for himself",
+      "she killed for herself",
+      "it killed for itself"
+     ],
+     "e": "he/she/it was being killed / he/she/it was killing for himself/herself/itself",
+     "g": "ἀπεκτείνετο",
+     "l": 11,
+     "ph": "ah-peh-KTAY-neh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being killed",
+      "we were killed",
+      "we were killing for ourselves",
+      "we killed for ourselves"
+     ],
+     "e": "we were being killed / we were killing for ourselves",
+     "g": "ἀπεκτεινόμεθα",
+     "l": 11,
+     "ph": "ah-peh-ktay-NO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being killed",
+      "you all were being killed",
+      "y'all were killed",
+      "you all were killed",
+      "y'all were killing for yourselves",
+      "you all were killing for yourselves",
+      "y'all killed for yourselves",
+      "you all killed for yourselves"
+     ],
+     "e": "y'all were being killed / y'all were killing for yourselves",
+     "g": "ἀπεκτείνεσθε",
+     "l": 11,
+     "ph": "ah-peh-KTAY-neh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being killed",
+      "they were killed",
+      "they were killing for themselves",
+      "they killed for themselves"
+     ],
+     "e": "they were being killed / they were killing for themselves",
+     "g": "ἀπεκτείνοντο",
+     "l": 11,
+     "ph": "ah-peh-KTAY-non-to",
+     "pn": "3p",
+     "t": "imp"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "apostle",
+   "f": {
+    "acc": "τὸν ἀπόστολον",
+    "dat": "τῷ ἀποστόλῳ",
+    "gen": "τοῦ ἀποστόλου"
+   },
+   "fp": {
+    "acc": "ton ah-PO-sto-lon",
+    "dat": "toh ah-po-STO-loh",
+    "gen": "too ah-po-STO-loo"
+   },
+   "g": "ἀπόστολος, ὁ",
+   "gen": "m",
+   "id": "10:ἀπόστολος",
+   "m": "noun form of ἀποστέλλω (I send, L8) — an *apostle* is \"one who is sent\"",
+   "p": "noun",
+   "ph": "ah-PO-sto-los, ho"
+  },
+  {
+   "c": "",
+   "e": "temple (→ hierarchy)",
+   "f": {
+    "acc": "τὸ ἱερόν",
+    "dat": "τῷ ἱερῷ",
+    "gen": "τοῦ ἱεροῦ"
+   },
+   "fp": {
+    "acc": "to hee-eh-RON",
+    "dat": "toh hee-eh-ROH",
+    "gen": "too hee-eh-ROO"
+   },
+   "g": "ἱερόν, τό",
+   "gen": "n",
+   "id": "10:ἱερόν",
+   "m": "\"hierarchy\" (*sacred* rule), \"hieroglyphics\" (*sacred* carvings) — ἱερόν is the *sacred* place",
+   "p": "noun",
+   "ph": "hee-eh-RON, to"
+  },
+  {
+   "c": "",
+   "e": "I go down",
+   "g": "καταβαίνω",
+   "gen": "",
+   "id": "10:καταβαίνω",
+   "m": "κατά (here: *down*) + βαίνω — mirror image of ἀναβαίνω. ἀνά = up, κατά = down (\"catapult\" — *downward* force)",
+   "p": "verb",
+   "ph": "kah-tah-BAI-noh",
+   "vf": [
+    {
+     "a": [
+      "I go down"
+     ],
+     "e": "I go down",
+     "g": "καταβαίνω",
+     "l": 2,
+     "ph": "kah-tah-BAI-noh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you go down"
+     ],
+     "e": "you go down",
+     "g": "καταβαίνεις",
+     "l": 2,
+     "ph": "kah-tah-BAI-nays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he goes down",
+      "she goes down",
+      "it goes down"
+     ],
+     "e": "he/she/it goes down",
+     "g": "καταβαίνει",
+     "l": 2,
+     "ph": "kah-tah-BAI-nay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we go down"
+     ],
+     "e": "we go down",
+     "g": "καταβαίνομεν",
+     "l": 2,
+     "ph": "kah-tah-BAI-no-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all go down",
+      "you all go down"
+     ],
+     "e": "y'all go down",
+     "g": "καταβαίνετε",
+     "l": 2,
+     "ph": "kah-tah-BAI-neh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they go down"
+     ],
+     "e": "they go down",
+     "g": "καταβαίνουσιν",
+     "l": 2,
+     "ph": "kah-tah-BAI-noo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was going down",
+      "I went down",
+      "I used to go down",
+      "they were going down",
+      "they went down",
+      "they used to go down"
+     ],
+     "e": "I was going down / they were going down",
+     "g": "κατέβαινον",
+     "l": 10,
+     "ph": "kah-TEH-bai-non",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were going down",
+      "you went down",
+      "you used to go down"
+     ],
+     "e": "you were going down",
+     "g": "κατέβαινες",
+     "l": 10,
+     "ph": "kah-TEH-bai-nehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was going down",
+      "she was going down",
+      "it was going down",
+      "he went down",
+      "she went down",
+      "it went down",
+      "he used to go down",
+      "she used to go down",
+      "it used to go down"
+     ],
+     "e": "he/she/it was going down",
+     "g": "κατέβαινεν",
+     "l": 10,
+     "ph": "kah-TEH-bai-nehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were going down",
+      "we went down",
+      "we used to go down"
+     ],
+     "e": "we were going down",
+     "g": "κατεβαίνομεν",
+     "l": 10,
+     "ph": "kah-teh-BAI-no-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were going down",
+      "you all were going down",
+      "y'all went down",
+      "you all went down",
+      "y'all used to go down",
+      "you all used to go down"
+     ],
+     "e": "y'all were going down",
+     "g": "κατεβαίνετε",
+     "l": 10,
+     "ph": "kah-teh-BAI-neh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will go down"
+     ],
+     "e": "I will go down",
+     "g": "καταβήσομαι",
+     "l": 12,
+     "ph": "kah-tah-BAY-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will go down"
+     ],
+     "e": "you will go down",
+     "g": "καταβήσῃ",
+     "l": 12,
+     "ph": "kah-tah-BAY-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will go down",
+      "she will go down",
+      "it will go down"
+     ],
+     "e": "he/she/it will go down",
+     "g": "καταβήσεται",
+     "l": 12,
+     "ph": "kah-tah-BAY-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will go down"
+     ],
+     "e": "we will go down",
+     "g": "καταβησόμεθα",
+     "l": 12,
+     "ph": "kah-tah-bay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will go down",
+      "you all will go down"
+     ],
+     "e": "y'all will go down",
+     "g": "καταβήσεσθε",
+     "l": 12,
+     "ph": "kah-tah-BAY-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will go down"
+     ],
+     "e": "they will go down",
+     "g": "καταβήσονται",
+     "l": 12,
+     "ph": "kah-tah-BAY-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I am about to, am going to",
+   "g": "μέλλω",
+   "gen": "",
+   "id": "10:μέλλω",
+   "m": "sounds like \"mellow\" — a mellow moment *just about to* turn into something",
+   "p": "verb",
+   "ph": "MEHL-loh",
+   "vf": [
+    {
+     "a": [
+      "I am about to",
+      "I am going to"
+     ],
+     "e": "I am about to",
+     "g": "μέλλω",
+     "l": 2,
+     "ph": "MEHL-loh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you are about to",
+      "you are going to"
+     ],
+     "e": "you are about to",
+     "g": "μέλλεις",
+     "l": 2,
+     "ph": "MEHL-lays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he is about to",
+      "she is about to",
+      "it is about to",
+      "he is going to",
+      "she is going to",
+      "it is going to"
+     ],
+     "e": "he/she/it is about to",
+     "g": "μέλλει",
+     "l": 2,
+     "ph": "MEHL-lay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we are about to",
+      "we are going to"
+     ],
+     "e": "we are about to",
+     "g": "μέλλομεν",
+     "l": 2,
+     "ph": "MEHL-lo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all are about to",
+      "you all are about to",
+      "y'all are going to",
+      "you all are going to"
+     ],
+     "e": "y'all are about to",
+     "g": "μέλλετε",
+     "l": 2,
+     "ph": "MEHL-leh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they are about to",
+      "they are going to"
+     ],
+     "e": "they are about to",
+     "g": "μέλλουσιν",
+     "l": 2,
+     "ph": "MEHL-loo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was about to",
+      "I was going to",
+      "they were about to",
+      "they were going to"
+     ],
+     "e": "I was about to / they were about to",
+     "g": "ἔμελλον",
+     "l": 10,
+     "ph": "EH-mehl-lon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were about to",
+      "you were going to"
+     ],
+     "e": "you were about to",
+     "g": "ἔμελλες",
+     "l": 10,
+     "ph": "EH-mehl-lehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was about to",
+      "she was about to",
+      "it was about to",
+      "he was going to",
+      "she was going to",
+      "it was going to"
+     ],
+     "e": "he/she/it was about to",
+     "g": "ἔμελλεν",
+     "l": 10,
+     "ph": "EH-mehl-lehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were about to",
+      "we were going to"
+     ],
+     "e": "we were about to",
+     "g": "ἐμέλλομεν",
+     "l": 10,
+     "ph": "eh-MEHL-lo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were about to",
+      "you all were about to",
+      "y'all were going to",
+      "you all were going to"
+     ],
+     "e": "y'all were about to",
+     "g": "ἐμέλλετε",
+     "l": 10,
+     "ph": "eh-MEHL-leh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will be about to",
+      "I will be going to"
+     ],
+     "e": "I will be about to",
+     "g": "μελλήσω",
+     "l": 12,
+     "ph": "mehl-LAY-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will be about to",
+      "you will be going to"
+     ],
+     "e": "you will be about to",
+     "g": "μελλήσεις",
+     "l": 12,
+     "ph": "mehl-LAY-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will be about to",
+      "she will be about to",
+      "it will be about to",
+      "he will be going to",
+      "she will be going to",
+      "it will be going to"
+     ],
+     "e": "he/she/it will be about to",
+     "g": "μελλήσει",
+     "l": 12,
+     "ph": "mehl-LAY-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will be about to",
+      "we will be going to"
+     ],
+     "e": "we will be about to",
+     "g": "μελλήσομεν",
+     "l": 12,
+     "ph": "mehl-LAY-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will be about to",
+      "you all will be about to",
+      "y'all will be going to",
+      "you all will be going to"
+     ],
+     "e": "y'all will be about to",
+     "g": "μελλήσετε",
+     "l": 12,
+     "ph": "mehl-LAY-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will be about to",
+      "they will be going to"
+     ],
+     "e": "they will be about to",
+     "g": "μελλήσουσιν",
+     "l": 12,
+     "ph": "mehl-LAY-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I owe, ought, must",
+   "g": "ὀφείλω",
+   "gen": "",
+   "id": "10:ὀφείλω",
+   "m": "\"owe-fail-o\" — if you *fail* to pay what you *owe*, you *ought* to feel bad",
+   "p": "verb",
+   "ph": "o-FAY-loh",
+   "vf": [
+    {
+     "a": [
+      "I owe",
+      "I ought",
+      "I should",
+      "I must"
+     ],
+     "e": "I owe",
+     "g": "ὀφείλω",
+     "l": 2,
+     "ph": "o-FAY-loh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you owe",
+      "you ought",
+      "you should",
+      "you must"
+     ],
+     "e": "you owe",
+     "g": "ὀφείλεις",
+     "l": 2,
+     "ph": "o-FAY-lays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he owes",
+      "she owes",
+      "it owes",
+      "he ought",
+      "she ought",
+      "it ought",
+      "he should",
+      "she should",
+      "it should",
+      "he must",
+      "she must",
+      "it must"
+     ],
+     "e": "he/she/it owes",
+     "g": "ὀφείλει",
+     "l": 2,
+     "ph": "o-FAY-lay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we owe",
+      "we ought",
+      "we should",
+      "we must"
+     ],
+     "e": "we owe",
+     "g": "ὀφείλομεν",
+     "l": 2,
+     "ph": "o-FAY-lo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all owe",
+      "you all owe",
+      "y'all ought",
+      "you all ought",
+      "y'all should",
+      "you all should",
+      "y'all must",
+      "you all must"
+     ],
+     "e": "y'all owe",
+     "g": "ὀφείλετε",
+     "l": 2,
+     "ph": "o-FAY-leh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they owe",
+      "they ought",
+      "they should",
+      "they must"
+     ],
+     "e": "they owe",
+     "g": "ὀφείλουσιν",
+     "l": 2,
+     "ph": "o-FAY-loo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was owing",
+      "I owed",
+      "I used to owe",
+      "I ought",
+      "I should",
+      "I had to",
+      "they were owing",
+      "they owed",
+      "they used to owe",
+      "they ought",
+      "they should",
+      "they had to"
+     ],
+     "e": "I was owing / they were owing",
+     "g": "ὤφειλον",
+     "l": 10,
+     "ph": "OH-fay-lon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were owing",
+      "you owed",
+      "you used to owe",
+      "you ought",
+      "you should",
+      "you had to"
+     ],
+     "e": "you were owing",
+     "g": "ὤφειλες",
+     "l": 10,
+     "ph": "OH-fay-lehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was owing",
+      "she was owing",
+      "it was owing",
+      "he owed",
+      "she owed",
+      "it owed",
+      "he used to owe",
+      "she used to owe",
+      "it used to owe",
+      "he ought",
+      "she ought",
+      "it ought",
+      "he should",
+      "she should",
+      "it should",
+      "he had to",
+      "she had to",
+      "it had to"
+     ],
+     "e": "he/she/it was owing",
+     "g": "ὤφειλεν",
+     "l": 10,
+     "ph": "OH-fay-lehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were owing",
+      "we owed",
+      "we used to owe",
+      "we ought",
+      "we should",
+      "we had to"
+     ],
+     "e": "we were owing",
+     "g": "ὠφείλομεν",
+     "l": 10,
+     "ph": "oh-FAY-lo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were owing",
+      "you all were owing",
+      "y'all owed",
+      "you all owed",
+      "y'all used to owe",
+      "you all used to owe",
+      "y'all ought",
+      "you all ought",
+      "y'all should",
+      "you all should",
+      "y'all had to",
+      "you all had to"
+     ],
+     "e": "y'all were owing",
+     "g": "ὠφείλετε",
+     "l": 10,
+     "ph": "oh-FAY-leh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will owe"
+     ],
+     "e": "I will owe",
+     "g": "ὀφειλήσω",
+     "l": 12,
+     "ph": "o-fay-LAY-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will owe"
+     ],
+     "e": "you will owe",
+     "g": "ὀφειλήσεις",
+     "l": 12,
+     "ph": "o-fay-LAY-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will owe",
+      "she will owe",
+      "it will owe"
+     ],
+     "e": "he/she/it will owe",
+     "g": "ὀφειλήσει",
+     "l": 12,
+     "ph": "o-fay-LAY-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will owe"
+     ],
+     "e": "we will owe",
+     "g": "ὀφειλήσομεν",
+     "l": 12,
+     "ph": "o-fay-LAY-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will owe",
+      "you all will owe"
+     ],
+     "e": "y'all will owe",
+     "g": "ὀφειλήσετε",
+     "l": 12,
+     "ph": "o-fay-LAY-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will owe"
+     ],
+     "e": "they will owe",
+     "g": "ὀφειλήσουσιν",
+     "l": 12,
+     "ph": "o-fay-LAY-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    }
+   ]
+  },
+  {
+   "c": "+ gen",
+   "e": "from",
+   "g": "παρά",
+   "gen": "",
+   "id": "10:παρά+gen",
+   "m": "\"parallel,\" \"paralegal\" — standing *beside*. Case pattern: gen = *from* (source), dat = *beside* (location), acc = *along* (motion)",
+   "p": "preposition",
+   "ph": "pah-RAH"
+  },
+  {
+   "c": "+ dat",
+   "e": "beside, with, among",
+   "g": "παρά",
+   "gen": "",
+   "id": "10:παρά+dat",
+   "m": "\"parallel,\" \"paralegal\" — standing *beside*. Case pattern: gen = *from* (source), dat = *beside* (location), acc = *along* (motion)",
+   "p": "preposition",
+   "ph": "pah-RAH"
+  },
+  {
+   "c": "+ acc",
+   "e": "by, along",
+   "g": "παρά",
+   "gen": "",
+   "id": "10:παρά+acc",
+   "m": "\"parallel,\" \"paralegal\" — standing *beside*. Case pattern: gen = *from* (source), dat = *beside* (location), acc = *along* (motion)",
+   "p": "preposition",
+   "ph": "pah-RAH"
+  },
+  {
+   "c": "",
+   "e": "I gather together",
+   "g": "συνάγω",
+   "gen": "",
+   "id": "10:συνάγω",
+   "m": "σύν (with, L9) + ἄγω (lead) — \"lead *together*\" = *gather*; \"synagogue\" — the place of *gathering*",
+   "p": "verb",
+   "ph": "sü-NAH-goh",
+   "vf": [
+    {
+     "a": [
+      "I gather together",
+      "I gather"
+     ],
+     "e": "I gather together",
+     "g": "συνάγω",
+     "l": 2,
+     "ph": "sü-NAH-goh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you gather together",
+      "you gather"
+     ],
+     "e": "you gather together",
+     "g": "συνάγεις",
+     "l": 2,
+     "ph": "sü-NAH-gays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he gathers together",
+      "she gathers together",
+      "it gathers together",
+      "he gathers",
+      "she gathers",
+      "it gathers"
+     ],
+     "e": "he/she/it gathers together",
+     "g": "συνάγει",
+     "l": 2,
+     "ph": "sü-NAH-gay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we gather together",
+      "we gather"
+     ],
+     "e": "we gather together",
+     "g": "συνάγομεν",
+     "l": 2,
+     "ph": "sü-NAH-go-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all gather together",
+      "you all gather together",
+      "y'all gather",
+      "you all gather"
+     ],
+     "e": "y'all gather together",
+     "g": "συνάγετε",
+     "l": 2,
+     "ph": "sü-NAH-geh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they gather together",
+      "they gather"
+     ],
+     "e": "they gather together",
+     "g": "συνάγουσιν",
+     "l": 2,
+     "ph": "sü-NAH-goo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being gathered together",
+      "I am gathered together",
+      "I gather together for myself",
+      "I gather together myself",
+      "I am being gathered",
+      "I am gathered",
+      "I gather for myself",
+      "I gather myself"
+     ],
+     "e": "I am being gathered together / I gather together for myself",
+     "g": "συνάγομαι",
+     "l": 9,
+     "ph": "sü-NAH-go-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being gathered together",
+      "you are gathered together",
+      "you gather together for yourself",
+      "you gather together yourself",
+      "you are being gathered",
+      "you are gathered",
+      "you gather for yourself",
+      "you gather yourself"
+     ],
+     "e": "you are being gathered together / you gather together for yourself",
+     "g": "συνάγῃ",
+     "l": 9,
+     "ph": "sü-NAH-gay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being gathered together",
+      "she is being gathered together",
+      "it is being gathered together",
+      "he is gathered together",
+      "she is gathered together",
+      "it is gathered together",
+      "he gathers together for himself",
+      "she gathers together for herself",
+      "it gathers together for itself",
+      "he gathers together himself",
+      "she gathers together herself",
+      "it gathers together itself",
+      "he is being gathered",
+      "she is being gathered",
+      "it is being gathered",
+      "he is gathered",
+      "she is gathered",
+      "it is gathered",
+      "he gathers for himself",
+      "she gathers for herself",
+      "it gathers for itself",
+      "he gathers himself",
+      "she gathers herself",
+      "it gathers itself"
+     ],
+     "e": "he/she/it is being gathered together / he/she/it gathers together for himself/herself/itself",
+     "g": "συνάγεται",
+     "l": 9,
+     "ph": "sü-NAH-geh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being gathered together",
+      "we are gathered together",
+      "we gather together for ourselves",
+      "we gather together ourselves",
+      "we are being gathered",
+      "we are gathered",
+      "we gather for ourselves",
+      "we gather ourselves"
+     ],
+     "e": "we are being gathered together / we gather together for ourselves",
+     "g": "συναγόμεθα",
+     "l": 9,
+     "ph": "sü-nah-GO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being gathered together",
+      "you all are being gathered together",
+      "y'all are gathered together",
+      "you all are gathered together",
+      "y'all gather together for yourselves",
+      "you all gather together for yourselves",
+      "y'all gather together yourselves",
+      "you all gather together yourselves",
+      "y'all are being gathered",
+      "you all are being gathered",
+      "y'all are gathered",
+      "you all are gathered",
+      "y'all gather for yourselves",
+      "you all gather for yourselves",
+      "y'all gather yourselves",
+      "you all gather yourselves"
+     ],
+     "e": "y'all are being gathered together / y'all gather together for yourselves",
+     "g": "συνάγεσθε",
+     "l": 9,
+     "ph": "sü-NAH-geh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being gathered together",
+      "they are gathered together",
+      "they gather together for themselves",
+      "they gather together themselves",
+      "they are being gathered",
+      "they are gathered",
+      "they gather for themselves",
+      "they gather themselves"
+     ],
+     "e": "they are being gathered together / they gather together for themselves",
+     "g": "συνάγονται",
+     "l": 9,
+     "ph": "sü-NAH-gon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was gathering together",
+      "I gathered together",
+      "I used to gather together",
+      "I was gathering",
+      "I gathered",
+      "I used to gather",
+      "they were gathering together",
+      "they gathered together",
+      "they used to gather together",
+      "they were gathering",
+      "they gathered",
+      "they used to gather"
+     ],
+     "e": "I was gathering together / they were gathering together",
+     "g": "συνῆγον",
+     "l": 10,
+     "ph": "sü-NAY-gon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were gathering together",
+      "you gathered together",
+      "you used to gather together",
+      "you were gathering",
+      "you gathered",
+      "you used to gather"
+     ],
+     "e": "you were gathering together",
+     "g": "συνῆγες",
+     "l": 10,
+     "ph": "sü-NAY-gehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was gathering together",
+      "she was gathering together",
+      "it was gathering together",
+      "he gathered together",
+      "she gathered together",
+      "it gathered together",
+      "he used to gather together",
+      "she used to gather together",
+      "it used to gather together",
+      "he was gathering",
+      "she was gathering",
+      "it was gathering",
+      "he gathered",
+      "she gathered",
+      "it gathered",
+      "he used to gather",
+      "she used to gather",
+      "it used to gather"
+     ],
+     "e": "he/she/it was gathering together",
+     "g": "συνῆγεν",
+     "l": 10,
+     "ph": "sü-NAY-gehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were gathering together",
+      "we gathered together",
+      "we used to gather together",
+      "we were gathering",
+      "we gathered",
+      "we used to gather"
+     ],
+     "e": "we were gathering together",
+     "g": "συνήγομεν",
+     "l": 10,
+     "ph": "sü-NAY-go-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were gathering together",
+      "you all were gathering together",
+      "y'all gathered together",
+      "you all gathered together",
+      "y'all used to gather together",
+      "you all used to gather together",
+      "y'all were gathering",
+      "you all were gathering",
+      "y'all gathered",
+      "you all gathered",
+      "y'all used to gather",
+      "you all used to gather"
+     ],
+     "e": "y'all were gathering together",
+     "g": "συνήγετε",
+     "l": 10,
+     "ph": "sü-NAY-geh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being gathered together",
+      "I was gathered together",
+      "I was gathering together for myself",
+      "I gathered together for myself",
+      "I was being gathered",
+      "I was gathered",
+      "I was gathering for myself",
+      "I gathered for myself"
+     ],
+     "e": "I was being gathered together / I was gathering together for myself",
+     "g": "συνηγόμην",
+     "l": 11,
+     "ph": "sü-nay-GO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being gathered together",
+      "you were gathered together",
+      "you were gathering together for yourself",
+      "you gathered together for yourself",
+      "you were being gathered",
+      "you were gathered",
+      "you were gathering for yourself",
+      "you gathered for yourself"
+     ],
+     "e": "you were being gathered together / you were gathering together for yourself",
+     "g": "συνήγου",
+     "l": 11,
+     "ph": "sü-NAY-goo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being gathered together",
+      "she was being gathered together",
+      "it was being gathered together",
+      "he was gathered together",
+      "she was gathered together",
+      "it was gathered together",
+      "he was gathering together for himself",
+      "she was gathering together for herself",
+      "it was gathering together for itself",
+      "he gathered together for himself",
+      "she gathered together for herself",
+      "it gathered together for itself",
+      "he was being gathered",
+      "she was being gathered",
+      "it was being gathered",
+      "he was gathered",
+      "she was gathered",
+      "it was gathered",
+      "he was gathering for himself",
+      "she was gathering for herself",
+      "it was gathering for itself",
+      "he gathered for himself",
+      "she gathered for herself",
+      "it gathered for itself"
+     ],
+     "e": "he/she/it was being gathered together / he/she/it was gathering together for himself/herself/itself",
+     "g": "συνήγετο",
+     "l": 11,
+     "ph": "sü-NAY-geh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being gathered together",
+      "we were gathered together",
+      "we were gathering together for ourselves",
+      "we gathered together for ourselves",
+      "we were being gathered",
+      "we were gathered",
+      "we were gathering for ourselves",
+      "we gathered for ourselves"
+     ],
+     "e": "we were being gathered together / we were gathering together for ourselves",
+     "g": "συνηγόμεθα",
+     "l": 11,
+     "ph": "sü-nay-GO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being gathered together",
+      "you all were being gathered together",
+      "y'all were gathered together",
+      "you all were gathered together",
+      "y'all were gathering together for yourselves",
+      "you all were gathering together for yourselves",
+      "y'all gathered together for yourselves",
+      "you all gathered together for yourselves",
+      "y'all were being gathered",
+      "you all were being gathered",
+      "y'all were gathered",
+      "you all were gathered",
+      "y'all were gathering for yourselves",
+      "you all were gathering for yourselves",
+      "y'all gathered for yourselves",
+      "you all gathered for yourselves"
+     ],
+     "e": "y'all were being gathered together / y'all were gathering together for yourselves",
+     "g": "συνήγεσθε",
+     "l": 11,
+     "ph": "sü-NAY-geh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being gathered together",
+      "they were gathered together",
+      "they were gathering together for themselves",
+      "they gathered together for themselves",
+      "they were being gathered",
+      "they were gathered",
+      "they were gathering for themselves",
+      "they gathered for themselves"
+     ],
+     "e": "they were being gathered together / they were gathering together for themselves",
+     "g": "συνήγοντο",
+     "l": 11,
+     "ph": "sü-NAY-gon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will gather together",
+      "I will gather"
+     ],
+     "e": "I will gather together",
+     "g": "συνάξω",
+     "l": 12,
+     "ph": "sü-NAH-ksoh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will gather together",
+      "you will gather"
+     ],
+     "e": "you will gather together",
+     "g": "συνάξεις",
+     "l": 12,
+     "ph": "sü-NAH-ksays",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will gather together",
+      "she will gather together",
+      "it will gather together",
+      "he will gather",
+      "she will gather",
+      "it will gather"
+     ],
+     "e": "he/she/it will gather together",
+     "g": "συνάξει",
+     "l": 12,
+     "ph": "sü-NAH-ksay",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will gather together",
+      "we will gather"
+     ],
+     "e": "we will gather together",
+     "g": "συνάξομεν",
+     "l": 12,
+     "ph": "sü-NAH-kso-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will gather together",
+      "you all will gather together",
+      "y'all will gather",
+      "you all will gather"
+     ],
+     "e": "y'all will gather together",
+     "g": "συνάξετε",
+     "l": 12,
+     "ph": "sü-NAH-kseh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will gather together",
+      "they will gather"
+     ],
+     "e": "they will gather together",
+     "g": "συνάξουσιν",
+     "l": 12,
+     "ph": "sü-NAH-ksoo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will gather together for myself",
+      "I will gather together myself",
+      "I will gather for myself",
+      "I will gather myself"
+     ],
+     "e": "I will gather together for myself",
+     "g": "συνάξομαι",
+     "l": 12,
+     "ph": "sü-NAH-kso-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will gather together for yourself",
+      "you will gather together yourself",
+      "you will gather for yourself",
+      "you will gather yourself"
+     ],
+     "e": "you will gather together for yourself",
+     "g": "συνάξῃ",
+     "l": 12,
+     "ph": "sü-NAH-ksay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will gather together for himself",
+      "he will gather together himself",
+      "she will gather together for herself",
+      "she will gather together herself",
+      "it will gather together for itself",
+      "it will gather together itself",
+      "he will gather for himself",
+      "he will gather himself",
+      "she will gather for herself",
+      "she will gather herself",
+      "it will gather for itself",
+      "it will gather itself"
+     ],
+     "e": "he/she/it will gather together for himself/herself/itself",
+     "g": "συνάξεται",
+     "l": 12,
+     "ph": "sü-NAH-kseh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will gather together for ourselves",
+      "we will gather together ourselves",
+      "we will gather for ourselves",
+      "we will gather ourselves"
+     ],
+     "e": "we will gather together for ourselves",
+     "g": "συναξόμεθα",
+     "l": 12,
+     "ph": "sü-nah-KSO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will gather together for yourselves",
+      "y'all will gather together yourselves",
+      "you all will gather together for yourselves",
+      "you all will gather together yourselves",
+      "y'all will gather for yourselves",
+      "y'all will gather yourselves",
+      "you all will gather for yourselves",
+      "you all will gather yourselves"
+     ],
+     "e": "y'all will gather together for yourselves",
+     "g": "συνάξεσθε",
+     "l": 12,
+     "ph": "sü-NAH-kseh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will gather together for themselves",
+      "they will gather together themselves",
+      "they will gather for themselves",
+      "they will gather themselves"
+     ],
+     "e": "they will gather together for themselves",
+     "g": "συνάξονται",
+     "l": 12,
+     "ph": "sü-NAH-kson-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I gathered together",
+      "I gathered",
+      "they gathered together",
+      "they gathered"
+     ],
+     "e": "I gathered together / they gathered together",
+     "g": "συνήγαγον",
+     "l": 14,
+     "ph": "sü-NAY-gah-gon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you gathered together",
+      "you gathered"
+     ],
+     "e": "you gathered together",
+     "g": "συνήγαγες",
+     "l": 14,
+     "ph": "sü-NAY-gah-gehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he gathered together",
+      "she gathered together",
+      "it gathered together",
+      "he gathered",
+      "she gathered",
+      "it gathered"
+     ],
+     "e": "he/she/it gathered together",
+     "g": "συνήγαγεν",
+     "l": 14,
+     "ph": "sü-NAY-gah-gehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we gathered together",
+      "we gathered"
+     ],
+     "e": "we gathered together",
+     "g": "συνηγάγομεν",
+     "l": 14,
+     "ph": "sü-nay-GAH-go-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all gathered together",
+      "you all gathered together",
+      "y'all gathered",
+      "you all gathered"
+     ],
+     "e": "y'all gathered together",
+     "g": "συνηγάγετε",
+     "l": 14,
+     "ph": "sü-nay-GAH-geh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "+ gen",
+   "e": "in behalf of",
+   "g": "ὑπέρ",
+   "gen": "",
+   "id": "10:ὑπέρ+gen",
+   "m": "\"hyperactive\" — *over*the-top. Opposite of ὑπό (L9, under → hypo-): ὑπό = *under*, ὑπέρ = *above*. Standing *over* someone = *in behalf of*",
+   "p": "preposition",
+   "ph": "hü-PEHR"
+  },
+  {
+   "c": "+ acc",
+   "e": "above",
+   "g": "ὑπέρ",
+   "gen": "",
+   "id": "10:ὑπέρ+acc",
+   "m": "\"hyperactive\" — *over*the-top. Opposite of ὑπό (L9, under → hypo-): ὑπό = *under*, ὑπέρ = *above*. Standing *over* someone = *in behalf of*",
+   "p": "preposition",
+   "ph": "hü-PEHR"
+  }
+ ]
+}

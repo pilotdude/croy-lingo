@@ -1,0 +1,1578 @@
+{
+ "n": 7,
+ "title": "Pronouns & More Nouns/Verbs",
+ "words": [
+  {
+   "c": "",
+   "e": "love",
+   "f": {
+    "acc": "τὴν ἀγάπην",
+    "dat": "τῇ ἀγάπῃ",
+    "gen": "τῆς ἀγάπης"
+   },
+   "fp": {
+    "acc": "tayn ah-GAH-payn",
+    "dat": "tay ah-GAH-pay",
+    "gen": "tays ah-GAH-pays"
+   },
+   "g": "ἀγάπη, ἡ",
+   "gen": "f",
+   "id": "7:ἀγάπη",
+   "m": "\"agape\" is a direct loanword — selfless *love*",
+   "p": "noun",
+   "ph": "ah-GAH-pay, hay"
+  },
+  {
+   "c": "",
+   "e": "sin (→ hamartiology)",
+   "f": {
+    "acc": "τὴν ἁμαρτίαν",
+    "dat": "τῇ ἁμαρτίᾳ",
+    "gen": "τῆς ἁμαρτίας"
+   },
+   "fp": {
+    "acc": "tayn hah-mahr-TEE-ahn",
+    "dat": "tay hah-mahr-TEE-ah",
+    "gen": "tays hah-mahr-TEE-ahs"
+   },
+   "g": "ἁμαρτία, ἡ",
+   "gen": "f",
+   "id": "7:ἁμαρτία",
+   "m": "\"hamartiology\" — the study of *sin*",
+   "p": "noun",
+   "ph": "hah-mahr-TEE-ah, hay"
+  },
+  {
+   "c": "",
+   "e": "bread, loaf",
+   "f": {
+    "acc": "τὸν ἄρτον",
+    "dat": "τῷ ἄρτῳ",
+    "gen": "τοῦ ἄρτου"
+   },
+   "fp": {
+    "acc": "ton AHR-ton",
+    "dat": "toh AHR-toh",
+    "gen": "too AHR-too"
+   },
+   "g": "ἄρτος, ὁ",
+   "gen": "m",
+   "id": "7:ἄρτος",
+   "m": "sounds like \"artisan\" — an *artisan loaf* of bread",
+   "p": "noun",
+   "ph": "AHR-tos, ho"
+  },
+  {
+   "c": "",
+   "e": "he, she, it",
+   "g": "αὐτός, -ή, -ό",
+   "gen": "",
+   "id": "7:αὐτός",
+   "m": "\"auto-\" as in \"automatic\" — it moves/acts on *its own*",
+   "p": "pronoun",
+   "ph": "ow-TOS, -ay, -o"
+  },
+  {
+   "c": "",
+   "e": "gift",
+   "f": {
+    "acc": "τὸ δῶρον",
+    "dat": "τῷ δώρῳ",
+    "gen": "τοῦ δώρου"
+   },
+   "fp": {
+    "acc": "to DOH-ron",
+    "dat": "toh DOH-roh",
+    "gen": "too DOH-roo"
+   },
+   "g": "δῶρον, τό",
+   "gen": "n",
+   "id": "7:δῶρον",
+   "m": "sounds like \"adorn\" — a *gift* you adorn someone with",
+   "p": "noun",
+   "ph": "DOH-ron, to"
+  },
+  {
+   "c": "",
+   "e": "I",
+   "g": "ἐγώ",
+   "gen": "",
+   "id": "7:ἐγώ",
+   "m": "\"ego\" — the sense of *I*, the self",
+   "p": "pronoun",
+   "ph": "eh-GOH"
+  },
+  {
+   "c": "",
+   "e": "I am",
+   "g": "εἰμί",
+   "gen": "",
+   "id": "7:εἰμί",
+   "m": "sounds like \"hey, me!\" — pointing to yourself, asserting *I am*",
+   "p": "verb",
+   "ph": "ay-MEE",
+   "vf": [
+    {
+     "a": [
+      "I am"
+     ],
+     "e": "I am",
+     "g": "εἰμί",
+     "l": 7,
+     "ph": "ay-MEE",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you are"
+     ],
+     "e": "you are",
+     "g": "εἶ",
+     "l": 7,
+     "ph": "ay",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he is",
+      "she is",
+      "it is"
+     ],
+     "e": "he/she/it is",
+     "g": "ἐστίν",
+     "l": 7,
+     "ph": "eh-STEEN",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we are"
+     ],
+     "e": "we are",
+     "g": "ἐσμέν",
+     "l": 7,
+     "ph": "eh-SMEHN",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all are",
+      "you all are"
+     ],
+     "e": "y'all are",
+     "g": "ἐστέ",
+     "l": 7,
+     "ph": "eh-STEH",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they are"
+     ],
+     "e": "they are",
+     "g": "εἰσίν",
+     "l": 7,
+     "ph": "ay-SEEN",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was"
+     ],
+     "e": "I was",
+     "g": "ἤμην",
+     "l": 10,
+     "ph": "AY-mayn",
+     "pn": "1s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were"
+     ],
+     "e": "you were",
+     "g": "ἦς",
+     "l": 10,
+     "ph": "ays",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was",
+      "she was",
+      "it was"
+     ],
+     "e": "he/she/it was",
+     "g": "ἦν",
+     "l": 10,
+     "ph": "ayn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were"
+     ],
+     "e": "we were",
+     "g": "ἦμεν",
+     "l": 10,
+     "ph": "AY-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were",
+      "you all were"
+     ],
+     "e": "y'all were",
+     "g": "ἦτε",
+     "l": 10,
+     "ph": "AY-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "they were"
+     ],
+     "e": "they were",
+     "g": "ἦσαν",
+     "l": 10,
+     "ph": "AY-sahn",
+     "pn": "3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I will be"
+     ],
+     "e": "I will be",
+     "g": "ἔσομαι",
+     "l": 12,
+     "ph": "EH-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "you will be"
+     ],
+     "e": "you will be",
+     "g": "ἔσῃ",
+     "l": 12,
+     "ph": "EH-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "he will be",
+      "she will be",
+      "it will be"
+     ],
+     "e": "he/she/it will be",
+     "g": "ἔσται",
+     "l": 12,
+     "ph": "EH-stai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "we will be"
+     ],
+     "e": "we will be",
+     "g": "ἐσόμεθα",
+     "l": 12,
+     "ph": "eh-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "y'all will be",
+      "you all will be"
+     ],
+     "e": "y'all will be",
+     "g": "ἔσεσθε",
+     "l": 12,
+     "ph": "EH-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future"
+    },
+    {
+     "a": [
+      "they will be"
+     ],
+     "e": "they will be",
+     "g": "ἔσονται",
+     "l": 12,
+     "ph": "EH-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I eat",
+   "g": "ἐσθίω",
+   "gen": "",
+   "id": "7:ἐσθίω",
+   "m": "\"esophagus\" — the tube food travels down when you *eat*",
+   "p": "verb",
+   "ph": "eh-STHEE-oh",
+   "vf": [
+    {
+     "a": [
+      "I eat"
+     ],
+     "e": "I eat",
+     "g": "ἐσθίω",
+     "l": 2,
+     "ph": "eh-STHEE-oh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you eat"
+     ],
+     "e": "you eat",
+     "g": "ἐσθίεις",
+     "l": 2,
+     "ph": "eh-STHEE-ays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he eats",
+      "she eats",
+      "it eats"
+     ],
+     "e": "he/she/it eats",
+     "g": "ἐσθίει",
+     "l": 2,
+     "ph": "eh-STHEE-ay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we eat"
+     ],
+     "e": "we eat",
+     "g": "ἐσθίομεν",
+     "l": 2,
+     "ph": "eh-STHEE-o-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all eat",
+      "you all eat"
+     ],
+     "e": "y'all eat",
+     "g": "ἐσθίετε",
+     "l": 2,
+     "ph": "eh-STHEE-eh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they eat"
+     ],
+     "e": "they eat",
+     "g": "ἐσθίουσιν",
+     "l": 2,
+     "ph": "eh-STHEE-oo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being eaten",
+      "I am eaten",
+      "I eat for myself",
+      "I eat myself"
+     ],
+     "e": "I am being eaten / I eat for myself",
+     "g": "ἐσθίομαι",
+     "l": 9,
+     "ph": "eh-STHEE-o-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being eaten",
+      "you are eaten",
+      "you eat for yourself",
+      "you eat yourself"
+     ],
+     "e": "you are being eaten / you eat for yourself",
+     "g": "ἐσθίῃ",
+     "l": 9,
+     "ph": "eh-STHEE-ay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being eaten",
+      "she is being eaten",
+      "it is being eaten",
+      "he is eaten",
+      "she is eaten",
+      "it is eaten",
+      "he eats for himself",
+      "she eats for herself",
+      "it eats for itself",
+      "he eats himself",
+      "she eats herself",
+      "it eats itself"
+     ],
+     "e": "he/she/it is being eaten / he/she/it eats for himself/herself/itself",
+     "g": "ἐσθίεται",
+     "l": 9,
+     "ph": "eh-STHEE-eh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being eaten",
+      "we are eaten",
+      "we eat for ourselves",
+      "we eat ourselves"
+     ],
+     "e": "we are being eaten / we eat for ourselves",
+     "g": "ἐσθιόμεθα",
+     "l": 9,
+     "ph": "eh-sthee-O-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being eaten",
+      "you all are being eaten",
+      "y'all are eaten",
+      "you all are eaten",
+      "y'all eat for yourselves",
+      "you all eat for yourselves",
+      "y'all eat yourselves",
+      "you all eat yourselves"
+     ],
+     "e": "y'all are being eaten / y'all eat for yourselves",
+     "g": "ἐσθίεσθε",
+     "l": 9,
+     "ph": "eh-STHEE-eh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being eaten",
+      "they are eaten",
+      "they eat for themselves",
+      "they eat themselves"
+     ],
+     "e": "they are being eaten / they eat for themselves",
+     "g": "ἐσθίονται",
+     "l": 9,
+     "ph": "eh-STHEE-on-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was eating",
+      "I ate",
+      "I used to eat",
+      "they were eating",
+      "they ate",
+      "they used to eat"
+     ],
+     "e": "I was eating / they were eating",
+     "g": "ἤσθιον",
+     "l": 10,
+     "ph": "AY-sthee-on",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were eating",
+      "you ate",
+      "you used to eat"
+     ],
+     "e": "you were eating",
+     "g": "ἤσθιες",
+     "l": 10,
+     "ph": "AY-sthee-ehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was eating",
+      "she was eating",
+      "it was eating",
+      "he ate",
+      "she ate",
+      "it ate",
+      "he used to eat",
+      "she used to eat",
+      "it used to eat"
+     ],
+     "e": "he/she/it was eating",
+     "g": "ἤσθιεν",
+     "l": 10,
+     "ph": "AY-sthee-ehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were eating",
+      "we ate",
+      "we used to eat"
+     ],
+     "e": "we were eating",
+     "g": "ἠσθίομεν",
+     "l": 10,
+     "ph": "ay-STHEE-o-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were eating",
+      "you all were eating",
+      "y'all ate",
+      "you all ate",
+      "y'all used to eat",
+      "you all used to eat"
+     ],
+     "e": "y'all were eating",
+     "g": "ἠσθίετε",
+     "l": 10,
+     "ph": "ay-STHEE-eh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being eaten",
+      "I was eaten",
+      "I was eating for myself",
+      "I ate for myself"
+     ],
+     "e": "I was being eaten / I was eating for myself",
+     "g": "ἠσθιόμην",
+     "l": 11,
+     "ph": "ay-sthee-O-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being eaten",
+      "you were eaten",
+      "you were eating for yourself",
+      "you ate for yourself"
+     ],
+     "e": "you were being eaten / you were eating for yourself",
+     "g": "ἠσθίου",
+     "l": 11,
+     "ph": "ay-STHEE-oo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being eaten",
+      "she was being eaten",
+      "it was being eaten",
+      "he was eaten",
+      "she was eaten",
+      "it was eaten",
+      "he was eating for himself",
+      "she was eating for herself",
+      "it was eating for itself",
+      "he ate for himself",
+      "she ate for herself",
+      "it ate for itself"
+     ],
+     "e": "he/she/it was being eaten / he/she/it was eating for himself/herself/itself",
+     "g": "ἠσθίετο",
+     "l": 11,
+     "ph": "ay-STHEE-eh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being eaten",
+      "we were eaten",
+      "we were eating for ourselves",
+      "we ate for ourselves"
+     ],
+     "e": "we were being eaten / we were eating for ourselves",
+     "g": "ἠσθιόμεθα",
+     "l": 11,
+     "ph": "ay-sthee-O-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being eaten",
+      "you all were being eaten",
+      "y'all were eaten",
+      "you all were eaten",
+      "y'all were eating for yourselves",
+      "you all were eating for yourselves",
+      "y'all ate for yourselves",
+      "you all ate for yourselves"
+     ],
+     "e": "y'all were being eaten / y'all were eating for yourselves",
+     "g": "ἠσθίεσθε",
+     "l": 11,
+     "ph": "ay-STHEE-eh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being eaten",
+      "they were eaten",
+      "they were eating for themselves",
+      "they ate for themselves"
+     ],
+     "e": "they were being eaten / they were eating for themselves",
+     "g": "ἠσθίοντο",
+     "l": 11,
+     "ph": "ay-STHEE-on-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will eat"
+     ],
+     "e": "I will eat",
+     "g": "φάγομαι",
+     "l": 12,
+     "ph": "FAH-go-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will eat"
+     ],
+     "e": "you will eat",
+     "g": "φάγῃ",
+     "l": 12,
+     "ph": "FAH-gay",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will eat",
+      "she will eat",
+      "it will eat"
+     ],
+     "e": "he/she/it will eat",
+     "g": "φάγεται",
+     "l": 12,
+     "ph": "FAH-geh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will eat"
+     ],
+     "e": "we will eat",
+     "g": "φαγόμεθα",
+     "l": 12,
+     "ph": "fah-GO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will eat",
+      "you all will eat"
+     ],
+     "e": "y'all will eat",
+     "g": "φάγεσθε",
+     "l": 12,
+     "ph": "FAH-geh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will eat"
+     ],
+     "e": "they will eat",
+     "g": "φάγονται",
+     "l": 12,
+     "ph": "FAH-gon-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I ate",
+      "they ate"
+     ],
+     "e": "I ate / they ate",
+     "g": "ἔφαγον",
+     "l": 14,
+     "ph": "EH-fah-gon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you ate"
+     ],
+     "e": "you ate",
+     "g": "ἔφαγες",
+     "l": 14,
+     "ph": "EH-fah-gehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he ate",
+      "she ate",
+      "it ate"
+     ],
+     "e": "he/she/it ate",
+     "g": "ἔφαγεν",
+     "l": 14,
+     "ph": "EH-fah-gehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we ate"
+     ],
+     "e": "we ate",
+     "g": "ἐφάγομεν",
+     "l": 14,
+     "ph": "eh-FAH-go-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all ate",
+      "you all ate"
+     ],
+     "e": "y'all ate",
+     "g": "ἐφάγετε",
+     "l": 14,
+     "ph": "eh-FAH-geh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "+ gen",
+   "e": "against",
+   "g": "κατά",
+   "gen": "",
+   "id": "7:κατά+gen",
+   "m": "\"catastrophe\" — a sudden turn *against* fortune",
+   "p": "preposition",
+   "ph": "kah-TAH"
+  },
+  {
+   "c": "+ acc",
+   "e": "according to",
+   "g": "κατά",
+   "gen": "",
+   "id": "7:κατά+acc",
+   "m": "\"catastrophe\" — a sudden turn *against* fortune",
+   "p": "preposition",
+   "ph": "kah-TAH"
+  },
+  {
+   "c": "",
+   "e": "crowd, multitude (→ ochlocracy)",
+   "f": {
+    "acc": "τὸν ὄχλον",
+    "dat": "τῷ ὄχλῳ",
+    "gen": "τοῦ ὄχλου"
+   },
+   "fp": {
+    "acc": "ton O-khlon",
+    "dat": "toh O-khloh",
+    "gen": "too O-khloo"
+   },
+   "g": "ὄχλος, ὁ",
+   "gen": "m",
+   "id": "7:ὄχλος",
+   "m": "\"ochlocracy\" — mob rule, rule by the *crowd*",
+   "p": "noun",
+   "ph": "O-khlos, ho"
+  },
+  {
+   "c": "",
+   "e": "boat",
+   "f": {
+    "acc": "τὸ πλοῖον",
+    "dat": "τῷ πλοίῳ",
+    "gen": "τοῦ πλοίου"
+   },
+   "fp": {
+    "acc": "to PLOY-on",
+    "dat": "toh PLOY-oh",
+    "gen": "too PLOY-oo"
+   },
+   "g": "πλοῖον, τό",
+   "gen": "n",
+   "id": "7:πλοῖον",
+   "m": "sounds like \"ploy on\" — a *boat* setting off on a voyage",
+   "p": "noun",
+   "ph": "PLOY-on, to"
+  },
+  {
+   "c": "",
+   "e": "you (singular)",
+   "g": "σύ",
+   "gen": "",
+   "id": "7:σύ",
+   "m": "short, pointed sound — like jabbing a finger and saying \"you!\"",
+   "p": "pronoun",
+   "ph": "sü"
+  },
+  {
+   "c": "",
+   "e": "I save (→ soteriology)",
+   "g": "σῴζω",
+   "gen": "",
+   "id": "7:σῴζω",
+   "m": "\"soteriology\" — the study of salvation, *I save*",
+   "p": "verb",
+   "ph": "SOH-zoh",
+   "vf": [
+    {
+     "a": [
+      "I save"
+     ],
+     "e": "I save",
+     "g": "σῴζω",
+     "l": 2,
+     "ph": "SOH-zoh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you save"
+     ],
+     "e": "you save",
+     "g": "σῴζεις",
+     "l": 2,
+     "ph": "SOH-zays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he saves",
+      "she saves",
+      "it saves"
+     ],
+     "e": "he/she/it saves",
+     "g": "σῴζει",
+     "l": 2,
+     "ph": "SOH-zay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we save"
+     ],
+     "e": "we save",
+     "g": "σῴζομεν",
+     "l": 2,
+     "ph": "SOH-zo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all save",
+      "you all save"
+     ],
+     "e": "y'all save",
+     "g": "σῴζετε",
+     "l": 2,
+     "ph": "SOH-zeh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they save"
+     ],
+     "e": "they save",
+     "g": "σῴζουσιν",
+     "l": 2,
+     "ph": "SOH-zoo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being saved",
+      "I am saved",
+      "I save for myself",
+      "I save myself"
+     ],
+     "e": "I am being saved / I save for myself",
+     "g": "σῴζομαι",
+     "l": 9,
+     "ph": "SOH-zo-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being saved",
+      "you are saved",
+      "you save for yourself",
+      "you save yourself"
+     ],
+     "e": "you are being saved / you save for yourself",
+     "g": "σῴζῃ",
+     "l": 9,
+     "ph": "SOH-zay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being saved",
+      "she is being saved",
+      "it is being saved",
+      "he is saved",
+      "she is saved",
+      "it is saved",
+      "he saves for himself",
+      "she saves for herself",
+      "it saves for itself",
+      "he saves himself",
+      "she saves herself",
+      "it saves itself"
+     ],
+     "e": "he/she/it is being saved / he/she/it saves for himself/herself/itself",
+     "g": "σῴζεται",
+     "l": 9,
+     "ph": "SOH-zeh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being saved",
+      "we are saved",
+      "we save for ourselves",
+      "we save ourselves"
+     ],
+     "e": "we are being saved / we save for ourselves",
+     "g": "σῳζόμεθα",
+     "l": 9,
+     "ph": "soh-ZO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being saved",
+      "you all are being saved",
+      "y'all are saved",
+      "you all are saved",
+      "y'all save for yourselves",
+      "you all save for yourselves",
+      "y'all save yourselves",
+      "you all save yourselves"
+     ],
+     "e": "y'all are being saved / y'all save for yourselves",
+     "g": "σῴζεσθε",
+     "l": 9,
+     "ph": "SOH-zeh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being saved",
+      "they are saved",
+      "they save for themselves",
+      "they save themselves"
+     ],
+     "e": "they are being saved / they save for themselves",
+     "g": "σῴζονται",
+     "l": 9,
+     "ph": "SOH-zon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was saving",
+      "I saved",
+      "I used to save",
+      "they were saving",
+      "they saved",
+      "they used to save"
+     ],
+     "e": "I was saving / they were saving",
+     "g": "ἔσῳζον",
+     "l": 10,
+     "ph": "EH-soh-zon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were saving",
+      "you saved",
+      "you used to save"
+     ],
+     "e": "you were saving",
+     "g": "ἔσῳζες",
+     "l": 10,
+     "ph": "EH-soh-zehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was saving",
+      "she was saving",
+      "it was saving",
+      "he saved",
+      "she saved",
+      "it saved",
+      "he used to save",
+      "she used to save",
+      "it used to save"
+     ],
+     "e": "he/she/it was saving",
+     "g": "ἔσῳζεν",
+     "l": 10,
+     "ph": "EH-soh-zehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were saving",
+      "we saved",
+      "we used to save"
+     ],
+     "e": "we were saving",
+     "g": "ἐσῴζομεν",
+     "l": 10,
+     "ph": "eh-SOH-zo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were saving",
+      "you all were saving",
+      "y'all saved",
+      "you all saved",
+      "y'all used to save",
+      "you all used to save"
+     ],
+     "e": "y'all were saving",
+     "g": "ἐσῴζετε",
+     "l": 10,
+     "ph": "eh-SOH-zeh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being saved",
+      "I was saved",
+      "I was saving for myself",
+      "I saved for myself"
+     ],
+     "e": "I was being saved / I was saving for myself",
+     "g": "ἐσῳζόμην",
+     "l": 11,
+     "ph": "eh-soh-ZO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being saved",
+      "you were saved",
+      "you were saving for yourself",
+      "you saved for yourself"
+     ],
+     "e": "you were being saved / you were saving for yourself",
+     "g": "ἐσῴζου",
+     "l": 11,
+     "ph": "eh-SOH-zoo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being saved",
+      "she was being saved",
+      "it was being saved",
+      "he was saved",
+      "she was saved",
+      "it was saved",
+      "he was saving for himself",
+      "she was saving for herself",
+      "it was saving for itself",
+      "he saved for himself",
+      "she saved for herself",
+      "it saved for itself"
+     ],
+     "e": "he/she/it was being saved / he/she/it was saving for himself/herself/itself",
+     "g": "ἐσῴζετο",
+     "l": 11,
+     "ph": "eh-SOH-zeh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being saved",
+      "we were saved",
+      "we were saving for ourselves",
+      "we saved for ourselves"
+     ],
+     "e": "we were being saved / we were saving for ourselves",
+     "g": "ἐσῳζόμεθα",
+     "l": 11,
+     "ph": "eh-soh-ZO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being saved",
+      "you all were being saved",
+      "y'all were saved",
+      "you all were saved",
+      "y'all were saving for yourselves",
+      "you all were saving for yourselves",
+      "y'all saved for yourselves",
+      "you all saved for yourselves"
+     ],
+     "e": "y'all were being saved / y'all were saving for yourselves",
+     "g": "ἐσῴζεσθε",
+     "l": 11,
+     "ph": "eh-SOH-zeh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being saved",
+      "they were saved",
+      "they were saving for themselves",
+      "they saved for themselves"
+     ],
+     "e": "they were being saved / they were saving for themselves",
+     "g": "ἐσῴζοντο",
+     "l": 11,
+     "ph": "eh-SOH-zon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I will save"
+     ],
+     "e": "I will save",
+     "g": "σώσω",
+     "l": 12,
+     "ph": "SOH-soh",
+     "pn": "1s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "you will save"
+     ],
+     "e": "you will save",
+     "g": "σώσεις",
+     "l": 12,
+     "ph": "SOH-says",
+     "pn": "2s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "he will save",
+      "she will save",
+      "it will save"
+     ],
+     "e": "he/she/it will save",
+     "g": "σώσει",
+     "l": 12,
+     "ph": "SOH-say",
+     "pn": "3s",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "we will save"
+     ],
+     "e": "we will save",
+     "g": "σώσομεν",
+     "l": 12,
+     "ph": "SOH-so-mehn",
+     "pn": "1p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "y'all will save",
+      "you all will save"
+     ],
+     "e": "y'all will save",
+     "g": "σώσετε",
+     "l": 12,
+     "ph": "SOH-seh-teh",
+     "pn": "2p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "they will save"
+     ],
+     "e": "they will save",
+     "g": "σώσουσιν",
+     "l": 12,
+     "ph": "SOH-soo-seen",
+     "pn": "3p",
+     "t": "fa",
+     "tl": "future active"
+    },
+    {
+     "a": [
+      "I will save for myself",
+      "I will save myself"
+     ],
+     "e": "I will save for myself",
+     "g": "σώσομαι",
+     "l": 12,
+     "ph": "SOH-so-mai",
+     "pn": "1s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "you will save for yourself",
+      "you will save yourself"
+     ],
+     "e": "you will save for yourself",
+     "g": "σώσῃ",
+     "l": 12,
+     "ph": "SOH-say",
+     "pn": "2s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "he will save for himself",
+      "he will save himself",
+      "she will save for herself",
+      "she will save herself",
+      "it will save for itself",
+      "it will save itself"
+     ],
+     "e": "he/she/it will save for himself/herself/itself",
+     "g": "σώσεται",
+     "l": 12,
+     "ph": "SOH-seh-tai",
+     "pn": "3s",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "we will save for ourselves",
+      "we will save ourselves"
+     ],
+     "e": "we will save for ourselves",
+     "g": "σωσόμεθα",
+     "l": 12,
+     "ph": "soh-SO-meh-thah",
+     "pn": "1p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "y'all will save for yourselves",
+      "y'all will save yourselves",
+      "you all will save for yourselves",
+      "you all will save yourselves"
+     ],
+     "e": "y'all will save for yourselves",
+     "g": "σώσεσθε",
+     "l": 12,
+     "ph": "SOH-seh-stheh",
+     "pn": "2p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "they will save for themselves",
+      "they will save themselves"
+     ],
+     "e": "they will save for themselves",
+     "g": "σώσονται",
+     "l": 12,
+     "ph": "SOH-son-tai",
+     "pn": "3p",
+     "t": "fm",
+     "tl": "future middle"
+    },
+    {
+     "a": [
+      "I saved"
+     ],
+     "e": "I saved",
+     "g": "ἔσωσα",
+     "l": 13,
+     "ph": "EH-soh-sah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you saved"
+     ],
+     "e": "you saved",
+     "g": "ἔσωσας",
+     "l": 13,
+     "ph": "EH-soh-sahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he saved",
+      "she saved",
+      "it saved"
+     ],
+     "e": "he/she/it saved",
+     "g": "ἔσωσεν",
+     "l": 13,
+     "ph": "EH-soh-sehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we saved"
+     ],
+     "e": "we saved",
+     "g": "ἐσώσαμεν",
+     "l": 13,
+     "ph": "eh-SOH-sah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all saved",
+      "you all saved"
+     ],
+     "e": "y'all saved",
+     "g": "ἐσώσατε",
+     "l": 13,
+     "ph": "eh-SOH-sah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they saved"
+     ],
+     "e": "they saved",
+     "g": "ἔσωσαν",
+     "l": 13,
+     "ph": "EH-soh-sahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I saved for myself",
+      "I saved myself"
+     ],
+     "e": "I saved for myself",
+     "g": "ἐσωσάμην",
+     "l": 13,
+     "ph": "eh-soh-SAH-mayn",
+     "pn": "1s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "you saved for yourself",
+      "you saved yourself"
+     ],
+     "e": "you saved for yourself",
+     "g": "ἐσώσω",
+     "l": 13,
+     "ph": "eh-SOH-soh",
+     "pn": "2s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "he saved for himself",
+      "he saved himself",
+      "she saved for herself",
+      "she saved herself",
+      "it saved for itself",
+      "it saved itself"
+     ],
+     "e": "he/she/it saved for himself/herself/itself",
+     "g": "ἐσώσατο",
+     "l": 13,
+     "ph": "eh-SOH-sah-to",
+     "pn": "3s",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "we saved for ourselves",
+      "we saved ourselves"
+     ],
+     "e": "we saved for ourselves",
+     "g": "ἐσωσάμεθα",
+     "l": 13,
+     "ph": "eh-soh-SAH-meh-thah",
+     "pn": "1p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "y'all saved for yourselves",
+      "y'all saved yourselves",
+      "you all saved for yourselves",
+      "you all saved yourselves"
+     ],
+     "e": "y'all saved for yourselves",
+     "g": "ἐσώσασθε",
+     "l": 13,
+     "ph": "eh-SOH-sah-stheh",
+     "pn": "2p",
+     "t": "am",
+     "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "they saved for themselves",
+      "they saved themselves"
+     ],
+     "e": "they saved for themselves",
+     "g": "ἐσώσαντο",
+     "l": 13,
+     "ph": "eh-SOH-sahn-to",
+     "pn": "3p",
+     "t": "am",
+     "tl": "aorist middle"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "soul, life (→ psycho-)",
+   "f": {
+    "acc": "τὴν ψυχήν",
+    "dat": "τῇ ψυχῇ",
+    "gen": "τῆς ψυχῆς"
+   },
+   "fp": {
+    "acc": "tayn psü-KHAYN",
+    "dat": "tay psü-KHAY",
+    "gen": "tays psü-KHAYS"
+   },
+   "g": "ψυχή, ἡ",
+   "gen": "f",
+   "id": "7:ψυχή",
+   "m": "\"psyche,\" \"psychology\" — the study of the *soul*/mind",
+   "p": "noun",
+   "ph": "psü-KHAY, hay"
+  }
+ ]
+}
