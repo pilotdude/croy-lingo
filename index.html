@@ -272,6 +272,9 @@ details.list[open] summary::after{transform:rotate(-135deg);margin-top:-3px}
 @media (prefers-reduced-motion:reduce){.track i{transition:none}}
 .acct{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:10px 14px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;justify-content:space-between}
 .acct p{flex:1 1 240px}
+.acct.anon{border:2px solid var(--accent);padding:12px 14px}
+.wstart{display:flex;flex-direction:column;gap:10px;max-width:340px}
+.btn.big{min-height:48px;font-size:16px}
 .linkbtn{background:none;border:0;padding:0;color:var(--accent);font-weight:600;text-decoration:underline;cursor:pointer}
 .movebar{background:var(--bad-bg);border:1px solid var(--weak);border-radius:var(--radius);padding:12px 14px;display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;justify-content:space-between}
 .movebar p{flex:1 1 260px}
@@ -855,7 +858,7 @@ function accountBar(){
   const a = cap.acct; if(!a) return "";
   const msg = acctMsg ? `<p class="small" role="status">${esc(acctMsg)}</p>` : "";
   return a.anon
-    ? `<div class="acct"><p class="small">Your progress is saved on this device only. Sign in to keep it in your account and use it on your phone and computer.</p><button class="btn small primary" data-act="signin">Sign in with Google</button>${msg}</div>`
+    ? `<div class="acct anon"><p><b>Save your progress.</b> <span class="small">Right now it is kept on this device only. Sign in to keep it in your account and use it on your phone and computer.</span></p><button class="btn primary" data-act="signin">Sign in with Google</button>${msg}</div>`
     : `<div class="acct"><p class="small">Signed in as <b>${esc(a.name)}</b>. Your progress follows your account.</p><button class="btn small" data-act="signout">Sign out</button>${msg}</div>`;
 }
 function moveBanner(){
@@ -870,10 +873,13 @@ let welcomeStep = "ask", welcomeLater = false;
 const needWelcome = () => SITE && !welcomeLater && !progress.prefs.onboard && !hasProgress();
 function renderWelcome(){
   const body = welcomeStep==="ask"
-    ? `<p>Have you used the Croy Greek Vocab trainer in Claude before?</p>
-       <div class="row"><button class="btn primary" data-act="welcome-yes">Yes</button><button class="btn" data-act="welcome-no">No, I'm new</button></div>
-       ${cap.acct && cap.acct.anon ? `<p class="small muted">Already used this site on another device? <button class="linkbtn" data-act="signin">Sign in with Google</button> to pick up where you left off.</p>` : ""}
-       ${acctMsg ? `<p class="small" role="status">${esc(acctMsg)}</p>` : ""}`
+    ? (cap.acct && cap.acct.anon
+        ? `<p>Practise the vocabulary of Croy's <i>A Primer of Biblical Greek</i>. Sign in to save your progress and use it on your phone and computer.</p>
+           <div class="wstart"><button class="btn primary big" data-act="signin">Sign in with Google</button><button class="btn" data-act="welcome-no">Start without signing in</button></div>
+           ${acctMsg ? `<p class="small" role="status">${esc(acctMsg)}</p>` : ""}`
+        : `<p>Practise the vocabulary of Croy's <i>A Primer of Biblical Greek</i>.</p>
+           <div class="wstart"><button class="btn primary big" data-act="welcome-no">Start</button></div>`)
+      + `<p class="small muted">Used the Croy Greek Vocab trainer in Claude before? <button class="linkbtn" data-act="welcome-yes">Bring your progress over</button></p>`
     : `<p>Bring your progress over from the Claude version:</p>
        <ol class="wsteps">
          ${cap.acct ? (cap.acct.anon ? `<li><button class="btn small primary" data-act="signin">Sign in with Google</button> so your progress is kept in your account.${acctMsg?` <span role="status">${esc(acctMsg)}</span>`:""}</li>` : `<li>Signed in as <b>${esc(cap.acct.name)}</b>.</li>`) : ""}
@@ -1312,7 +1318,9 @@ $app.addEventListener("click", e=>{
   else if(a==="import"){ xferMsg=""; const f=document.getElementById("impfile"); if(f){ f.value=""; f.click(); } }
   else if(a==="import-yes"){ applyImport("merge"); }
   else if(a==="welcome-yes"){ welcomeStep="yes"; render(); }
-  else if(a==="signin" && cap.acct){ acctMsg=""; cap.acct.signIn().then(()=>{ acctMsg=""; render(); }, e=>{ acctMsg="Sign-in did not work ("+(e && (e.code||e.message) || "unknown error")+"). Please try again."; render(); }); }
+  else if(a==="signin" && cap.acct){ acctMsg=""; cap.acct.signIn().then(()=>{ acctMsg="";
+      if(welcomeStep==="ask" && needWelcome() && !cap.acct.anon){ progress.prefs.onboard="no"; dirty=true; queueSave(); }   // signed in from the welcome screen: start fresh in the account
+      render(); }, e=>{ acctMsg="Sign-in did not work ("+(e && (e.code||e.message) || "unknown error")+"). Please try again."; render(); }); }
   else if(a==="signout" && cap.acct){ cap.acct.signOut(); }
   else if(a==="welcome-back"){ welcomeStep="ask"; xferPending=null; xferMsg=""; render(); }
   else if(a==="welcome-later"){ welcomeLater=true; xferPending=null; xferMsg=""; render(); }
