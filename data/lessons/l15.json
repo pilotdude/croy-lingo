@@ -1,0 +1,359 @@
+{
+ "n": 15,
+ "title": "Perfect Verbs",
+ "words": [
+  {
+   "c": "",
+   "e": "I have heard (perfect of ἀκούω)",
+   "g": "ἀκήκοα",
+   "gen": "",
+   "id": "15:ἀκήκοα",
+   "m": "ἀκούω (L2, \"acoustic\"): the perfect repeats the front of the verb, ἀκ-ήκο-α, and has no -κα (a \"second perfect\"); sounds like \"ah-KAY-ko-ah\" — \"ah, *okay*, I've *heard* it!\"",
+   "p": "verb",
+   "ph": "ah-KAY-ko-ah"
+  },
+  {
+   "c": "",
+   "e": "I have become, been (perfect of γίνομαι)",
+   "g": "γέγονα",
+   "gen": "",
+   "id": "15:γέγονα",
+   "m": "γίνομαι (L9, \"genesis\"): the front γε- repeats (γέ-γον-α) and there is no -κα, like ἀκήκοα; sounds like \"GEH-go-nah\" — \"it's *gone*, and I *have become* something new\"",
+   "p": "verb",
+   "ph": "GEH-go-nah"
+  },
+  {
+   "c": "",
+   "e": "I draw near (perfect = ἤγγικα)",
+   "g": "ἐγγίζω",
+   "gen": "",
+   "id": "15:ἐγγίζω",
+   "m": "sounds like \"en-GID-zo\" — you *inch* closer, *drawing near*; the perfect ἤγγικα = \"has drawn near\"",
+   "p": "verb",
+   "ph": "ehn-GEE-zoh",
+   "vf": [
+    {
+     "a": [
+      "I draw near"
+     ],
+     "e": "I draw near",
+     "g": "ἐγγίζω",
+     "l": 2,
+     "ph": "ehn-GEE-zoh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you draw near"
+     ],
+     "e": "you draw near",
+     "g": "ἐγγίζεις",
+     "l": 2,
+     "ph": "ehn-GEE-zays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he draws near",
+      "she draws near",
+      "it draws near"
+     ],
+     "e": "he/she/it draws near",
+     "g": "ἐγγίζει",
+     "l": 2,
+     "ph": "ehn-GEE-zay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we draw near"
+     ],
+     "e": "we draw near",
+     "g": "ἐγγίζομεν",
+     "l": 2,
+     "ph": "ehn-GEE-zo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all draw near",
+      "you all draw near"
+     ],
+     "e": "y'all draw near",
+     "g": "ἐγγίζετε",
+     "l": 2,
+     "ph": "ehn-GEE-zeh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they draw near"
+     ],
+     "e": "they draw near",
+     "g": "ἐγγίζουσιν",
+     "l": 2,
+     "ph": "ehn-GEE-zoo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I was drawing near",
+      "I drew near",
+      "I used to draw near",
+      "they were drawing near",
+      "they drew near",
+      "they used to draw near"
+     ],
+     "e": "I was drawing near / they were drawing near",
+     "g": "ἤγγιζον",
+     "l": 10,
+     "ph": "AYN-gee-zon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were drawing near",
+      "you drew near",
+      "you used to draw near"
+     ],
+     "e": "you were drawing near",
+     "g": "ἤγγιζες",
+     "l": 10,
+     "ph": "AYN-gee-zehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was drawing near",
+      "she was drawing near",
+      "it was drawing near",
+      "he drew near",
+      "she drew near",
+      "it drew near",
+      "he used to draw near",
+      "she used to draw near",
+      "it used to draw near"
+     ],
+     "e": "he/she/it was drawing near",
+     "g": "ἤγγιζεν",
+     "l": 10,
+     "ph": "AYN-gee-zehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were drawing near",
+      "we drew near",
+      "we used to draw near"
+     ],
+     "e": "we were drawing near",
+     "g": "ἠγγίζομεν",
+     "l": 10,
+     "ph": "ayn-GEE-zo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were drawing near",
+      "you all were drawing near",
+      "y'all drew near",
+      "you all drew near",
+      "y'all used to draw near",
+      "you all used to draw near"
+     ],
+     "e": "y'all were drawing near",
+     "g": "ἠγγίζετε",
+     "l": 10,
+     "ph": "ayn-GEE-zeh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I drew near"
+     ],
+     "e": "I drew near",
+     "g": "ἤγγισα",
+     "l": 13,
+     "ph": "AYN-gee-sah",
+     "pn": "1s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you drew near"
+     ],
+     "e": "you drew near",
+     "g": "ἤγγισας",
+     "l": 13,
+     "ph": "AYN-gee-sahs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he drew near",
+      "she drew near",
+      "it drew near"
+     ],
+     "e": "he/she/it drew near",
+     "g": "ἤγγισεν",
+     "l": 13,
+     "ph": "AYN-gee-sehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we drew near"
+     ],
+     "e": "we drew near",
+     "g": "ἠγγίσαμεν",
+     "l": 13,
+     "ph": "ayn-GEE-sah-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all drew near",
+      "you all drew near"
+     ],
+     "e": "y'all drew near",
+     "g": "ἠγγίσατε",
+     "l": 13,
+     "ph": "ayn-GEE-sah-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "they drew near"
+     ],
+     "e": "they drew near",
+     "g": "ἤγγισαν",
+     "l": 13,
+     "ph": "AYN-gee-sahn",
+     "pn": "3p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I have been raised, am risen (perf. pass. of ἐγείρω)",
+   "g": "ἐγήγερμαι",
+   "gen": "",
+   "id": "15:ἐγήγερμαι",
+   "m": "ἐγείρω (L8, the gear that cranks the drawbridge up): its stem γερ- repeats (ἐ-γήγερ-) and takes the passive -μαι (L9); the perfect means a lasting result: *has been raised and is still up*",
+   "p": "verb",
+   "ph": "eh-GAY-gehr-mai"
+  },
+  {
+   "c": "",
+   "e": "I have come to know (perfect of γινώσκω)",
+   "g": "ἔγνωκα",
+   "gen": "",
+   "id": "15:ἔγνωκα",
+   "m": "γινώσκω (L2, \"agnostic\"): stem γνω- + the perfect -κα, with a simple ἐ- because γν- is a cluster; \"agnostic\" = not knowing, ἔγνωκα = *knowing that has stuck*",
+   "p": "verb",
+   "ph": "EH-gnoh-kah"
+  },
+  {
+   "c": "",
+   "e": "I have said, spoken (serves as the perfect of λέγω)",
+   "g": "εἴρηκα",
+   "gen": "",
+   "id": "15:εἴρηκα",
+   "m": "λέγω (L2) borrows another root here, as it does in εἶπον (L14); sounds like \"AY-ray-kah\" — \"*hey, Rica*, I *have said* it!\"",
+   "p": "verb",
+   "ph": "AY-ray-kah"
+  },
+  {
+   "c": "",
+   "e": "I have come, gone (serves as the perfect of ἔρχομαι)",
+   "g": "ἐλήλυθα",
+   "gen": "",
+   "id": "15:ἐλήλυθα",
+   "m": "ἔρχομαι (L9), same root as ἦλθον (L14): ἐλ-ήλυθ-α repeats the front and has no -κα; sounds like \"eh-LAY-loo-thah\" — \"*Hallelujah!* he *has come*!\"",
+   "p": "verb",
+   "ph": "eh-LAY-lü-thah"
+  },
+  {
+   "c": "",
+   "e": "other, different (→ heterodoxy, heterosexual)",
+   "g": "ἕτερος, -α, -ον",
+   "gen": "",
+   "id": "15:ἕτερος",
+   "m": "\"heterodoxy\" — a *different* teaching; pair with ἄλλος (L8, \"another\"): ἕτερος is *other in kind*, ἄλλος is just *one more*",
+   "p": "adjective",
+   "ph": "HEH-teh-ros, -ah, -on"
+  },
+  {
+   "c": "",
+   "e": "I have seen (serves as the perfect of ὁράω)",
+   "g": "ἑώρακα",
+   "gen": "",
+   "id": "15:ἑώρακα",
+   "m": "\"panorama\" — a wide *view* you *have seen*; with εἶδον and ὄψομαι (L14) it is one \"seeing\" idea with three different stems; sounds like \"heh-OH-rah-kah\" — \"oh, rah! I *have seen* it\"",
+   "p": "verb",
+   "ph": "heh-OH-rah-kah"
+  },
+  {
+   "c": "",
+   "e": "not yet",
+   "g": "οὔπω",
+   "gen": "",
+   "id": "15:οὔπω",
+   "m": "οὐ (L2, \"not\") + πω (\"yet\"); sounds like \"oo-poh\" — \"*oops*, no — *not yet*!\"",
+   "p": "other",
+   "ph": "OO-poh"
+  },
+  {
+   "c": "",
+   "e": "I depend on, trust in (perfect active of πείθω)",
+   "g": "πέποιθα",
+   "gen": "",
+   "id": "15:πέποιθα",
+   "m": "πείθω (L13, \"persuade\"): πε- repeats (πέ-ποιθ-α) and there is no -κα; once *persuaded* you *trust*; sounds like \"PEH-poy-thah\" — a *pep* talk wins your *trust*",
+   "p": "verb",
+   "ph": "PEH-poy-thah"
+  },
+  {
+   "c": "",
+   "e": "often, many times",
+   "g": "πολλάκις",
+   "gen": "",
+   "id": "15:πολλάκις",
+   "m": "\"poly-\" (polytheism, polygon) = *many*; sounds like \"pol-LAH-kis\" — \"*Paul, la kiss!*\" — *many* kisses, *often*",
+   "p": "other",
+   "ph": "pol-LAH-kees"
+  },
+  {
+   "c": "",
+   "e": "I have died, I am dead (perfect of θνῄσκω)",
+   "g": "τέθνηκα",
+   "gen": "",
+   "id": "15:τέθνηκα",
+   "m": "ἀποθνῄσκω (L10, the death verb): τέ-θνη-κα — θ reduplicates as τ (not θ-θ), a rule you will see again with φ→π and χ→κ; \"I *have died*\" = \"I *am dead*\"",
+   "p": "verb",
+   "ph": "TEH-thnay-kah"
+  }
+ ]
+}

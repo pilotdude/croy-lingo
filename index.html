@@ -597,16 +597,34 @@ function makeChoices(target, mode){
     .map(w => ({w, k: (kindOK(w)?0:100) + rank(w)*2 + (inSel.has(w.id)?0:1) + (target.form && w.p==="verb" && !formOK(w.base||w) ? 3 : 0)}))   // a phrase target gets other prepositions (as phrases) as wrong answers, so it doesn't stand out
     .sort((a,b)=>a.k-b.k).map(o=>o.w);
   const picked=[], labels=new Set([lab(target)]);
-  const sibs = target.form && target.base.vf ? shuffle(target.base.vf.filter(x=>x.g!==target.g && (!tenseSet() || tenseSet().has(x.t)))
-      .sort((a,b)=>(b.t===target.form.t)-(a.t===target.form.t))).map(f=>makeForm(target.base,f)) : [];
-  const addSib = k => { for(const w of sibs){ if(k<=0) break;
+  const vb = target.p==="verb" && !target.pair ? (target.form ? target.base : target) : null;   // the verb being asked about
+  const tt = target.form ? target.form.t : vb && vb.vf ? (vb.vf.find(x=>x.g===vb.g)||{}).t : null;   // its tense (the vocab form's, if shown as the vocab form)
+  const sibs = vb && vb.vf && !vocabOnly() ? shuffle(vb.vf.filter(x=>x.g!==target.g && (!tenseSet() || tenseSet().has(x.t))))
+      .sort((a,b)=>(b.t===tt)-(a.t===tt)).map(f=>makeForm(vb,f)) : [];
+  const add = (list, k) => { for(const w of list){ if(k<=0 || picked.length>=want) break;
       if(picked.includes(w) || conflict(w,target) || labels.has(lab(w)) || picked.some(p=>conflict(p,w))) continue;
       picked.push(w); labels.add(lab(w)); k--; } };
   if(pnOn() && target.form){                       // same verb, same tense: only the ending differs
-    const same=sibs.filter(w=>w.form.t===target.form.t); sibs.length=0; same.forEach(w=>sibs.push(w)); addSib(want);
-  }else if(strong && sibs.length && Math.random()<0.4){          // now and then, other forms of the same verb help show the endings apart
-    const tl=target.form.t, near=sibs.filter(w=>w.form.t===tl), rest=sibs.filter(w=>w.form.t!==tl);
-    sibs.length=0; near.concat(rest).forEach(w=>sibs.push(w)); addSib(Math.random()<0.5?1:2);
+    add(sibs.filter(w=>w.form.t===target.form.t), want);
+  }else if(strong && vb){
+    // A Strong or Learned verb gets wrong answers of one kind only, so neither the ending nor the stem gives the answer away:
+    // other verbs in the same person and number (same tense first), or other forms of the same verb.
+    let same;
+    if(target.form){
+      const tpn = target.sh ? target.sh.pn : target.form.pn.split("/")[0], ts=tenseSet();
+      same = shuffle(W.filter(w=>w.p==="verb" && w.id!==vb.id && w.vf && formOK(w))).map(w=>{
+        const fs = w.vf.filter(x=>x.pn.split("/").indexOf(tpn)>=0 && (!ts || ts.has(x.t)));
+        const f = fs.find(x=>x.t===tt) || fs[0]; if(!f) return null;
+        const c = makeForm(w, f);
+        if(c.sh && c.sh.pn!==tpn){ const e=c.e; c.e=c.sh.oe; c.sh={pn:tpn, opn:c.sh.pn, oe:e}; }   // a shared spelling is shown in the target's person
+        return {c, k:(f.t===tt?0:2) + (inSel.has(w.id)?0:1)};
+      }).filter(Boolean).sort((a,b)=>a.k-b.k).map(o=>o.c);
+    }else{                                         // the vocab form is a first person singular, and so is every other verb's
+      same = shuffle(W.filter(w=>w.p==="verb" && w.id!==vb.id)).sort((a,b)=>(inSel.has(a.id)?0:1)-(inSel.has(b.id)?0:1));
+    }
+    const okS = sibs.length>=want, okP = same.length>=want;
+    const useSibs = okS && okP ? Math.random()<0.5 : okS ? true : okP ? false : sibs.length>same.length;
+    if(useSibs){ add(sibs, want); add(same, want); } else { add(same, want); add(sibs, want); }
   }
   for(const w of cand){
     if(picked.length>=want) break;

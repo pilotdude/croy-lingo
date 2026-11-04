@@ -1,0 +1,540 @@
+{
+ "n": 16,
+ "title": "Aorist and Future Passive",
+ "words": [
+  {
+   "c": "",
+   "e": "I was sent (2nd aorist passive of ἀποστέλλω)",
+   "g": "ἀπεστάλην",
+   "gen": "",
+   "id": "16:ἀπεστάλην",
+   "m": "ἀποστέλλω (L8, \"apostle\"): the stem shrinks to στάλ- and there is no θ before -ην, which marks a *2nd* aorist passive; sounds like \"ah-peh-STAH-layn\" — an *apostle* down the *lane* *was sent*",
+   "p": "verb",
+   "ph": "ah-peh-STAH-layn"
+  },
+  {
+   "c": "",
+   "e": "I was thrown (aorist passive of βάλλω)",
+   "g": "ἐβλήθην",
+   "gen": "",
+   "id": "16:ἐβλήθην",
+   "m": "βάλλω (L6, \"ballistic\"): the stem becomes βλη-, and -θην marks the aorist passive (\"was ___ed\"); sounds like \"eh-BLAY-thayn\" — a *blade* *was thrown*, thane",
+   "p": "verb",
+   "ph": "eh-BLAY-thayn"
+  },
+  {
+   "c": "",
+   "e": "I became (aorist passive deponent of γίνομαι)",
+   "g": "ἐγενήθην",
+   "gen": "",
+   "id": "16:ἐγενήθην",
+   "m": "γίνομαι (L9, \"genesis\"): a passive-looking ending -θην with an active meaning, \"I *became*\" (a deponent, L9); sounds like \"eh-geh-NAY-thayn\" — \"*Gene*, the thane, *became* king\"",
+   "p": "verb",
+   "ph": "eh-geh-NAY-thayn"
+  },
+  {
+   "c": "",
+   "e": "I was known (aorist passive of γινώσκω)",
+   "g": "ἐγνώσθην",
+   "gen": "",
+   "id": "16:ἐγνώσθην",
+   "m": "γινώσκω (L2, \"agnostic\"): γνωσ- + -θην; \"gnosis\" is knowledge, so \"I *was known*\"; sounds like \"eh-GNOHS-thayn\"",
+   "p": "verb",
+   "ph": "eh-GNOH-sthayn"
+  },
+  {
+   "c": "",
+   "e": "I was written (2nd aorist passive of γράφω)",
+   "g": "ἐγράφην",
+   "gen": "",
+   "id": "16:ἐγράφην",
+   "m": "γράφω (L2, \"graph\"): no θ here, so a *2nd* aorist passive like ἀπεστάλην; sounds like \"eh-GRAH-fayn\" — the *graph* *was written*",
+   "p": "verb",
+   "ph": "eh-GRAH-fayn"
+  },
+  {
+   "c": "",
+   "e": "I cast out",
+   "g": "ἐκβάλλω",
+   "gen": "",
+   "id": "16:ἐκβάλλω",
+   "m": "ἐκ (L6, \"exodus\") + βάλλω (L6, \"ballistic\"): *throw out* = *cast out*",
+   "p": "verb",
+   "ph": "ehk-BAHL-loh",
+   "vf": [
+    {
+     "a": [
+      "I cast out"
+     ],
+     "e": "I cast out",
+     "g": "ἐκβάλλω",
+     "l": 2,
+     "ph": "ehk-BAHL-loh",
+     "pn": "1s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "you cast out"
+     ],
+     "e": "you cast out",
+     "g": "ἐκβάλλεις",
+     "l": 2,
+     "ph": "ehk-BAHL-lays",
+     "pn": "2s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "he casts out",
+      "she casts out",
+      "it casts out"
+     ],
+     "e": "he/she/it casts out",
+     "g": "ἐκβάλλει",
+     "l": 2,
+     "ph": "ehk-BAHL-lay",
+     "pn": "3s",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "we cast out"
+     ],
+     "e": "we cast out",
+     "g": "ἐκβάλλομεν",
+     "l": 2,
+     "ph": "ehk-BAHL-lo-mehn",
+     "pn": "1p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "y'all cast out",
+      "you all cast out"
+     ],
+     "e": "y'all cast out",
+     "g": "ἐκβάλλετε",
+     "l": 2,
+     "ph": "ehk-BAHL-leh-teh",
+     "pn": "2p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "they cast out"
+     ],
+     "e": "they cast out",
+     "g": "ἐκβάλλουσιν",
+     "l": 2,
+     "ph": "ehk-BAHL-loo-seen",
+     "pn": "3p",
+     "t": "pa"
+    },
+    {
+     "a": [
+      "I am being cast out",
+      "I am cast out",
+      "I cast out for myself",
+      "I cast myself out"
+     ],
+     "e": "I am being cast out / I cast out for myself",
+     "g": "ἐκβάλλομαι",
+     "l": 9,
+     "ph": "ehk-BAHL-lo-mai",
+     "pn": "1s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "you are being cast out",
+      "you are cast out",
+      "you cast out for yourself",
+      "you cast yourself out"
+     ],
+     "e": "you are being cast out / you cast out for yourself",
+     "g": "ἐκβάλλῃ",
+     "l": 9,
+     "ph": "ehk-BAHL-lay",
+     "pn": "2s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "he is being cast out",
+      "she is being cast out",
+      "it is being cast out",
+      "he is cast out",
+      "she is cast out",
+      "it is cast out",
+      "he casts out for himself",
+      "she casts out for herself",
+      "it casts out for itself",
+      "he casts himself out",
+      "she casts herself out",
+      "it casts itself out"
+     ],
+     "e": "he/she/it is being cast out / he/she/it casts out for himself/herself/itself",
+     "g": "ἐκβάλλεται",
+     "l": 9,
+     "ph": "ehk-BAHL-leh-tai",
+     "pn": "3s",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "we are being cast out",
+      "we are cast out",
+      "we cast out for ourselves",
+      "we cast ourselves out"
+     ],
+     "e": "we are being cast out / we cast out for ourselves",
+     "g": "ἐκβαλλόμεθα",
+     "l": 9,
+     "ph": "ehk-bahl-LO-meh-thah",
+     "pn": "1p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "y'all are being cast out",
+      "you all are being cast out",
+      "y'all are cast out",
+      "you all are cast out",
+      "y'all cast out for yourselves",
+      "you all cast out for yourselves",
+      "y'all cast yourselves out",
+      "you all cast yourselves out"
+     ],
+     "e": "y'all are being cast out / y'all cast out for yourselves",
+     "g": "ἐκβάλλεσθε",
+     "l": 9,
+     "ph": "ehk-BAHL-leh-stheh",
+     "pn": "2p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "they are being cast out",
+      "they are cast out",
+      "they cast out for themselves",
+      "they cast themselves out"
+     ],
+     "e": "they are being cast out / they cast out for themselves",
+     "g": "ἐκβάλλονται",
+     "l": 9,
+     "ph": "ehk-BAHL-lon-tai",
+     "pn": "3p",
+     "t": "pmp"
+    },
+    {
+     "a": [
+      "I was casting out",
+      "I cast out",
+      "I used to cast out",
+      "they were casting out",
+      "they cast out",
+      "they used to cast out"
+     ],
+     "e": "I was casting out / they were casting out",
+     "g": "ἐξέβαλλον",
+     "l": 10,
+     "ph": "eh-KSEH-bahl-lon",
+     "pn": "1s/3p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "you were casting out",
+      "you cast out",
+      "you used to cast out"
+     ],
+     "e": "you were casting out",
+     "g": "ἐξέβαλλες",
+     "l": 10,
+     "ph": "eh-KSEH-bahl-lehs",
+     "pn": "2s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "he was casting out",
+      "she was casting out",
+      "it was casting out",
+      "he cast out",
+      "she cast out",
+      "it cast out",
+      "he used to cast out",
+      "she used to cast out",
+      "it used to cast out"
+     ],
+     "e": "he/she/it was casting out",
+     "g": "ἐξέβαλλεν",
+     "l": 10,
+     "ph": "eh-KSEH-bahl-lehn",
+     "pn": "3s",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "we were casting out",
+      "we cast out",
+      "we used to cast out"
+     ],
+     "e": "we were casting out",
+     "g": "ἐξεβάλλομεν",
+     "l": 10,
+     "ph": "eh-kseh-BAHL-lo-mehn",
+     "pn": "1p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "y'all were casting out",
+      "you all were casting out",
+      "y'all cast out",
+      "you all cast out",
+      "y'all used to cast out",
+      "you all used to cast out"
+     ],
+     "e": "y'all were casting out",
+     "g": "ἐξεβάλλετε",
+     "l": 10,
+     "ph": "eh-kseh-BAHL-leh-teh",
+     "pn": "2p",
+     "t": "ia"
+    },
+    {
+     "a": [
+      "I was being cast out",
+      "I was cast out",
+      "I was casting out for myself",
+      "I cast out for myself"
+     ],
+     "e": "I was being cast out / I was casting out for myself",
+     "g": "ἐξεβαλλόμην",
+     "l": 11,
+     "ph": "eh-kseh-bahl-LO-mayn",
+     "pn": "1s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "you were being cast out",
+      "you were cast out",
+      "you were casting out for yourself",
+      "you cast out for yourself"
+     ],
+     "e": "you were being cast out / you were casting out for yourself",
+     "g": "ἐξεβάλλου",
+     "l": 11,
+     "ph": "eh-kseh-BAHL-loo",
+     "pn": "2s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "he was being cast out",
+      "she was being cast out",
+      "it was being cast out",
+      "he was cast out",
+      "she was cast out",
+      "it was cast out",
+      "he was casting out for himself",
+      "she was casting out for herself",
+      "it was casting out for itself",
+      "he cast out for himself",
+      "she cast out for herself",
+      "it cast out for itself"
+     ],
+     "e": "he/she/it was being cast out / he/she/it was casting out for himself/herself/itself",
+     "g": "ἐξεβάλλετο",
+     "l": 11,
+     "ph": "eh-kseh-BAHL-leh-to",
+     "pn": "3s",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "we were being cast out",
+      "we were cast out",
+      "we were casting out for ourselves",
+      "we cast out for ourselves"
+     ],
+     "e": "we were being cast out / we were casting out for ourselves",
+     "g": "ἐξεβαλλόμεθα",
+     "l": 11,
+     "ph": "eh-kseh-bahl-LO-meh-thah",
+     "pn": "1p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "y'all were being cast out",
+      "you all were being cast out",
+      "y'all were cast out",
+      "you all were cast out",
+      "y'all were casting out for yourselves",
+      "you all were casting out for yourselves",
+      "y'all cast out for yourselves",
+      "you all cast out for yourselves"
+     ],
+     "e": "y'all were being cast out / y'all were casting out for yourselves",
+     "g": "ἐξεβάλλεσθε",
+     "l": 11,
+     "ph": "eh-kseh-BAHL-leh-stheh",
+     "pn": "2p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "they were being cast out",
+      "they were cast out",
+      "they were casting out for themselves",
+      "they cast out for themselves"
+     ],
+     "e": "they were being cast out / they were casting out for themselves",
+     "g": "ἐξεβάλλοντο",
+     "l": 11,
+     "ph": "eh-kseh-BAHL-lon-to",
+     "pn": "3p",
+     "t": "imp"
+    },
+    {
+     "a": [
+      "I cast out",
+      "they cast out"
+     ],
+     "e": "I cast out / they cast out",
+     "g": "ἐξέβαλον",
+     "l": 14,
+     "ph": "eh-KSEH-bah-lon",
+     "pn": "1s/3p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "you cast out"
+     ],
+     "e": "you cast out",
+     "g": "ἐξέβαλες",
+     "l": 14,
+     "ph": "eh-KSEH-bah-lehs",
+     "pn": "2s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "he cast out",
+      "she cast out",
+      "it cast out"
+     ],
+     "e": "he/she/it cast out",
+     "g": "ἐξέβαλεν",
+     "l": 14,
+     "ph": "eh-KSEH-bah-lehn",
+     "pn": "3s",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "we cast out"
+     ],
+     "e": "we cast out",
+     "g": "ἐξεβάλομεν",
+     "l": 14,
+     "ph": "eh-kseh-BAH-lo-mehn",
+     "pn": "1p",
+     "t": "aa",
+     "tl": "aorist active"
+    },
+    {
+     "a": [
+      "y'all cast out",
+      "you all cast out"
+     ],
+     "e": "y'all cast out",
+     "g": "ἐξεβάλετε",
+     "l": 14,
+     "ph": "eh-kseh-BAH-leh-teh",
+     "pn": "2p",
+     "t": "aa",
+     "tl": "aorist active"
+    }
+   ]
+  },
+  {
+   "c": "",
+   "e": "I was taken (aorist passive of λαμβάνω)",
+   "g": "ἐλήμφθην",
+   "gen": "",
+   "id": "16:ἐλήμφθην",
+   "m": "λαμβάνω (L5, \"lamb, I take you\"): the stem becomes λημ- and the consonant hardens to φ before θ, ἐ-λήμφ-θην; sounds like \"eh-LAYMF-thayn\" — the *lamb* *was taken*",
+   "p": "verb",
+   "ph": "eh-LAYM-fthayn"
+  },
+  {
+   "c": "",
+   "e": "I was found (aorist passive of εὑρίσκω)",
+   "g": "εὑρέθην",
+   "gen": "",
+   "id": "16:εὑρέθην",
+   "m": "εὑρίσκω (L8, \"Eureka!\"): stem εὑρε- + -θην; \"Eureka!\" — it *was found*",
+   "p": "verb",
+   "ph": "hyoo-REH-thayn"
+  },
+  {
+   "c": "",
+   "e": "I was raised (aorist passive of ἐγείρω)",
+   "g": "ἠγέρθην",
+   "gen": "",
+   "id": "16:ἠγέρθην",
+   "m": "ἐγείρω (L8, the gear cranking the drawbridge up), same verb as ἐγήγερμαι (L15): ἠγέρθην = \"was raised\" (a one-time event), ἐγήγερμαι = \"has been raised and is still up\"",
+   "p": "verb",
+   "ph": "ay-GEHR-thayn"
+  },
+  {
+   "c": "",
+   "e": "I was brought (serves as the aorist passive of φέρω)",
+   "g": "ἠνέχθην",
+   "gen": "",
+   "id": "16:ἠνέχθην",
+   "m": "φέρω (L12) borrows a new stem ἐνεχ- (compare ἤνεγκα, L14); χ + θην; sounds like \"ay-NEKH-thayn\" — a *neck*lace *was brought*",
+   "p": "verb",
+   "ph": "ay-NEH-khthayn"
+  },
+  {
+   "c": "",
+   "e": "I was led (aor. pass. of ἄγω)",
+   "g": "ἤχθην",
+   "gen": "",
+   "id": "16:ἤχθην",
+   "m": "ἄγω (L10, \"pedagogue\" — child-leader): γ + θ blend into χθ (ἄγ-θην → ἤχθην); sounds like \"AYKH-thayn\" — he *ached* as he *was led* away",
+   "p": "verb",
+   "ph": "AY-khthayn"
+  },
+  {
+   "c": "",
+   "e": "how?",
+   "g": "πῶς",
+   "gen": "",
+   "id": "16:πῶς",
+   "m": "sounds like \"pose\" — \"how do I *pose*?\" — *how?*",
+   "p": "other",
+   "ph": "pohs"
+  },
+  {
+   "c": "",
+   "e": "I was seen, I appeared (serves as the aorist passive of ὁράω)",
+   "g": "ὤφθην",
+   "gen": "",
+   "id": "16:ὤφθην",
+   "m": "εἶδον and ὄψομαι (L14) share the ὀπ- \"see\" root (\"optic\"); ὤφθην looks passive but means \"I *appeared*\" (= was seen); sounds like \"OHF-thayn\" — \"*oof*, a *thane* *appeared*!\"",
+   "p": "verb",
+   "ph": "OH-fthayn"
+  }
+ ]
+}
