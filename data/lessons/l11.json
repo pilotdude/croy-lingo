@@ -1291,6 +1291,228 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have been healed",
+      "I am healed",
+      "I have healed for myself",
+      "I have healed myself",
+      "I have been served",
+      "I am served",
+      "I have served for myself",
+      "I have served myself"
+     ],
+     "e": "I have been healed / I have healed for myself",
+     "g": "τεθεράπευμαι",
+     "l": 15,
+     "ph": "teh-theh-RAH-pyoo-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been healed",
+      "you are healed",
+      "you have healed for yourself",
+      "you have healed yourself",
+      "you have been served",
+      "you are served",
+      "you have served for yourself",
+      "you have served yourself"
+     ],
+     "e": "you have been healed / you have healed for yourself",
+     "g": "τεθεράπευσαι",
+     "l": 15,
+     "ph": "teh-theh-RAH-pyoo-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been healed",
+      "she has been healed",
+      "it has been healed",
+      "he is healed",
+      "she is healed",
+      "it is healed",
+      "he has healed for himself",
+      "she has healed for herself",
+      "it has healed for itself",
+      "he has healed himself",
+      "she has healed herself",
+      "it has healed itself",
+      "he has been served",
+      "she has been served",
+      "it has been served",
+      "he is served",
+      "she is served",
+      "it is served",
+      "he has served for himself",
+      "she has served for herself",
+      "it has served for itself",
+      "he has served himself",
+      "she has served herself",
+      "it has served itself"
+     ],
+     "e": "he/she/it has been healed / he/she/it has healed for himself/herself/itself",
+     "g": "τεθεράπευται",
+     "l": 15,
+     "ph": "teh-theh-RAH-pyoo-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been healed",
+      "we are healed",
+      "we have healed for ourselves",
+      "we have healed ourselves",
+      "we have been served",
+      "we are served",
+      "we have served for ourselves",
+      "we have served ourselves"
+     ],
+     "e": "we have been healed / we have healed for ourselves",
+     "g": "τεθεραπεύμεθα",
+     "l": 15,
+     "ph": "teh-theh-rah-PYOO-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been healed",
+      "you all have been healed",
+      "y'all are healed",
+      "you all are healed",
+      "y'all have healed for yourselves",
+      "you all have healed for yourselves",
+      "y'all have healed yourselves",
+      "you all have healed yourselves",
+      "y'all have been served",
+      "you all have been served",
+      "y'all are served",
+      "you all are served",
+      "y'all have served for yourselves",
+      "you all have served for yourselves",
+      "y'all have served yourselves",
+      "you all have served yourselves"
+     ],
+     "e": "y'all have been healed / y'all have healed for yourselves",
+     "g": "τεθεράπευσθε",
+     "l": 15,
+     "ph": "teh-theh-RAH-pyoo-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "they have been healed",
+      "they are healed",
+      "they have healed for themselves",
+      "they have healed themselves",
+      "they have been served",
+      "they are served",
+      "they have served for themselves",
+      "they have served themselves"
+     ],
+     "e": "they have been healed / they have healed for themselves",
+     "g": "τεθεράπευνται",
+     "l": 15,
+     "ph": "teh-theh-RAH-pyoon-tai",
+     "pn": "3p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was healed",
+      "I was served"
+     ],
+     "e": "I was healed",
+     "g": "ἐθεραπεύθην",
+     "l": 16,
+     "ph": "eh-theh-rah-PYOO-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were healed",
+      "you were served"
+     ],
+     "e": "you were healed",
+     "g": "ἐθεραπεύθης",
+     "l": 16,
+     "ph": "eh-theh-rah-PYOO-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was healed",
+      "she was healed",
+      "it was healed",
+      "he was served",
+      "she was served",
+      "it was served"
+     ],
+     "e": "he/she/it was healed",
+     "g": "ἐθεραπεύθη",
+     "l": 16,
+     "ph": "eh-theh-rah-PYOO-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were healed",
+      "we were served"
+     ],
+     "e": "we were healed",
+     "g": "ἐθεραπεύθημεν",
+     "l": 16,
+     "ph": "eh-theh-rah-PYOO-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were healed",
+      "you all were healed",
+      "y'all were served",
+      "you all were served"
+     ],
+     "e": "y'all were healed",
+     "g": "ἐθεραπεύθητε",
+     "l": 16,
+     "ph": "eh-theh-rah-PYOO-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were healed",
+      "they were served"
+     ],
+     "e": "they were healed",
+     "g": "ἐθεραπεύθησαν",
+     "l": 16,
+     "ph": "eh-theh-rah-PYOO-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },

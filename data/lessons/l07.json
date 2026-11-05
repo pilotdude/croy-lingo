@@ -1551,6 +1551,231 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have saved"
+     ],
+     "e": "I have saved",
+     "g": "σέσωκα",
+     "l": 15,
+     "ph": "SEH-soh-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have saved"
+     ],
+     "e": "you have saved",
+     "g": "σέσωκας",
+     "l": 15,
+     "ph": "SEH-soh-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has saved",
+      "she has saved",
+      "it has saved"
+     ],
+     "e": "he/she/it has saved",
+     "g": "σέσωκεν",
+     "l": 15,
+     "ph": "SEH-soh-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have saved"
+     ],
+     "e": "we have saved",
+     "g": "σεσώκαμεν",
+     "l": 15,
+     "ph": "seh-SOH-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have saved",
+      "you all have saved"
+     ],
+     "e": "y'all have saved",
+     "g": "σεσώκατε",
+     "l": 15,
+     "ph": "seh-SOH-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have saved"
+     ],
+     "e": "they have saved",
+     "g": "σεσώκασιν",
+     "l": 15,
+     "ph": "seh-SOH-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I was saved"
+     ],
+     "e": "I was saved",
+     "g": "ἐσώθην",
+     "l": 16,
+     "ph": "eh-SOH-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were saved"
+     ],
+     "e": "you were saved",
+     "g": "ἐσώθης",
+     "l": 16,
+     "ph": "eh-SOH-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was saved",
+      "she was saved",
+      "it was saved"
+     ],
+     "e": "he/she/it was saved",
+     "g": "ἐσώθη",
+     "l": 16,
+     "ph": "eh-SOH-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were saved"
+     ],
+     "e": "we were saved",
+     "g": "ἐσώθημεν",
+     "l": 16,
+     "ph": "eh-SOH-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were saved",
+      "you all were saved"
+     ],
+     "e": "y'all were saved",
+     "g": "ἐσώθητε",
+     "l": 16,
+     "ph": "eh-SOH-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were saved"
+     ],
+     "e": "they were saved",
+     "g": "ἐσώθησαν",
+     "l": 16,
+     "ph": "eh-SOH-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be saved"
+     ],
+     "e": "I will be saved",
+     "g": "σωθήσομαι",
+     "l": 16,
+     "ph": "soh-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be saved"
+     ],
+     "e": "you will be saved",
+     "g": "σωθήσῃ",
+     "l": 16,
+     "ph": "soh-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be saved",
+      "she will be saved",
+      "it will be saved"
+     ],
+     "e": "he/she/it will be saved",
+     "g": "σωθήσεται",
+     "l": 16,
+     "ph": "soh-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be saved"
+     ],
+     "e": "we will be saved",
+     "g": "σωθησόμεθα",
+     "l": 16,
+     "ph": "soh-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be saved",
+      "you all will be saved"
+     ],
+     "e": "y'all will be saved",
+     "g": "σωθήσεσθε",
+     "l": 16,
+     "ph": "soh-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be saved"
+     ],
+     "e": "they will be saved",
+     "g": "σωθήσονται",
+     "l": 16,
+     "ph": "soh-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },

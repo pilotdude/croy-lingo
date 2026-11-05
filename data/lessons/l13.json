@@ -865,6 +865,312 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have been released",
+      "I am released",
+      "I have released for myself",
+      "I have released myself",
+      "I have been dismissed",
+      "I am dismissed",
+      "I have dismissed for myself",
+      "I have dismissed myself"
+     ],
+     "e": "I have been released / I have released for myself",
+     "g": "ἀπολέλυμαι",
+     "l": 15,
+     "ph": "ah-po-LEH-lü-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been released",
+      "you are released",
+      "you have released for yourself",
+      "you have released yourself",
+      "you have been dismissed",
+      "you are dismissed",
+      "you have dismissed for yourself",
+      "you have dismissed yourself"
+     ],
+     "e": "you have been released / you have released for yourself",
+     "g": "ἀπολέλυσαι",
+     "l": 15,
+     "ph": "ah-po-LEH-lü-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been released",
+      "she has been released",
+      "it has been released",
+      "he is released",
+      "she is released",
+      "it is released",
+      "he has released for himself",
+      "she has released for herself",
+      "it has released for itself",
+      "he has released himself",
+      "she has released herself",
+      "it has released itself",
+      "he has been dismissed",
+      "she has been dismissed",
+      "it has been dismissed",
+      "he is dismissed",
+      "she is dismissed",
+      "it is dismissed",
+      "he has dismissed for himself",
+      "she has dismissed for herself",
+      "it has dismissed for itself",
+      "he has dismissed himself",
+      "she has dismissed herself",
+      "it has dismissed itself"
+     ],
+     "e": "he/she/it has been released / he/she/it has released for himself/herself/itself",
+     "g": "ἀπολέλυται",
+     "l": 15,
+     "ph": "ah-po-LEH-lü-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been released",
+      "we are released",
+      "we have released for ourselves",
+      "we have released ourselves",
+      "we have been dismissed",
+      "we are dismissed",
+      "we have dismissed for ourselves",
+      "we have dismissed ourselves"
+     ],
+     "e": "we have been released / we have released for ourselves",
+     "g": "ἀπολελύμεθα",
+     "l": 15,
+     "ph": "ah-po-leh-LÜ-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been released",
+      "you all have been released",
+      "y'all are released",
+      "you all are released",
+      "y'all have released for yourselves",
+      "you all have released for yourselves",
+      "y'all have released yourselves",
+      "you all have released yourselves",
+      "y'all have been dismissed",
+      "you all have been dismissed",
+      "y'all are dismissed",
+      "you all are dismissed",
+      "y'all have dismissed for yourselves",
+      "you all have dismissed for yourselves",
+      "y'all have dismissed yourselves",
+      "you all have dismissed yourselves"
+     ],
+     "e": "y'all have been released / y'all have released for yourselves",
+     "g": "ἀπολέλυσθε",
+     "l": 15,
+     "ph": "ah-po-LEH-lü-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "they have been released",
+      "they are released",
+      "they have released for themselves",
+      "they have released themselves",
+      "they have been dismissed",
+      "they are dismissed",
+      "they have dismissed for themselves",
+      "they have dismissed themselves"
+     ],
+     "e": "they have been released / they have released for themselves",
+     "g": "ἀπολέλυνται",
+     "l": 15,
+     "ph": "ah-po-LEH-lün-tai",
+     "pn": "3p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was released",
+      "I was dismissed"
+     ],
+     "e": "I was released",
+     "g": "ἀπελύθην",
+     "l": 16,
+     "ph": "ah-peh-LÜ-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were released",
+      "you were dismissed"
+     ],
+     "e": "you were released",
+     "g": "ἀπελύθης",
+     "l": 16,
+     "ph": "ah-peh-LÜ-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was released",
+      "she was released",
+      "it was released",
+      "he was dismissed",
+      "she was dismissed",
+      "it was dismissed"
+     ],
+     "e": "he/she/it was released",
+     "g": "ἀπελύθη",
+     "l": 16,
+     "ph": "ah-peh-LÜ-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were released",
+      "we were dismissed"
+     ],
+     "e": "we were released",
+     "g": "ἀπελύθημεν",
+     "l": 16,
+     "ph": "ah-peh-LÜ-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were released",
+      "you all were released",
+      "y'all were dismissed",
+      "you all were dismissed"
+     ],
+     "e": "y'all were released",
+     "g": "ἀπελύθητε",
+     "l": 16,
+     "ph": "ah-peh-LÜ-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were released",
+      "they were dismissed"
+     ],
+     "e": "they were released",
+     "g": "ἀπελύθησαν",
+     "l": 16,
+     "ph": "ah-peh-LÜ-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be released",
+      "I will be dismissed"
+     ],
+     "e": "I will be released",
+     "g": "ἀπολυθήσομαι",
+     "l": 16,
+     "ph": "ah-po-lü-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be released",
+      "you will be dismissed"
+     ],
+     "e": "you will be released",
+     "g": "ἀπολυθήσῃ",
+     "l": 16,
+     "ph": "ah-po-lü-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be released",
+      "she will be released",
+      "it will be released",
+      "he will be dismissed",
+      "she will be dismissed",
+      "it will be dismissed"
+     ],
+     "e": "he/she/it will be released",
+     "g": "ἀπολυθήσεται",
+     "l": 16,
+     "ph": "ah-po-lü-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be released",
+      "we will be dismissed"
+     ],
+     "e": "we will be released",
+     "g": "ἀπολυθησόμεθα",
+     "l": 16,
+     "ph": "ah-po-lü-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be released",
+      "you all will be released",
+      "y'all will be dismissed",
+      "you all will be dismissed"
+     ],
+     "e": "y'all will be released",
+     "g": "ἀπολυθήσεσθε",
+     "l": 16,
+     "ph": "ah-po-lü-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be released",
+      "they will be dismissed"
+     ],
+     "e": "they will be released",
+     "g": "ἀπολυθήσονται",
+     "l": 16,
+     "ph": "ah-po-lü-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -1699,6 +2005,90 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I turned",
+      "I returned"
+     ],
+     "e": "I turned",
+     "g": "ἐπεστράφην",
+     "l": 16,
+     "ph": "eh-peh-STRAH-fayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you turned",
+      "you returned"
+     ],
+     "e": "you turned",
+     "g": "ἐπεστράφης",
+     "l": 16,
+     "ph": "eh-peh-STRAH-fays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he turned",
+      "she turned",
+      "it turned",
+      "he returned",
+      "she returned",
+      "it returned"
+     ],
+     "e": "he/she/it turned",
+     "g": "ἐπεστράφη",
+     "l": 16,
+     "ph": "eh-peh-STRAH-fay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we turned",
+      "we returned"
+     ],
+     "e": "we turned",
+     "g": "ἐπεστράφημεν",
+     "l": 16,
+     "ph": "eh-peh-STRAH-fay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all turned",
+      "you all turned",
+      "y'all returned",
+      "you all returned"
+     ],
+     "e": "y'all turned",
+     "g": "ἐπεστράφητε",
+     "l": 16,
+     "ph": "eh-peh-STRAH-fay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they turned",
+      "they returned"
+     ],
+     "e": "they turned",
+     "g": "ἐπεστράφησαν",
+     "l": 16,
+     "ph": "eh-peh-STRAH-fay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -2385,6 +2775,243 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have prepared"
+     ],
+     "e": "I have prepared",
+     "g": "ἡτοίμακα",
+     "l": 15,
+     "ph": "hay-TOY-mah-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have prepared"
+     ],
+     "e": "you have prepared",
+     "g": "ἡτοίμακας",
+     "l": 15,
+     "ph": "hay-TOY-mah-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has prepared",
+      "she has prepared",
+      "it has prepared"
+     ],
+     "e": "he/she/it has prepared",
+     "g": "ἡτοίμακεν",
+     "l": 15,
+     "ph": "hay-TOY-mah-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have prepared"
+     ],
+     "e": "we have prepared",
+     "g": "ἡτοιμάκαμεν",
+     "l": 15,
+     "ph": "hay-toy-MAH-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have prepared",
+      "you all have prepared"
+     ],
+     "e": "y'all have prepared",
+     "g": "ἡτοιμάκατε",
+     "l": 15,
+     "ph": "hay-toy-MAH-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have prepared"
+     ],
+     "e": "they have prepared",
+     "g": "ἡτοιμάκασιν",
+     "l": 15,
+     "ph": "hay-toy-MAH-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been prepared",
+      "I am prepared",
+      "I have prepared for myself",
+      "I have prepared myself"
+     ],
+     "e": "I have been prepared / I have prepared for myself",
+     "g": "ἡτοίμασμαι",
+     "l": 15,
+     "ph": "hay-TOY-mah-smai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been prepared",
+      "you are prepared",
+      "you have prepared for yourself",
+      "you have prepared yourself"
+     ],
+     "e": "you have been prepared / you have prepared for yourself",
+     "g": "ἡτοίμασαι",
+     "l": 15,
+     "ph": "hay-TOY-mah-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been prepared",
+      "she has been prepared",
+      "it has been prepared",
+      "he is prepared",
+      "she is prepared",
+      "it is prepared",
+      "he has prepared for himself",
+      "she has prepared for herself",
+      "it has prepared for itself",
+      "he has prepared himself",
+      "she has prepared herself",
+      "it has prepared itself"
+     ],
+     "e": "he/she/it has been prepared / he/she/it has prepared for himself/herself/itself",
+     "g": "ἡτοίμασται",
+     "l": 15,
+     "ph": "hay-TOY-mah-stai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been prepared",
+      "we are prepared",
+      "we have prepared for ourselves",
+      "we have prepared ourselves"
+     ],
+     "e": "we have been prepared / we have prepared for ourselves",
+     "g": "ἡτοιμάσμεθα",
+     "l": 15,
+     "ph": "hay-toy-MAH-smeh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been prepared",
+      "you all have been prepared",
+      "y'all are prepared",
+      "you all are prepared",
+      "y'all have prepared for yourselves",
+      "you all have prepared for yourselves",
+      "y'all have prepared yourselves",
+      "you all have prepared yourselves"
+     ],
+     "e": "y'all have been prepared / y'all have prepared for yourselves",
+     "g": "ἡτοίμασθε",
+     "l": 15,
+     "ph": "hay-TOY-mah-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was prepared"
+     ],
+     "e": "I was prepared",
+     "g": "ἡτοιμάσθην",
+     "l": 16,
+     "ph": "hay-toy-MAH-sthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were prepared"
+     ],
+     "e": "you were prepared",
+     "g": "ἡτοιμάσθης",
+     "l": 16,
+     "ph": "hay-toy-MAH-sthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was prepared",
+      "she was prepared",
+      "it was prepared"
+     ],
+     "e": "he/she/it was prepared",
+     "g": "ἡτοιμάσθη",
+     "l": 16,
+     "ph": "hay-toy-MAH-sthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were prepared"
+     ],
+     "e": "we were prepared",
+     "g": "ἡτοιμάσθημεν",
+     "l": 16,
+     "ph": "hay-toy-MAH-sthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were prepared",
+      "you all were prepared"
+     ],
+     "e": "y'all were prepared",
+     "g": "ἡτοιμάσθητε",
+     "l": 16,
+     "ph": "hay-toy-MAH-sthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were prepared"
+     ],
+     "e": "they were prepared",
+     "g": "ἡτοιμάσθησαν",
+     "l": 16,
+     "ph": "hay-toy-MAH-sthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -2827,6 +3454,90 @@
      "pn": "3p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have cried out",
+      "I have called out"
+     ],
+     "e": "I have cried out",
+     "g": "κέκραγα",
+     "l": 15,
+     "ph": "KEH-krah-gah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have cried out",
+      "you have called out"
+     ],
+     "e": "you have cried out",
+     "g": "κέκραγας",
+     "l": 15,
+     "ph": "KEH-krah-gahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has cried out",
+      "she has cried out",
+      "it has cried out",
+      "he has called out",
+      "she has called out",
+      "it has called out"
+     ],
+     "e": "he/she/it has cried out",
+     "g": "κέκραγεν",
+     "l": 15,
+     "ph": "KEH-krah-gehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have cried out",
+      "we have called out"
+     ],
+     "e": "we have cried out",
+     "g": "κεκράγαμεν",
+     "l": 15,
+     "ph": "keh-KRAH-gah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have cried out",
+      "you all have cried out",
+      "y'all have called out",
+      "you all have called out"
+     ],
+     "e": "y'all have cried out",
+     "g": "κεκράγατε",
+     "l": 15,
+     "ph": "keh-KRAH-gah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have cried out",
+      "they have called out"
+     ],
+     "e": "they have cried out",
+     "g": "κεκράγασιν",
+     "l": 15,
+     "ph": "keh-KRAH-gah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -3382,6 +4093,377 @@
      "pn": "3p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have persuaded",
+      "I have trusted"
+     ],
+     "e": "I have persuaded",
+     "g": "πέποιθα",
+     "l": 15,
+     "ph": "PEH-poy-thah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have persuaded",
+      "you have trusted"
+     ],
+     "e": "you have persuaded",
+     "g": "πέποιθας",
+     "l": 15,
+     "ph": "PEH-poy-thahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has persuaded",
+      "she has persuaded",
+      "it has persuaded",
+      "he has trusted",
+      "she has trusted",
+      "it has trusted"
+     ],
+     "e": "he/she/it has persuaded",
+     "g": "πέποιθεν",
+     "l": 15,
+     "ph": "PEH-poy-thehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have persuaded",
+      "we have trusted"
+     ],
+     "e": "we have persuaded",
+     "g": "πεποίθαμεν",
+     "l": 15,
+     "ph": "peh-POY-thah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have persuaded",
+      "you all have persuaded",
+      "y'all have trusted",
+      "you all have trusted"
+     ],
+     "e": "y'all have persuaded",
+     "g": "πεποίθατε",
+     "l": 15,
+     "ph": "peh-POY-thah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have persuaded",
+      "they have trusted"
+     ],
+     "e": "they have persuaded",
+     "g": "πεποίθασιν",
+     "l": 15,
+     "ph": "peh-POY-thah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been persuaded",
+      "I am persuaded",
+      "I have persuaded for myself",
+      "I have persuaded myself",
+      "I have been trusted",
+      "I am trusted",
+      "I have trusted for myself",
+      "I have trusted myself"
+     ],
+     "e": "I have been persuaded / I have persuaded for myself",
+     "g": "πέπεισμαι",
+     "l": 15,
+     "ph": "PEH-pay-smai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been persuaded",
+      "you are persuaded",
+      "you have persuaded for yourself",
+      "you have persuaded yourself",
+      "you have been trusted",
+      "you are trusted",
+      "you have trusted for yourself",
+      "you have trusted yourself"
+     ],
+     "e": "you have been persuaded / you have persuaded for yourself",
+     "g": "πέπεισαι",
+     "l": 15,
+     "ph": "PEH-pay-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been persuaded",
+      "she has been persuaded",
+      "it has been persuaded",
+      "he is persuaded",
+      "she is persuaded",
+      "it is persuaded",
+      "he has persuaded for himself",
+      "she has persuaded for herself",
+      "it has persuaded for itself",
+      "he has persuaded himself",
+      "she has persuaded herself",
+      "it has persuaded itself",
+      "he has been trusted",
+      "she has been trusted",
+      "it has been trusted",
+      "he is trusted",
+      "she is trusted",
+      "it is trusted",
+      "he has trusted for himself",
+      "she has trusted for herself",
+      "it has trusted for itself",
+      "he has trusted himself",
+      "she has trusted herself",
+      "it has trusted itself"
+     ],
+     "e": "he/she/it has been persuaded / he/she/it has persuaded for himself/herself/itself",
+     "g": "πέπεισται",
+     "l": 15,
+     "ph": "PEH-pay-stai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been persuaded",
+      "we are persuaded",
+      "we have persuaded for ourselves",
+      "we have persuaded ourselves",
+      "we have been trusted",
+      "we are trusted",
+      "we have trusted for ourselves",
+      "we have trusted ourselves"
+     ],
+     "e": "we have been persuaded / we have persuaded for ourselves",
+     "g": "πεπείσμεθα",
+     "l": 15,
+     "ph": "peh-PAY-smeh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been persuaded",
+      "you all have been persuaded",
+      "y'all are persuaded",
+      "you all are persuaded",
+      "y'all have persuaded for yourselves",
+      "you all have persuaded for yourselves",
+      "y'all have persuaded yourselves",
+      "you all have persuaded yourselves",
+      "y'all have been trusted",
+      "you all have been trusted",
+      "y'all are trusted",
+      "you all are trusted",
+      "y'all have trusted for yourselves",
+      "you all have trusted for yourselves",
+      "y'all have trusted yourselves",
+      "you all have trusted yourselves"
+     ],
+     "e": "y'all have been persuaded / y'all have persuaded for yourselves",
+     "g": "πέπεισθε",
+     "l": 15,
+     "ph": "PEH-pay-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was persuaded",
+      "I was trusted"
+     ],
+     "e": "I was persuaded",
+     "g": "ἐπείσθην",
+     "l": 16,
+     "ph": "eh-PAY-sthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were persuaded",
+      "you were trusted"
+     ],
+     "e": "you were persuaded",
+     "g": "ἐπείσθης",
+     "l": 16,
+     "ph": "eh-PAY-sthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was persuaded",
+      "she was persuaded",
+      "it was persuaded",
+      "he was trusted",
+      "she was trusted",
+      "it was trusted"
+     ],
+     "e": "he/she/it was persuaded",
+     "g": "ἐπείσθη",
+     "l": 16,
+     "ph": "eh-PAY-sthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were persuaded",
+      "we were trusted"
+     ],
+     "e": "we were persuaded",
+     "g": "ἐπείσθημεν",
+     "l": 16,
+     "ph": "eh-PAY-sthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were persuaded",
+      "you all were persuaded",
+      "y'all were trusted",
+      "you all were trusted"
+     ],
+     "e": "y'all were persuaded",
+     "g": "ἐπείσθητε",
+     "l": 16,
+     "ph": "eh-PAY-sthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were persuaded",
+      "they were trusted"
+     ],
+     "e": "they were persuaded",
+     "g": "ἐπείσθησαν",
+     "l": 16,
+     "ph": "eh-PAY-sthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be persuaded",
+      "I will be trusted"
+     ],
+     "e": "I will be persuaded",
+     "g": "πεισθήσομαι",
+     "l": 16,
+     "ph": "pay-STHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be persuaded",
+      "you will be trusted"
+     ],
+     "e": "you will be persuaded",
+     "g": "πεισθήσῃ",
+     "l": 16,
+     "ph": "pay-STHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be persuaded",
+      "she will be persuaded",
+      "it will be persuaded",
+      "he will be trusted",
+      "she will be trusted",
+      "it will be trusted"
+     ],
+     "e": "he/she/it will be persuaded",
+     "g": "πεισθήσεται",
+     "l": 16,
+     "ph": "pay-STHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be persuaded",
+      "we will be trusted"
+     ],
+     "e": "we will be persuaded",
+     "g": "πεισθησόμεθα",
+     "l": 16,
+     "ph": "pay-sthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be persuaded",
+      "you all will be persuaded",
+      "y'all will be trusted",
+      "you all will be trusted"
+     ],
+     "e": "y'all will be persuaded",
+     "g": "πεισθήσεσθε",
+     "l": 16,
+     "ph": "pay-STHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be persuaded",
+      "they will be trusted"
+     ],
+     "e": "they will be persuaded",
+     "g": "πεισθήσονται",
+     "l": 16,
+     "ph": "pay-STHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },

@@ -399,7 +399,7 @@ const LEVELS = ["Unlearned","Weak","Strong","Learned"];
 function rng(){ let lo = Math.max(0, Math.min(3, +progress.prefs.lo||0)), hi = Math.max(0, Math.min(3, progress.prefs.hi===undefined ? 3 : +progress.prefs.hi)); if(lo>hi) lo=hi; return [lo,hi]; }
 function inRange(w){ const [lo,hi]=rng(), r=RANK[st(w.id)]; return r>=lo && r<=hi; }
 function rangeText(){ const [lo,hi]=rng(); return lo===0&&hi===3 ? "All levels" : lo===hi ? LEVELS[lo]+" only" : LEVELS[lo]+" to "+LEVELS[hi]; }
-const TENSE_ORDER = ["pa","pmp","ia","imp","fm"];
+const TENSE_ORDER = ["pa","pmp","ia","imp","fa","fm","fp","aa","am","ap","xa","xm"];   // grouped by tense: present, imperfect, future, aorist, perfect
 function vocabOnly(){ return progress.prefs.vforms===false; }          // "Vocab form only" overrides the tense and person/number focus
 function pnOn(){ return !!progress.prefs.pnFocus && !vocabOnly(); }
 function tenseSet(){ const t=progress.prefs.tenses; return !vocabOnly() && Array.isArray(t) && t.length ? new Set(t) : null; }
@@ -501,7 +501,7 @@ function conflict(a,b){ for(const v of a.v) if(b.v.has(v)) return true; return f
 
 /* ---------- prepositions paired with a noun ---------- */
 // A preposition is shown with a noun from the vocabulary in the case it takes ("ἐν τῷ λόγῳ", + dat = "in the word").
-const TENSE_LABEL = {pa:"present active", pmp:"present middle/passive", ia:"imperfect active", imp:"imperfect middle/passive", fm:"future middle"};
+const TENSE_LABEL = {pa:"present active", pmp:"present middle/passive", ia:"imperfect active", imp:"imperfect middle/passive", fa:"future active", fm:"future middle", fp:"future passive", aa:"aorist active", am:"aorist middle", ap:"aorist passive", xa:"perfect active", xm:"perfect middle/passive"};
 const PERSON_LABEL = {"1s":"1st person singular","2s":"2nd person singular","3s":"3rd person singular","1p":"1st person plural","2p":"2nd person plural","3p":"3rd person plural"};
 function formLabel(w){
   const f=w.form, b=w.pair?null:w.base; if(!f) return "";

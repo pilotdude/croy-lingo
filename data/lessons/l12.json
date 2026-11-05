@@ -335,6 +335,81 @@
      "pn": "3p",
      "t": "fm",
      "tl": "future middle"
+    },
+    {
+     "a": [
+      "I have opened"
+     ],
+     "e": "I have opened",
+     "g": "ἀνέῳγα",
+     "l": 15,
+     "ph": "ah-NEH-oh-gah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have opened"
+     ],
+     "e": "you have opened",
+     "g": "ἀνέῳγας",
+     "l": 15,
+     "ph": "ah-NEH-oh-gahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has opened",
+      "she has opened",
+      "it has opened"
+     ],
+     "e": "he/she/it has opened",
+     "g": "ἀνέῳγεν",
+     "l": 15,
+     "ph": "ah-NEH-oh-gehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have opened"
+     ],
+     "e": "we have opened",
+     "g": "ἀνεῴγαμεν",
+     "l": 15,
+     "ph": "ah-neh-OH-gah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have opened",
+      "you all have opened"
+     ],
+     "e": "y'all have opened",
+     "g": "ἀνεῴγατε",
+     "l": 15,
+     "ph": "ah-neh-OH-gah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have opened"
+     ],
+     "e": "they have opened",
+     "g": "ἀνεῴγασιν",
+     "l": 15,
+     "ph": "ah-neh-OH-gah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -1053,6 +1128,168 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have been glorified",
+      "I am glorified",
+      "I have glorified for myself",
+      "I have glorified myself"
+     ],
+     "e": "I have been glorified / I have glorified for myself",
+     "g": "δεδόξασμαι",
+     "l": 15,
+     "ph": "deh-DO-ksah-smai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been glorified",
+      "you are glorified",
+      "you have glorified for yourself",
+      "you have glorified yourself"
+     ],
+     "e": "you have been glorified / you have glorified for yourself",
+     "g": "δεδόξασαι",
+     "l": 15,
+     "ph": "deh-DO-ksah-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been glorified",
+      "she has been glorified",
+      "it has been glorified",
+      "he is glorified",
+      "she is glorified",
+      "it is glorified",
+      "he has glorified for himself",
+      "she has glorified for herself",
+      "it has glorified for itself",
+      "he has glorified himself",
+      "she has glorified herself",
+      "it has glorified itself"
+     ],
+     "e": "he/she/it has been glorified / he/she/it has glorified for himself/herself/itself",
+     "g": "δεδόξασται",
+     "l": 15,
+     "ph": "deh-DO-ksah-stai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been glorified",
+      "we are glorified",
+      "we have glorified for ourselves",
+      "we have glorified ourselves"
+     ],
+     "e": "we have been glorified / we have glorified for ourselves",
+     "g": "δεδοξάσμεθα",
+     "l": 15,
+     "ph": "deh-do-KSAH-smeh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been glorified",
+      "you all have been glorified",
+      "y'all are glorified",
+      "you all are glorified",
+      "y'all have glorified for yourselves",
+      "you all have glorified for yourselves",
+      "y'all have glorified yourselves",
+      "you all have glorified yourselves"
+     ],
+     "e": "y'all have been glorified / y'all have glorified for yourselves",
+     "g": "δεδόξασθε",
+     "l": 15,
+     "ph": "deh-DO-ksah-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was glorified"
+     ],
+     "e": "I was glorified",
+     "g": "ἐδοξάσθην",
+     "l": 16,
+     "ph": "eh-do-KSAH-sthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were glorified"
+     ],
+     "e": "you were glorified",
+     "g": "ἐδοξάσθης",
+     "l": 16,
+     "ph": "eh-do-KSAH-sthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was glorified",
+      "she was glorified",
+      "it was glorified"
+     ],
+     "e": "he/she/it was glorified",
+     "g": "ἐδοξάσθη",
+     "l": 16,
+     "ph": "eh-do-KSAH-sthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were glorified"
+     ],
+     "e": "we were glorified",
+     "g": "ἐδοξάσθημεν",
+     "l": 16,
+     "ph": "eh-do-KSAH-sthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were glorified",
+      "you all were glorified"
+     ],
+     "e": "y'all were glorified",
+     "g": "ἐδοξάσθητε",
+     "l": 16,
+     "ph": "eh-do-KSAH-sthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were glorified"
+     ],
+     "e": "they were glorified",
+     "g": "ἐδοξάσθησαν",
+     "l": 16,
+     "ph": "eh-do-KSAH-sthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -1636,6 +1873,174 @@
      "pn": "3p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I marveled",
+      "I wondered"
+     ],
+     "e": "I marveled",
+     "g": "ἐθαυμάσθην",
+     "l": 16,
+     "ph": "eh-thow-MAH-sthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you marveled",
+      "you wondered"
+     ],
+     "e": "you marveled",
+     "g": "ἐθαυμάσθης",
+     "l": 16,
+     "ph": "eh-thow-MAH-sthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he marveled",
+      "she marveled",
+      "it marveled",
+      "he wondered",
+      "she wondered",
+      "it wondered"
+     ],
+     "e": "he/she/it marveled",
+     "g": "ἐθαυμάσθη",
+     "l": 16,
+     "ph": "eh-thow-MAH-sthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we marveled",
+      "we wondered"
+     ],
+     "e": "we marveled",
+     "g": "ἐθαυμάσθημεν",
+     "l": 16,
+     "ph": "eh-thow-MAH-sthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all marveled",
+      "you all marveled",
+      "y'all wondered",
+      "you all wondered"
+     ],
+     "e": "y'all marveled",
+     "g": "ἐθαυμάσθητε",
+     "l": 16,
+     "ph": "eh-thow-MAH-sthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they marveled",
+      "they wondered"
+     ],
+     "e": "they marveled",
+     "g": "ἐθαυμάσθησαν",
+     "l": 16,
+     "ph": "eh-thow-MAH-sthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will marvel",
+      "I will wonder"
+     ],
+     "e": "I will marvel",
+     "g": "θαυμασθήσομαι",
+     "l": 16,
+     "ph": "thow-mah-STHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will marvel",
+      "you will wonder"
+     ],
+     "e": "you will marvel",
+     "g": "θαυμασθήσῃ",
+     "l": 16,
+     "ph": "thow-mah-STHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will marvel",
+      "she will marvel",
+      "it will marvel",
+      "he will wonder",
+      "she will wonder",
+      "it will wonder"
+     ],
+     "e": "he/she/it will marvel",
+     "g": "θαυμασθήσεται",
+     "l": 16,
+     "ph": "thow-mah-STHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will marvel",
+      "we will wonder"
+     ],
+     "e": "we will marvel",
+     "g": "θαυμασθησόμεθα",
+     "l": 16,
+     "ph": "thow-mah-sthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will marvel",
+      "you all will marvel",
+      "y'all will wonder",
+      "you all will wonder"
+     ],
+     "e": "y'all will marvel",
+     "g": "θαυμασθήσεσθε",
+     "l": 16,
+     "ph": "thow-mah-STHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will marvel",
+      "they will wonder"
+     ],
+     "e": "they will marvel",
+     "g": "θαυμασθήσονται",
+     "l": 16,
+     "ph": "thow-mah-STHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -2486,6 +2891,174 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I was preached",
+      "I was proclaimed"
+     ],
+     "e": "I was preached",
+     "g": "ἐκηρύχθην",
+     "l": 16,
+     "ph": "eh-kay-RÜ-khthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were preached",
+      "you were proclaimed"
+     ],
+     "e": "you were preached",
+     "g": "ἐκηρύχθης",
+     "l": 16,
+     "ph": "eh-kay-RÜ-khthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was preached",
+      "she was preached",
+      "it was preached",
+      "he was proclaimed",
+      "she was proclaimed",
+      "it was proclaimed"
+     ],
+     "e": "he/she/it was preached",
+     "g": "ἐκηρύχθη",
+     "l": 16,
+     "ph": "eh-kay-RÜ-khthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were preached",
+      "we were proclaimed"
+     ],
+     "e": "we were preached",
+     "g": "ἐκηρύχθημεν",
+     "l": 16,
+     "ph": "eh-kay-RÜ-khthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were preached",
+      "you all were preached",
+      "y'all were proclaimed",
+      "you all were proclaimed"
+     ],
+     "e": "y'all were preached",
+     "g": "ἐκηρύχθητε",
+     "l": 16,
+     "ph": "eh-kay-RÜ-khthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were preached",
+      "they were proclaimed"
+     ],
+     "e": "they were preached",
+     "g": "ἐκηρύχθησαν",
+     "l": 16,
+     "ph": "eh-kay-RÜ-khthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be preached",
+      "I will be proclaimed"
+     ],
+     "e": "I will be preached",
+     "g": "κηρυχθήσομαι",
+     "l": 16,
+     "ph": "kay-rü-KHTHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be preached",
+      "you will be proclaimed"
+     ],
+     "e": "you will be preached",
+     "g": "κηρυχθήσῃ",
+     "l": 16,
+     "ph": "kay-rü-KHTHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be preached",
+      "she will be preached",
+      "it will be preached",
+      "he will be proclaimed",
+      "she will be proclaimed",
+      "it will be proclaimed"
+     ],
+     "e": "he/she/it will be preached",
+     "g": "κηρυχθήσεται",
+     "l": 16,
+     "ph": "kay-rü-KHTHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be preached",
+      "we will be proclaimed"
+     ],
+     "e": "we will be preached",
+     "g": "κηρυχθησόμεθα",
+     "l": 16,
+     "ph": "kay-rü-khthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be preached",
+      "you all will be preached",
+      "y'all will be proclaimed",
+      "you all will be proclaimed"
+     ],
+     "e": "y'all will be preached",
+     "g": "κηρυχθήσεσθε",
+     "l": 16,
+     "ph": "kay-rü-KHTHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be preached",
+      "they will be proclaimed"
+     ],
+     "e": "they will be preached",
+     "g": "κηρυχθήσονται",
+     "l": 16,
+     "ph": "kay-rü-KHTHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -3596,6 +4169,99 @@
      "pn": "3p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I was brought",
+      "I was borne",
+      "I was carried"
+     ],
+     "e": "I was brought",
+     "g": "ἠνέχθην",
+     "l": 16,
+     "ph": "ay-NEH-khthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were brought",
+      "you were borne",
+      "you were carried"
+     ],
+     "e": "you were brought",
+     "g": "ἠνέχθης",
+     "l": 16,
+     "ph": "ay-NEH-khthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was brought",
+      "she was brought",
+      "it was brought",
+      "he was borne",
+      "she was borne",
+      "it was borne",
+      "he was carried",
+      "she was carried",
+      "it was carried"
+     ],
+     "e": "he/she/it was brought",
+     "g": "ἠνέχθη",
+     "l": 16,
+     "ph": "ay-NEH-khthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were brought",
+      "we were borne",
+      "we were carried"
+     ],
+     "e": "we were brought",
+     "g": "ἠνέχθημεν",
+     "l": 16,
+     "ph": "ay-NEH-khthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were brought",
+      "you all were brought",
+      "y'all were borne",
+      "you all were borne",
+      "y'all were carried",
+      "you all were carried"
+     ],
+     "e": "y'all were brought",
+     "g": "ἠνέχθητε",
+     "l": 16,
+     "ph": "ay-NEH-khthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were brought",
+      "they were borne",
+      "they were carried"
+     ],
+     "e": "they were brought",
+     "g": "ἠνέχθησαν",
+     "l": 16,
+     "ph": "ay-NEH-khthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   }

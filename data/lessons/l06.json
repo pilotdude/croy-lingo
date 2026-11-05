@@ -677,6 +677,459 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have thrown",
+      "I have put",
+      "I have placed"
+     ],
+     "e": "I have thrown",
+     "g": "βέβληκα",
+     "l": 15,
+     "ph": "BEH-blay-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have thrown",
+      "you have put",
+      "you have placed"
+     ],
+     "e": "you have thrown",
+     "g": "βέβληκας",
+     "l": 15,
+     "ph": "BEH-blay-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has thrown",
+      "she has thrown",
+      "it has thrown",
+      "he has put",
+      "she has put",
+      "it has put",
+      "he has placed",
+      "she has placed",
+      "it has placed"
+     ],
+     "e": "he/she/it has thrown",
+     "g": "βέβληκεν",
+     "l": 15,
+     "ph": "BEH-blay-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have thrown",
+      "we have put",
+      "we have placed"
+     ],
+     "e": "we have thrown",
+     "g": "βεβλήκαμεν",
+     "l": 15,
+     "ph": "beh-BLAY-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have thrown",
+      "you all have thrown",
+      "y'all have put",
+      "you all have put",
+      "y'all have placed",
+      "you all have placed"
+     ],
+     "e": "y'all have thrown",
+     "g": "βεβλήκατε",
+     "l": 15,
+     "ph": "beh-BLAY-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have thrown",
+      "they have put",
+      "they have placed"
+     ],
+     "e": "they have thrown",
+     "g": "βεβλήκασιν",
+     "l": 15,
+     "ph": "beh-BLAY-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been thrown",
+      "I am thrown",
+      "I have thrown for myself",
+      "I have thrown myself",
+      "I have been put",
+      "I am put",
+      "I have put for myself",
+      "I have put myself",
+      "I have been placed",
+      "I am placed",
+      "I have placed for myself",
+      "I have placed myself"
+     ],
+     "e": "I have been thrown / I have thrown for myself",
+     "g": "βέβλημαι",
+     "l": 15,
+     "ph": "BEH-blay-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been thrown",
+      "you are thrown",
+      "you have thrown for yourself",
+      "you have thrown yourself",
+      "you have been put",
+      "you are put",
+      "you have put for yourself",
+      "you have put yourself",
+      "you have been placed",
+      "you are placed",
+      "you have placed for yourself",
+      "you have placed yourself"
+     ],
+     "e": "you have been thrown / you have thrown for yourself",
+     "g": "βέβλησαι",
+     "l": 15,
+     "ph": "BEH-blay-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been thrown",
+      "she has been thrown",
+      "it has been thrown",
+      "he is thrown",
+      "she is thrown",
+      "it is thrown",
+      "he has thrown for himself",
+      "she has thrown for herself",
+      "it has thrown for itself",
+      "he has thrown himself",
+      "she has thrown herself",
+      "it has thrown itself",
+      "he has been put",
+      "she has been put",
+      "it has been put",
+      "he is put",
+      "she is put",
+      "it is put",
+      "he has put for himself",
+      "she has put for herself",
+      "it has put for itself",
+      "he has put himself",
+      "she has put herself",
+      "it has put itself",
+      "he has been placed",
+      "she has been placed",
+      "it has been placed",
+      "he is placed",
+      "she is placed",
+      "it is placed",
+      "he has placed for himself",
+      "she has placed for herself",
+      "it has placed for itself",
+      "he has placed himself",
+      "she has placed herself",
+      "it has placed itself"
+     ],
+     "e": "he/she/it has been thrown / he/she/it has thrown for himself/herself/itself",
+     "g": "βέβληται",
+     "l": 15,
+     "ph": "BEH-blay-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been thrown",
+      "we are thrown",
+      "we have thrown for ourselves",
+      "we have thrown ourselves",
+      "we have been put",
+      "we are put",
+      "we have put for ourselves",
+      "we have put ourselves",
+      "we have been placed",
+      "we are placed",
+      "we have placed for ourselves",
+      "we have placed ourselves"
+     ],
+     "e": "we have been thrown / we have thrown for ourselves",
+     "g": "βεβλήμεθα",
+     "l": 15,
+     "ph": "beh-BLAY-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been thrown",
+      "you all have been thrown",
+      "y'all are thrown",
+      "you all are thrown",
+      "y'all have thrown for yourselves",
+      "you all have thrown for yourselves",
+      "y'all have thrown yourselves",
+      "you all have thrown yourselves",
+      "y'all have been put",
+      "you all have been put",
+      "y'all are put",
+      "you all are put",
+      "y'all have put for yourselves",
+      "you all have put for yourselves",
+      "y'all have put yourselves",
+      "you all have put yourselves",
+      "y'all have been placed",
+      "you all have been placed",
+      "y'all are placed",
+      "you all are placed",
+      "y'all have placed for yourselves",
+      "you all have placed for yourselves",
+      "y'all have placed yourselves",
+      "you all have placed yourselves"
+     ],
+     "e": "y'all have been thrown / y'all have thrown for yourselves",
+     "g": "βέβλησθε",
+     "l": 15,
+     "ph": "BEH-blay-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "they have been thrown",
+      "they are thrown",
+      "they have thrown for themselves",
+      "they have thrown themselves",
+      "they have been put",
+      "they are put",
+      "they have put for themselves",
+      "they have put themselves",
+      "they have been placed",
+      "they are placed",
+      "they have placed for themselves",
+      "they have placed themselves"
+     ],
+     "e": "they have been thrown / they have thrown for themselves",
+     "g": "βέβληνται",
+     "l": 15,
+     "ph": "BEH-blayn-tai",
+     "pn": "3p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was thrown",
+      "I was put",
+      "I was placed"
+     ],
+     "e": "I was thrown",
+     "g": "ἐβλήθην",
+     "l": 16,
+     "ph": "eh-BLAY-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were thrown",
+      "you were put",
+      "you were placed"
+     ],
+     "e": "you were thrown",
+     "g": "ἐβλήθης",
+     "l": 16,
+     "ph": "eh-BLAY-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was thrown",
+      "she was thrown",
+      "it was thrown",
+      "he was put",
+      "she was put",
+      "it was put",
+      "he was placed",
+      "she was placed",
+      "it was placed"
+     ],
+     "e": "he/she/it was thrown",
+     "g": "ἐβλήθη",
+     "l": 16,
+     "ph": "eh-BLAY-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were thrown",
+      "we were put",
+      "we were placed"
+     ],
+     "e": "we were thrown",
+     "g": "ἐβλήθημεν",
+     "l": 16,
+     "ph": "eh-BLAY-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were thrown",
+      "you all were thrown",
+      "y'all were put",
+      "you all were put",
+      "y'all were placed",
+      "you all were placed"
+     ],
+     "e": "y'all were thrown",
+     "g": "ἐβλήθητε",
+     "l": 16,
+     "ph": "eh-BLAY-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were thrown",
+      "they were put",
+      "they were placed"
+     ],
+     "e": "they were thrown",
+     "g": "ἐβλήθησαν",
+     "l": 16,
+     "ph": "eh-BLAY-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be thrown",
+      "I will be put",
+      "I will be placed"
+     ],
+     "e": "I will be thrown",
+     "g": "βληθήσομαι",
+     "l": 16,
+     "ph": "blay-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be thrown",
+      "you will be put",
+      "you will be placed"
+     ],
+     "e": "you will be thrown",
+     "g": "βληθήσῃ",
+     "l": 16,
+     "ph": "blay-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be thrown",
+      "she will be thrown",
+      "it will be thrown",
+      "he will be put",
+      "she will be put",
+      "it will be put",
+      "he will be placed",
+      "she will be placed",
+      "it will be placed"
+     ],
+     "e": "he/she/it will be thrown",
+     "g": "βληθήσεται",
+     "l": 16,
+     "ph": "blay-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be thrown",
+      "we will be put",
+      "we will be placed"
+     ],
+     "e": "we will be thrown",
+     "g": "βληθησόμεθα",
+     "l": 16,
+     "ph": "blay-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be thrown",
+      "you all will be thrown",
+      "y'all will be put",
+      "you all will be put",
+      "y'all will be placed",
+      "you all will be placed"
+     ],
+     "e": "y'all will be thrown",
+     "g": "βληθήσεσθε",
+     "l": 16,
+     "ph": "blay-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be thrown",
+      "they will be put",
+      "they will be placed"
+     ],
+     "e": "they will be thrown",
+     "g": "βληθήσονται",
+     "l": 16,
+     "ph": "blay-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -1709,6 +2162,81 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I was sent"
+     ],
+     "e": "I was sent",
+     "g": "ἐπέμφθην",
+     "l": 16,
+     "ph": "eh-PEHM-fthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were sent"
+     ],
+     "e": "you were sent",
+     "g": "ἐπέμφθης",
+     "l": 16,
+     "ph": "eh-PEHM-fthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was sent",
+      "she was sent",
+      "it was sent"
+     ],
+     "e": "he/she/it was sent",
+     "g": "ἐπέμφθη",
+     "l": 16,
+     "ph": "eh-PEHM-fthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were sent"
+     ],
+     "e": "we were sent",
+     "g": "ἐπέμφθημεν",
+     "l": 16,
+     "ph": "eh-PEHM-fthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were sent",
+      "you all were sent"
+     ],
+     "e": "y'all were sent",
+     "g": "ἐπέμφθητε",
+     "l": 16,
+     "ph": "eh-PEHM-fthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were sent"
+     ],
+     "e": "they were sent",
+     "g": "ἐπέμφθησαν",
+     "l": 16,
+     "ph": "eh-PEHM-fthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },

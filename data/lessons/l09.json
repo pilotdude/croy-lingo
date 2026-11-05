@@ -187,6 +187,156 @@
      "ph": "ah-peh-KREE-non-to",
      "pn": "3p",
      "t": "imp"
+    },
+    {
+     "a": [
+      "I answered"
+     ],
+     "e": "I answered",
+     "g": "ἀπεκρίθην",
+     "l": 16,
+     "ph": "ah-peh-KREE-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you answered"
+     ],
+     "e": "you answered",
+     "g": "ἀπεκρίθης",
+     "l": 16,
+     "ph": "ah-peh-KREE-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he answered",
+      "she answered",
+      "it answered"
+     ],
+     "e": "he/she/it answered",
+     "g": "ἀπεκρίθη",
+     "l": 16,
+     "ph": "ah-peh-KREE-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we answered"
+     ],
+     "e": "we answered",
+     "g": "ἀπεκρίθημεν",
+     "l": 16,
+     "ph": "ah-peh-KREE-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all answered",
+      "you all answered"
+     ],
+     "e": "y'all answered",
+     "g": "ἀπεκρίθητε",
+     "l": 16,
+     "ph": "ah-peh-KREE-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they answered"
+     ],
+     "e": "they answered",
+     "g": "ἀπεκρίθησαν",
+     "l": 16,
+     "ph": "ah-peh-KREE-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will answer"
+     ],
+     "e": "I will answer",
+     "g": "ἀποκριθήσομαι",
+     "l": 16,
+     "ph": "ah-po-kree-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will answer"
+     ],
+     "e": "you will answer",
+     "g": "ἀποκριθήσῃ",
+     "l": 16,
+     "ph": "ah-po-kree-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will answer",
+      "she will answer",
+      "it will answer"
+     ],
+     "e": "he/she/it will answer",
+     "g": "ἀποκριθήσεται",
+     "l": 16,
+     "ph": "ah-po-kree-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will answer"
+     ],
+     "e": "we will answer",
+     "g": "ἀποκριθησόμεθα",
+     "l": 16,
+     "ph": "ah-po-kree-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will answer",
+      "you all will answer"
+     ],
+     "e": "y'all will answer",
+     "g": "ἀποκριθήσεσθε",
+     "l": 16,
+     "ph": "ah-po-kree-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will answer"
+     ],
+     "e": "they will answer",
+     "g": "ἀποκριθήσονται",
+     "l": 16,
+     "ph": "ah-po-kree-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -1440,6 +1590,192 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have become",
+      "I have been",
+      "I have happened"
+     ],
+     "e": "I have become",
+     "g": "γέγονα",
+     "l": 15,
+     "ph": "GEH-go-nah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have become",
+      "you have been",
+      "you have happened"
+     ],
+     "e": "you have become",
+     "g": "γέγονας",
+     "l": 15,
+     "ph": "GEH-go-nahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has become",
+      "she has become",
+      "it has become",
+      "he has been",
+      "she has been",
+      "it has been",
+      "he has happened",
+      "she has happened",
+      "it has happened"
+     ],
+     "e": "he/she/it has become",
+     "g": "γέγονεν",
+     "l": 15,
+     "ph": "GEH-go-nehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have become",
+      "we have been",
+      "we have happened"
+     ],
+     "e": "we have become",
+     "g": "γεγόναμεν",
+     "l": 15,
+     "ph": "geh-GO-nah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have become",
+      "you all have become",
+      "y'all have been",
+      "you all have been",
+      "y'all have happened",
+      "you all have happened"
+     ],
+     "e": "y'all have become",
+     "g": "γεγόνατε",
+     "l": 15,
+     "ph": "geh-GO-nah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have become",
+      "they have been",
+      "they have happened"
+     ],
+     "e": "they have become",
+     "g": "γεγόνασιν",
+     "l": 15,
+     "ph": "geh-GO-nah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I became",
+      "I was",
+      "I happened"
+     ],
+     "e": "I became",
+     "g": "ἐγενήθην",
+     "l": 16,
+     "ph": "eh-geh-NAY-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you became",
+      "you were",
+      "you happened"
+     ],
+     "e": "you became",
+     "g": "ἐγενήθης",
+     "l": 16,
+     "ph": "eh-geh-NAY-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he became",
+      "she became",
+      "it became",
+      "he was",
+      "she was",
+      "it was",
+      "he happened",
+      "she happened",
+      "it happened"
+     ],
+     "e": "he/she/it became",
+     "g": "ἐγενήθη",
+     "l": 16,
+     "ph": "eh-geh-NAY-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we became",
+      "we were",
+      "we happened"
+     ],
+     "e": "we became",
+     "g": "ἐγενήθημεν",
+     "l": 16,
+     "ph": "eh-geh-NAY-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all became",
+      "you all became",
+      "y'all were",
+      "you all were",
+      "y'all happened",
+      "you all happened"
+     ],
+     "e": "y'all became",
+     "g": "ἐγενήθητε",
+     "l": 16,
+     "ph": "eh-geh-NAY-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they became",
+      "they were",
+      "they happened"
+     ],
+     "e": "they became",
+     "g": "ἐγενήθησαν",
+     "l": 16,
+     "ph": "eh-geh-NAY-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -1747,6 +2083,81 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have gone through"
+     ],
+     "e": "I have gone through",
+     "g": "διελήλυθα",
+     "l": 15,
+     "ph": "dee-eh-LAY-lü-thah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have gone through"
+     ],
+     "e": "you have gone through",
+     "g": "διελήλυθας",
+     "l": 15,
+     "ph": "dee-eh-LAY-lü-thahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has gone through",
+      "she has gone through",
+      "it has gone through"
+     ],
+     "e": "he/she/it has gone through",
+     "g": "διελήλυθεν",
+     "l": 15,
+     "ph": "dee-eh-LAY-lü-thehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have gone through"
+     ],
+     "e": "we have gone through",
+     "g": "διεληλύθαμεν",
+     "l": 15,
+     "ph": "dee-eh-lay-LÜ-thah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have gone through",
+      "you all have gone through"
+     ],
+     "e": "y'all have gone through",
+     "g": "διεληλύθατε",
+     "l": 15,
+     "ph": "dee-eh-lay-LÜ-thah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have gone through"
+     ],
+     "e": "they have gone through",
+     "g": "διεληλύθασιν",
+     "l": 15,
+     "ph": "dee-eh-lay-LÜ-thah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -2002,6 +2413,90 @@
      "pn": "3p",
      "t": "fm",
      "tl": "future middle"
+    },
+    {
+     "a": [
+      "I was able",
+      "I could"
+     ],
+     "e": "I was able",
+     "g": "ἠδυνήθην",
+     "l": 16,
+     "ph": "ay-dü-NAY-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were able",
+      "you could"
+     ],
+     "e": "you were able",
+     "g": "ἠδυνήθης",
+     "l": 16,
+     "ph": "ay-dü-NAY-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was able",
+      "she was able",
+      "it was able",
+      "he could",
+      "she could",
+      "it could"
+     ],
+     "e": "he/she/it was able",
+     "g": "ἠδυνήθη",
+     "l": 16,
+     "ph": "ay-dü-NAY-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were able",
+      "we could"
+     ],
+     "e": "we were able",
+     "g": "ἠδυνήθημεν",
+     "l": 16,
+     "ph": "ay-dü-NAY-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were able",
+      "you all were able",
+      "y'all could",
+      "you all could"
+     ],
+     "e": "y'all were able",
+     "g": "ἠδυνήθητε",
+     "l": 16,
+     "ph": "ay-dü-NAY-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were able",
+      "they could"
+     ],
+     "e": "they were able",
+     "g": "ἠδυνήθησαν",
+     "l": 16,
+     "ph": "ay-dü-NAY-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -2363,6 +2858,90 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have gone in",
+      "I have entered"
+     ],
+     "e": "I have gone in",
+     "g": "εἰσελήλυθα",
+     "l": 15,
+     "ph": "ay-seh-LAY-lü-thah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have gone in",
+      "you have entered"
+     ],
+     "e": "you have gone in",
+     "g": "εἰσελήλυθας",
+     "l": 15,
+     "ph": "ay-seh-LAY-lü-thahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has gone in",
+      "she has gone in",
+      "it has gone in",
+      "he has entered",
+      "she has entered",
+      "it has entered"
+     ],
+     "e": "he/she/it has gone in",
+     "g": "εἰσελήλυθεν",
+     "l": 15,
+     "ph": "ay-seh-LAY-lü-thehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have gone in",
+      "we have entered"
+     ],
+     "e": "we have gone in",
+     "g": "εἰσεληλύθαμεν",
+     "l": 15,
+     "ph": "ay-seh-lay-LÜ-thah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have gone in",
+      "you all have gone in",
+      "y'all have entered",
+      "you all have entered"
+     ],
+     "e": "y'all have gone in",
+     "g": "εἰσεληλύθατε",
+     "l": 15,
+     "ph": "ay-seh-lay-LÜ-thah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have gone in",
+      "they have entered"
+     ],
+     "e": "they have gone in",
+     "g": "εἰσεληλύθασιν",
+     "l": 15,
+     "ph": "ay-seh-lay-LÜ-thah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -2670,6 +3249,81 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have gone out"
+     ],
+     "e": "I have gone out",
+     "g": "ἐξελήλυθα",
+     "l": 15,
+     "ph": "eh-kseh-LAY-lü-thah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have gone out"
+     ],
+     "e": "you have gone out",
+     "g": "ἐξελήλυθας",
+     "l": 15,
+     "ph": "eh-kseh-LAY-lü-thahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has gone out",
+      "she has gone out",
+      "it has gone out"
+     ],
+     "e": "he/she/it has gone out",
+     "g": "ἐξελήλυθεν",
+     "l": 15,
+     "ph": "eh-kseh-LAY-lü-thehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have gone out"
+     ],
+     "e": "we have gone out",
+     "g": "ἐξεληλύθαμεν",
+     "l": 15,
+     "ph": "eh-kseh-lay-LÜ-thah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have gone out",
+      "you all have gone out"
+     ],
+     "e": "y'all have gone out",
+     "g": "ἐξεληλύθατε",
+     "l": 15,
+     "ph": "eh-kseh-lay-LÜ-thah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have gone out"
+     ],
+     "e": "they have gone out",
+     "g": "ἐξεληλύθασιν",
+     "l": 15,
+     "ph": "eh-kseh-lay-LÜ-thah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -3031,6 +3685,90 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have come",
+      "I have gone"
+     ],
+     "e": "I have come",
+     "g": "ἐλήλυθα",
+     "l": 15,
+     "ph": "eh-LAY-lü-thah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have come",
+      "you have gone"
+     ],
+     "e": "you have come",
+     "g": "ἐλήλυθας",
+     "l": 15,
+     "ph": "eh-LAY-lü-thahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has come",
+      "she has come",
+      "it has come",
+      "he has gone",
+      "she has gone",
+      "it has gone"
+     ],
+     "e": "he/she/it has come",
+     "g": "ἐλήλυθεν",
+     "l": 15,
+     "ph": "eh-LAY-lü-thehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have come",
+      "we have gone"
+     ],
+     "e": "we have come",
+     "g": "ἐληλύθαμεν",
+     "l": 15,
+     "ph": "eh-lay-LÜ-thah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have come",
+      "you all have come",
+      "y'all have gone",
+      "you all have gone"
+     ],
+     "e": "y'all have come",
+     "g": "ἐληλύθατε",
+     "l": 15,
+     "ph": "eh-lay-LÜ-thah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have come",
+      "they have gone"
+     ],
+     "e": "they have come",
+     "g": "ἐληλύθασιν",
+     "l": 15,
+     "ph": "eh-lay-LÜ-thah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -3437,6 +4175,99 @@
      "pn": "3p",
      "t": "fm",
      "tl": "future middle"
+    },
+    {
+     "a": [
+      "I went",
+      "I walked",
+      "I traveled"
+     ],
+     "e": "I went",
+     "g": "ἐπορεύθην",
+     "l": 16,
+     "ph": "eh-po-RYOO-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you went",
+      "you walked",
+      "you traveled"
+     ],
+     "e": "you went",
+     "g": "ἐπορεύθης",
+     "l": 16,
+     "ph": "eh-po-RYOO-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he went",
+      "she went",
+      "it went",
+      "he walked",
+      "she walked",
+      "it walked",
+      "he traveled",
+      "she traveled",
+      "it traveled"
+     ],
+     "e": "he/she/it went",
+     "g": "ἐπορεύθη",
+     "l": 16,
+     "ph": "eh-po-RYOO-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we went",
+      "we walked",
+      "we traveled"
+     ],
+     "e": "we went",
+     "g": "ἐπορεύθημεν",
+     "l": 16,
+     "ph": "eh-po-RYOO-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all went",
+      "you all went",
+      "y'all walked",
+      "you all walked",
+      "y'all traveled",
+      "you all traveled"
+     ],
+     "e": "y'all went",
+     "g": "ἐπορεύθητε",
+     "l": 16,
+     "ph": "eh-po-RYOO-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they went",
+      "they walked",
+      "they traveled"
+     ],
+     "e": "they went",
+     "g": "ἐπορεύθησαν",
+     "l": 16,
+     "ph": "eh-po-RYOO-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },

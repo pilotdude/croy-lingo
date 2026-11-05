@@ -818,6 +818,81 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have fallen"
+     ],
+     "e": "I have fallen",
+     "g": "πέπτωκα",
+     "l": 15,
+     "ph": "PEH-ptoh-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have fallen"
+     ],
+     "e": "you have fallen",
+     "g": "πέπτωκας",
+     "l": 15,
+     "ph": "PEH-ptoh-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has fallen",
+      "she has fallen",
+      "it has fallen"
+     ],
+     "e": "he/she/it has fallen",
+     "g": "πέπτωκεν",
+     "l": 15,
+     "ph": "PEH-ptoh-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have fallen"
+     ],
+     "e": "we have fallen",
+     "g": "πεπτώκαμεν",
+     "l": 15,
+     "ph": "peh-PTOH-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have fallen",
+      "you all have fallen"
+     ],
+     "e": "y'all have fallen",
+     "g": "πεπτώκατε",
+     "l": 15,
+     "ph": "peh-PTOH-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have fallen"
+     ],
+     "e": "they have fallen",
+     "g": "πεπτώκασιν",
+     "l": 15,
+     "ph": "peh-PTOH-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -1189,6 +1264,90 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have come to",
+      "I have approached"
+     ],
+     "e": "I have come to",
+     "g": "προσελήλυθα",
+     "l": 15,
+     "ph": "pro-seh-LAY-lü-thah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have come to",
+      "you have approached"
+     ],
+     "e": "you have come to",
+     "g": "προσελήλυθας",
+     "l": 15,
+     "ph": "pro-seh-LAY-lü-thahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has come to",
+      "she has come to",
+      "it has come to",
+      "he has approached",
+      "she has approached",
+      "it has approached"
+     ],
+     "e": "he/she/it has come to",
+     "g": "προσελήλυθεν",
+     "l": 15,
+     "ph": "pro-seh-LAY-lü-thehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have come to",
+      "we have approached"
+     ],
+     "e": "we have come to",
+     "g": "προσεληλύθαμεν",
+     "l": 15,
+     "ph": "pro-seh-lay-LÜ-thah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have come to",
+      "you all have come to",
+      "y'all have approached",
+      "you all have approached"
+     ],
+     "e": "y'all have come to",
+     "g": "προσεληλύθατε",
+     "l": 15,
+     "ph": "pro-seh-lay-LÜ-thah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have come to",
+      "they have approached"
+     ],
+     "e": "they have come to",
+     "g": "προσεληλύθασιν",
+     "l": 15,
+     "ph": "pro-seh-lay-LÜ-thah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -1851,6 +2010,174 @@
      "pn": "3p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have offered",
+      "I have presented"
+     ],
+     "e": "I have offered",
+     "g": "προσενήνοχα",
+     "l": 15,
+     "ph": "pro-seh-NAY-no-khah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have offered",
+      "you have presented"
+     ],
+     "e": "you have offered",
+     "g": "προσενήνοχας",
+     "l": 15,
+     "ph": "pro-seh-NAY-no-khahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has offered",
+      "she has offered",
+      "it has offered",
+      "he has presented",
+      "she has presented",
+      "it has presented"
+     ],
+     "e": "he/she/it has offered",
+     "g": "προσενήνοχεν",
+     "l": 15,
+     "ph": "pro-seh-NAY-no-khehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have offered",
+      "we have presented"
+     ],
+     "e": "we have offered",
+     "g": "προσενηνόχαμεν",
+     "l": 15,
+     "ph": "pro-seh-nay-NO-khah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have offered",
+      "you all have offered",
+      "y'all have presented",
+      "you all have presented"
+     ],
+     "e": "y'all have offered",
+     "g": "προσενηνόχατε",
+     "l": 15,
+     "ph": "pro-seh-nay-NO-khah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have offered",
+      "they have presented"
+     ],
+     "e": "they have offered",
+     "g": "προσενηνόχασιν",
+     "l": 15,
+     "ph": "pro-seh-nay-NO-khah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I was offered",
+      "I was presented"
+     ],
+     "e": "I was offered",
+     "g": "προσηνέχθην",
+     "l": 16,
+     "ph": "pro-say-NEH-khthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were offered",
+      "you were presented"
+     ],
+     "e": "you were offered",
+     "g": "προσηνέχθης",
+     "l": 16,
+     "ph": "pro-say-NEH-khthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was offered",
+      "she was offered",
+      "it was offered",
+      "he was presented",
+      "she was presented",
+      "it was presented"
+     ],
+     "e": "he/she/it was offered",
+     "g": "προσηνέχθη",
+     "l": 16,
+     "ph": "pro-say-NEH-khthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were offered",
+      "we were presented"
+     ],
+     "e": "we were offered",
+     "g": "προσηνέχθημεν",
+     "l": 16,
+     "ph": "pro-say-NEH-khthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were offered",
+      "you all were offered",
+      "y'all were presented",
+      "you all were presented"
+     ],
+     "e": "y'all were offered",
+     "g": "προσηνέχθητε",
+     "l": 16,
+     "ph": "pro-say-NEH-khthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were offered",
+      "they were presented"
+     ],
+     "e": "they were offered",
+     "g": "προσηνέχθησαν",
+     "l": 16,
+     "ph": "pro-say-NEH-khthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },

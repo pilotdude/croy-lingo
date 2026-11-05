@@ -667,6 +667,231 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have heard"
+     ],
+     "e": "I have heard",
+     "g": "ἀκήκοα",
+     "l": 15,
+     "ph": "ah-KAY-ko-ah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have heard"
+     ],
+     "e": "you have heard",
+     "g": "ἀκήκοας",
+     "l": 15,
+     "ph": "ah-KAY-ko-ahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has heard",
+      "she has heard",
+      "it has heard"
+     ],
+     "e": "he/she/it has heard",
+     "g": "ἀκήκοεν",
+     "l": 15,
+     "ph": "ah-KAY-ko-ehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have heard"
+     ],
+     "e": "we have heard",
+     "g": "ἀκηκόαμεν",
+     "l": 15,
+     "ph": "ah-kay-KO-ah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have heard",
+      "you all have heard"
+     ],
+     "e": "y'all have heard",
+     "g": "ἀκηκόατε",
+     "l": 15,
+     "ph": "ah-kay-KO-ah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have heard"
+     ],
+     "e": "they have heard",
+     "g": "ἀκηκόασιν",
+     "l": 15,
+     "ph": "ah-kay-KO-ah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I was heard"
+     ],
+     "e": "I was heard",
+     "g": "ἠκούσθην",
+     "l": 16,
+     "ph": "ay-KOO-sthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were heard"
+     ],
+     "e": "you were heard",
+     "g": "ἠκούσθης",
+     "l": 16,
+     "ph": "ay-KOO-sthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was heard",
+      "she was heard",
+      "it was heard"
+     ],
+     "e": "he/she/it was heard",
+     "g": "ἠκούσθη",
+     "l": 16,
+     "ph": "ay-KOO-sthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were heard"
+     ],
+     "e": "we were heard",
+     "g": "ἠκούσθημεν",
+     "l": 16,
+     "ph": "ay-KOO-sthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were heard",
+      "you all were heard"
+     ],
+     "e": "y'all were heard",
+     "g": "ἠκούσθητε",
+     "l": 16,
+     "ph": "ay-KOO-sthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were heard"
+     ],
+     "e": "they were heard",
+     "g": "ἠκούσθησαν",
+     "l": 16,
+     "ph": "ay-KOO-sthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be heard"
+     ],
+     "e": "I will be heard",
+     "g": "ἀκουσθήσομαι",
+     "l": 16,
+     "ph": "ah-koo-STHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be heard"
+     ],
+     "e": "you will be heard",
+     "g": "ἀκουσθήσῃ",
+     "l": 16,
+     "ph": "ah-koo-STHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be heard",
+      "she will be heard",
+      "it will be heard"
+     ],
+     "e": "he/she/it will be heard",
+     "g": "ἀκουσθήσεται",
+     "l": 16,
+     "ph": "ah-koo-STHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be heard"
+     ],
+     "e": "we will be heard",
+     "g": "ἀκουσθησόμεθα",
+     "l": 16,
+     "ph": "ah-koo-sthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be heard",
+      "you all will be heard"
+     ],
+     "e": "y'all will be heard",
+     "g": "ἀκουσθήσεσθε",
+     "l": 16,
+     "ph": "ah-koo-STHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be heard"
+     ],
+     "e": "they will be heard",
+     "g": "ἀκουσθήσονται",
+     "l": 16,
+     "ph": "ah-koo-STHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -1760,6 +1985,335 @@
      "pn": "3p",
      "t": "fm",
      "tl": "future middle"
+    },
+    {
+     "a": [
+      "I have known",
+      "I have come to know"
+     ],
+     "e": "I have known",
+     "g": "ἔγνωκα",
+     "l": 15,
+     "ph": "EH-gnoh-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have known",
+      "you have come to know"
+     ],
+     "e": "you have known",
+     "g": "ἔγνωκας",
+     "l": 15,
+     "ph": "EH-gnoh-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has known",
+      "she has known",
+      "it has known",
+      "he has come to know",
+      "she has come to know",
+      "it has come to know"
+     ],
+     "e": "he/she/it has known",
+     "g": "ἔγνωκεν",
+     "l": 15,
+     "ph": "EH-gnoh-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have known",
+      "we have come to know"
+     ],
+     "e": "we have known",
+     "g": "ἐγνώκαμεν",
+     "l": 15,
+     "ph": "eh-GNOH-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have known",
+      "you all have known",
+      "y'all have come to know",
+      "you all have come to know"
+     ],
+     "e": "y'all have known",
+     "g": "ἐγνώκατε",
+     "l": 15,
+     "ph": "eh-GNOH-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have known",
+      "they have come to know"
+     ],
+     "e": "they have known",
+     "g": "ἐγνώκασιν",
+     "l": 15,
+     "ph": "eh-GNOH-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been known",
+      "I am known",
+      "I have known for myself",
+      "I have known myself",
+      "I have come to know for myself"
+     ],
+     "e": "I have been known / I have known for myself",
+     "g": "ἔγνωσμαι",
+     "l": 15,
+     "ph": "EH-gnoh-smai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been known",
+      "you are known",
+      "you have known for yourself",
+      "you have known yourself",
+      "you have come to know for yourself"
+     ],
+     "e": "you have been known / you have known for yourself",
+     "g": "ἔγνωσαι",
+     "l": 15,
+     "ph": "EH-gnoh-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been known",
+      "she has been known",
+      "it has been known",
+      "he is known",
+      "she is known",
+      "it is known",
+      "he has known for himself",
+      "she has known for herself",
+      "it has known for itself",
+      "he has known himself",
+      "she has known herself",
+      "it has known itself",
+      "he has come to know for himself",
+      "she has come to know for herself",
+      "it has come to know for itself"
+     ],
+     "e": "he/she/it has been known / he/she/it has known for himself/herself/itself",
+     "g": "ἔγνωσται",
+     "l": 15,
+     "ph": "EH-gnoh-stai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been known",
+      "we are known",
+      "we have known for ourselves",
+      "we have known ourselves",
+      "we have come to know for ourselves"
+     ],
+     "e": "we have been known / we have known for ourselves",
+     "g": "ἐγνώσμεθα",
+     "l": 15,
+     "ph": "eh-GNOH-smeh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been known",
+      "you all have been known",
+      "y'all are known",
+      "you all are known",
+      "y'all have known for yourselves",
+      "you all have known for yourselves",
+      "y'all have known yourselves",
+      "you all have known yourselves",
+      "y'all have come to know for yourselves",
+      "you all have come to know for yourselves"
+     ],
+     "e": "y'all have been known / y'all have known for yourselves",
+     "g": "ἔγνωσθε",
+     "l": 15,
+     "ph": "EH-gnoh-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was known"
+     ],
+     "e": "I was known",
+     "g": "ἐγνώσθην",
+     "l": 16,
+     "ph": "eh-GNOH-sthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were known"
+     ],
+     "e": "you were known",
+     "g": "ἐγνώσθης",
+     "l": 16,
+     "ph": "eh-GNOH-sthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was known",
+      "she was known",
+      "it was known"
+     ],
+     "e": "he/she/it was known",
+     "g": "ἐγνώσθη",
+     "l": 16,
+     "ph": "eh-GNOH-sthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were known"
+     ],
+     "e": "we were known",
+     "g": "ἐγνώσθημεν",
+     "l": 16,
+     "ph": "eh-GNOH-sthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were known",
+      "you all were known"
+     ],
+     "e": "y'all were known",
+     "g": "ἐγνώσθητε",
+     "l": 16,
+     "ph": "eh-GNOH-sthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were known"
+     ],
+     "e": "they were known",
+     "g": "ἐγνώσθησαν",
+     "l": 16,
+     "ph": "eh-GNOH-sthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be known"
+     ],
+     "e": "I will be known",
+     "g": "γνωσθήσομαι",
+     "l": 16,
+     "ph": "gnoh-STHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be known"
+     ],
+     "e": "you will be known",
+     "g": "γνωσθήσῃ",
+     "l": 16,
+     "ph": "gnoh-STHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be known",
+      "she will be known",
+      "it will be known"
+     ],
+     "e": "he/she/it will be known",
+     "g": "γνωσθήσεται",
+     "l": 16,
+     "ph": "gnoh-STHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be known"
+     ],
+     "e": "we will be known",
+     "g": "γνωσθησόμεθα",
+     "l": 16,
+     "ph": "gnoh-sthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be known",
+      "you all will be known"
+     ],
+     "e": "y'all will be known",
+     "g": "γνωσθήσεσθε",
+     "l": 16,
+     "ph": "gnoh-STHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be known"
+     ],
+     "e": "they will be known",
+     "g": "γνωσθήσονται",
+     "l": 16,
+     "ph": "gnoh-STHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -2428,6 +2982,243 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have written"
+     ],
+     "e": "I have written",
+     "g": "γέγραφα",
+     "l": 15,
+     "ph": "GEH-grah-fah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have written"
+     ],
+     "e": "you have written",
+     "g": "γέγραφας",
+     "l": 15,
+     "ph": "GEH-grah-fahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has written",
+      "she has written",
+      "it has written"
+     ],
+     "e": "he/she/it has written",
+     "g": "γέγραφεν",
+     "l": 15,
+     "ph": "GEH-grah-fehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have written"
+     ],
+     "e": "we have written",
+     "g": "γεγράφαμεν",
+     "l": 15,
+     "ph": "geh-GRAH-fah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have written",
+      "you all have written"
+     ],
+     "e": "y'all have written",
+     "g": "γεγράφατε",
+     "l": 15,
+     "ph": "geh-GRAH-fah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have written"
+     ],
+     "e": "they have written",
+     "g": "γεγράφασιν",
+     "l": 15,
+     "ph": "geh-GRAH-fah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been written",
+      "I am written",
+      "I have written for myself",
+      "I have written myself"
+     ],
+     "e": "I have been written / I have written for myself",
+     "g": "γέγραμμαι",
+     "l": 15,
+     "ph": "GEH-grahm-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been written",
+      "you are written",
+      "you have written for yourself",
+      "you have written yourself"
+     ],
+     "e": "you have been written / you have written for yourself",
+     "g": "γέγραψαι",
+     "l": 15,
+     "ph": "GEH-grah-psai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been written",
+      "she has been written",
+      "it has been written",
+      "he is written",
+      "she is written",
+      "it is written",
+      "he has written for himself",
+      "she has written for herself",
+      "it has written for itself",
+      "he has written himself",
+      "she has written herself",
+      "it has written itself"
+     ],
+     "e": "he/she/it has been written / he/she/it has written for himself/herself/itself",
+     "g": "γέγραπται",
+     "l": 15,
+     "ph": "GEH-grah-ptai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been written",
+      "we are written",
+      "we have written for ourselves",
+      "we have written ourselves"
+     ],
+     "e": "we have been written / we have written for ourselves",
+     "g": "γεγράμμεθα",
+     "l": 15,
+     "ph": "geh-GRAHM-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been written",
+      "you all have been written",
+      "y'all are written",
+      "you all are written",
+      "y'all have written for yourselves",
+      "you all have written for yourselves",
+      "y'all have written yourselves",
+      "you all have written yourselves"
+     ],
+     "e": "y'all have been written / y'all have written for yourselves",
+     "g": "γέγραφθε",
+     "l": 15,
+     "ph": "GEH-grah-ftheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was written"
+     ],
+     "e": "I was written",
+     "g": "ἐγράφην",
+     "l": 16,
+     "ph": "eh-GRAH-fayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were written"
+     ],
+     "e": "you were written",
+     "g": "ἐγράφης",
+     "l": 16,
+     "ph": "eh-GRAH-fays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was written",
+      "she was written",
+      "it was written"
+     ],
+     "e": "he/she/it was written",
+     "g": "ἐγράφη",
+     "l": 16,
+     "ph": "eh-GRAH-fay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were written"
+     ],
+     "e": "we were written",
+     "g": "ἐγράφημεν",
+     "l": 16,
+     "ph": "eh-GRAH-fay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were written",
+      "you all were written"
+     ],
+     "e": "y'all were written",
+     "g": "ἐγράφητε",
+     "l": 16,
+     "ph": "eh-GRAH-fay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were written"
+     ],
+     "e": "they were written",
+     "g": "ἐγράφησαν",
+     "l": 16,
+     "ph": "eh-GRAH-fay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -3096,6 +3887,81 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I was taught"
+     ],
+     "e": "I was taught",
+     "g": "ἐδιδάχθην",
+     "l": 16,
+     "ph": "eh-dee-DAH-khthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were taught"
+     ],
+     "e": "you were taught",
+     "g": "ἐδιδάχθης",
+     "l": 16,
+     "ph": "eh-dee-DAH-khthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was taught",
+      "she was taught",
+      "it was taught"
+     ],
+     "e": "he/she/it was taught",
+     "g": "ἐδιδάχθη",
+     "l": 16,
+     "ph": "eh-dee-DAH-khthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were taught"
+     ],
+     "e": "we were taught",
+     "g": "ἐδιδάχθημεν",
+     "l": 16,
+     "ph": "eh-dee-DAH-khthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were taught",
+      "you all were taught"
+     ],
+     "e": "y'all were taught",
+     "g": "ἐδιδάχθητε",
+     "l": 16,
+     "ph": "eh-dee-DAH-khthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were taught"
+     ],
+     "e": "they were taught",
+     "g": "ἐδιδάχθησαν",
+     "l": 16,
+     "ph": "eh-dee-DAH-khthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -4170,6 +5036,366 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have said",
+      "I have spoken",
+      "I have told"
+     ],
+     "e": "I have said",
+     "g": "εἴρηκα",
+     "l": 15,
+     "ph": "AY-ray-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have said",
+      "you have spoken",
+      "you have told"
+     ],
+     "e": "you have said",
+     "g": "εἴρηκας",
+     "l": 15,
+     "ph": "AY-ray-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has said",
+      "she has said",
+      "it has said",
+      "he has spoken",
+      "she has spoken",
+      "it has spoken",
+      "he has told",
+      "she has told",
+      "it has told"
+     ],
+     "e": "he/she/it has said",
+     "g": "εἴρηκεν",
+     "l": 15,
+     "ph": "AY-ray-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have said",
+      "we have spoken",
+      "we have told"
+     ],
+     "e": "we have said",
+     "g": "εἰρήκαμεν",
+     "l": 15,
+     "ph": "ay-RAY-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have said",
+      "you all have said",
+      "y'all have spoken",
+      "you all have spoken",
+      "y'all have told",
+      "you all have told"
+     ],
+     "e": "y'all have said",
+     "g": "εἰρήκατε",
+     "l": 15,
+     "ph": "ay-RAY-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have said",
+      "they have spoken",
+      "they have told"
+     ],
+     "e": "they have said",
+     "g": "εἰρήκασιν",
+     "l": 15,
+     "ph": "ay-RAY-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been said",
+      "I am said",
+      "I have said for myself",
+      "I have said myself",
+      "I have been spoken",
+      "I am spoken",
+      "I have spoken for myself",
+      "I have spoken myself",
+      "I have been told",
+      "I am told",
+      "I have told for myself",
+      "I have told myself"
+     ],
+     "e": "I have been said / I have said for myself",
+     "g": "εἴρημαι",
+     "l": 15,
+     "ph": "AY-ray-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been said",
+      "you are said",
+      "you have said for yourself",
+      "you have said yourself",
+      "you have been spoken",
+      "you are spoken",
+      "you have spoken for yourself",
+      "you have spoken yourself",
+      "you have been told",
+      "you are told",
+      "you have told for yourself",
+      "you have told yourself"
+     ],
+     "e": "you have been said / you have said for yourself",
+     "g": "εἴρησαι",
+     "l": 15,
+     "ph": "AY-ray-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been said",
+      "she has been said",
+      "it has been said",
+      "he is said",
+      "she is said",
+      "it is said",
+      "he has said for himself",
+      "she has said for herself",
+      "it has said for itself",
+      "he has said himself",
+      "she has said herself",
+      "it has said itself",
+      "he has been spoken",
+      "she has been spoken",
+      "it has been spoken",
+      "he is spoken",
+      "she is spoken",
+      "it is spoken",
+      "he has spoken for himself",
+      "she has spoken for herself",
+      "it has spoken for itself",
+      "he has spoken himself",
+      "she has spoken herself",
+      "it has spoken itself",
+      "he has been told",
+      "she has been told",
+      "it has been told",
+      "he is told",
+      "she is told",
+      "it is told",
+      "he has told for himself",
+      "she has told for herself",
+      "it has told for itself",
+      "he has told himself",
+      "she has told herself",
+      "it has told itself"
+     ],
+     "e": "he/she/it has been said / he/she/it has said for himself/herself/itself",
+     "g": "εἴρηται",
+     "l": 15,
+     "ph": "AY-ray-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been said",
+      "we are said",
+      "we have said for ourselves",
+      "we have said ourselves",
+      "we have been spoken",
+      "we are spoken",
+      "we have spoken for ourselves",
+      "we have spoken ourselves",
+      "we have been told",
+      "we are told",
+      "we have told for ourselves",
+      "we have told ourselves"
+     ],
+     "e": "we have been said / we have said for ourselves",
+     "g": "εἰρήμεθα",
+     "l": 15,
+     "ph": "ay-RAY-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been said",
+      "you all have been said",
+      "y'all are said",
+      "you all are said",
+      "y'all have said for yourselves",
+      "you all have said for yourselves",
+      "y'all have said yourselves",
+      "you all have said yourselves",
+      "y'all have been spoken",
+      "you all have been spoken",
+      "y'all are spoken",
+      "you all are spoken",
+      "y'all have spoken for yourselves",
+      "you all have spoken for yourselves",
+      "y'all have spoken yourselves",
+      "you all have spoken yourselves",
+      "y'all have been told",
+      "you all have been told",
+      "y'all are told",
+      "you all are told",
+      "y'all have told for yourselves",
+      "you all have told for yourselves",
+      "y'all have told yourselves",
+      "you all have told yourselves"
+     ],
+     "e": "y'all have been said / y'all have said for yourselves",
+     "g": "εἴρησθε",
+     "l": 15,
+     "ph": "AY-ray-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "they have been said",
+      "they are said",
+      "they have said for themselves",
+      "they have said themselves",
+      "they have been spoken",
+      "they are spoken",
+      "they have spoken for themselves",
+      "they have spoken themselves",
+      "they have been told",
+      "they are told",
+      "they have told for themselves",
+      "they have told themselves"
+     ],
+     "e": "they have been said / they have said for themselves",
+     "g": "εἴρηνται",
+     "l": 15,
+     "ph": "AY-rayn-tai",
+     "pn": "3p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was said",
+      "I was spoken",
+      "I was told"
+     ],
+     "e": "I was said",
+     "g": "ἐρρέθην",
+     "l": 16,
+     "ph": "ehr-REH-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were said",
+      "you were spoken",
+      "you were told"
+     ],
+     "e": "you were said",
+     "g": "ἐρρέθης",
+     "l": 16,
+     "ph": "ehr-REH-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was said",
+      "she was said",
+      "it was said",
+      "he was spoken",
+      "she was spoken",
+      "it was spoken",
+      "he was told",
+      "she was told",
+      "it was told"
+     ],
+     "e": "he/she/it was said",
+     "g": "ἐρρέθη",
+     "l": 16,
+     "ph": "ehr-REH-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were said",
+      "we were spoken",
+      "we were told"
+     ],
+     "e": "we were said",
+     "g": "ἐρρέθημεν",
+     "l": 16,
+     "ph": "ehr-REH-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were said",
+      "you all were said",
+      "y'all were spoken",
+      "you all were spoken",
+      "y'all were told",
+      "you all were told"
+     ],
+     "e": "y'all were said",
+     "g": "ἐρρέθητε",
+     "l": 16,
+     "ph": "ehr-REH-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were said",
+      "they were spoken",
+      "they were told"
+     ],
+     "e": "they were said",
+     "g": "ἐρρέθησαν",
+     "l": 16,
+     "ph": "ehr-REH-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -5000,6 +6226,396 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have loosed",
+      "I have destroyed"
+     ],
+     "e": "I have loosed",
+     "g": "λέλυκα",
+     "l": 15,
+     "ph": "LEH-lü-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have loosed",
+      "you have destroyed"
+     ],
+     "e": "you have loosed",
+     "g": "λέλυκας",
+     "l": 15,
+     "ph": "LEH-lü-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has loosed",
+      "she has loosed",
+      "it has loosed",
+      "he has destroyed",
+      "she has destroyed",
+      "it has destroyed"
+     ],
+     "e": "he/she/it has loosed",
+     "g": "λέλυκεν",
+     "l": 15,
+     "ph": "LEH-lü-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have loosed",
+      "we have destroyed"
+     ],
+     "e": "we have loosed",
+     "g": "λελύκαμεν",
+     "l": 15,
+     "ph": "leh-LÜ-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have loosed",
+      "you all have loosed",
+      "y'all have destroyed",
+      "you all have destroyed"
+     ],
+     "e": "y'all have loosed",
+     "g": "λελύκατε",
+     "l": 15,
+     "ph": "leh-LÜ-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have loosed",
+      "they have destroyed"
+     ],
+     "e": "they have loosed",
+     "g": "λελύκασιν",
+     "l": 15,
+     "ph": "leh-LÜ-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been loosed",
+      "I am loosed",
+      "I have loosed for myself",
+      "I have loosed myself",
+      "I have been destroyed",
+      "I am destroyed",
+      "I have destroyed for myself",
+      "I have destroyed myself"
+     ],
+     "e": "I have been loosed / I have loosed for myself",
+     "g": "λέλυμαι",
+     "l": 15,
+     "ph": "LEH-lü-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been loosed",
+      "you are loosed",
+      "you have loosed for yourself",
+      "you have loosed yourself",
+      "you have been destroyed",
+      "you are destroyed",
+      "you have destroyed for yourself",
+      "you have destroyed yourself"
+     ],
+     "e": "you have been loosed / you have loosed for yourself",
+     "g": "λέλυσαι",
+     "l": 15,
+     "ph": "LEH-lü-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been loosed",
+      "she has been loosed",
+      "it has been loosed",
+      "he is loosed",
+      "she is loosed",
+      "it is loosed",
+      "he has loosed for himself",
+      "she has loosed for herself",
+      "it has loosed for itself",
+      "he has loosed himself",
+      "she has loosed herself",
+      "it has loosed itself",
+      "he has been destroyed",
+      "she has been destroyed",
+      "it has been destroyed",
+      "he is destroyed",
+      "she is destroyed",
+      "it is destroyed",
+      "he has destroyed for himself",
+      "she has destroyed for herself",
+      "it has destroyed for itself",
+      "he has destroyed himself",
+      "she has destroyed herself",
+      "it has destroyed itself"
+     ],
+     "e": "he/she/it has been loosed / he/she/it has loosed for himself/herself/itself",
+     "g": "λέλυται",
+     "l": 15,
+     "ph": "LEH-lü-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been loosed",
+      "we are loosed",
+      "we have loosed for ourselves",
+      "we have loosed ourselves",
+      "we have been destroyed",
+      "we are destroyed",
+      "we have destroyed for ourselves",
+      "we have destroyed ourselves"
+     ],
+     "e": "we have been loosed / we have loosed for ourselves",
+     "g": "λελύμεθα",
+     "l": 15,
+     "ph": "leh-LÜ-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been loosed",
+      "you all have been loosed",
+      "y'all are loosed",
+      "you all are loosed",
+      "y'all have loosed for yourselves",
+      "you all have loosed for yourselves",
+      "y'all have loosed yourselves",
+      "you all have loosed yourselves",
+      "y'all have been destroyed",
+      "you all have been destroyed",
+      "y'all are destroyed",
+      "you all are destroyed",
+      "y'all have destroyed for yourselves",
+      "you all have destroyed for yourselves",
+      "y'all have destroyed yourselves",
+      "you all have destroyed yourselves"
+     ],
+     "e": "y'all have been loosed / y'all have loosed for yourselves",
+     "g": "λέλυσθε",
+     "l": 15,
+     "ph": "LEH-lü-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "they have been loosed",
+      "they are loosed",
+      "they have loosed for themselves",
+      "they have loosed themselves",
+      "they have been destroyed",
+      "they are destroyed",
+      "they have destroyed for themselves",
+      "they have destroyed themselves"
+     ],
+     "e": "they have been loosed / they have loosed for themselves",
+     "g": "λέλυνται",
+     "l": 15,
+     "ph": "LEH-lün-tai",
+     "pn": "3p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was loosed",
+      "I was destroyed"
+     ],
+     "e": "I was loosed",
+     "g": "ἐλύθην",
+     "l": 16,
+     "ph": "eh-LÜ-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were loosed",
+      "you were destroyed"
+     ],
+     "e": "you were loosed",
+     "g": "ἐλύθης",
+     "l": 16,
+     "ph": "eh-LÜ-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was loosed",
+      "she was loosed",
+      "it was loosed",
+      "he was destroyed",
+      "she was destroyed",
+      "it was destroyed"
+     ],
+     "e": "he/she/it was loosed",
+     "g": "ἐλύθη",
+     "l": 16,
+     "ph": "eh-LÜ-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were loosed",
+      "we were destroyed"
+     ],
+     "e": "we were loosed",
+     "g": "ἐλύθημεν",
+     "l": 16,
+     "ph": "eh-LÜ-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were loosed",
+      "you all were loosed",
+      "y'all were destroyed",
+      "you all were destroyed"
+     ],
+     "e": "y'all were loosed",
+     "g": "ἐλύθητε",
+     "l": 16,
+     "ph": "eh-LÜ-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were loosed",
+      "they were destroyed"
+     ],
+     "e": "they were loosed",
+     "g": "ἐλύθησαν",
+     "l": 16,
+     "ph": "eh-LÜ-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be loosed",
+      "I will be destroyed"
+     ],
+     "e": "I will be loosed",
+     "g": "λυθήσομαι",
+     "l": 16,
+     "ph": "lü-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be loosed",
+      "you will be destroyed"
+     ],
+     "e": "you will be loosed",
+     "g": "λυθήσῃ",
+     "l": 16,
+     "ph": "lü-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be loosed",
+      "she will be loosed",
+      "it will be loosed",
+      "he will be destroyed",
+      "she will be destroyed",
+      "it will be destroyed"
+     ],
+     "e": "he/she/it will be loosed",
+     "g": "λυθήσεται",
+     "l": 16,
+     "ph": "lü-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be loosed",
+      "we will be destroyed"
+     ],
+     "e": "we will be loosed",
+     "g": "λυθησόμεθα",
+     "l": 16,
+     "ph": "lü-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be loosed",
+      "you all will be loosed",
+      "y'all will be destroyed",
+      "you all will be destroyed"
+     ],
+     "e": "y'all will be loosed",
+     "g": "λυθήσεσθε",
+     "l": 16,
+     "ph": "lü-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be loosed",
+      "they will be destroyed"
+     ],
+     "e": "they will be loosed",
+     "g": "λυθήσονται",
+     "l": 16,
+     "ph": "lü-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -5688,6 +7304,156 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I have believed"
+     ],
+     "e": "I have believed",
+     "g": "πεπίστευκα",
+     "l": 15,
+     "ph": "peh-PEE-styoo-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have believed"
+     ],
+     "e": "you have believed",
+     "g": "πεπίστευκας",
+     "l": 15,
+     "ph": "peh-PEE-styoo-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has believed",
+      "she has believed",
+      "it has believed"
+     ],
+     "e": "he/she/it has believed",
+     "g": "πεπίστευκεν",
+     "l": 15,
+     "ph": "peh-PEE-styoo-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have believed"
+     ],
+     "e": "we have believed",
+     "g": "πεπιστεύκαμεν",
+     "l": 15,
+     "ph": "peh-pee-STYOO-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have believed",
+      "you all have believed"
+     ],
+     "e": "y'all have believed",
+     "g": "πεπιστεύκατε",
+     "l": 15,
+     "ph": "peh-pee-STYOO-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have believed"
+     ],
+     "e": "they have believed",
+     "g": "πεπιστεύκασιν",
+     "l": 15,
+     "ph": "peh-pee-STYOO-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I was believed"
+     ],
+     "e": "I was believed",
+     "g": "ἐπιστεύθην",
+     "l": 16,
+     "ph": "eh-pee-STYOO-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were believed"
+     ],
+     "e": "you were believed",
+     "g": "ἐπιστεύθης",
+     "l": 16,
+     "ph": "eh-pee-STYOO-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was believed",
+      "she was believed",
+      "it was believed"
+     ],
+     "e": "he/she/it was believed",
+     "g": "ἐπιστεύθη",
+     "l": 16,
+     "ph": "eh-pee-STYOO-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were believed"
+     ],
+     "e": "we were believed",
+     "g": "ἐπιστεύθημεν",
+     "l": 16,
+     "ph": "eh-pee-STYOO-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were believed",
+      "you all were believed"
+     ],
+     "e": "y'all were believed",
+     "g": "ἐπιστεύθητε",
+     "l": 16,
+     "ph": "eh-pee-STYOO-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were believed"
+     ],
+     "e": "they were believed",
+     "g": "ἐπιστεύθησαν",
+     "l": 16,
+     "ph": "eh-pee-STYOO-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   }

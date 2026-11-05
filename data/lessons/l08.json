@@ -359,6 +359,243 @@
      "ph": "ah-peh-STEHL-lon-to",
      "pn": "3p",
      "t": "imp"
+    },
+    {
+     "a": [
+      "I have sent"
+     ],
+     "e": "I have sent",
+     "g": "ἀπέσταλκα",
+     "l": 15,
+     "ph": "ah-PEH-stahl-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have sent"
+     ],
+     "e": "you have sent",
+     "g": "ἀπέσταλκας",
+     "l": 15,
+     "ph": "ah-PEH-stahl-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has sent",
+      "she has sent",
+      "it has sent"
+     ],
+     "e": "he/she/it has sent",
+     "g": "ἀπέσταλκεν",
+     "l": 15,
+     "ph": "ah-PEH-stahl-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have sent"
+     ],
+     "e": "we have sent",
+     "g": "ἀπεστάλκαμεν",
+     "l": 15,
+     "ph": "ah-peh-STAHL-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have sent",
+      "you all have sent"
+     ],
+     "e": "y'all have sent",
+     "g": "ἀπεστάλκατε",
+     "l": 15,
+     "ph": "ah-peh-STAHL-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have sent"
+     ],
+     "e": "they have sent",
+     "g": "ἀπεστάλκασιν",
+     "l": 15,
+     "ph": "ah-peh-STAHL-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been sent",
+      "I am sent",
+      "I have sent for myself",
+      "I have sent myself"
+     ],
+     "e": "I have been sent / I have sent for myself",
+     "g": "ἀπέσταλμαι",
+     "l": 15,
+     "ph": "ah-PEH-stahl-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been sent",
+      "you are sent",
+      "you have sent for yourself",
+      "you have sent yourself"
+     ],
+     "e": "you have been sent / you have sent for yourself",
+     "g": "ἀπέσταλσαι",
+     "l": 15,
+     "ph": "ah-PEH-stahl-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been sent",
+      "she has been sent",
+      "it has been sent",
+      "he is sent",
+      "she is sent",
+      "it is sent",
+      "he has sent for himself",
+      "she has sent for herself",
+      "it has sent for itself",
+      "he has sent himself",
+      "she has sent herself",
+      "it has sent itself"
+     ],
+     "e": "he/she/it has been sent / he/she/it has sent for himself/herself/itself",
+     "g": "ἀπέσταλται",
+     "l": 15,
+     "ph": "ah-PEH-stahl-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been sent",
+      "we are sent",
+      "we have sent for ourselves",
+      "we have sent ourselves"
+     ],
+     "e": "we have been sent / we have sent for ourselves",
+     "g": "ἀπεστάλμεθα",
+     "l": 15,
+     "ph": "ah-peh-STAHL-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been sent",
+      "you all have been sent",
+      "y'all are sent",
+      "you all are sent",
+      "y'all have sent for yourselves",
+      "you all have sent for yourselves",
+      "y'all have sent yourselves",
+      "you all have sent yourselves"
+     ],
+     "e": "y'all have been sent / y'all have sent for yourselves",
+     "g": "ἀπέσταλθε",
+     "l": 15,
+     "ph": "ah-PEH-stahl-theh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was sent"
+     ],
+     "e": "I was sent",
+     "g": "ἀπεστάλην",
+     "l": 16,
+     "ph": "ah-peh-STAH-layn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were sent"
+     ],
+     "e": "you were sent",
+     "g": "ἀπεστάλης",
+     "l": 16,
+     "ph": "ah-peh-STAH-lays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was sent",
+      "she was sent",
+      "it was sent"
+     ],
+     "e": "he/she/it was sent",
+     "g": "ἀπεστάλη",
+     "l": 16,
+     "ph": "ah-peh-STAH-lay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were sent"
+     ],
+     "e": "we were sent",
+     "g": "ἀπεστάλημεν",
+     "l": 16,
+     "ph": "ah-peh-STAH-lay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were sent",
+      "you all were sent"
+     ],
+     "e": "y'all were sent",
+     "g": "ἀπεστάλητε",
+     "l": 16,
+     "ph": "ah-peh-STAH-lay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were sent"
+     ],
+     "e": "they were sent",
+     "g": "ἀπεστάλησαν",
+     "l": 16,
+     "ph": "ah-peh-STAH-lay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -1037,6 +1274,156 @@
      "pn": "3p",
      "t": "am",
      "tl": "aorist middle"
+    },
+    {
+     "a": [
+      "I was baptized"
+     ],
+     "e": "I was baptized",
+     "g": "ἐβαπτίσθην",
+     "l": 16,
+     "ph": "eh-bah-PTEE-sthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were baptized"
+     ],
+     "e": "you were baptized",
+     "g": "ἐβαπτίσθης",
+     "l": 16,
+     "ph": "eh-bah-PTEE-sthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was baptized",
+      "she was baptized",
+      "it was baptized"
+     ],
+     "e": "he/she/it was baptized",
+     "g": "ἐβαπτίσθη",
+     "l": 16,
+     "ph": "eh-bah-PTEE-sthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were baptized"
+     ],
+     "e": "we were baptized",
+     "g": "ἐβαπτίσθημεν",
+     "l": 16,
+     "ph": "eh-bah-PTEE-sthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were baptized",
+      "you all were baptized"
+     ],
+     "e": "y'all were baptized",
+     "g": "ἐβαπτίσθητε",
+     "l": 16,
+     "ph": "eh-bah-PTEE-sthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were baptized"
+     ],
+     "e": "they were baptized",
+     "g": "ἐβαπτίσθησαν",
+     "l": 16,
+     "ph": "eh-bah-PTEE-sthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be baptized"
+     ],
+     "e": "I will be baptized",
+     "g": "βαπτισθήσομαι",
+     "l": 16,
+     "ph": "bah-ptee-STHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be baptized"
+     ],
+     "e": "you will be baptized",
+     "g": "βαπτισθήσῃ",
+     "l": 16,
+     "ph": "bah-ptee-STHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be baptized",
+      "she will be baptized",
+      "it will be baptized"
+     ],
+     "e": "he/she/it will be baptized",
+     "g": "βαπτισθήσεται",
+     "l": 16,
+     "ph": "bah-ptee-STHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be baptized"
+     ],
+     "e": "we will be baptized",
+     "g": "βαπτισθησόμεθα",
+     "l": 16,
+     "ph": "bah-ptee-sthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be baptized",
+      "you all will be baptized"
+     ],
+     "e": "y'all will be baptized",
+     "g": "βαπτισθήσεσθε",
+     "l": 16,
+     "ph": "bah-ptee-STHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be baptized"
+     ],
+     "e": "they will be baptized",
+     "g": "βαπτισθήσονται",
+     "l": 16,
+     "ph": "bah-ptee-STHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -1495,6 +1882,285 @@
      "ph": "ay-GAY-ron-to",
      "pn": "3p",
      "t": "imp"
+    },
+    {
+     "a": [
+      "I have been raised up",
+      "I am raised up",
+      "I have raised up for myself",
+      "I have been raised",
+      "I am raised",
+      "I have raised for myself",
+      "I have raised myself"
+     ],
+     "e": "I have been raised up / I have raised up for myself",
+     "g": "ἐγήγερμαι",
+     "l": 15,
+     "ph": "eh-GAY-gehr-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been raised up",
+      "you are raised up",
+      "you have raised up for yourself",
+      "you have been raised",
+      "you are raised",
+      "you have raised for yourself",
+      "you have raised yourself"
+     ],
+     "e": "you have been raised up / you have raised up for yourself",
+     "g": "ἐγήγερσαι",
+     "l": 15,
+     "ph": "eh-GAY-gehr-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been raised up",
+      "she has been raised up",
+      "it has been raised up",
+      "he is raised up",
+      "she is raised up",
+      "it is raised up",
+      "he has raised up for himself",
+      "she has raised up for herself",
+      "it has raised up for itself",
+      "he has been raised",
+      "she has been raised",
+      "it has been raised",
+      "he is raised",
+      "she is raised",
+      "it is raised",
+      "he has raised for himself",
+      "she has raised for herself",
+      "it has raised for itself",
+      "he has raised himself",
+      "she has raised herself",
+      "it has raised itself"
+     ],
+     "e": "he/she/it has been raised up / he/she/it has raised up for himself/herself/itself",
+     "g": "ἐγήγερται",
+     "l": 15,
+     "ph": "eh-GAY-gehr-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been raised up",
+      "we are raised up",
+      "we have raised up for ourselves",
+      "we have been raised",
+      "we are raised",
+      "we have raised for ourselves",
+      "we have raised ourselves"
+     ],
+     "e": "we have been raised up / we have raised up for ourselves",
+     "g": "ἐγηγέρμεθα",
+     "l": 15,
+     "ph": "eh-gay-GEHR-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been raised up",
+      "you all have been raised up",
+      "y'all are raised up",
+      "you all are raised up",
+      "y'all have raised up for yourselves",
+      "you all have raised up for yourselves",
+      "y'all have been raised",
+      "you all have been raised",
+      "y'all are raised",
+      "you all are raised",
+      "y'all have raised for yourselves",
+      "you all have raised for yourselves",
+      "y'all have raised yourselves",
+      "you all have raised yourselves"
+     ],
+     "e": "y'all have been raised up / y'all have raised up for yourselves",
+     "g": "ἐγήγερθε",
+     "l": 15,
+     "ph": "eh-GAY-gehr-theh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was raised up",
+      "I was raised"
+     ],
+     "e": "I was raised up",
+     "g": "ἠγέρθην",
+     "l": 16,
+     "ph": "ay-GEHR-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were raised up",
+      "you were raised"
+     ],
+     "e": "you were raised up",
+     "g": "ἠγέρθης",
+     "l": 16,
+     "ph": "ay-GEHR-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was raised up",
+      "she was raised up",
+      "it was raised up",
+      "he was raised",
+      "she was raised",
+      "it was raised"
+     ],
+     "e": "he/she/it was raised up",
+     "g": "ἠγέρθη",
+     "l": 16,
+     "ph": "ay-GEHR-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were raised up",
+      "we were raised"
+     ],
+     "e": "we were raised up",
+     "g": "ἠγέρθημεν",
+     "l": 16,
+     "ph": "ay-GEHR-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were raised up",
+      "you all were raised up",
+      "y'all were raised",
+      "you all were raised"
+     ],
+     "e": "y'all were raised up",
+     "g": "ἠγέρθητε",
+     "l": 16,
+     "ph": "ay-GEHR-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were raised up",
+      "they were raised"
+     ],
+     "e": "they were raised up",
+     "g": "ἠγέρθησαν",
+     "l": 16,
+     "ph": "ay-GEHR-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be raised up",
+      "I will be raised"
+     ],
+     "e": "I will be raised up",
+     "g": "ἐγερθήσομαι",
+     "l": 16,
+     "ph": "eh-gehr-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be raised up",
+      "you will be raised"
+     ],
+     "e": "you will be raised up",
+     "g": "ἐγερθήσῃ",
+     "l": 16,
+     "ph": "eh-gehr-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be raised up",
+      "she will be raised up",
+      "it will be raised up",
+      "he will be raised",
+      "she will be raised",
+      "it will be raised"
+     ],
+     "e": "he/she/it will be raised up",
+     "g": "ἐγερθήσεται",
+     "l": 16,
+     "ph": "eh-gehr-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be raised up",
+      "we will be raised"
+     ],
+     "e": "we will be raised up",
+     "g": "ἐγερθησόμεθα",
+     "l": 16,
+     "ph": "eh-gehr-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be raised up",
+      "you all will be raised up",
+      "y'all will be raised",
+      "you all will be raised"
+     ],
+     "e": "y'all will be raised up",
+     "g": "ἐγερθήσεσθε",
+     "l": 16,
+     "ph": "eh-gehr-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be raised up",
+      "they will be raised"
+     ],
+     "e": "they will be raised up",
+     "g": "ἐγερθήσονται",
+     "l": 16,
+     "ph": "eh-gehr-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -2034,6 +2700,231 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have found"
+     ],
+     "e": "I have found",
+     "g": "εὕρηκα",
+     "l": 15,
+     "ph": "HYOO-ray-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have found"
+     ],
+     "e": "you have found",
+     "g": "εὕρηκας",
+     "l": 15,
+     "ph": "HYOO-ray-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has found",
+      "she has found",
+      "it has found"
+     ],
+     "e": "he/she/it has found",
+     "g": "εὕρηκεν",
+     "l": 15,
+     "ph": "HYOO-ray-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have found"
+     ],
+     "e": "we have found",
+     "g": "εὑρήκαμεν",
+     "l": 15,
+     "ph": "hyoo-RAY-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have found",
+      "you all have found"
+     ],
+     "e": "y'all have found",
+     "g": "εὑρήκατε",
+     "l": 15,
+     "ph": "hyoo-RAY-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have found"
+     ],
+     "e": "they have found",
+     "g": "εὑρήκασιν",
+     "l": 15,
+     "ph": "hyoo-RAY-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I was found"
+     ],
+     "e": "I was found",
+     "g": "εὑρέθην",
+     "l": 16,
+     "ph": "hyoo-REH-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were found"
+     ],
+     "e": "you were found",
+     "g": "εὑρέθης",
+     "l": 16,
+     "ph": "hyoo-REH-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was found",
+      "she was found",
+      "it was found"
+     ],
+     "e": "he/she/it was found",
+     "g": "εὑρέθη",
+     "l": 16,
+     "ph": "hyoo-REH-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were found"
+     ],
+     "e": "we were found",
+     "g": "εὑρέθημεν",
+     "l": 16,
+     "ph": "hyoo-REH-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were found",
+      "you all were found"
+     ],
+     "e": "y'all were found",
+     "g": "εὑρέθητε",
+     "l": 16,
+     "ph": "hyoo-REH-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were found"
+     ],
+     "e": "they were found",
+     "g": "εὑρέθησαν",
+     "l": 16,
+     "ph": "hyoo-REH-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be found"
+     ],
+     "e": "I will be found",
+     "g": "εὑρεθήσομαι",
+     "l": 16,
+     "ph": "hyoo-reh-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be found"
+     ],
+     "e": "you will be found",
+     "g": "εὑρεθήσῃ",
+     "l": 16,
+     "ph": "hyoo-reh-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be found",
+      "she will be found",
+      "it will be found"
+     ],
+     "e": "he/she/it will be found",
+     "g": "εὑρεθήσεται",
+     "l": 16,
+     "ph": "hyoo-reh-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be found"
+     ],
+     "e": "we will be found",
+     "g": "εὑρεθησόμεθα",
+     "l": 16,
+     "ph": "hyoo-reh-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be found",
+      "you all will be found"
+     ],
+     "e": "y'all will be found",
+     "g": "εὑρεθήσεσθε",
+     "l": 16,
+     "ph": "hyoo-reh-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be found"
+     ],
+     "e": "they will be found",
+     "g": "εὑρεθήσονται",
+     "l": 16,
+     "ph": "hyoo-reh-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -2384,6 +3275,333 @@
      "ph": "eh-KREE-non-to",
      "pn": "3p",
      "t": "imp"
+    },
+    {
+     "a": [
+      "I have judged"
+     ],
+     "e": "I have judged",
+     "g": "κέκρικα",
+     "l": 15,
+     "ph": "KEH-kree-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have judged"
+     ],
+     "e": "you have judged",
+     "g": "κέκρικας",
+     "l": 15,
+     "ph": "KEH-kree-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has judged",
+      "she has judged",
+      "it has judged"
+     ],
+     "e": "he/she/it has judged",
+     "g": "κέκρικεν",
+     "l": 15,
+     "ph": "KEH-kree-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have judged"
+     ],
+     "e": "we have judged",
+     "g": "κεκρίκαμεν",
+     "l": 15,
+     "ph": "keh-KREE-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have judged",
+      "you all have judged"
+     ],
+     "e": "y'all have judged",
+     "g": "κεκρίκατε",
+     "l": 15,
+     "ph": "keh-KREE-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have judged"
+     ],
+     "e": "they have judged",
+     "g": "κεκρίκασιν",
+     "l": 15,
+     "ph": "keh-KREE-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I have been judged",
+      "I am judged",
+      "I have judged for myself",
+      "I have judged myself"
+     ],
+     "e": "I have been judged / I have judged for myself",
+     "g": "κέκριμαι",
+     "l": 15,
+     "ph": "KEH-kree-mai",
+     "pn": "1s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "you have been judged",
+      "you are judged",
+      "you have judged for yourself",
+      "you have judged yourself"
+     ],
+     "e": "you have been judged / you have judged for yourself",
+     "g": "κέκρισαι",
+     "l": 15,
+     "ph": "KEH-kree-sai",
+     "pn": "2s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "he has been judged",
+      "she has been judged",
+      "it has been judged",
+      "he is judged",
+      "she is judged",
+      "it is judged",
+      "he has judged for himself",
+      "she has judged for herself",
+      "it has judged for itself",
+      "he has judged himself",
+      "she has judged herself",
+      "it has judged itself"
+     ],
+     "e": "he/she/it has been judged / he/she/it has judged for himself/herself/itself",
+     "g": "κέκριται",
+     "l": 15,
+     "ph": "KEH-kree-tai",
+     "pn": "3s",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "we have been judged",
+      "we are judged",
+      "we have judged for ourselves",
+      "we have judged ourselves"
+     ],
+     "e": "we have been judged / we have judged for ourselves",
+     "g": "κεκρίμεθα",
+     "l": 15,
+     "ph": "keh-KREE-meh-thah",
+     "pn": "1p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "y'all have been judged",
+      "you all have been judged",
+      "y'all are judged",
+      "you all are judged",
+      "y'all have judged for yourselves",
+      "you all have judged for yourselves",
+      "y'all have judged yourselves",
+      "you all have judged yourselves"
+     ],
+     "e": "y'all have been judged / y'all have judged for yourselves",
+     "g": "κέκρισθε",
+     "l": 15,
+     "ph": "KEH-kree-stheh",
+     "pn": "2p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "they have been judged",
+      "they are judged",
+      "they have judged for themselves",
+      "they have judged themselves"
+     ],
+     "e": "they have been judged / they have judged for themselves",
+     "g": "κέκρινται",
+     "l": 15,
+     "ph": "KEH-kreen-tai",
+     "pn": "3p",
+     "t": "xm",
+     "tl": "perfect middle/passive"
+    },
+    {
+     "a": [
+      "I was judged"
+     ],
+     "e": "I was judged",
+     "g": "ἐκρίθην",
+     "l": 16,
+     "ph": "eh-KREE-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were judged"
+     ],
+     "e": "you were judged",
+     "g": "ἐκρίθης",
+     "l": 16,
+     "ph": "eh-KREE-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was judged",
+      "she was judged",
+      "it was judged"
+     ],
+     "e": "he/she/it was judged",
+     "g": "ἐκρίθη",
+     "l": 16,
+     "ph": "eh-KREE-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were judged"
+     ],
+     "e": "we were judged",
+     "g": "ἐκρίθημεν",
+     "l": 16,
+     "ph": "eh-KREE-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were judged",
+      "you all were judged"
+     ],
+     "e": "y'all were judged",
+     "g": "ἐκρίθητε",
+     "l": 16,
+     "ph": "eh-KREE-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were judged"
+     ],
+     "e": "they were judged",
+     "g": "ἐκρίθησαν",
+     "l": 16,
+     "ph": "eh-KREE-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be judged"
+     ],
+     "e": "I will be judged",
+     "g": "κριθήσομαι",
+     "l": 16,
+     "ph": "kree-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be judged"
+     ],
+     "e": "you will be judged",
+     "g": "κριθήσῃ",
+     "l": 16,
+     "ph": "kree-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be judged",
+      "she will be judged",
+      "it will be judged"
+     ],
+     "e": "he/she/it will be judged",
+     "g": "κριθήσεται",
+     "l": 16,
+     "ph": "kree-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be judged"
+     ],
+     "e": "we will be judged",
+     "g": "κριθησόμεθα",
+     "l": 16,
+     "ph": "kree-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be judged",
+      "you all will be judged"
+     ],
+     "e": "y'all will be judged",
+     "g": "κριθήσεσθε",
+     "l": 16,
+     "ph": "kree-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be judged"
+     ],
+     "e": "they will be judged",
+     "g": "κριθήσονται",
+     "l": 16,
+     "ph": "kree-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },

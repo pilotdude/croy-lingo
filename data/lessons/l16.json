@@ -463,6 +463,156 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I was cast out"
+     ],
+     "e": "I was cast out",
+     "g": "ἐξεβλήθην",
+     "l": 16,
+     "ph": "eh-kseh-BLAY-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were cast out"
+     ],
+     "e": "you were cast out",
+     "g": "ἐξεβλήθης",
+     "l": 16,
+     "ph": "eh-kseh-BLAY-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was cast out",
+      "she was cast out",
+      "it was cast out"
+     ],
+     "e": "he/she/it was cast out",
+     "g": "ἐξεβλήθη",
+     "l": 16,
+     "ph": "eh-kseh-BLAY-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were cast out"
+     ],
+     "e": "we were cast out",
+     "g": "ἐξεβλήθημεν",
+     "l": 16,
+     "ph": "eh-kseh-BLAY-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were cast out",
+      "you all were cast out"
+     ],
+     "e": "y'all were cast out",
+     "g": "ἐξεβλήθητε",
+     "l": 16,
+     "ph": "eh-kseh-BLAY-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were cast out"
+     ],
+     "e": "they were cast out",
+     "g": "ἐξεβλήθησαν",
+     "l": 16,
+     "ph": "eh-kseh-BLAY-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be cast out"
+     ],
+     "e": "I will be cast out",
+     "g": "ἐκβληθήσομαι",
+     "l": 16,
+     "ph": "ehk-blay-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be cast out"
+     ],
+     "e": "you will be cast out",
+     "g": "ἐκβληθήσῃ",
+     "l": 16,
+     "ph": "ehk-blay-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be cast out",
+      "she will be cast out",
+      "it will be cast out"
+     ],
+     "e": "he/she/it will be cast out",
+     "g": "ἐκβληθήσεται",
+     "l": 16,
+     "ph": "ehk-blay-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be cast out"
+     ],
+     "e": "we will be cast out",
+     "g": "ἐκβληθησόμεθα",
+     "l": 16,
+     "ph": "ehk-blay-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be cast out",
+      "you all will be cast out"
+     ],
+     "e": "y'all will be cast out",
+     "g": "ἐκβληθήσεσθε",
+     "l": 16,
+     "ph": "ehk-blay-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be cast out"
+     ],
+     "e": "they will be cast out",
+     "g": "ἐκβληθήσονται",
+     "l": 16,
+     "ph": "ehk-blay-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },

@@ -252,6 +252,81 @@
      "pn": "3p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have drawn near"
+     ],
+     "e": "I have drawn near",
+     "g": "ἤγγικα",
+     "l": 15,
+     "ph": "AYN-gee-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have drawn near"
+     ],
+     "e": "you have drawn near",
+     "g": "ἤγγικας",
+     "l": 15,
+     "ph": "AYN-gee-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has drawn near",
+      "she has drawn near",
+      "it has drawn near"
+     ],
+     "e": "he/she/it has drawn near",
+     "g": "ἤγγικεν",
+     "l": 15,
+     "ph": "AYN-gee-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have drawn near"
+     ],
+     "e": "we have drawn near",
+     "g": "ἠγγίκαμεν",
+     "l": 15,
+     "ph": "ayn-GEE-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have drawn near",
+      "you all have drawn near"
+     ],
+     "e": "y'all have drawn near",
+     "g": "ἠγγίκατε",
+     "l": 15,
+     "ph": "ayn-GEE-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have drawn near"
+     ],
+     "e": "they have drawn near",
+     "g": "ἠγγίκασιν",
+     "l": 15,
+     "ph": "ayn-GEE-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },

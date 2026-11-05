@@ -572,6 +572,156 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I was led"
+     ],
+     "e": "I was led",
+     "g": "ἤχθην",
+     "l": 16,
+     "ph": "AY-khthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were led"
+     ],
+     "e": "you were led",
+     "g": "ἤχθης",
+     "l": 16,
+     "ph": "AY-khthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was led",
+      "she was led",
+      "it was led"
+     ],
+     "e": "he/she/it was led",
+     "g": "ἤχθη",
+     "l": 16,
+     "ph": "AY-khthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were led"
+     ],
+     "e": "we were led",
+     "g": "ἤχθημεν",
+     "l": 16,
+     "ph": "AY-khthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were led",
+      "you all were led"
+     ],
+     "e": "y'all were led",
+     "g": "ἤχθητε",
+     "l": 16,
+     "ph": "AY-khthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were led"
+     ],
+     "e": "they were led",
+     "g": "ἤχθησαν",
+     "l": 16,
+     "ph": "AY-khthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be led"
+     ],
+     "e": "I will be led",
+     "g": "ἀχθήσομαι",
+     "l": 16,
+     "ph": "ah-KHTHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be led"
+     ],
+     "e": "you will be led",
+     "g": "ἀχθήσῃ",
+     "l": 16,
+     "ph": "ah-KHTHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be led",
+      "she will be led",
+      "it will be led"
+     ],
+     "e": "he/she/it will be led",
+     "g": "ἀχθήσεται",
+     "l": 16,
+     "ph": "ah-KHTHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be led"
+     ],
+     "e": "we will be led",
+     "g": "ἀχθησόμεθα",
+     "l": 16,
+     "ph": "ah-khthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be led",
+      "you all will be led"
+     ],
+     "e": "y'all will be led",
+     "g": "ἀχθήσεσθε",
+     "l": 16,
+     "ph": "ah-KHTHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be led"
+     ],
+     "e": "they will be led",
+     "g": "ἀχθήσονται",
+     "l": 16,
+     "ph": "ah-KHTHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -1138,6 +1288,285 @@
      "ph": "AY-ron-to",
      "pn": "3p",
      "t": "imp"
+    },
+    {
+     "a": [
+      "I have taken up",
+      "I have taken away",
+      "I have lifted up"
+     ],
+     "e": "I have taken up",
+     "g": "ἦρκα",
+     "l": 15,
+     "ph": "AYR-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have taken up",
+      "you have taken away",
+      "you have lifted up"
+     ],
+     "e": "you have taken up",
+     "g": "ἦρκας",
+     "l": 15,
+     "ph": "AYR-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has taken up",
+      "she has taken up",
+      "it has taken up",
+      "he has taken away",
+      "she has taken away",
+      "it has taken away",
+      "he has lifted up",
+      "she has lifted up",
+      "it has lifted up"
+     ],
+     "e": "he/she/it has taken up",
+     "g": "ἦρκεν",
+     "l": 15,
+     "ph": "AYR-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have taken up",
+      "we have taken away",
+      "we have lifted up"
+     ],
+     "e": "we have taken up",
+     "g": "ἤρκαμεν",
+     "l": 15,
+     "ph": "AYR-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have taken up",
+      "you all have taken up",
+      "y'all have taken away",
+      "you all have taken away",
+      "y'all have lifted up",
+      "you all have lifted up"
+     ],
+     "e": "y'all have taken up",
+     "g": "ἤρκατε",
+     "l": 15,
+     "ph": "AYR-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have taken up",
+      "they have taken away",
+      "they have lifted up"
+     ],
+     "e": "they have taken up",
+     "g": "ἤρκασιν",
+     "l": 15,
+     "ph": "AYR-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I was taken up",
+      "I was taken away",
+      "I was lifted up"
+     ],
+     "e": "I was taken up",
+     "g": "ἤρθην",
+     "l": 16,
+     "ph": "AYR-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were taken up",
+      "you were taken away",
+      "you were lifted up"
+     ],
+     "e": "you were taken up",
+     "g": "ἤρθης",
+     "l": 16,
+     "ph": "AYR-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was taken up",
+      "she was taken up",
+      "it was taken up",
+      "he was taken away",
+      "she was taken away",
+      "it was taken away",
+      "he was lifted up",
+      "she was lifted up",
+      "it was lifted up"
+     ],
+     "e": "he/she/it was taken up",
+     "g": "ἤρθη",
+     "l": 16,
+     "ph": "AYR-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were taken up",
+      "we were taken away",
+      "we were lifted up"
+     ],
+     "e": "we were taken up",
+     "g": "ἤρθημεν",
+     "l": 16,
+     "ph": "AYR-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were taken up",
+      "you all were taken up",
+      "y'all were taken away",
+      "you all were taken away",
+      "y'all were lifted up",
+      "you all were lifted up"
+     ],
+     "e": "y'all were taken up",
+     "g": "ἤρθητε",
+     "l": 16,
+     "ph": "AYR-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were taken up",
+      "they were taken away",
+      "they were lifted up"
+     ],
+     "e": "they were taken up",
+     "g": "ἤρθησαν",
+     "l": 16,
+     "ph": "AYR-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be taken up",
+      "I will be taken away",
+      "I will be lifted up"
+     ],
+     "e": "I will be taken up",
+     "g": "ἀρθήσομαι",
+     "l": 16,
+     "ph": "ahr-THAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be taken up",
+      "you will be taken away",
+      "you will be lifted up"
+     ],
+     "e": "you will be taken up",
+     "g": "ἀρθήσῃ",
+     "l": 16,
+     "ph": "ahr-THAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be taken up",
+      "she will be taken up",
+      "it will be taken up",
+      "he will be taken away",
+      "she will be taken away",
+      "it will be taken away",
+      "he will be lifted up",
+      "she will be lifted up",
+      "it will be lifted up"
+     ],
+     "e": "he/she/it will be taken up",
+     "g": "ἀρθήσεται",
+     "l": 16,
+     "ph": "ahr-THAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be taken up",
+      "we will be taken away",
+      "we will be lifted up"
+     ],
+     "e": "we will be taken up",
+     "g": "ἀρθησόμεθα",
+     "l": 16,
+     "ph": "ahr-thay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be taken up",
+      "you all will be taken up",
+      "y'all will be taken away",
+      "you all will be taken away",
+      "y'all will be lifted up",
+      "you all will be lifted up"
+     ],
+     "e": "y'all will be taken up",
+     "g": "ἀρθήσεσθε",
+     "l": 16,
+     "ph": "ahr-THAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be taken up",
+      "they will be taken away",
+      "they will be lifted up"
+     ],
+     "e": "they will be taken up",
+     "g": "ἀρθήσονται",
+     "l": 16,
+     "ph": "ahr-THAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },
@@ -1371,6 +1800,81 @@
      "pn": "3p",
      "t": "fm",
      "tl": "future middle"
+    },
+    {
+     "a": [
+      "I have gone up"
+     ],
+     "e": "I have gone up",
+     "g": "ἀναβέβηκα",
+     "l": 15,
+     "ph": "ah-nah-BEH-bay-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have gone up"
+     ],
+     "e": "you have gone up",
+     "g": "ἀναβέβηκας",
+     "l": 15,
+     "ph": "ah-nah-BEH-bay-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has gone up",
+      "she has gone up",
+      "it has gone up"
+     ],
+     "e": "he/she/it has gone up",
+     "g": "ἀναβέβηκεν",
+     "l": 15,
+     "ph": "ah-nah-BEH-bay-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have gone up"
+     ],
+     "e": "we have gone up",
+     "g": "ἀναβεβήκαμεν",
+     "l": 15,
+     "ph": "ah-nah-beh-BAY-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have gone up",
+      "you all have gone up"
+     ],
+     "e": "y'all have gone up",
+     "g": "ἀναβεβήκατε",
+     "l": 15,
+     "ph": "ah-nah-beh-BAY-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have gone up"
+     ],
+     "e": "they have gone up",
+     "g": "ἀναβεβήκασιν",
+     "l": 15,
+     "ph": "ah-nah-beh-BAY-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -1786,6 +2290,99 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have departed",
+      "I have gone away",
+      "I have gone"
+     ],
+     "e": "I have departed",
+     "g": "ἀπελήλυθα",
+     "l": 15,
+     "ph": "ah-peh-LAY-lü-thah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have departed",
+      "you have gone away",
+      "you have gone"
+     ],
+     "e": "you have departed",
+     "g": "ἀπελήλυθας",
+     "l": 15,
+     "ph": "ah-peh-LAY-lü-thahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has departed",
+      "she has departed",
+      "it has departed",
+      "he has gone away",
+      "she has gone away",
+      "it has gone away",
+      "he has gone",
+      "she has gone",
+      "it has gone"
+     ],
+     "e": "he/she/it has departed",
+     "g": "ἀπελήλυθεν",
+     "l": 15,
+     "ph": "ah-peh-LAY-lü-thehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have departed",
+      "we have gone away",
+      "we have gone"
+     ],
+     "e": "we have departed",
+     "g": "ἀπεληλύθαμεν",
+     "l": 15,
+     "ph": "ah-peh-lay-LÜ-thah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have departed",
+      "you all have departed",
+      "y'all have gone away",
+      "you all have gone away",
+      "y'all have gone",
+      "you all have gone"
+     ],
+     "e": "y'all have departed",
+     "g": "ἀπεληλύθατε",
+     "l": 15,
+     "ph": "ah-peh-lay-LÜ-thah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have departed",
+      "they have gone away",
+      "they have gone"
+     ],
+     "e": "they have departed",
+     "g": "ἀπεληλύθασιν",
+     "l": 15,
+     "ph": "ah-peh-lay-LÜ-thah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -2008,6 +2605,81 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have died"
+     ],
+     "e": "I have died",
+     "g": "τέθνηκα",
+     "l": 15,
+     "ph": "TEH-thnay-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have died"
+     ],
+     "e": "you have died",
+     "g": "τέθνηκας",
+     "l": 15,
+     "ph": "TEH-thnay-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has died",
+      "she has died",
+      "it has died"
+     ],
+     "e": "he/she/it has died",
+     "g": "τέθνηκεν",
+     "l": 15,
+     "ph": "TEH-thnay-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have died"
+     ],
+     "e": "we have died",
+     "g": "τεθνήκαμεν",
+     "l": 15,
+     "ph": "teh-THNAY-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have died",
+      "you all have died"
+     ],
+     "e": "y'all have died",
+     "g": "τεθνήκατε",
+     "l": 15,
+     "ph": "teh-THNAY-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have died"
+     ],
+     "e": "they have died",
+     "g": "τεθνήκασιν",
+     "l": 15,
+     "ph": "teh-THNAY-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -2358,6 +3030,81 @@
      "ph": "ah-peh-KTAY-non-to",
      "pn": "3p",
      "t": "imp"
+    },
+    {
+     "a": [
+      "I was killed"
+     ],
+     "e": "I was killed",
+     "g": "ἀπεκτάνθην",
+     "l": 16,
+     "ph": "ah-peh-KTAHN-thayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were killed"
+     ],
+     "e": "you were killed",
+     "g": "ἀπεκτάνθης",
+     "l": 16,
+     "ph": "ah-peh-KTAHN-thays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was killed",
+      "she was killed",
+      "it was killed"
+     ],
+     "e": "he/she/it was killed",
+     "g": "ἀπεκτάνθη",
+     "l": 16,
+     "ph": "ah-peh-KTAHN-thay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were killed"
+     ],
+     "e": "we were killed",
+     "g": "ἀπεκτάνθημεν",
+     "l": 16,
+     "ph": "ah-peh-KTAHN-thay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were killed",
+      "you all were killed"
+     ],
+     "e": "y'all were killed",
+     "g": "ἀπεκτάνθητε",
+     "l": 16,
+     "ph": "ah-peh-KTAHN-thay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were killed"
+     ],
+     "e": "they were killed",
+     "g": "ἀπεκτάνθησαν",
+     "l": 16,
+     "ph": "ah-peh-KTAHN-thay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
@@ -2631,6 +3378,81 @@
      "pn": "3p",
      "t": "fm",
      "tl": "future middle"
+    },
+    {
+     "a": [
+      "I have gone down"
+     ],
+     "e": "I have gone down",
+     "g": "καταβέβηκα",
+     "l": 15,
+     "ph": "kah-tah-BEH-bay-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have gone down"
+     ],
+     "e": "you have gone down",
+     "g": "καταβέβηκας",
+     "l": 15,
+     "ph": "kah-tah-BEH-bay-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has gone down",
+      "she has gone down",
+      "it has gone down"
+     ],
+     "e": "he/she/it has gone down",
+     "g": "καταβέβηκεν",
+     "l": 15,
+     "ph": "kah-tah-BEH-bay-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have gone down"
+     ],
+     "e": "we have gone down",
+     "g": "καταβεβήκαμεν",
+     "l": 15,
+     "ph": "kah-tah-beh-BAY-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have gone down",
+      "you all have gone down"
+     ],
+     "e": "y'all have gone down",
+     "g": "καταβεβήκατε",
+     "l": 15,
+     "ph": "kah-tah-beh-BAY-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have gone down"
+     ],
+     "e": "they have gone down",
+     "g": "καταβεβήκασιν",
+     "l": 15,
+     "ph": "kah-tah-beh-BAY-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },
@@ -3907,6 +4729,174 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I was gathered together",
+      "I was gathered"
+     ],
+     "e": "I was gathered together",
+     "g": "συνήχθην",
+     "l": 16,
+     "ph": "sü-NAY-khthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were gathered together",
+      "you were gathered"
+     ],
+     "e": "you were gathered together",
+     "g": "συνήχθης",
+     "l": 16,
+     "ph": "sü-NAY-khthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was gathered together",
+      "she was gathered together",
+      "it was gathered together",
+      "he was gathered",
+      "she was gathered",
+      "it was gathered"
+     ],
+     "e": "he/she/it was gathered together",
+     "g": "συνήχθη",
+     "l": 16,
+     "ph": "sü-NAY-khthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were gathered together",
+      "we were gathered"
+     ],
+     "e": "we were gathered together",
+     "g": "συνήχθημεν",
+     "l": 16,
+     "ph": "sü-NAY-khthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were gathered together",
+      "you all were gathered together",
+      "y'all were gathered",
+      "you all were gathered"
+     ],
+     "e": "y'all were gathered together",
+     "g": "συνήχθητε",
+     "l": 16,
+     "ph": "sü-NAY-khthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were gathered together",
+      "they were gathered"
+     ],
+     "e": "they were gathered together",
+     "g": "συνήχθησαν",
+     "l": 16,
+     "ph": "sü-NAY-khthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "I will be gathered together",
+      "I will be gathered"
+     ],
+     "e": "I will be gathered together",
+     "g": "συναχθήσομαι",
+     "l": 16,
+     "ph": "sü-nah-KHTHAY-so-mai",
+     "pn": "1s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "you will be gathered together",
+      "you will be gathered"
+     ],
+     "e": "you will be gathered together",
+     "g": "συναχθήσῃ",
+     "l": 16,
+     "ph": "sü-nah-KHTHAY-say",
+     "pn": "2s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "he will be gathered together",
+      "she will be gathered together",
+      "it will be gathered together",
+      "he will be gathered",
+      "she will be gathered",
+      "it will be gathered"
+     ],
+     "e": "he/she/it will be gathered together",
+     "g": "συναχθήσεται",
+     "l": 16,
+     "ph": "sü-nah-KHTHAY-seh-tai",
+     "pn": "3s",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "we will be gathered together",
+      "we will be gathered"
+     ],
+     "e": "we will be gathered together",
+     "g": "συναχθησόμεθα",
+     "l": 16,
+     "ph": "sü-nah-khthay-SO-meh-thah",
+     "pn": "1p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "y'all will be gathered together",
+      "you all will be gathered together",
+      "y'all will be gathered",
+      "you all will be gathered"
+     ],
+     "e": "y'all will be gathered together",
+     "g": "συναχθήσεσθε",
+     "l": 16,
+     "ph": "sü-nah-KHTHAY-seh-stheh",
+     "pn": "2p",
+     "t": "fp",
+     "tl": "future passive"
+    },
+    {
+     "a": [
+      "they will be gathered together",
+      "they will be gathered"
+     ],
+     "e": "they will be gathered together",
+     "g": "συναχθήσονται",
+     "l": 16,
+     "ph": "sü-nah-KHTHAY-son-tai",
+     "pn": "3p",
+     "t": "fp",
+     "tl": "future passive"
     }
    ]
   },

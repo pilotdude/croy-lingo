@@ -416,6 +416,81 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have had"
+     ],
+     "e": "I have had",
+     "g": "ἔσχηκα",
+     "l": 15,
+     "ph": "EH-skhay-kah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have had"
+     ],
+     "e": "you have had",
+     "g": "ἔσχηκας",
+     "l": 15,
+     "ph": "EH-skhay-kahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has had",
+      "she has had",
+      "it has had"
+     ],
+     "e": "he/she/it has had",
+     "g": "ἔσχηκεν",
+     "l": 15,
+     "ph": "EH-skhay-kehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have had"
+     ],
+     "e": "we have had",
+     "g": "ἐσχήκαμεν",
+     "l": 15,
+     "ph": "eh-SKHAY-kah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have had",
+      "you all have had"
+     ],
+     "e": "y'all have had",
+     "g": "ἐσχήκατε",
+     "l": 15,
+     "ph": "eh-SKHAY-kah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have had"
+     ],
+     "e": "they have had",
+     "g": "ἐσχήκασιν",
+     "l": 15,
+     "ph": "eh-SKHAY-kah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
     }
    ]
   },

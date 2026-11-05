@@ -684,6 +684,174 @@
      "pn": "2p",
      "t": "aa",
      "tl": "aorist active"
+    },
+    {
+     "a": [
+      "I have taken",
+      "I have received"
+     ],
+     "e": "I have taken",
+     "g": "εἴληφα",
+     "l": 15,
+     "ph": "AY-lay-fah",
+     "pn": "1s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "you have taken",
+      "you have received"
+     ],
+     "e": "you have taken",
+     "g": "εἴληφας",
+     "l": 15,
+     "ph": "AY-lay-fahs",
+     "pn": "2s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "he has taken",
+      "she has taken",
+      "it has taken",
+      "he has received",
+      "she has received",
+      "it has received"
+     ],
+     "e": "he/she/it has taken",
+     "g": "εἴληφεν",
+     "l": 15,
+     "ph": "AY-lay-fehn",
+     "pn": "3s",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "we have taken",
+      "we have received"
+     ],
+     "e": "we have taken",
+     "g": "εἰλήφαμεν",
+     "l": 15,
+     "ph": "ay-LAY-fah-mehn",
+     "pn": "1p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "y'all have taken",
+      "you all have taken",
+      "y'all have received",
+      "you all have received"
+     ],
+     "e": "y'all have taken",
+     "g": "εἰλήφατε",
+     "l": 15,
+     "ph": "ay-LAY-fah-teh",
+     "pn": "2p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "they have taken",
+      "they have received"
+     ],
+     "e": "they have taken",
+     "g": "εἰλήφασιν",
+     "l": 15,
+     "ph": "ay-LAY-fah-seen",
+     "pn": "3p",
+     "t": "xa",
+     "tl": "perfect active"
+    },
+    {
+     "a": [
+      "I was taken",
+      "I was received"
+     ],
+     "e": "I was taken",
+     "g": "ἐλήμφθην",
+     "l": 16,
+     "ph": "eh-LAYM-fthayn",
+     "pn": "1s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "you were taken",
+      "you were received"
+     ],
+     "e": "you were taken",
+     "g": "ἐλήμφθης",
+     "l": 16,
+     "ph": "eh-LAYM-fthays",
+     "pn": "2s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "he was taken",
+      "she was taken",
+      "it was taken",
+      "he was received",
+      "she was received",
+      "it was received"
+     ],
+     "e": "he/she/it was taken",
+     "g": "ἐλήμφθη",
+     "l": 16,
+     "ph": "eh-LAYM-fthay",
+     "pn": "3s",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "we were taken",
+      "we were received"
+     ],
+     "e": "we were taken",
+     "g": "ἐλήμφθημεν",
+     "l": 16,
+     "ph": "eh-LAYM-fthay-mehn",
+     "pn": "1p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "y'all were taken",
+      "you all were taken",
+      "y'all were received",
+      "you all were received"
+     ],
+     "e": "y'all were taken",
+     "g": "ἐλήμφθητε",
+     "l": 16,
+     "ph": "eh-LAYM-fthay-teh",
+     "pn": "2p",
+     "t": "ap",
+     "tl": "aorist passive"
+    },
+    {
+     "a": [
+      "they were taken",
+      "they were received"
+     ],
+     "e": "they were taken",
+     "g": "ἐλήμφθησαν",
+     "l": 16,
+     "ph": "eh-LAYM-fthay-sahn",
+     "pn": "3p",
+     "t": "ap",
+     "tl": "aorist passive"
     }
    ]
   },
