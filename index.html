@@ -1520,8 +1520,9 @@ const LOCALDB = (function(){
   });
   return { doc,
     collection(name){ return { onSnapshot(next, fail){
-      fetch("data/lessons/index.json").then(r=>{ if(!r.ok) throw new Error("index"); return r.json(); })
-        .then(ix=>Promise.all(ix.files.map(f=>fetch("data/lessons/"+f).then(r=>{ if(!r.ok) throw new Error(f); return r.json(); }))))
+      // always a fresh lesson list (a new lesson appears on the next load); lesson files are checked for changes each time
+      fetch("data/lessons/index.json?t="+Date.now(), {cache:"no-store"}).then(r=>{ if(!r.ok) throw new Error("index"); return r.json(); })
+        .then(ix=>Promise.all(ix.files.map(f=>fetch("data/lessons/"+f, {cache:"no-cache"}).then(r=>{ if(!r.ok) throw new Error(f); return r.json(); }))))
         .then(list=>next({docs:list.map(d=>({data:()=>d}))}))
         .catch(e=>{ if(fail) fail(e); });
       return ()=>{}; } }; } };
@@ -1594,12 +1595,22 @@ const FIREDB = (function(){
 })();
 
 /* ---------- boot ---------- */
+// A lesson this person has never seen is ticked the first time it appears; lessons they untick later stay unticked.
+// prefs.seen lists the lessons already seen. Profiles saved before v37 have none: lessons 2-16 count as seen for them.
+const SEEN_BEFORE = 16;
 function applyLessons(docs){
   lessons = docs.map(d=>d.data()).filter(d=>d && typeof d.n==="number").sort((a,b)=>a.n-b.n);
   rebuild();
-  const valid = new Set(lessons.filter(L=>(L.words||[]).length).map(L=>L.n));
-  if(!applyLessons.init){ sel = new Set((progress.prefs.sel||Array.from(valid)).filter(n=>valid.has(n))); applyLessons.init = true; }
+  const valid = new Set(lessons.filter(L=>(L.words||[]).length).map(L=>L.n)), pr = progress.prefs;
+  const had = Array.isArray(pr.seen) ? pr.seen : Array.from(valid).filter(n=>n<=SEEN_BEFORE), seen = new Set(had);
+  const fresh = Array.from(valid).filter(n=>!seen.has(n));
+  const saved = !!pr.sel;                                               // this person has a saved selection
+  if(!applyLessons.init){ sel = new Set((pr.sel||Array.from(valid)).filter(n=>valid.has(n))); applyLessons.init = true; }
   else sel = new Set(Array.from(sel).filter(n=>valid.has(n)));
+  fresh.forEach(n=>sel.add(n));
+  valid.forEach(n=>seen.add(n));
+  const all = Array.from(seen).sort((a,b)=>a-b);
+  if(!Array.isArray(pr.seen) || all.length!==pr.seen.length){ pr.seen = all; if(saved && fresh.length) persistSel(); }
 }
 async function boot(){
   render();
