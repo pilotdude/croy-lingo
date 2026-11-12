@@ -4,6 +4,7 @@
  "words": [
   {
    "c": "",
+   "d": 1,
    "e": "sister",
    "f": {
     "acc": "τὴν ἀδελφήν",
@@ -19,11 +20,134 @@
    "gen": "",
    "id": "3:ἀδελφή",
    "m": "related to ἀδελφός (brother, L4) — same root, female form",
+   "nf": [
+    {
+     "a": [
+      "the sister"
+     ],
+     "ab": [
+      "sister"
+     ],
+     "b": "ἀδελφή",
+     "cn": "ns",
+     "e": "the sister",
+     "g": "ἡ ἀδελφή",
+     "l": 3,
+     "ph": "hay ah-dehl-FAY"
+    },
+    {
+     "a": [
+      "of the sister"
+     ],
+     "ab": [
+      "sister"
+     ],
+     "b": "ἀδελφῆς",
+     "cn": "gs",
+     "e": "of the sister",
+     "g": "τῆς ἀδελφῆς",
+     "l": 3,
+     "ph": "tays ah-dehl-FAYS"
+    },
+    {
+     "a": [
+      "to the sister",
+      "for the sister",
+      "in the sister",
+      "by the sister",
+      "with the sister"
+     ],
+     "ab": [
+      "sister"
+     ],
+     "b": "ἀδελφῇ",
+     "cn": "ds",
+     "e": "to/for the sister",
+     "g": "τῇ ἀδελφῇ",
+     "l": 3,
+     "ph": "tay ah-dehl-FAY"
+    },
+    {
+     "a": [
+      "the sister"
+     ],
+     "ab": [
+      "sister"
+     ],
+     "b": "ἀδελφήν",
+     "cn": "as",
+     "e": "the sister",
+     "g": "τὴν ἀδελφήν",
+     "l": 3,
+     "ph": "tayn ah-dehl-FAYN"
+    },
+    {
+     "a": [
+      "the sisters"
+     ],
+     "ab": [
+      "sisters"
+     ],
+     "b": "ἀδελφαί",
+     "cn": "np",
+     "e": "the sisters",
+     "g": "αἱ ἀδελφαί",
+     "l": 3,
+     "ph": "hai ah-dehl-FAI"
+    },
+    {
+     "a": [
+      "of the sisters"
+     ],
+     "ab": [
+      "sisters"
+     ],
+     "b": "ἀδελφῶν",
+     "cn": "gp",
+     "e": "of the sisters",
+     "g": "τῶν ἀδελφῶν",
+     "l": 3,
+     "ph": "tohn ah-dehl-FOHN"
+    },
+    {
+     "a": [
+      "to the sisters",
+      "for the sisters",
+      "in the sisters",
+      "by the sisters",
+      "with the sisters"
+     ],
+     "ab": [
+      "sisters"
+     ],
+     "b": "ἀδελφαῖς",
+     "cn": "dp",
+     "e": "to/for the sisters",
+     "g": "ταῖς ἀδελφαῖς",
+     "l": 3,
+     "ph": "tais ah-dehl-FAIS"
+    },
+    {
+     "a": [
+      "the sisters"
+     ],
+     "ab": [
+      "sisters"
+     ],
+     "b": "ἀδελφάς",
+     "cn": "ap",
+     "e": "the sisters",
+     "g": "τὰς ἀδελφάς",
+     "l": 3,
+     "ph": "tahs ah-dehl-FAHS"
+    }
+   ],
    "p": "noun",
    "ph": "ah-dehl-FAY"
   },
   {
    "c": "",
+   "d": 1,
    "e": "truth",
    "f": {
     "acc": "τὴν ἀλήθειαν",
@@ -39,11 +163,134 @@
    "gen": "",
    "id": "3:ἀλήθεια",
    "m": "\"aletheia\" is literally the philosophical term for *truth* (unconcealment)",
+   "nf": [
+    {
+     "a": [
+      "the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀλήθεια",
+     "cn": "ns",
+     "e": "the truth",
+     "g": "ἡ ἀλήθεια",
+     "l": 3,
+     "ph": "hay ah-LAY-thay-ah"
+    },
+    {
+     "a": [
+      "of the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀληθείας",
+     "cn": "gs",
+     "e": "of the truth",
+     "g": "τῆς ἀληθείας",
+     "l": 3,
+     "ph": "tays ah-lay-THAY-ahs"
+    },
+    {
+     "a": [
+      "to the truth",
+      "for the truth",
+      "in the truth",
+      "by the truth",
+      "with the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀληθείᾳ",
+     "cn": "ds",
+     "e": "to/for the truth",
+     "g": "τῇ ἀληθείᾳ",
+     "l": 3,
+     "ph": "tay ah-lay-THAY-ah"
+    },
+    {
+     "a": [
+      "the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀλήθειαν",
+     "cn": "as",
+     "e": "the truth",
+     "g": "τὴν ἀλήθειαν",
+     "l": 3,
+     "ph": "tayn ah-LAY-thay-ahn"
+    },
+    {
+     "a": [
+      "the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀλήθειαι",
+     "cn": "np",
+     "e": "the truth",
+     "g": "αἱ ἀλήθειαι",
+     "l": 3,
+     "ph": "hai ah-LAY-thay-ai"
+    },
+    {
+     "a": [
+      "of the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀληθειῶν",
+     "cn": "gp",
+     "e": "of the truth",
+     "g": "τῶν ἀληθειῶν",
+     "l": 3,
+     "ph": "tohn ah-lay-thay-OHN"
+    },
+    {
+     "a": [
+      "to the truth",
+      "for the truth",
+      "in the truth",
+      "by the truth",
+      "with the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀληθείαις",
+     "cn": "dp",
+     "e": "to/for the truth",
+     "g": "ταῖς ἀληθείαις",
+     "l": 3,
+     "ph": "tais ah-lay-THAY-ais"
+    },
+    {
+     "a": [
+      "the truth"
+     ],
+     "ab": [
+      "truth"
+     ],
+     "b": "ἀληθείας",
+     "cn": "ap",
+     "e": "the truth",
+     "g": "τὰς ἀληθείας",
+     "l": 3,
+     "ph": "tahs ah-lay-THAY-ahs"
+    }
+   ],
    "p": "noun",
    "ph": "ah-LAY-thay-ah"
   },
   {
    "c": "",
+   "d": 1,
    "e": "kingdom, reign, or rule",
    "f": {
     "acc": "τὴν βασιλείαν",
@@ -59,11 +306,182 @@
    "gen": "",
    "id": "3:βασιλεία",
    "m": "root of \"basilica,\" a grand royal/church building — *kingdom*",
+   "nf": [
+    {
+     "a": [
+      "the kingdom",
+      "the reign",
+      "the rule"
+     ],
+     "ab": [
+      "kingdom",
+      "reign",
+      "rule"
+     ],
+     "b": "βασιλεία",
+     "cn": "ns",
+     "e": "the kingdom",
+     "g": "ἡ βασιλεία",
+     "l": 3,
+     "ph": "hay bah-see-LAY-ah"
+    },
+    {
+     "a": [
+      "of the kingdom",
+      "of the reign",
+      "of the rule"
+     ],
+     "ab": [
+      "kingdom",
+      "reign",
+      "rule"
+     ],
+     "b": "βασιλείας",
+     "cn": "gs",
+     "e": "of the kingdom",
+     "g": "τῆς βασιλείας",
+     "l": 3,
+     "ph": "tays bah-see-LAY-ahs"
+    },
+    {
+     "a": [
+      "to the kingdom",
+      "for the kingdom",
+      "in the kingdom",
+      "by the kingdom",
+      "with the kingdom",
+      "to the reign",
+      "for the reign",
+      "in the reign",
+      "by the reign",
+      "with the reign",
+      "to the rule",
+      "for the rule",
+      "in the rule",
+      "by the rule",
+      "with the rule"
+     ],
+     "ab": [
+      "kingdom",
+      "reign",
+      "rule"
+     ],
+     "b": "βασιλείᾳ",
+     "cn": "ds",
+     "e": "to/for the kingdom",
+     "g": "τῇ βασιλείᾳ",
+     "l": 3,
+     "ph": "tay bah-see-LAY-ah"
+    },
+    {
+     "a": [
+      "the kingdom",
+      "the reign",
+      "the rule"
+     ],
+     "ab": [
+      "kingdom",
+      "reign",
+      "rule"
+     ],
+     "b": "βασιλείαν",
+     "cn": "as",
+     "e": "the kingdom",
+     "g": "τὴν βασιλείαν",
+     "l": 3,
+     "ph": "tayn bah-see-LAY-ahn"
+    },
+    {
+     "a": [
+      "the kingdoms",
+      "the reigns",
+      "the rules"
+     ],
+     "ab": [
+      "kingdoms",
+      "reigns",
+      "rules"
+     ],
+     "b": "βασιλεῖαι",
+     "cn": "np",
+     "e": "the kingdoms",
+     "g": "αἱ βασιλεῖαι",
+     "l": 3,
+     "ph": "hai bah-see-LAY-ai"
+    },
+    {
+     "a": [
+      "of the kingdoms",
+      "of the reigns",
+      "of the rules"
+     ],
+     "ab": [
+      "kingdoms",
+      "reigns",
+      "rules"
+     ],
+     "b": "βασιλειῶν",
+     "cn": "gp",
+     "e": "of the kingdoms",
+     "g": "τῶν βασιλειῶν",
+     "l": 3,
+     "ph": "tohn bah-see-lay-OHN"
+    },
+    {
+     "a": [
+      "to the kingdoms",
+      "for the kingdoms",
+      "in the kingdoms",
+      "by the kingdoms",
+      "with the kingdoms",
+      "to the reigns",
+      "for the reigns",
+      "in the reigns",
+      "by the reigns",
+      "with the reigns",
+      "to the rules",
+      "for the rules",
+      "in the rules",
+      "by the rules",
+      "with the rules"
+     ],
+     "ab": [
+      "kingdoms",
+      "reigns",
+      "rules"
+     ],
+     "b": "βασιλείαις",
+     "cn": "dp",
+     "e": "to/for the kingdoms",
+     "g": "ταῖς βασιλείαις",
+     "l": 3,
+     "ph": "tais bah-see-LAY-ais"
+    },
+    {
+     "a": [
+      "the kingdoms",
+      "the reigns",
+      "the rules"
+     ],
+     "ab": [
+      "kingdoms",
+      "reigns",
+      "rules"
+     ],
+     "b": "βασιλείας",
+     "cn": "ap",
+     "e": "the kingdoms",
+     "g": "τὰς βασιλείας",
+     "l": 3,
+     "ph": "tahs bah-see-LAY-ahs"
+    }
+   ],
    "p": "noun",
    "ph": "bah-see-LAY-ah"
   },
   {
    "c": "",
+   "d": 1,
    "e": "earth, soil, or land",
    "f": {
     "acc": "τὴν γῆν",
@@ -79,11 +497,98 @@
    "gen": "",
    "id": "3:γῆ",
    "m": "root of \"geography,\" \"geology\" — study of the *earth*",
+   "nf": [
+    {
+     "a": [
+      "the earth",
+      "the soil",
+      "the land"
+     ],
+     "ab": [
+      "earth",
+      "soil",
+      "land"
+     ],
+     "b": "γῆ",
+     "cn": "ns",
+     "e": "the earth",
+     "g": "ἡ γῆ",
+     "l": 3,
+     "ph": "hay gay"
+    },
+    {
+     "a": [
+      "of the earth",
+      "of the soil",
+      "of the land"
+     ],
+     "ab": [
+      "earth",
+      "soil",
+      "land"
+     ],
+     "b": "γῆς",
+     "cn": "gs",
+     "e": "of the earth",
+     "g": "τῆς γῆς",
+     "l": 3,
+     "ph": "tays gays"
+    },
+    {
+     "a": [
+      "to the earth",
+      "for the earth",
+      "in the earth",
+      "by the earth",
+      "with the earth",
+      "to the soil",
+      "for the soil",
+      "in the soil",
+      "by the soil",
+      "with the soil",
+      "to the land",
+      "for the land",
+      "in the land",
+      "by the land",
+      "with the land"
+     ],
+     "ab": [
+      "earth",
+      "soil",
+      "land"
+     ],
+     "b": "γῇ",
+     "cn": "ds",
+     "e": "to/for the earth",
+     "g": "τῇ γῇ",
+     "l": 3,
+     "ph": "tay gay"
+    },
+    {
+     "a": [
+      "the earth",
+      "the soil",
+      "the land"
+     ],
+     "ab": [
+      "earth",
+      "soil",
+      "land"
+     ],
+     "b": "γῆν",
+     "cn": "as",
+     "e": "the earth",
+     "g": "τὴν γῆν",
+     "l": 3,
+     "ph": "tayn gayn"
+    }
+   ],
    "p": "noun",
    "ph": "gay"
   },
   {
    "c": "",
+   "d": 1,
    "e": "glory, honor",
    "f": {
     "acc": "τὴν δόξαν",
@@ -99,11 +604,158 @@
    "gen": "",
    "id": "3:δόξα",
    "m": "\"doxology\" — a hymn of *glory* and praise",
+   "nf": [
+    {
+     "a": [
+      "the glory",
+      "the honor"
+     ],
+     "ab": [
+      "glory",
+      "honor"
+     ],
+     "b": "δόξα",
+     "cn": "ns",
+     "e": "the glory",
+     "g": "ἡ δόξα",
+     "l": 3,
+     "ph": "hay DO-ksah"
+    },
+    {
+     "a": [
+      "of the glory",
+      "of the honor"
+     ],
+     "ab": [
+      "glory",
+      "honor"
+     ],
+     "b": "δόξης",
+     "cn": "gs",
+     "e": "of the glory",
+     "g": "τῆς δόξης",
+     "l": 3,
+     "ph": "tays DO-ksays"
+    },
+    {
+     "a": [
+      "to the glory",
+      "for the glory",
+      "in the glory",
+      "by the glory",
+      "with the glory",
+      "to the honor",
+      "for the honor",
+      "in the honor",
+      "by the honor",
+      "with the honor"
+     ],
+     "ab": [
+      "glory",
+      "honor"
+     ],
+     "b": "δόξῃ",
+     "cn": "ds",
+     "e": "to/for the glory",
+     "g": "τῇ δόξῃ",
+     "l": 3,
+     "ph": "tay DO-ksay"
+    },
+    {
+     "a": [
+      "the glory",
+      "the honor"
+     ],
+     "ab": [
+      "glory",
+      "honor"
+     ],
+     "b": "δόξαν",
+     "cn": "as",
+     "e": "the glory",
+     "g": "τὴν δόξαν",
+     "l": 3,
+     "ph": "tayn DO-ksahn"
+    },
+    {
+     "a": [
+      "the glories",
+      "the honors"
+     ],
+     "ab": [
+      "glories",
+      "honors"
+     ],
+     "b": "δόξαι",
+     "cn": "np",
+     "e": "the glories",
+     "g": "αἱ δόξαι",
+     "l": 3,
+     "ph": "hai DO-ksai"
+    },
+    {
+     "a": [
+      "of the glories",
+      "of the honors"
+     ],
+     "ab": [
+      "glories",
+      "honors"
+     ],
+     "b": "δοξῶν",
+     "cn": "gp",
+     "e": "of the glories",
+     "g": "τῶν δοξῶν",
+     "l": 3,
+     "ph": "tohn do-KSOHN"
+    },
+    {
+     "a": [
+      "to the glories",
+      "for the glories",
+      "in the glories",
+      "by the glories",
+      "with the glories",
+      "to the honors",
+      "for the honors",
+      "in the honors",
+      "by the honors",
+      "with the honors"
+     ],
+     "ab": [
+      "glories",
+      "honors"
+     ],
+     "b": "δόξαις",
+     "cn": "dp",
+     "e": "to/for the glories",
+     "g": "ταῖς δόξαις",
+     "l": 3,
+     "ph": "tais DO-ksais"
+    },
+    {
+     "a": [
+      "the glories",
+      "the honors"
+     ],
+     "ab": [
+      "glories",
+      "honors"
+     ],
+     "b": "δόξας",
+     "cn": "ap",
+     "e": "the glories",
+     "g": "τὰς δόξας",
+     "l": 3,
+     "ph": "tahs DO-ksahs"
+    }
+   ],
    "p": "noun",
    "ph": "DO-ksah"
   },
   {
    "c": "",
+   "d": 1,
    "e": "assembly, church",
    "f": {
     "acc": "τὴν ἐκκλησίαν",
@@ -119,6 +771,152 @@
    "gen": "",
    "id": "3:ἐκκλησία",
    "m": "\"ecclesiastical\" — church-related",
+   "nf": [
+    {
+     "a": [
+      "the assembly",
+      "the church"
+     ],
+     "ab": [
+      "assembly",
+      "church"
+     ],
+     "b": "ἐκκλησία",
+     "cn": "ns",
+     "e": "the assembly",
+     "g": "ἡ ἐκκλησία",
+     "l": 3,
+     "ph": "hay ehk-klay-SEE-ah"
+    },
+    {
+     "a": [
+      "of the assembly",
+      "of the church"
+     ],
+     "ab": [
+      "assembly",
+      "church"
+     ],
+     "b": "ἐκκλησίας",
+     "cn": "gs",
+     "e": "of the assembly",
+     "g": "τῆς ἐκκλησίας",
+     "l": 3,
+     "ph": "tays ehk-klay-SEE-ahs"
+    },
+    {
+     "a": [
+      "to the assembly",
+      "for the assembly",
+      "in the assembly",
+      "by the assembly",
+      "with the assembly",
+      "to the church",
+      "for the church",
+      "in the church",
+      "by the church",
+      "with the church"
+     ],
+     "ab": [
+      "assembly",
+      "church"
+     ],
+     "b": "ἐκκλησίᾳ",
+     "cn": "ds",
+     "e": "to/for the assembly",
+     "g": "τῇ ἐκκλησίᾳ",
+     "l": 3,
+     "ph": "tay ehk-klay-SEE-ah"
+    },
+    {
+     "a": [
+      "the assembly",
+      "the church"
+     ],
+     "ab": [
+      "assembly",
+      "church"
+     ],
+     "b": "ἐκκλησίαν",
+     "cn": "as",
+     "e": "the assembly",
+     "g": "τὴν ἐκκλησίαν",
+     "l": 3,
+     "ph": "tayn ehk-klay-SEE-ahn"
+    },
+    {
+     "a": [
+      "the assemblies",
+      "the churches"
+     ],
+     "ab": [
+      "assemblies",
+      "churches"
+     ],
+     "b": "ἐκκλησίαι",
+     "cn": "np",
+     "e": "the assemblies",
+     "g": "αἱ ἐκκλησίαι",
+     "l": 3,
+     "ph": "hai ehk-klay-SEE-ai"
+    },
+    {
+     "a": [
+      "of the assemblies",
+      "of the churches"
+     ],
+     "ab": [
+      "assemblies",
+      "churches"
+     ],
+     "b": "ἐκκλησιῶν",
+     "cn": "gp",
+     "e": "of the assemblies",
+     "g": "τῶν ἐκκλησιῶν",
+     "l": 3,
+     "ph": "tohn ehk-klay-see-OHN"
+    },
+    {
+     "a": [
+      "to the assemblies",
+      "for the assemblies",
+      "in the assemblies",
+      "by the assemblies",
+      "with the assemblies",
+      "to the churches",
+      "for the churches",
+      "in the churches",
+      "by the churches",
+      "with the churches"
+     ],
+     "ab": [
+      "assemblies",
+      "churches"
+     ],
+     "b": "ἐκκλησίαις",
+     "cn": "dp",
+     "e": "to/for the assemblies",
+     "g": "ταῖς ἐκκλησίαις",
+     "l": 3,
+     "ph": "tais ehk-klay-SEE-ais"
+    },
+    {
+     "a": [
+      "the assemblies",
+      "the churches"
+     ],
+     "ab": [
+      "assemblies",
+      "churches"
+     ],
+     "b": "ἐκκλησίας",
+     "cn": "ap",
+     "e": "the assemblies",
+     "g": "τὰς ἐκκλησίας",
+     "l": 3,
+     "ph": "tahs ehk-klay-SEE-ahs"
+    }
+   ],
    "p": "noun",
    "ph": "ehk-klay-SEE-ah"
   },
@@ -496,6 +1294,7 @@
   },
   {
    "c": "",
+   "d": 1,
    "e": "life",
    "f": {
     "acc": "τὴν ζωήν",
@@ -511,11 +1310,134 @@
    "gen": "",
    "id": "3:ζωή",
    "m": "\"zoo\" / \"zoology\" — the study of living things, *life*",
+   "nf": [
+    {
+     "a": [
+      "the life"
+     ],
+     "ab": [
+      "life"
+     ],
+     "b": "ζωή",
+     "cn": "ns",
+     "e": "the life",
+     "g": "ἡ ζωή",
+     "l": 3,
+     "ph": "hay zoh-AY"
+    },
+    {
+     "a": [
+      "of the life"
+     ],
+     "ab": [
+      "life"
+     ],
+     "b": "ζωῆς",
+     "cn": "gs",
+     "e": "of the life",
+     "g": "τῆς ζωῆς",
+     "l": 3,
+     "ph": "tays zoh-AYS"
+    },
+    {
+     "a": [
+      "to the life",
+      "for the life",
+      "in the life",
+      "by the life",
+      "with the life"
+     ],
+     "ab": [
+      "life"
+     ],
+     "b": "ζωῇ",
+     "cn": "ds",
+     "e": "to/for the life",
+     "g": "τῇ ζωῇ",
+     "l": 3,
+     "ph": "tay zoh-AY"
+    },
+    {
+     "a": [
+      "the life"
+     ],
+     "ab": [
+      "life"
+     ],
+     "b": "ζωήν",
+     "cn": "as",
+     "e": "the life",
+     "g": "τὴν ζωήν",
+     "l": 3,
+     "ph": "tayn zoh-AYN"
+    },
+    {
+     "a": [
+      "the lives"
+     ],
+     "ab": [
+      "lives"
+     ],
+     "b": "ζωαί",
+     "cn": "np",
+     "e": "the lives",
+     "g": "αἱ ζωαί",
+     "l": 3,
+     "ph": "hai zoh-AI"
+    },
+    {
+     "a": [
+      "of the lives"
+     ],
+     "ab": [
+      "lives"
+     ],
+     "b": "ζωῶν",
+     "cn": "gp",
+     "e": "of the lives",
+     "g": "τῶν ζωῶν",
+     "l": 3,
+     "ph": "tohn zoh-OHN"
+    },
+    {
+     "a": [
+      "to the lives",
+      "for the lives",
+      "in the lives",
+      "by the lives",
+      "with the lives"
+     ],
+     "ab": [
+      "lives"
+     ],
+     "b": "ζωαῖς",
+     "cn": "dp",
+     "e": "to/for the lives",
+     "g": "ταῖς ζωαῖς",
+     "l": 3,
+     "ph": "tais zoh-AIS"
+    },
+    {
+     "a": [
+      "the lives"
+     ],
+     "ab": [
+      "lives"
+     ],
+     "b": "ζωάς",
+     "cn": "ap",
+     "e": "the lives",
+     "g": "τὰς ζωάς",
+     "l": 3,
+     "ph": "tahs zoh-AHS"
+    }
+   ],
    "p": "noun",
    "ph": "zoh-AY"
   },
   {
    "c": "",
+   "d": 1,
    "e": "day",
    "f": {
     "acc": "τὴν ἡμέραν",
@@ -531,11 +1453,134 @@
    "gen": "",
    "id": "3:ἡμέρα",
    "m": "\"ephemeral\" shares the root — things that last only a *day*",
+   "nf": [
+    {
+     "a": [
+      "the day"
+     ],
+     "ab": [
+      "day"
+     ],
+     "b": "ἡμέρα",
+     "cn": "ns",
+     "e": "the day",
+     "g": "ἡ ἡμέρα",
+     "l": 3,
+     "ph": "hay hay-MEH-rah"
+    },
+    {
+     "a": [
+      "of the day"
+     ],
+     "ab": [
+      "day"
+     ],
+     "b": "ἡμέρας",
+     "cn": "gs",
+     "e": "of the day",
+     "g": "τῆς ἡμέρας",
+     "l": 3,
+     "ph": "tays hay-MEH-rahs"
+    },
+    {
+     "a": [
+      "to the day",
+      "for the day",
+      "in the day",
+      "by the day",
+      "with the day"
+     ],
+     "ab": [
+      "day"
+     ],
+     "b": "ἡμέρᾳ",
+     "cn": "ds",
+     "e": "to/for the day",
+     "g": "τῇ ἡμέρᾳ",
+     "l": 3,
+     "ph": "tay hay-MEH-rah"
+    },
+    {
+     "a": [
+      "the day"
+     ],
+     "ab": [
+      "day"
+     ],
+     "b": "ἡμέραν",
+     "cn": "as",
+     "e": "the day",
+     "g": "τὴν ἡμέραν",
+     "l": 3,
+     "ph": "tayn hay-MEH-rahn"
+    },
+    {
+     "a": [
+      "the days"
+     ],
+     "ab": [
+      "days"
+     ],
+     "b": "ἡμέραι",
+     "cn": "np",
+     "e": "the days",
+     "g": "αἱ ἡμέραι",
+     "l": 3,
+     "ph": "hai hay-MEH-rai"
+    },
+    {
+     "a": [
+      "of the days"
+     ],
+     "ab": [
+      "days"
+     ],
+     "b": "ἡμερῶν",
+     "cn": "gp",
+     "e": "of the days",
+     "g": "τῶν ἡμερῶν",
+     "l": 3,
+     "ph": "tohn hay-meh-ROHN"
+    },
+    {
+     "a": [
+      "to the days",
+      "for the days",
+      "in the days",
+      "by the days",
+      "with the days"
+     ],
+     "ab": [
+      "days"
+     ],
+     "b": "ἡμέραις",
+     "cn": "dp",
+     "e": "to/for the days",
+     "g": "ταῖς ἡμέραις",
+     "l": 3,
+     "ph": "tais hay-MEH-rais"
+    },
+    {
+     "a": [
+      "the days"
+     ],
+     "ab": [
+      "days"
+     ],
+     "b": "ἡμέρας",
+     "cn": "ap",
+     "e": "the days",
+     "g": "τὰς ἡμέρας",
+     "l": 3,
+     "ph": "tahs hay-MEH-rahs"
+    }
+   ],
    "p": "noun",
    "ph": "hay-MEH-rah"
   },
   {
    "c": "",
+   "d": 1,
    "e": "sea, lake",
    "f": {
     "acc": "τὴν θάλασσαν",
@@ -551,11 +1596,158 @@
    "gen": "",
    "id": "3:θάλασσα",
    "m": "sounds like \"the lasso\" — casting a lasso net into the *sea*",
+   "nf": [
+    {
+     "a": [
+      "the sea",
+      "the lake"
+     ],
+     "ab": [
+      "sea",
+      "lake"
+     ],
+     "b": "θάλασσα",
+     "cn": "ns",
+     "e": "the sea",
+     "g": "ἡ θάλασσα",
+     "l": 3,
+     "ph": "hay THAH-lahs-sah"
+    },
+    {
+     "a": [
+      "of the sea",
+      "of the lake"
+     ],
+     "ab": [
+      "sea",
+      "lake"
+     ],
+     "b": "θαλάσσης",
+     "cn": "gs",
+     "e": "of the sea",
+     "g": "τῆς θαλάσσης",
+     "l": 3,
+     "ph": "tays thah-LAHS-says"
+    },
+    {
+     "a": [
+      "to the sea",
+      "for the sea",
+      "in the sea",
+      "by the sea",
+      "with the sea",
+      "to the lake",
+      "for the lake",
+      "in the lake",
+      "by the lake",
+      "with the lake"
+     ],
+     "ab": [
+      "sea",
+      "lake"
+     ],
+     "b": "θαλάσσῃ",
+     "cn": "ds",
+     "e": "to/for the sea",
+     "g": "τῇ θαλάσσῃ",
+     "l": 3,
+     "ph": "tay thah-LAHS-say"
+    },
+    {
+     "a": [
+      "the sea",
+      "the lake"
+     ],
+     "ab": [
+      "sea",
+      "lake"
+     ],
+     "b": "θάλασσαν",
+     "cn": "as",
+     "e": "the sea",
+     "g": "τὴν θάλασσαν",
+     "l": 3,
+     "ph": "tayn THAH-lahs-sahn"
+    },
+    {
+     "a": [
+      "the seas",
+      "the lakes"
+     ],
+     "ab": [
+      "seas",
+      "lakes"
+     ],
+     "b": "θάλασσαι",
+     "cn": "np",
+     "e": "the seas",
+     "g": "αἱ θάλασσαι",
+     "l": 3,
+     "ph": "hai THAH-lahs-sai"
+    },
+    {
+     "a": [
+      "of the seas",
+      "of the lakes"
+     ],
+     "ab": [
+      "seas",
+      "lakes"
+     ],
+     "b": "θαλασσῶν",
+     "cn": "gp",
+     "e": "of the seas",
+     "g": "τῶν θαλασσῶν",
+     "l": 3,
+     "ph": "tohn thah-lahs-SOHN"
+    },
+    {
+     "a": [
+      "to the seas",
+      "for the seas",
+      "in the seas",
+      "by the seas",
+      "with the seas",
+      "to the lakes",
+      "for the lakes",
+      "in the lakes",
+      "by the lakes",
+      "with the lakes"
+     ],
+     "ab": [
+      "seas",
+      "lakes"
+     ],
+     "b": "θαλάσσαις",
+     "cn": "dp",
+     "e": "to/for the seas",
+     "g": "ταῖς θαλάσσαις",
+     "l": 3,
+     "ph": "tais thah-LAHS-sais"
+    },
+    {
+     "a": [
+      "the seas",
+      "the lakes"
+     ],
+     "ab": [
+      "seas",
+      "lakes"
+     ],
+     "b": "θαλάσσας",
+     "cn": "ap",
+     "e": "the seas",
+     "g": "τὰς θαλάσσας",
+     "l": 3,
+     "ph": "tahs thah-LAHS-sahs"
+    }
+   ],
    "p": "noun",
    "ph": "THAH-lahs-sah"
   },
   {
    "c": "",
+   "d": 1,
    "e": "heart",
    "f": {
     "acc": "τὴν καρδίαν",
@@ -571,11 +1763,134 @@
    "gen": "",
    "id": "3:καρδία",
    "m": "\"cardiac,\" \"cardiology\" — the *heart*",
+   "nf": [
+    {
+     "a": [
+      "the heart"
+     ],
+     "ab": [
+      "heart"
+     ],
+     "b": "καρδία",
+     "cn": "ns",
+     "e": "the heart",
+     "g": "ἡ καρδία",
+     "l": 3,
+     "ph": "hay kahr-DEE-ah"
+    },
+    {
+     "a": [
+      "of the heart"
+     ],
+     "ab": [
+      "heart"
+     ],
+     "b": "καρδίας",
+     "cn": "gs",
+     "e": "of the heart",
+     "g": "τῆς καρδίας",
+     "l": 3,
+     "ph": "tays kahr-DEE-ahs"
+    },
+    {
+     "a": [
+      "to the heart",
+      "for the heart",
+      "in the heart",
+      "by the heart",
+      "with the heart"
+     ],
+     "ab": [
+      "heart"
+     ],
+     "b": "καρδίᾳ",
+     "cn": "ds",
+     "e": "to/for the heart",
+     "g": "τῇ καρδίᾳ",
+     "l": 3,
+     "ph": "tay kahr-DEE-ah"
+    },
+    {
+     "a": [
+      "the heart"
+     ],
+     "ab": [
+      "heart"
+     ],
+     "b": "καρδίαν",
+     "cn": "as",
+     "e": "the heart",
+     "g": "τὴν καρδίαν",
+     "l": 3,
+     "ph": "tayn kahr-DEE-ahn"
+    },
+    {
+     "a": [
+      "the hearts"
+     ],
+     "ab": [
+      "hearts"
+     ],
+     "b": "καρδίαι",
+     "cn": "np",
+     "e": "the hearts",
+     "g": "αἱ καρδίαι",
+     "l": 3,
+     "ph": "hai kahr-DEE-ai"
+    },
+    {
+     "a": [
+      "of the hearts"
+     ],
+     "ab": [
+      "hearts"
+     ],
+     "b": "καρδιῶν",
+     "cn": "gp",
+     "e": "of the hearts",
+     "g": "τῶν καρδιῶν",
+     "l": 3,
+     "ph": "tohn kahr-dee-OHN"
+    },
+    {
+     "a": [
+      "to the hearts",
+      "for the hearts",
+      "in the hearts",
+      "by the hearts",
+      "with the hearts"
+     ],
+     "ab": [
+      "hearts"
+     ],
+     "b": "καρδίαις",
+     "cn": "dp",
+     "e": "to/for the hearts",
+     "g": "ταῖς καρδίαις",
+     "l": 3,
+     "ph": "tais kahr-DEE-ais"
+    },
+    {
+     "a": [
+      "the hearts"
+     ],
+     "ab": [
+      "hearts"
+     ],
+     "b": "καρδίας",
+     "cn": "ap",
+     "e": "the hearts",
+     "g": "τὰς καρδίας",
+     "l": 3,
+     "ph": "tahs kahr-DEE-ahs"
+    }
+   ],
    "p": "noun",
    "ph": "kahr-DEE-ah"
   },
   {
    "c": "",
+   "d": 1,
    "e": "voice, sound",
    "f": {
     "acc": "τὴν φωνήν",
@@ -591,11 +1906,158 @@
    "gen": "",
    "id": "3:φωνή",
    "m": "\"phone,\" \"telephone\" — carrying *voice* and *sound*",
+   "nf": [
+    {
+     "a": [
+      "the voice",
+      "the sound"
+     ],
+     "ab": [
+      "voice",
+      "sound"
+     ],
+     "b": "φωνή",
+     "cn": "ns",
+     "e": "the voice",
+     "g": "ἡ φωνή",
+     "l": 3,
+     "ph": "hay foh-NAY"
+    },
+    {
+     "a": [
+      "of the voice",
+      "of the sound"
+     ],
+     "ab": [
+      "voice",
+      "sound"
+     ],
+     "b": "φωνῆς",
+     "cn": "gs",
+     "e": "of the voice",
+     "g": "τῆς φωνῆς",
+     "l": 3,
+     "ph": "tays foh-NAYS"
+    },
+    {
+     "a": [
+      "to the voice",
+      "for the voice",
+      "in the voice",
+      "by the voice",
+      "with the voice",
+      "to the sound",
+      "for the sound",
+      "in the sound",
+      "by the sound",
+      "with the sound"
+     ],
+     "ab": [
+      "voice",
+      "sound"
+     ],
+     "b": "φωνῇ",
+     "cn": "ds",
+     "e": "to/for the voice",
+     "g": "τῇ φωνῇ",
+     "l": 3,
+     "ph": "tay foh-NAY"
+    },
+    {
+     "a": [
+      "the voice",
+      "the sound"
+     ],
+     "ab": [
+      "voice",
+      "sound"
+     ],
+     "b": "φωνήν",
+     "cn": "as",
+     "e": "the voice",
+     "g": "τὴν φωνήν",
+     "l": 3,
+     "ph": "tayn foh-NAYN"
+    },
+    {
+     "a": [
+      "the voices",
+      "the sounds"
+     ],
+     "ab": [
+      "voices",
+      "sounds"
+     ],
+     "b": "φωναί",
+     "cn": "np",
+     "e": "the voices",
+     "g": "αἱ φωναί",
+     "l": 3,
+     "ph": "hai foh-NAI"
+    },
+    {
+     "a": [
+      "of the voices",
+      "of the sounds"
+     ],
+     "ab": [
+      "voices",
+      "sounds"
+     ],
+     "b": "φωνῶν",
+     "cn": "gp",
+     "e": "of the voices",
+     "g": "τῶν φωνῶν",
+     "l": 3,
+     "ph": "tohn foh-NOHN"
+    },
+    {
+     "a": [
+      "to the voices",
+      "for the voices",
+      "in the voices",
+      "by the voices",
+      "with the voices",
+      "to the sounds",
+      "for the sounds",
+      "in the sounds",
+      "by the sounds",
+      "with the sounds"
+     ],
+     "ab": [
+      "voices",
+      "sounds"
+     ],
+     "b": "φωναῖς",
+     "cn": "dp",
+     "e": "to/for the voices",
+     "g": "ταῖς φωναῖς",
+     "l": 3,
+     "ph": "tais foh-NAIS"
+    },
+    {
+     "a": [
+      "the voices",
+      "the sounds"
+     ],
+     "ab": [
+      "voices",
+      "sounds"
+     ],
+     "b": "φωνάς",
+     "cn": "ap",
+     "e": "the voices",
+     "g": "τὰς φωνάς",
+     "l": 3,
+     "ph": "tahs foh-NAHS"
+    }
+   ],
    "p": "noun",
    "ph": "foh-NAY"
   },
   {
    "c": "",
+   "d": 1,
    "e": "hour, time",
    "f": {
     "acc": "τὴν ὥραν",
@@ -611,6 +2073,152 @@
    "gen": "",
    "id": "3:ὥρα",
    "m": "\"hour\" is a direct cognate — the *time*",
+   "nf": [
+    {
+     "a": [
+      "the hour",
+      "the time"
+     ],
+     "ab": [
+      "hour",
+      "time"
+     ],
+     "b": "ὥρα",
+     "cn": "ns",
+     "e": "the hour",
+     "g": "ἡ ὥρα",
+     "l": 3,
+     "ph": "hay HOH-rah"
+    },
+    {
+     "a": [
+      "of the hour",
+      "of the time"
+     ],
+     "ab": [
+      "hour",
+      "time"
+     ],
+     "b": "ὥρας",
+     "cn": "gs",
+     "e": "of the hour",
+     "g": "τῆς ὥρας",
+     "l": 3,
+     "ph": "tays HOH-rahs"
+    },
+    {
+     "a": [
+      "to the hour",
+      "for the hour",
+      "in the hour",
+      "by the hour",
+      "with the hour",
+      "to the time",
+      "for the time",
+      "in the time",
+      "by the time",
+      "with the time"
+     ],
+     "ab": [
+      "hour",
+      "time"
+     ],
+     "b": "ὥρᾳ",
+     "cn": "ds",
+     "e": "to/for the hour",
+     "g": "τῇ ὥρᾳ",
+     "l": 3,
+     "ph": "tay HOH-rah"
+    },
+    {
+     "a": [
+      "the hour",
+      "the time"
+     ],
+     "ab": [
+      "hour",
+      "time"
+     ],
+     "b": "ὥραν",
+     "cn": "as",
+     "e": "the hour",
+     "g": "τὴν ὥραν",
+     "l": 3,
+     "ph": "tayn HOH-rahn"
+    },
+    {
+     "a": [
+      "the hours",
+      "the times"
+     ],
+     "ab": [
+      "hours",
+      "times"
+     ],
+     "b": "ὧραι",
+     "cn": "np",
+     "e": "the hours",
+     "g": "αἱ ὧραι",
+     "l": 3,
+     "ph": "hai HOH-rai"
+    },
+    {
+     "a": [
+      "of the hours",
+      "of the times"
+     ],
+     "ab": [
+      "hours",
+      "times"
+     ],
+     "b": "ὡρῶν",
+     "cn": "gp",
+     "e": "of the hours",
+     "g": "τῶν ὡρῶν",
+     "l": 3,
+     "ph": "tohn hoh-ROHN"
+    },
+    {
+     "a": [
+      "to the hours",
+      "for the hours",
+      "in the hours",
+      "by the hours",
+      "with the hours",
+      "to the times",
+      "for the times",
+      "in the times",
+      "by the times",
+      "with the times"
+     ],
+     "ab": [
+      "hours",
+      "times"
+     ],
+     "b": "ὥραις",
+     "cn": "dp",
+     "e": "to/for the hours",
+     "g": "ταῖς ὥραις",
+     "l": 3,
+     "ph": "tais HOH-rais"
+    },
+    {
+     "a": [
+      "the hours",
+      "the times"
+     ],
+     "ab": [
+      "hours",
+      "times"
+     ],
+     "b": "ὥρας",
+     "cn": "ap",
+     "e": "the hours",
+     "g": "τὰς ὥρας",
+     "l": 3,
+     "ph": "tahs HOH-rahs"
+    }
+   ],
    "p": "noun",
    "ph": "HOH-rah"
   }

@@ -1,0 +1,1946 @@
+{
+ "n": 17,
+ "title": "3rd Declension Nouns",
+ "words": [
+  {
+   "c": "",
+   "d": 3,
+   "e": "blood (→ hemo-)",
+   "f": {
+    "acc": "τὸ αἷμα",
+    "dat": "τῷ αἵματι",
+    "gen": "τοῦ αἵματος"
+   },
+   "fp": {
+    "acc": "to HAI-mah",
+    "dat": "toh HAI-mah-tee",
+    "gen": "too HAI-mah-tos"
+   },
+   "g": "αἷμα, -ατος, τό",
+   "gen": "n",
+   "id": "17:αἷμα",
+   "m": "\"hemoglobin,\" \"hemorrhage\" — *blood*; αἷμα sounds like \"hey, ma!\", the shout when you see *blood*. Its genitive -ατος is the pattern for every -μα neuter in this lesson",
+   "nf": [
+    {
+     "a": [
+      "the blood"
+     ],
+     "ab": [
+      "blood"
+     ],
+     "b": "αἷμα",
+     "cn": "ns/as",
+     "e": "the blood",
+     "g": "τὸ αἷμα",
+     "l": 17,
+     "ph": "to HAI-mah"
+    },
+    {
+     "a": [
+      "of the blood"
+     ],
+     "ab": [
+      "blood"
+     ],
+     "b": "αἵματος",
+     "cn": "gs",
+     "e": "of the blood",
+     "g": "τοῦ αἵματος",
+     "l": 17,
+     "ph": "too HAI-mah-tos"
+    },
+    {
+     "a": [
+      "to the blood",
+      "for the blood",
+      "in the blood",
+      "by the blood",
+      "with the blood"
+     ],
+     "ab": [
+      "blood"
+     ],
+     "b": "αἵματι",
+     "cn": "ds",
+     "e": "to/for the blood",
+     "g": "τῷ αἵματι",
+     "l": 17,
+     "ph": "toh HAI-mah-tee"
+    },
+    {
+     "a": [
+      "the blood"
+     ],
+     "ab": [
+      "blood"
+     ],
+     "b": "αἵματα",
+     "cn": "np/ap",
+     "e": "the blood",
+     "g": "τὰ αἵματα",
+     "l": 17,
+     "ph": "tah HAI-mah-tah"
+    },
+    {
+     "a": [
+      "of the blood"
+     ],
+     "ab": [
+      "blood"
+     ],
+     "b": "αἱμάτων",
+     "cn": "gp",
+     "e": "of the blood",
+     "g": "τῶν αἱμάτων",
+     "l": 17,
+     "ph": "tohn hai-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the blood",
+      "for the blood",
+      "in the blood",
+      "by the blood",
+      "with the blood"
+     ],
+     "ab": [
+      "blood"
+     ],
+     "b": "αἵμασιν",
+     "cn": "dp",
+     "e": "to/for the blood",
+     "g": "τοῖς αἵμασιν",
+     "l": 17,
+     "ph": "toys HAI-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "HAI-mah, -ah-tos, to"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "age, world (→ eon)",
+   "f": {
+    "acc": "τὸν αἰῶνα",
+    "dat": "τῷ αἰῶνι",
+    "gen": "τοῦ αἰῶνος"
+   },
+   "fp": {
+    "acc": "ton ai-OH-nah",
+    "dat": "toh ai-OH-nee",
+    "gen": "too ai-OH-nos"
+   },
+   "g": "αἰών, αἰῶνος, ὁ",
+   "gen": "m",
+   "id": "17:αἰών",
+   "m": "\"eon\" — an *age*, a very long stretch of time; εἰς τὸν αἰῶνα = \"into the *age*\" = forever",
+   "nf": [
+    {
+     "a": [
+      "the age",
+      "the world"
+     ],
+     "ab": [
+      "age",
+      "world"
+     ],
+     "b": "αἰών",
+     "cn": "ns",
+     "e": "the age",
+     "g": "ὁ αἰών",
+     "l": 17,
+     "ph": "ho ai-OHN"
+    },
+    {
+     "a": [
+      "of the age",
+      "of the world"
+     ],
+     "ab": [
+      "age",
+      "world"
+     ],
+     "b": "αἰῶνος",
+     "cn": "gs",
+     "e": "of the age",
+     "g": "τοῦ αἰῶνος",
+     "l": 17,
+     "ph": "too ai-OH-nos"
+    },
+    {
+     "a": [
+      "to the age",
+      "for the age",
+      "in the age",
+      "by the age",
+      "with the age",
+      "to the world",
+      "for the world",
+      "in the world",
+      "by the world",
+      "with the world"
+     ],
+     "ab": [
+      "age",
+      "world"
+     ],
+     "b": "αἰῶνι",
+     "cn": "ds",
+     "e": "to/for the age",
+     "g": "τῷ αἰῶνι",
+     "l": 17,
+     "ph": "toh ai-OH-nee"
+    },
+    {
+     "a": [
+      "the age",
+      "the world"
+     ],
+     "ab": [
+      "age",
+      "world"
+     ],
+     "b": "αἰῶνα",
+     "cn": "as",
+     "e": "the age",
+     "g": "τὸν αἰῶνα",
+     "l": 17,
+     "ph": "ton ai-OH-nah"
+    },
+    {
+     "a": [
+      "the ages",
+      "the worlds"
+     ],
+     "ab": [
+      "ages",
+      "worlds"
+     ],
+     "b": "αἰῶνες",
+     "cn": "np",
+     "e": "the ages",
+     "g": "οἱ αἰῶνες",
+     "l": 17,
+     "ph": "hoy ai-OH-nehs"
+    },
+    {
+     "a": [
+      "of the ages",
+      "of the worlds"
+     ],
+     "ab": [
+      "ages",
+      "worlds"
+     ],
+     "b": "αἰώνων",
+     "cn": "gp",
+     "e": "of the ages",
+     "g": "τῶν αἰώνων",
+     "l": 17,
+     "ph": "tohn ai-OH-nohn"
+    },
+    {
+     "a": [
+      "to the ages",
+      "for the ages",
+      "in the ages",
+      "by the ages",
+      "with the ages",
+      "to the worlds",
+      "for the worlds",
+      "in the worlds",
+      "by the worlds",
+      "with the worlds"
+     ],
+     "ab": [
+      "ages",
+      "worlds"
+     ],
+     "b": "αἰῶσιν",
+     "cn": "dp",
+     "e": "to/for the ages",
+     "g": "τοῖς αἰῶσιν",
+     "l": 17,
+     "ph": "toys ai-OH-seen"
+    },
+    {
+     "a": [
+      "the ages",
+      "the worlds"
+     ],
+     "ab": [
+      "ages",
+      "worlds"
+     ],
+     "b": "αἰῶνας",
+     "cn": "ap",
+     "e": "the ages",
+     "g": "τοὺς αἰῶνας",
+     "l": 17,
+     "ph": "toos ai-OH-nahs"
+    }
+   ],
+   "p": "noun",
+   "ph": "ai-OHN, ai-OH-nos, ho"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "man, husband (→ android, androgynous)",
+   "f": {
+    "acc": "τὸν ἄνδρα",
+    "dat": "τῷ ἀνδρί",
+    "gen": "τοῦ ἀνδρός"
+   },
+   "fp": {
+    "acc": "ton AHN-drah",
+    "dat": "toh ahn-DREE",
+    "gen": "too ahn-DROS"
+   },
+   "g": "ἀνήρ, ἀνδρός, ὁ",
+   "gen": "m",
+   "id": "17:ἀνήρ",
+   "m": "\"android\" — a robot shaped like a *man*; the stem ἀνδρ- only shows in the genitive ἀνδρός, so learn the two together",
+   "nf": [
+    {
+     "a": [
+      "the man",
+      "the husband"
+     ],
+     "ab": [
+      "man",
+      "husband"
+     ],
+     "b": "ἀνήρ",
+     "cn": "ns",
+     "e": "the man",
+     "g": "ὁ ἀνήρ",
+     "l": 17,
+     "ph": "ho ah-NAYR"
+    },
+    {
+     "a": [
+      "of the man",
+      "of the husband"
+     ],
+     "ab": [
+      "man",
+      "husband"
+     ],
+     "b": "ἀνδρός",
+     "cn": "gs",
+     "e": "of the man",
+     "g": "τοῦ ἀνδρός",
+     "l": 17,
+     "ph": "too ahn-DROS"
+    },
+    {
+     "a": [
+      "to the man",
+      "for the man",
+      "in the man",
+      "by the man",
+      "with the man",
+      "to the husband",
+      "for the husband",
+      "in the husband",
+      "by the husband",
+      "with the husband"
+     ],
+     "ab": [
+      "man",
+      "husband"
+     ],
+     "b": "ἀνδρί",
+     "cn": "ds",
+     "e": "to/for the man",
+     "g": "τῷ ἀνδρί",
+     "l": 17,
+     "ph": "toh ahn-DREE"
+    },
+    {
+     "a": [
+      "the man",
+      "the husband"
+     ],
+     "ab": [
+      "man",
+      "husband"
+     ],
+     "b": "ἄνδρα",
+     "cn": "as",
+     "e": "the man",
+     "g": "τὸν ἄνδρα",
+     "l": 17,
+     "ph": "ton AHN-drah"
+    },
+    {
+     "a": [
+      "the men",
+      "the husbands"
+     ],
+     "ab": [
+      "men",
+      "husbands"
+     ],
+     "b": "ἄνδρες",
+     "cn": "np",
+     "e": "the men",
+     "g": "οἱ ἄνδρες",
+     "l": 17,
+     "ph": "hoy AHN-drehs"
+    },
+    {
+     "a": [
+      "of the men",
+      "of the husbands"
+     ],
+     "ab": [
+      "men",
+      "husbands"
+     ],
+     "b": "ἀνδρῶν",
+     "cn": "gp",
+     "e": "of the men",
+     "g": "τῶν ἀνδρῶν",
+     "l": 17,
+     "ph": "tohn ahn-DROHN"
+    },
+    {
+     "a": [
+      "to the men",
+      "for the men",
+      "in the men",
+      "by the men",
+      "with the men",
+      "to the husbands",
+      "for the husbands",
+      "in the husbands",
+      "by the husbands",
+      "with the husbands"
+     ],
+     "ab": [
+      "men",
+      "husbands"
+     ],
+     "b": "ἀνδράσιν",
+     "cn": "dp",
+     "e": "to/for the men",
+     "g": "τοῖς ἀνδράσιν",
+     "l": 17,
+     "ph": "toys ahn-DRAH-seen"
+    },
+    {
+     "a": [
+      "the men",
+      "the husbands"
+     ],
+     "ab": [
+      "men",
+      "husbands"
+     ],
+     "b": "ἄνδρας",
+     "cn": "ap",
+     "e": "the men",
+     "g": "τοὺς ἄνδρας",
+     "l": 17,
+     "ph": "toos AHN-drahs"
+    }
+   ],
+   "p": "noun",
+   "ph": "ah-NAYR, ahn-DROS, ho"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "ruler (→ monarch)",
+   "f": {
+    "acc": "τὸν ἄρχοντα",
+    "dat": "τῷ ἄρχοντι",
+    "gen": "τοῦ ἄρχοντος"
+   },
+   "fp": {
+    "acc": "ton AHR-khon-tah",
+    "dat": "toh AHR-khon-tee",
+    "gen": "too AHR-khon-tos"
+   },
+   "g": "ἄρχων, ἄρχοντος, ὁ",
+   "gen": "m",
+   "id": "17:ἄρχων",
+   "m": "ἄρχω (L9, \"monarch\": I rule) + -ων = the one who *rules*, the *ruler*; the stem ἀρχοντ- shows in the genitive",
+   "nf": [
+    {
+     "a": [
+      "the ruler"
+     ],
+     "ab": [
+      "ruler"
+     ],
+     "b": "ἄρχων",
+     "cn": "ns",
+     "e": "the ruler",
+     "g": "ὁ ἄρχων",
+     "l": 17,
+     "ph": "ho AHR-khohn"
+    },
+    {
+     "a": [
+      "of the ruler"
+     ],
+     "ab": [
+      "ruler"
+     ],
+     "b": "ἄρχοντος",
+     "cn": "gs",
+     "e": "of the ruler",
+     "g": "τοῦ ἄρχοντος",
+     "l": 17,
+     "ph": "too AHR-khon-tos"
+    },
+    {
+     "a": [
+      "to the ruler",
+      "for the ruler",
+      "in the ruler",
+      "by the ruler",
+      "with the ruler"
+     ],
+     "ab": [
+      "ruler"
+     ],
+     "b": "ἄρχοντι",
+     "cn": "ds",
+     "e": "to/for the ruler",
+     "g": "τῷ ἄρχοντι",
+     "l": 17,
+     "ph": "toh AHR-khon-tee"
+    },
+    {
+     "a": [
+      "the ruler"
+     ],
+     "ab": [
+      "ruler"
+     ],
+     "b": "ἄρχοντα",
+     "cn": "as",
+     "e": "the ruler",
+     "g": "τὸν ἄρχοντα",
+     "l": 17,
+     "ph": "ton AHR-khon-tah"
+    },
+    {
+     "a": [
+      "the rulers"
+     ],
+     "ab": [
+      "rulers"
+     ],
+     "b": "ἄρχοντες",
+     "cn": "np",
+     "e": "the rulers",
+     "g": "οἱ ἄρχοντες",
+     "l": 17,
+     "ph": "hoy AHR-khon-tehs"
+    },
+    {
+     "a": [
+      "of the rulers"
+     ],
+     "ab": [
+      "rulers"
+     ],
+     "b": "ἀρχόντων",
+     "cn": "gp",
+     "e": "of the rulers",
+     "g": "τῶν ἀρχόντων",
+     "l": 17,
+     "ph": "tohn ahr-KHON-tohn"
+    },
+    {
+     "a": [
+      "to the rulers",
+      "for the rulers",
+      "in the rulers",
+      "by the rulers",
+      "with the rulers"
+     ],
+     "ab": [
+      "rulers"
+     ],
+     "b": "ἄρχουσιν",
+     "cn": "dp",
+     "e": "to/for the rulers",
+     "g": "τοῖς ἄρχουσιν",
+     "l": 17,
+     "ph": "toys AHR-khoo-seen"
+    },
+    {
+     "a": [
+      "the rulers"
+     ],
+     "ab": [
+      "rulers"
+     ],
+     "b": "ἄρχοντας",
+     "cn": "ap",
+     "e": "the rulers",
+     "g": "τοὺς ἄρχοντας",
+     "l": 17,
+     "ph": "toos AHR-khon-tahs"
+    }
+   ],
+   "p": "noun",
+   "ph": "AHR-khohn, AHR-khon-tos, ho"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "woman, wife (→ gynecology, androgynous)",
+   "f": {
+    "acc": "τὴν γυναῖκα",
+    "dat": "τῇ γυναικί",
+    "gen": "τῆς γυναικός"
+   },
+   "fp": {
+    "acc": "tayn gü-NAI-kah",
+    "dat": "tay gü-nai-KEE",
+    "gen": "tays gü-nai-KOS"
+   },
+   "g": "γυνή, γυναικός, ἡ",
+   "gen": "f",
+   "id": "17:γυνή",
+   "m": "\"gynecology\" — medicine for *women*; \"androgynous\" = ἀνήρ (L17, man) + γυνή (*woman*); the stem γυναικ- shows in the genitive",
+   "nf": [
+    {
+     "a": [
+      "the woman",
+      "the wife"
+     ],
+     "ab": [
+      "woman",
+      "wife"
+     ],
+     "b": "γυνή",
+     "cn": "ns",
+     "e": "the woman",
+     "g": "ἡ γυνή",
+     "l": 17,
+     "ph": "hay gü-NAY"
+    },
+    {
+     "a": [
+      "of the woman",
+      "of the wife"
+     ],
+     "ab": [
+      "woman",
+      "wife"
+     ],
+     "b": "γυναικός",
+     "cn": "gs",
+     "e": "of the woman",
+     "g": "τῆς γυναικός",
+     "l": 17,
+     "ph": "tays gü-nai-KOS"
+    },
+    {
+     "a": [
+      "to the woman",
+      "for the woman",
+      "in the woman",
+      "by the woman",
+      "with the woman",
+      "to the wife",
+      "for the wife",
+      "in the wife",
+      "by the wife",
+      "with the wife"
+     ],
+     "ab": [
+      "woman",
+      "wife"
+     ],
+     "b": "γυναικί",
+     "cn": "ds",
+     "e": "to/for the woman",
+     "g": "τῇ γυναικί",
+     "l": 17,
+     "ph": "tay gü-nai-KEE"
+    },
+    {
+     "a": [
+      "the woman",
+      "the wife"
+     ],
+     "ab": [
+      "woman",
+      "wife"
+     ],
+     "b": "γυναῖκα",
+     "cn": "as",
+     "e": "the woman",
+     "g": "τὴν γυναῖκα",
+     "l": 17,
+     "ph": "tayn gü-NAI-kah"
+    },
+    {
+     "a": [
+      "the women",
+      "the wives"
+     ],
+     "ab": [
+      "women",
+      "wives"
+     ],
+     "b": "γυναῖκες",
+     "cn": "np",
+     "e": "the women",
+     "g": "αἱ γυναῖκες",
+     "l": 17,
+     "ph": "hai gü-NAI-kehs"
+    },
+    {
+     "a": [
+      "of the women",
+      "of the wives"
+     ],
+     "ab": [
+      "women",
+      "wives"
+     ],
+     "b": "γυναικῶν",
+     "cn": "gp",
+     "e": "of the women",
+     "g": "τῶν γυναικῶν",
+     "l": 17,
+     "ph": "tohn gü-nai-KOHN"
+    },
+    {
+     "a": [
+      "to the women",
+      "for the women",
+      "in the women",
+      "by the women",
+      "with the women",
+      "to the wives",
+      "for the wives",
+      "in the wives",
+      "by the wives",
+      "with the wives"
+     ],
+     "ab": [
+      "women",
+      "wives"
+     ],
+     "b": "γυναιξίν",
+     "cn": "dp",
+     "e": "to/for the women",
+     "g": "ταῖς γυναιξίν",
+     "l": 17,
+     "ph": "tais gü-nai-KSEEN"
+    },
+    {
+     "a": [
+      "the women",
+      "the wives"
+     ],
+     "ab": [
+      "women",
+      "wives"
+     ],
+     "b": "γυναῖκας",
+     "cn": "ap",
+     "e": "the women",
+     "g": "τὰς γυναῖκας",
+     "l": 17,
+     "ph": "tahs gü-NAI-kahs"
+    }
+   ],
+   "p": "noun",
+   "ph": "gü-NAY, gü-nai-KOS, hay"
+  },
+  {
+   "c": "+ gen",
+   "e": "until; (+ gen.) to, as far as, to the point of, until",
+   "g": "ἕως",
+   "gen": "",
+   "id": "17:ἕως",
+   "m": "sounds like \"hey, whoa!\" — keep riding *until* you shout it, *as far as* the fence; as a conjunction \"until\", with the genitive \"up *to*\"",
+   "p": "preposition",
+   "ph": "HEH-ohs"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "will",
+   "f": {
+    "acc": "τὸ θέλημα",
+    "dat": "τῷ θελήματι",
+    "gen": "τοῦ θελήματος"
+   },
+   "fp": {
+    "acc": "to THEH-lay-mah",
+    "dat": "toh theh-LAY-mah-tee",
+    "gen": "too theh-LAY-mah-tos"
+   },
+   "g": "θέλημα, -ατος, τό",
+   "gen": "n",
+   "id": "17:θέλημα",
+   "m": "θέλω (L2, I wish / will) + -μα (the thing that results) = what you *will*: your *will*; \"θέλημα\" = \"the-will-ma\"",
+   "nf": [
+    {
+     "a": [
+      "the will"
+     ],
+     "ab": [
+      "will"
+     ],
+     "b": "θέλημα",
+     "cn": "ns/as",
+     "e": "the will",
+     "g": "τὸ θέλημα",
+     "l": 17,
+     "ph": "to THEH-lay-mah"
+    },
+    {
+     "a": [
+      "of the will"
+     ],
+     "ab": [
+      "will"
+     ],
+     "b": "θελήματος",
+     "cn": "gs",
+     "e": "of the will",
+     "g": "τοῦ θελήματος",
+     "l": 17,
+     "ph": "too theh-LAY-mah-tos"
+    },
+    {
+     "a": [
+      "to the will",
+      "for the will",
+      "in the will",
+      "by the will",
+      "with the will"
+     ],
+     "ab": [
+      "will"
+     ],
+     "b": "θελήματι",
+     "cn": "ds",
+     "e": "to/for the will",
+     "g": "τῷ θελήματι",
+     "l": 17,
+     "ph": "toh theh-LAY-mah-tee"
+    },
+    {
+     "a": [
+      "the wills"
+     ],
+     "ab": [
+      "wills"
+     ],
+     "b": "θελήματα",
+     "cn": "np/ap",
+     "e": "the wills",
+     "g": "τὰ θελήματα",
+     "l": 17,
+     "ph": "tah theh-LAY-mah-tah"
+    },
+    {
+     "a": [
+      "of the wills"
+     ],
+     "ab": [
+      "wills"
+     ],
+     "b": "θελημάτων",
+     "cn": "gp",
+     "e": "of the wills",
+     "g": "τῶν θελημάτων",
+     "l": 17,
+     "ph": "tohn theh-lay-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the wills",
+      "for the wills",
+      "in the wills",
+      "by the wills",
+      "with the wills"
+     ],
+     "ab": [
+      "wills"
+     ],
+     "b": "θελήμασιν",
+     "cn": "dp",
+     "e": "to/for the wills",
+     "g": "τοῖς θελήμασιν",
+     "l": 17,
+     "ph": "toys theh-LAY-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "THEH-lay-mah, -ah-tos, to"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "night (→ nocturnal)",
+   "f": {
+    "acc": "τὴν νύκτα",
+    "dat": "τῇ νυκτί",
+    "gen": "τῆς νυκτός"
+   },
+   "fp": {
+    "acc": "tayn NÜ-ktah",
+    "dat": "tay nü-KTEE",
+    "gen": "tays nü-KTOS"
+   },
+   "g": "νύξ, νυκτός, ἡ",
+   "gen": "f",
+   "id": "17:νύξ",
+   "m": "\"nocturnal\" — awake at *night*; νυκτ- and Latin noct- are the same root, which the genitive νυκτός shows",
+   "nf": [
+    {
+     "a": [
+      "the night"
+     ],
+     "ab": [
+      "night"
+     ],
+     "b": "νύξ",
+     "cn": "ns",
+     "e": "the night",
+     "g": "ἡ νύξ",
+     "l": 17,
+     "ph": "hay nüks"
+    },
+    {
+     "a": [
+      "of the night"
+     ],
+     "ab": [
+      "night"
+     ],
+     "b": "νυκτός",
+     "cn": "gs",
+     "e": "of the night",
+     "g": "τῆς νυκτός",
+     "l": 17,
+     "ph": "tays nü-KTOS"
+    },
+    {
+     "a": [
+      "to the night",
+      "for the night",
+      "in the night",
+      "by the night",
+      "with the night"
+     ],
+     "ab": [
+      "night"
+     ],
+     "b": "νυκτί",
+     "cn": "ds",
+     "e": "to/for the night",
+     "g": "τῇ νυκτί",
+     "l": 17,
+     "ph": "tay nü-KTEE"
+    },
+    {
+     "a": [
+      "the night"
+     ],
+     "ab": [
+      "night"
+     ],
+     "b": "νύκτα",
+     "cn": "as",
+     "e": "the night",
+     "g": "τὴν νύκτα",
+     "l": 17,
+     "ph": "tayn NÜ-ktah"
+    },
+    {
+     "a": [
+      "the nights"
+     ],
+     "ab": [
+      "nights"
+     ],
+     "b": "νύκτες",
+     "cn": "np",
+     "e": "the nights",
+     "g": "αἱ νύκτες",
+     "l": 17,
+     "ph": "hai NÜ-ktehs"
+    },
+    {
+     "a": [
+      "of the nights"
+     ],
+     "ab": [
+      "nights"
+     ],
+     "b": "νυκτῶν",
+     "cn": "gp",
+     "e": "of the nights",
+     "g": "τῶν νυκτῶν",
+     "l": 17,
+     "ph": "tohn nü-KTOHN"
+    },
+    {
+     "a": [
+      "to the nights",
+      "for the nights",
+      "in the nights",
+      "by the nights",
+      "with the nights"
+     ],
+     "ab": [
+      "nights"
+     ],
+     "b": "νυξίν",
+     "cn": "dp",
+     "e": "to/for the nights",
+     "g": "ταῖς νυξίν",
+     "l": 17,
+     "ph": "tais nü-KSEEN"
+    },
+    {
+     "a": [
+      "the nights"
+     ],
+     "ab": [
+      "nights"
+     ],
+     "b": "νύκτας",
+     "cn": "ap",
+     "e": "the nights",
+     "g": "τὰς νύκτας",
+     "l": 17,
+     "ph": "tahs NÜ-ktahs"
+    }
+   ],
+   "p": "noun",
+   "ph": "nüks, nü-KTOS, hay"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "name (→ anonymous, pseudonym)",
+   "f": {
+    "acc": "τὸ ὄνομα",
+    "dat": "τῷ ὀνόματι",
+    "gen": "τοῦ ὀνόματος"
+   },
+   "fp": {
+    "acc": "to O-no-mah",
+    "dat": "toh o-NO-mah-tee",
+    "gen": "too o-NO-mah-tos"
+   },
+   "g": "ὄνομα, -ατος, τό",
+   "gen": "n",
+   "id": "17:ὄνομα",
+   "m": "\"anonymous\" — without a *name*; \"pseudonym\" — a false *name*; ὄνομα also sounds like \"Oh, no, ma, what's his *name*?\"",
+   "nf": [
+    {
+     "a": [
+      "the name"
+     ],
+     "ab": [
+      "name"
+     ],
+     "b": "ὄνομα",
+     "cn": "ns/as",
+     "e": "the name",
+     "g": "τὸ ὄνομα",
+     "l": 17,
+     "ph": "to O-no-mah"
+    },
+    {
+     "a": [
+      "of the name"
+     ],
+     "ab": [
+      "name"
+     ],
+     "b": "ὀνόματος",
+     "cn": "gs",
+     "e": "of the name",
+     "g": "τοῦ ὀνόματος",
+     "l": 17,
+     "ph": "too o-NO-mah-tos"
+    },
+    {
+     "a": [
+      "to the name",
+      "for the name",
+      "in the name",
+      "by the name",
+      "with the name"
+     ],
+     "ab": [
+      "name"
+     ],
+     "b": "ὀνόματι",
+     "cn": "ds",
+     "e": "to/for the name",
+     "g": "τῷ ὀνόματι",
+     "l": 17,
+     "ph": "toh o-NO-mah-tee"
+    },
+    {
+     "a": [
+      "the names"
+     ],
+     "ab": [
+      "names"
+     ],
+     "b": "ὀνόματα",
+     "cn": "np/ap",
+     "e": "the names",
+     "g": "τὰ ὀνόματα",
+     "l": 17,
+     "ph": "tah o-NO-mah-tah"
+    },
+    {
+     "a": [
+      "of the names"
+     ],
+     "ab": [
+      "names"
+     ],
+     "b": "ὀνομάτων",
+     "cn": "gp",
+     "e": "of the names",
+     "g": "τῶν ὀνομάτων",
+     "l": 17,
+     "ph": "tohn o-no-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the names",
+      "for the names",
+      "in the names",
+      "by the names",
+      "with the names"
+     ],
+     "ab": [
+      "names"
+     ],
+     "b": "ὀνόμασιν",
+     "cn": "dp",
+     "e": "to/for the names",
+     "g": "τοῖς ὀνόμασιν",
+     "l": 17,
+     "ph": "toys o-NO-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "O-no-mah, -ah-tos, to"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "spirit, Spirit, wind, breath (→ pneumatic, pneumonia)",
+   "f": {
+    "acc": "τὸ πνεῦμα",
+    "dat": "τῷ πνεύματι",
+    "gen": "τοῦ πνεύματος"
+   },
+   "fp": {
+    "acc": "to PNYOO-mah",
+    "dat": "toh PNYOO-mah-tee",
+    "gen": "too PNYOO-mah-tos"
+   },
+   "g": "πνεῦμα, -ατος, τό",
+   "gen": "n",
+   "id": "17:πνεῦμα",
+   "m": "\"pneumatic\" tools run on air (*wind*); \"pneumonia\" is a sickness of the *breath*; the Holy *Spirit* is the breath of God",
+   "nf": [
+    {
+     "a": [
+      "the spirit",
+      "the wind",
+      "the breath"
+     ],
+     "ab": [
+      "spirit",
+      "wind",
+      "breath"
+     ],
+     "b": "πνεῦμα",
+     "cn": "ns/as",
+     "e": "the spirit",
+     "g": "τὸ πνεῦμα",
+     "l": 17,
+     "ph": "to PNYOO-mah"
+    },
+    {
+     "a": [
+      "of the spirit",
+      "of the wind",
+      "of the breath"
+     ],
+     "ab": [
+      "spirit",
+      "wind",
+      "breath"
+     ],
+     "b": "πνεύματος",
+     "cn": "gs",
+     "e": "of the spirit",
+     "g": "τοῦ πνεύματος",
+     "l": 17,
+     "ph": "too PNYOO-mah-tos"
+    },
+    {
+     "a": [
+      "to the spirit",
+      "for the spirit",
+      "in the spirit",
+      "by the spirit",
+      "with the spirit",
+      "to the wind",
+      "for the wind",
+      "in the wind",
+      "by the wind",
+      "with the wind",
+      "to the breath",
+      "for the breath",
+      "in the breath",
+      "by the breath",
+      "with the breath"
+     ],
+     "ab": [
+      "spirit",
+      "wind",
+      "breath"
+     ],
+     "b": "πνεύματι",
+     "cn": "ds",
+     "e": "to/for the spirit",
+     "g": "τῷ πνεύματι",
+     "l": 17,
+     "ph": "toh PNYOO-mah-tee"
+    },
+    {
+     "a": [
+      "the spirits",
+      "the winds",
+      "the breaths"
+     ],
+     "ab": [
+      "spirits",
+      "winds",
+      "breaths"
+     ],
+     "b": "πνεύματα",
+     "cn": "np/ap",
+     "e": "the spirits",
+     "g": "τὰ πνεύματα",
+     "l": 17,
+     "ph": "tah PNYOO-mah-tah"
+    },
+    {
+     "a": [
+      "of the spirits",
+      "of the winds",
+      "of the breaths"
+     ],
+     "ab": [
+      "spirits",
+      "winds",
+      "breaths"
+     ],
+     "b": "πνευμάτων",
+     "cn": "gp",
+     "e": "of the spirits",
+     "g": "τῶν πνευμάτων",
+     "l": 17,
+     "ph": "tohn pnyoo-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the spirits",
+      "for the spirits",
+      "in the spirits",
+      "by the spirits",
+      "with the spirits",
+      "to the winds",
+      "for the winds",
+      "in the winds",
+      "by the winds",
+      "with the winds",
+      "to the breaths",
+      "for the breaths",
+      "in the breaths",
+      "by the breaths",
+      "with the breaths"
+     ],
+     "ab": [
+      "spirits",
+      "winds",
+      "breaths"
+     ],
+     "b": "πνεύμασιν",
+     "cn": "dp",
+     "e": "to/for the spirits",
+     "g": "τοῖς πνεύμασιν",
+     "l": 17,
+     "ph": "toys PNYOO-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "PNYOO-mah, -ah-tos, to"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "word (→ rhetoric)",
+   "f": {
+    "acc": "τὸ ῥῆμα",
+    "dat": "τῷ ῥήματι",
+    "gen": "τοῦ ῥήματος"
+   },
+   "fp": {
+    "acc": "to RHAY-mah",
+    "dat": "toh RHAY-mah-tee",
+    "gen": "too RHAY-mah-tos"
+   },
+   "g": "ῥῆμα, -ατος, τό",
+   "gen": "n",
+   "id": "17:ῥῆμα",
+   "m": "\"rhetoric\" — the art of *words*; compare λόγος (L4, word, \"logic\"): ῥῆμα is a spoken *word* or saying",
+   "nf": [
+    {
+     "a": [
+      "the word"
+     ],
+     "ab": [
+      "word"
+     ],
+     "b": "ῥῆμα",
+     "cn": "ns/as",
+     "e": "the word",
+     "g": "τὸ ῥῆμα",
+     "l": 17,
+     "ph": "to RHAY-mah"
+    },
+    {
+     "a": [
+      "of the word"
+     ],
+     "ab": [
+      "word"
+     ],
+     "b": "ῥήματος",
+     "cn": "gs",
+     "e": "of the word",
+     "g": "τοῦ ῥήματος",
+     "l": 17,
+     "ph": "too RHAY-mah-tos"
+    },
+    {
+     "a": [
+      "to the word",
+      "for the word",
+      "in the word",
+      "by the word",
+      "with the word"
+     ],
+     "ab": [
+      "word"
+     ],
+     "b": "ῥήματι",
+     "cn": "ds",
+     "e": "to/for the word",
+     "g": "τῷ ῥήματι",
+     "l": 17,
+     "ph": "toh RHAY-mah-tee"
+    },
+    {
+     "a": [
+      "the words"
+     ],
+     "ab": [
+      "words"
+     ],
+     "b": "ῥήματα",
+     "cn": "np/ap",
+     "e": "the words",
+     "g": "τὰ ῥήματα",
+     "l": 17,
+     "ph": "tah RHAY-mah-tah"
+    },
+    {
+     "a": [
+      "of the words"
+     ],
+     "ab": [
+      "words"
+     ],
+     "b": "ῥημάτων",
+     "cn": "gp",
+     "e": "of the words",
+     "g": "τῶν ῥημάτων",
+     "l": 17,
+     "ph": "tohn rhay-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the words",
+      "for the words",
+      "in the words",
+      "by the words",
+      "with the words"
+     ],
+     "ab": [
+      "words"
+     ],
+     "b": "ῥήμασιν",
+     "cn": "dp",
+     "e": "to/for the words",
+     "g": "τοῖς ῥήμασιν",
+     "l": 17,
+     "ph": "toys RHAY-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "RHAY-mah, -ah-tos, to"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "flesh (→ sarcophagus, sarcasm)",
+   "f": {
+    "acc": "τὴν σάρκα",
+    "dat": "τῇ σαρκί",
+    "gen": "τῆς σαρκός"
+   },
+   "fp": {
+    "acc": "tayn SAHR-kah",
+    "dat": "tay sahr-KEE",
+    "gen": "tays sahr-KOS"
+   },
+   "g": "σάρξ, σαρκός, ἡ",
+   "gen": "f",
+   "id": "17:σάρξ",
+   "m": "\"sarcophagus\" = *flesh*-eater (a stone coffin); \"sarcasm\" = remarks that tear the *flesh*; the stem σαρκ- shows in the genitive",
+   "nf": [
+    {
+     "a": [
+      "the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σάρξ",
+     "cn": "ns",
+     "e": "the flesh",
+     "g": "ἡ σάρξ",
+     "l": 17,
+     "ph": "hay sahrks"
+    },
+    {
+     "a": [
+      "of the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σαρκός",
+     "cn": "gs",
+     "e": "of the flesh",
+     "g": "τῆς σαρκός",
+     "l": 17,
+     "ph": "tays sahr-KOS"
+    },
+    {
+     "a": [
+      "to the flesh",
+      "for the flesh",
+      "in the flesh",
+      "by the flesh",
+      "with the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σαρκί",
+     "cn": "ds",
+     "e": "to/for the flesh",
+     "g": "τῇ σαρκί",
+     "l": 17,
+     "ph": "tay sahr-KEE"
+    },
+    {
+     "a": [
+      "the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σάρκα",
+     "cn": "as",
+     "e": "the flesh",
+     "g": "τὴν σάρκα",
+     "l": 17,
+     "ph": "tayn SAHR-kah"
+    },
+    {
+     "a": [
+      "the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σάρκες",
+     "cn": "np",
+     "e": "the flesh",
+     "g": "αἱ σάρκες",
+     "l": 17,
+     "ph": "hai SAHR-kehs"
+    },
+    {
+     "a": [
+      "of the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σαρκῶν",
+     "cn": "gp",
+     "e": "of the flesh",
+     "g": "τῶν σαρκῶν",
+     "l": 17,
+     "ph": "tohn sahr-KOHN"
+    },
+    {
+     "a": [
+      "to the flesh",
+      "for the flesh",
+      "in the flesh",
+      "by the flesh",
+      "with the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σαρξίν",
+     "cn": "dp",
+     "e": "to/for the flesh",
+     "g": "ταῖς σαρξίν",
+     "l": 17,
+     "ph": "tais sahr-KSEEN"
+    },
+    {
+     "a": [
+      "the flesh"
+     ],
+     "ab": [
+      "flesh"
+     ],
+     "b": "σάρκας",
+     "cn": "ap",
+     "e": "the flesh",
+     "g": "τὰς σάρκας",
+     "l": 17,
+     "ph": "tahs SAHR-kahs"
+    }
+   ],
+   "p": "noun",
+   "ph": "sahrks, sahr-KOS, hay"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "seed, offspring, children (→ sperm)",
+   "f": {
+    "acc": "τὸ σπέρμα",
+    "dat": "τῷ σπέρματι",
+    "gen": "τοῦ σπέρματος"
+   },
+   "fp": {
+    "acc": "to SPEHR-mah",
+    "dat": "toh SPEHR-mah-tee",
+    "gen": "too SPEHR-mah-tos"
+   },
+   "g": "σπέρμα, -ατος, τό",
+   "gen": "n",
+   "id": "17:σπέρμα",
+   "m": "\"sperm\" — *seed*; the *seed* of Abraham = his *offspring, children*",
+   "nf": [
+    {
+     "a": [
+      "the seed",
+      "the offspring",
+      "the children"
+     ],
+     "ab": [
+      "seed",
+      "offspring",
+      "children"
+     ],
+     "b": "σπέρμα",
+     "cn": "ns/as",
+     "e": "the seed",
+     "g": "τὸ σπέρμα",
+     "l": 17,
+     "ph": "to SPEHR-mah"
+    },
+    {
+     "a": [
+      "of the seed",
+      "of the offspring",
+      "of the children"
+     ],
+     "ab": [
+      "seed",
+      "offspring",
+      "children"
+     ],
+     "b": "σπέρματος",
+     "cn": "gs",
+     "e": "of the seed",
+     "g": "τοῦ σπέρματος",
+     "l": 17,
+     "ph": "too SPEHR-mah-tos"
+    },
+    {
+     "a": [
+      "to the seed",
+      "for the seed",
+      "in the seed",
+      "by the seed",
+      "with the seed",
+      "to the offspring",
+      "for the offspring",
+      "in the offspring",
+      "by the offspring",
+      "with the offspring",
+      "to the children",
+      "for the children",
+      "in the children",
+      "by the children",
+      "with the children"
+     ],
+     "ab": [
+      "seed",
+      "offspring",
+      "children"
+     ],
+     "b": "σπέρματι",
+     "cn": "ds",
+     "e": "to/for the seed",
+     "g": "τῷ σπέρματι",
+     "l": 17,
+     "ph": "toh SPEHR-mah-tee"
+    },
+    {
+     "a": [
+      "the seeds",
+      "the offspring",
+      "the children"
+     ],
+     "ab": [
+      "seeds",
+      "offspring",
+      "children"
+     ],
+     "b": "σπέρματα",
+     "cn": "np/ap",
+     "e": "the seeds",
+     "g": "τὰ σπέρματα",
+     "l": 17,
+     "ph": "tah SPEHR-mah-tah"
+    },
+    {
+     "a": [
+      "of the seeds",
+      "of the offspring",
+      "of the children"
+     ],
+     "ab": [
+      "seeds",
+      "offspring",
+      "children"
+     ],
+     "b": "σπερμάτων",
+     "cn": "gp",
+     "e": "of the seeds",
+     "g": "τῶν σπερμάτων",
+     "l": 17,
+     "ph": "tohn spehr-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the seeds",
+      "for the seeds",
+      "in the seeds",
+      "by the seeds",
+      "with the seeds",
+      "to the offspring",
+      "for the offspring",
+      "in the offspring",
+      "by the offspring",
+      "with the offspring",
+      "to the children",
+      "for the children",
+      "in the children",
+      "by the children",
+      "with the children"
+     ],
+     "ab": [
+      "seeds",
+      "offspring",
+      "children"
+     ],
+     "b": "σπέρμασιν",
+     "cn": "dp",
+     "e": "to/for the seeds",
+     "g": "τοῖς σπέρμασιν",
+     "l": 17,
+     "ph": "toys SPEHR-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "SPEHR-mah, -ah-tos, to"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "mouth (→ stomach)",
+   "f": {
+    "acc": "τὸ στόμα",
+    "dat": "τῷ στόματι",
+    "gen": "τοῦ στόματος"
+   },
+   "fp": {
+    "acc": "to STO-mah",
+    "dat": "toh STO-mah-tee",
+    "gen": "too STO-mah-tos"
+   },
+   "g": "στόμα, -ατος, τό",
+   "gen": "n",
+   "id": "17:στόμα",
+   "m": "\"stomach\" — Greek στόμαχος was the *mouth* (opening) of the gut; food goes in at the στόμα, the *mouth*",
+   "nf": [
+    {
+     "a": [
+      "the mouth"
+     ],
+     "ab": [
+      "mouth"
+     ],
+     "b": "στόμα",
+     "cn": "ns/as",
+     "e": "the mouth",
+     "g": "τὸ στόμα",
+     "l": 17,
+     "ph": "to STO-mah"
+    },
+    {
+     "a": [
+      "of the mouth"
+     ],
+     "ab": [
+      "mouth"
+     ],
+     "b": "στόματος",
+     "cn": "gs",
+     "e": "of the mouth",
+     "g": "τοῦ στόματος",
+     "l": 17,
+     "ph": "too STO-mah-tos"
+    },
+    {
+     "a": [
+      "to the mouth",
+      "for the mouth",
+      "in the mouth",
+      "by the mouth",
+      "with the mouth"
+     ],
+     "ab": [
+      "mouth"
+     ],
+     "b": "στόματι",
+     "cn": "ds",
+     "e": "to/for the mouth",
+     "g": "τῷ στόματι",
+     "l": 17,
+     "ph": "toh STO-mah-tee"
+    },
+    {
+     "a": [
+      "the mouths"
+     ],
+     "ab": [
+      "mouths"
+     ],
+     "b": "στόματα",
+     "cn": "np/ap",
+     "e": "the mouths",
+     "g": "τὰ στόματα",
+     "l": 17,
+     "ph": "tah STO-mah-tah"
+    },
+    {
+     "a": [
+      "of the mouths"
+     ],
+     "ab": [
+      "mouths"
+     ],
+     "b": "στομάτων",
+     "cn": "gp",
+     "e": "of the mouths",
+     "g": "τῶν στομάτων",
+     "l": 17,
+     "ph": "tohn sto-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the mouths",
+      "for the mouths",
+      "in the mouths",
+      "by the mouths",
+      "with the mouths"
+     ],
+     "ab": [
+      "mouths"
+     ],
+     "b": "στόμασιν",
+     "cn": "dp",
+     "e": "to/for the mouths",
+     "g": "τοῖς στόμασιν",
+     "l": 17,
+     "ph": "toys STO-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "STO-mah, -ah-tos, to"
+  },
+  {
+   "c": "",
+   "d": 3,
+   "e": "body (→ somatic)",
+   "f": {
+    "acc": "τὸ σῶμα",
+    "dat": "τῷ σώματι",
+    "gen": "τοῦ σώματος"
+   },
+   "fp": {
+    "acc": "to SOH-mah",
+    "dat": "toh SOH-mah-tee",
+    "gen": "too SOH-mah-tos"
+   },
+   "g": "σῶμα, -ατος, τό",
+   "gen": "n",
+   "id": "17:σῶμα",
+   "m": "\"somatic\" — of the *body*; pair with σάρξ (L17, flesh): σῶμα is the whole *body*, σάρξ its *flesh*",
+   "nf": [
+    {
+     "a": [
+      "the body"
+     ],
+     "ab": [
+      "body"
+     ],
+     "b": "σῶμα",
+     "cn": "ns/as",
+     "e": "the body",
+     "g": "τὸ σῶμα",
+     "l": 17,
+     "ph": "to SOH-mah"
+    },
+    {
+     "a": [
+      "of the body"
+     ],
+     "ab": [
+      "body"
+     ],
+     "b": "σώματος",
+     "cn": "gs",
+     "e": "of the body",
+     "g": "τοῦ σώματος",
+     "l": 17,
+     "ph": "too SOH-mah-tos"
+    },
+    {
+     "a": [
+      "to the body",
+      "for the body",
+      "in the body",
+      "by the body",
+      "with the body"
+     ],
+     "ab": [
+      "body"
+     ],
+     "b": "σώματι",
+     "cn": "ds",
+     "e": "to/for the body",
+     "g": "τῷ σώματι",
+     "l": 17,
+     "ph": "toh SOH-mah-tee"
+    },
+    {
+     "a": [
+      "the bodies"
+     ],
+     "ab": [
+      "bodies"
+     ],
+     "b": "σώματα",
+     "cn": "np/ap",
+     "e": "the bodies",
+     "g": "τὰ σώματα",
+     "l": 17,
+     "ph": "tah SOH-mah-tah"
+    },
+    {
+     "a": [
+      "of the bodies"
+     ],
+     "ab": [
+      "bodies"
+     ],
+     "b": "σωμάτων",
+     "cn": "gp",
+     "e": "of the bodies",
+     "g": "τῶν σωμάτων",
+     "l": 17,
+     "ph": "tohn soh-MAH-tohn"
+    },
+    {
+     "a": [
+      "to the bodies",
+      "for the bodies",
+      "in the bodies",
+      "by the bodies",
+      "with the bodies"
+     ],
+     "ab": [
+      "bodies"
+     ],
+     "b": "σώμασιν",
+     "cn": "dp",
+     "e": "to/for the bodies",
+     "g": "τοῖς σώμασιν",
+     "l": 17,
+     "ph": "toys SOH-mah-seen"
+    }
+   ],
+   "p": "noun",
+   "ph": "SOH-mah, -ah-tos, to"
+  }
+ ]
+}

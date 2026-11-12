@@ -14,6 +14,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "book",
    "f": {
     "acc": "τὸ βιβλίον",
@@ -29,11 +30,106 @@
    "gen": "n",
    "id": "11:βιβλίον",
    "m": "\"Bible,\" \"bibliography,\" \"bibliophile\" — all about *books*",
+   "nf": [
+    {
+     "a": [
+      "the book"
+     ],
+     "ab": [
+      "book"
+     ],
+     "b": "βιβλίον",
+     "cn": "ns/as",
+     "e": "the book",
+     "g": "τὸ βιβλίον",
+     "l": 4,
+     "ph": "to bee-BLEE-on"
+    },
+    {
+     "a": [
+      "of the book"
+     ],
+     "ab": [
+      "book"
+     ],
+     "b": "βιβλίου",
+     "cn": "gs",
+     "e": "of the book",
+     "g": "τοῦ βιβλίου",
+     "l": 4,
+     "ph": "too bee-BLEE-oo"
+    },
+    {
+     "a": [
+      "to the book",
+      "for the book",
+      "in the book",
+      "by the book",
+      "with the book"
+     ],
+     "ab": [
+      "book"
+     ],
+     "b": "βιβλίῳ",
+     "cn": "ds",
+     "e": "to/for the book",
+     "g": "τῷ βιβλίῳ",
+     "l": 4,
+     "ph": "toh bee-BLEE-oh"
+    },
+    {
+     "a": [
+      "the books"
+     ],
+     "ab": [
+      "books"
+     ],
+     "b": "βιβλία",
+     "cn": "np/ap",
+     "e": "the books",
+     "g": "τὰ βιβλία",
+     "l": 4,
+     "ph": "tah bee-BLEE-ah"
+    },
+    {
+     "a": [
+      "of the books"
+     ],
+     "ab": [
+      "books"
+     ],
+     "b": "βιβλίων",
+     "cn": "gp",
+     "e": "of the books",
+     "g": "τῶν βιβλίων",
+     "l": 4,
+     "ph": "tohn bee-BLEE-ohn"
+    },
+    {
+     "a": [
+      "to the books",
+      "for the books",
+      "in the books",
+      "by the books",
+      "with the books"
+     ],
+     "ab": [
+      "books"
+     ],
+     "b": "βιβλίοις",
+     "cn": "dp",
+     "e": "to/for the books",
+     "g": "τοῖς βιβλίοις",
+     "l": 4,
+     "ph": "toys bee-BLEE-oys"
+    }
+   ],
    "p": "noun",
    "ph": "bee-BLEE-on, to"
   },
   {
    "c": "",
+   "d": 2,
    "e": "demon",
    "f": {
     "acc": "τὸ δαιμόνιον",
@@ -49,6 +145,100 @@
    "gen": "n",
    "id": "11:δαιμόνιον",
    "m": "\"demon,\" \"demonic\" — a direct cognate",
+   "nf": [
+    {
+     "a": [
+      "the demon"
+     ],
+     "ab": [
+      "demon"
+     ],
+     "b": "δαιμόνιον",
+     "cn": "ns/as",
+     "e": "the demon",
+     "g": "τὸ δαιμόνιον",
+     "l": 4,
+     "ph": "to dai-MO-nee-on"
+    },
+    {
+     "a": [
+      "of the demon"
+     ],
+     "ab": [
+      "demon"
+     ],
+     "b": "δαιμονίου",
+     "cn": "gs",
+     "e": "of the demon",
+     "g": "τοῦ δαιμονίου",
+     "l": 4,
+     "ph": "too dai-mo-NEE-oo"
+    },
+    {
+     "a": [
+      "to the demon",
+      "for the demon",
+      "in the demon",
+      "by the demon",
+      "with the demon"
+     ],
+     "ab": [
+      "demon"
+     ],
+     "b": "δαιμονίῳ",
+     "cn": "ds",
+     "e": "to/for the demon",
+     "g": "τῷ δαιμονίῳ",
+     "l": 4,
+     "ph": "toh dai-mo-NEE-oh"
+    },
+    {
+     "a": [
+      "the demons"
+     ],
+     "ab": [
+      "demons"
+     ],
+     "b": "δαιμόνια",
+     "cn": "np/ap",
+     "e": "the demons",
+     "g": "τὰ δαιμόνια",
+     "l": 4,
+     "ph": "tah dai-MO-nee-ah"
+    },
+    {
+     "a": [
+      "of the demons"
+     ],
+     "ab": [
+      "demons"
+     ],
+     "b": "δαιμονίων",
+     "cn": "gp",
+     "e": "of the demons",
+     "g": "τῶν δαιμονίων",
+     "l": 4,
+     "ph": "tohn dai-mo-NEE-ohn"
+    },
+    {
+     "a": [
+      "to the demons",
+      "for the demons",
+      "in the demons",
+      "by the demons",
+      "with the demons"
+     ],
+     "ab": [
+      "demons"
+     ],
+     "b": "δαιμονίοις",
+     "cn": "dp",
+     "e": "to/for the demons",
+     "g": "τοῖς δαιμονίοις",
+     "l": 4,
+     "ph": "toys dai-mo-NEE-oys"
+    }
+   ],
    "p": "noun",
    "ph": "dai-MO-nee-on, to"
   },
@@ -1548,6 +1738,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "eye (→ ophthalmology)",
    "f": {
     "acc": "τὸν ὀφθαλμόν",
@@ -1563,6 +1754,128 @@
    "gen": "m",
    "id": "11:ὀφθαλμός",
    "m": "\"ophthalmology\" — the doctor who treats the *eye*",
+   "nf": [
+    {
+     "a": [
+      "the eye"
+     ],
+     "ab": [
+      "eye"
+     ],
+     "b": "ὀφθαλμός",
+     "cn": "ns",
+     "e": "the eye",
+     "g": "ὁ ὀφθαλμός",
+     "l": 4,
+     "ph": "ho o-fthahl-MOS"
+    },
+    {
+     "a": [
+      "of the eye"
+     ],
+     "ab": [
+      "eye"
+     ],
+     "b": "ὀφθαλμοῦ",
+     "cn": "gs",
+     "e": "of the eye",
+     "g": "τοῦ ὀφθαλμοῦ",
+     "l": 4,
+     "ph": "too o-fthahl-MOO"
+    },
+    {
+     "a": [
+      "to the eye",
+      "for the eye",
+      "in the eye",
+      "by the eye",
+      "with the eye"
+     ],
+     "ab": [
+      "eye"
+     ],
+     "b": "ὀφθαλμῷ",
+     "cn": "ds",
+     "e": "to/for the eye",
+     "g": "τῷ ὀφθαλμῷ",
+     "l": 4,
+     "ph": "toh o-fthahl-MOH"
+    },
+    {
+     "a": [
+      "the eye"
+     ],
+     "ab": [
+      "eye"
+     ],
+     "b": "ὀφθαλμόν",
+     "cn": "as",
+     "e": "the eye",
+     "g": "τὸν ὀφθαλμόν",
+     "l": 4,
+     "ph": "ton o-fthahl-MON"
+    },
+    {
+     "a": [
+      "the eyes"
+     ],
+     "ab": [
+      "eyes"
+     ],
+     "b": "ὀφθαλμοί",
+     "cn": "np",
+     "e": "the eyes",
+     "g": "οἱ ὀφθαλμοί",
+     "l": 4,
+     "ph": "hoy o-fthahl-MOY"
+    },
+    {
+     "a": [
+      "of the eyes"
+     ],
+     "ab": [
+      "eyes"
+     ],
+     "b": "ὀφθαλμῶν",
+     "cn": "gp",
+     "e": "of the eyes",
+     "g": "τῶν ὀφθαλμῶν",
+     "l": 4,
+     "ph": "tohn o-fthahl-MOHN"
+    },
+    {
+     "a": [
+      "to the eyes",
+      "for the eyes",
+      "in the eyes",
+      "by the eyes",
+      "with the eyes"
+     ],
+     "ab": [
+      "eyes"
+     ],
+     "b": "ὀφθαλμοῖς",
+     "cn": "dp",
+     "e": "to/for the eyes",
+     "g": "τοῖς ὀφθαλμοῖς",
+     "l": 4,
+     "ph": "toys o-fthahl-MOYS"
+    },
+    {
+     "a": [
+      "the eyes"
+     ],
+     "ab": [
+      "eyes"
+     ],
+     "b": "ὀφθαλμούς",
+     "cn": "ap",
+     "e": "the eyes",
+     "g": "τοὺς ὀφθαλμούς",
+     "l": 4,
+     "ph": "toos o-fthahl-MOOS"
+    }
+   ],
    "p": "noun",
    "ph": "o-fthahl-MOS, ho"
   },
@@ -1588,6 +1901,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "place (→ topography, topic)",
    "f": {
     "acc": "τὸν τόπον",
@@ -1603,6 +1917,128 @@
    "gen": "m",
    "id": "11:τόπος",
    "m": "\"topography\" — mapping a *place*; \"topic\" — a *place* in an argument",
+   "nf": [
+    {
+     "a": [
+      "the place"
+     ],
+     "ab": [
+      "place"
+     ],
+     "b": "τόπος",
+     "cn": "ns",
+     "e": "the place",
+     "g": "ὁ τόπος",
+     "l": 4,
+     "ph": "ho TO-pos"
+    },
+    {
+     "a": [
+      "of the place"
+     ],
+     "ab": [
+      "place"
+     ],
+     "b": "τόπου",
+     "cn": "gs",
+     "e": "of the place",
+     "g": "τοῦ τόπου",
+     "l": 4,
+     "ph": "too TO-poo"
+    },
+    {
+     "a": [
+      "to the place",
+      "for the place",
+      "in the place",
+      "by the place",
+      "with the place"
+     ],
+     "ab": [
+      "place"
+     ],
+     "b": "τόπῳ",
+     "cn": "ds",
+     "e": "to/for the place",
+     "g": "τῷ τόπῳ",
+     "l": 4,
+     "ph": "toh TO-poh"
+    },
+    {
+     "a": [
+      "the place"
+     ],
+     "ab": [
+      "place"
+     ],
+     "b": "τόπον",
+     "cn": "as",
+     "e": "the place",
+     "g": "τὸν τόπον",
+     "l": 4,
+     "ph": "ton TO-pon"
+    },
+    {
+     "a": [
+      "the places"
+     ],
+     "ab": [
+      "places"
+     ],
+     "b": "τόποι",
+     "cn": "np",
+     "e": "the places",
+     "g": "οἱ τόποι",
+     "l": 4,
+     "ph": "hoy TO-poy"
+    },
+    {
+     "a": [
+      "of the places"
+     ],
+     "ab": [
+      "places"
+     ],
+     "b": "τόπων",
+     "cn": "gp",
+     "e": "of the places",
+     "g": "τῶν τόπων",
+     "l": 4,
+     "ph": "tohn TO-pohn"
+    },
+    {
+     "a": [
+      "to the places",
+      "for the places",
+      "in the places",
+      "by the places",
+      "with the places"
+     ],
+     "ab": [
+      "places"
+     ],
+     "b": "τόποις",
+     "cn": "dp",
+     "e": "to/for the places",
+     "g": "τοῖς τόποις",
+     "l": 4,
+     "ph": "toys TO-poys"
+    },
+    {
+     "a": [
+      "the places"
+     ],
+     "ab": [
+      "places"
+     ],
+     "b": "τόπους",
+     "cn": "ap",
+     "e": "the places",
+     "g": "τοὺς τόπους",
+     "l": 4,
+     "ph": "toos TO-poos"
+    }
+   ],
    "p": "noun",
    "ph": "TO-pos, ho"
   },

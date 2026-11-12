@@ -4,6 +4,7 @@
  "words": [
   {
    "c": "",
+   "d": 2,
    "e": "brother",
    "f": {
     "acc": "τὸν ἀδελφόν",
@@ -19,6 +20,128 @@
    "gen": "",
    "id": "4:ἀδελφός",
    "m": "the male form of ἀδελφή (sister, L3): same root, -ός for the brother",
+   "nf": [
+    {
+     "a": [
+      "the brother"
+     ],
+     "ab": [
+      "brother"
+     ],
+     "b": "ἀδελφός",
+     "cn": "ns",
+     "e": "the brother",
+     "g": "ὁ ἀδελφός",
+     "l": 4,
+     "ph": "ho ah-dehl-FOS"
+    },
+    {
+     "a": [
+      "of the brother"
+     ],
+     "ab": [
+      "brother"
+     ],
+     "b": "ἀδελφοῦ",
+     "cn": "gs",
+     "e": "of the brother",
+     "g": "τοῦ ἀδελφοῦ",
+     "l": 4,
+     "ph": "too ah-dehl-FOO"
+    },
+    {
+     "a": [
+      "to the brother",
+      "for the brother",
+      "in the brother",
+      "by the brother",
+      "with the brother"
+     ],
+     "ab": [
+      "brother"
+     ],
+     "b": "ἀδελφῷ",
+     "cn": "ds",
+     "e": "to/for the brother",
+     "g": "τῷ ἀδελφῷ",
+     "l": 4,
+     "ph": "toh ah-dehl-FOH"
+    },
+    {
+     "a": [
+      "the brother"
+     ],
+     "ab": [
+      "brother"
+     ],
+     "b": "ἀδελφόν",
+     "cn": "as",
+     "e": "the brother",
+     "g": "τὸν ἀδελφόν",
+     "l": 4,
+     "ph": "ton ah-dehl-FON"
+    },
+    {
+     "a": [
+      "the brothers"
+     ],
+     "ab": [
+      "brothers"
+     ],
+     "b": "ἀδελφοί",
+     "cn": "np",
+     "e": "the brothers",
+     "g": "οἱ ἀδελφοί",
+     "l": 4,
+     "ph": "hoy ah-dehl-FOY"
+    },
+    {
+     "a": [
+      "of the brothers"
+     ],
+     "ab": [
+      "brothers"
+     ],
+     "b": "ἀδελφῶν",
+     "cn": "gp",
+     "e": "of the brothers",
+     "g": "τῶν ἀδελφῶν",
+     "l": 4,
+     "ph": "tohn ah-dehl-FOHN"
+    },
+    {
+     "a": [
+      "to the brothers",
+      "for the brothers",
+      "in the brothers",
+      "by the brothers",
+      "with the brothers"
+     ],
+     "ab": [
+      "brothers"
+     ],
+     "b": "ἀδελφοῖς",
+     "cn": "dp",
+     "e": "to/for the brothers",
+     "g": "τοῖς ἀδελφοῖς",
+     "l": 4,
+     "ph": "toys ah-dehl-FOYS"
+    },
+    {
+     "a": [
+      "the brothers"
+     ],
+     "ab": [
+      "brothers"
+     ],
+     "b": "ἀδελφούς",
+     "cn": "ap",
+     "e": "the brothers",
+     "g": "τοὺς ἀδελφούς",
+     "l": 4,
+     "ph": "toos ah-dehl-FOOS"
+    }
+   ],
    "p": "noun",
    "ph": "ah-dehl-FOS"
   },
@@ -34,6 +157,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "human, person, man",
    "f": {
     "acc": "τὸν ἄνθρωπον",
@@ -49,6 +173,176 @@
    "gen": "",
    "id": "4:ἄνθρωπος",
    "m": "\"anthropology\" — the study of *humans*",
+   "nf": [
+    {
+     "a": [
+      "the human",
+      "the person",
+      "the man"
+     ],
+     "ab": [
+      "human",
+      "person",
+      "man"
+     ],
+     "b": "ἄνθρωπος",
+     "cn": "ns",
+     "e": "the human",
+     "g": "ὁ ἄνθρωπος",
+     "l": 4,
+     "ph": "ho AHN-throh-pos"
+    },
+    {
+     "a": [
+      "of the human",
+      "of the person",
+      "of the man"
+     ],
+     "ab": [
+      "human",
+      "person",
+      "man"
+     ],
+     "b": "ἀνθρώπου",
+     "cn": "gs",
+     "e": "of the human",
+     "g": "τοῦ ἀνθρώπου",
+     "l": 4,
+     "ph": "too ahn-THROH-poo"
+    },
+    {
+     "a": [
+      "to the human",
+      "for the human",
+      "in the human",
+      "by the human",
+      "with the human",
+      "to the person",
+      "for the person",
+      "in the person",
+      "by the person",
+      "with the person",
+      "to the man",
+      "for the man",
+      "in the man",
+      "by the man",
+      "with the man"
+     ],
+     "ab": [
+      "human",
+      "person",
+      "man"
+     ],
+     "b": "ἀνθρώπῳ",
+     "cn": "ds",
+     "e": "to/for the human",
+     "g": "τῷ ἀνθρώπῳ",
+     "l": 4,
+     "ph": "toh ahn-THROH-poh"
+    },
+    {
+     "a": [
+      "the human",
+      "the person",
+      "the man"
+     ],
+     "ab": [
+      "human",
+      "person",
+      "man"
+     ],
+     "b": "ἄνθρωπον",
+     "cn": "as",
+     "e": "the human",
+     "g": "τὸν ἄνθρωπον",
+     "l": 4,
+     "ph": "ton AHN-throh-pon"
+    },
+    {
+     "a": [
+      "the humans",
+      "the people",
+      "the men"
+     ],
+     "ab": [
+      "humans",
+      "people",
+      "men"
+     ],
+     "b": "ἄνθρωποι",
+     "cn": "np",
+     "e": "the humans",
+     "g": "οἱ ἄνθρωποι",
+     "l": 4,
+     "ph": "hoy AHN-throh-poy"
+    },
+    {
+     "a": [
+      "of the humans",
+      "of the people",
+      "of the men"
+     ],
+     "ab": [
+      "humans",
+      "people",
+      "men"
+     ],
+     "b": "ἀνθρώπων",
+     "cn": "gp",
+     "e": "of the humans",
+     "g": "τῶν ἀνθρώπων",
+     "l": 4,
+     "ph": "tohn ahn-THROH-pohn"
+    },
+    {
+     "a": [
+      "to the humans",
+      "for the humans",
+      "in the humans",
+      "by the humans",
+      "with the humans",
+      "to the people",
+      "for the people",
+      "in the people",
+      "by the people",
+      "with the people",
+      "to the men",
+      "for the men",
+      "in the men",
+      "by the men",
+      "with the men"
+     ],
+     "ab": [
+      "humans",
+      "people",
+      "men"
+     ],
+     "b": "ἀνθρώποις",
+     "cn": "dp",
+     "e": "to/for the humans",
+     "g": "τοῖς ἀνθρώποις",
+     "l": 4,
+     "ph": "toys ahn-THROH-poys"
+    },
+    {
+     "a": [
+      "the humans",
+      "the people",
+      "the men"
+     ],
+     "ab": [
+      "humans",
+      "people",
+      "men"
+     ],
+     "b": "ἀνθρώπους",
+     "cn": "ap",
+     "e": "the humans",
+     "g": "τοὺς ἀνθρώπους",
+     "l": 4,
+     "ph": "toos ahn-THROH-poos"
+    }
+   ],
    "p": "noun",
    "ph": "AHN-throh-pos"
   },
@@ -64,6 +358,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "slave, servant",
    "f": {
     "acc": "τὸν δοῦλον",
@@ -79,11 +374,158 @@
    "gen": "",
    "id": "4:δοῦλος",
    "m": "sounds like \"doo-los\" — think of \"dues,\" someone bound to *serve*",
+   "nf": [
+    {
+     "a": [
+      "the slave",
+      "the servant"
+     ],
+     "ab": [
+      "slave",
+      "servant"
+     ],
+     "b": "δοῦλος",
+     "cn": "ns",
+     "e": "the slave",
+     "g": "ὁ δοῦλος",
+     "l": 4,
+     "ph": "ho DOO-los"
+    },
+    {
+     "a": [
+      "of the slave",
+      "of the servant"
+     ],
+     "ab": [
+      "slave",
+      "servant"
+     ],
+     "b": "δούλου",
+     "cn": "gs",
+     "e": "of the slave",
+     "g": "τοῦ δούλου",
+     "l": 4,
+     "ph": "too DOO-loo"
+    },
+    {
+     "a": [
+      "to the slave",
+      "for the slave",
+      "in the slave",
+      "by the slave",
+      "with the slave",
+      "to the servant",
+      "for the servant",
+      "in the servant",
+      "by the servant",
+      "with the servant"
+     ],
+     "ab": [
+      "slave",
+      "servant"
+     ],
+     "b": "δούλῳ",
+     "cn": "ds",
+     "e": "to/for the slave",
+     "g": "τῷ δούλῳ",
+     "l": 4,
+     "ph": "toh DOO-loh"
+    },
+    {
+     "a": [
+      "the slave",
+      "the servant"
+     ],
+     "ab": [
+      "slave",
+      "servant"
+     ],
+     "b": "δοῦλον",
+     "cn": "as",
+     "e": "the slave",
+     "g": "τὸν δοῦλον",
+     "l": 4,
+     "ph": "ton DOO-lon"
+    },
+    {
+     "a": [
+      "the slaves",
+      "the servants"
+     ],
+     "ab": [
+      "slaves",
+      "servants"
+     ],
+     "b": "δοῦλοι",
+     "cn": "np",
+     "e": "the slaves",
+     "g": "οἱ δοῦλοι",
+     "l": 4,
+     "ph": "hoy DOO-loy"
+    },
+    {
+     "a": [
+      "of the slaves",
+      "of the servants"
+     ],
+     "ab": [
+      "slaves",
+      "servants"
+     ],
+     "b": "δούλων",
+     "cn": "gp",
+     "e": "of the slaves",
+     "g": "τῶν δούλων",
+     "l": 4,
+     "ph": "tohn DOO-lohn"
+    },
+    {
+     "a": [
+      "to the slaves",
+      "for the slaves",
+      "in the slaves",
+      "by the slaves",
+      "with the slaves",
+      "to the servants",
+      "for the servants",
+      "in the servants",
+      "by the servants",
+      "with the servants"
+     ],
+     "ab": [
+      "slaves",
+      "servants"
+     ],
+     "b": "δούλοις",
+     "cn": "dp",
+     "e": "to/for the slaves",
+     "g": "τοῖς δούλοις",
+     "l": 4,
+     "ph": "toys DOO-loys"
+    },
+    {
+     "a": [
+      "the slaves",
+      "the servants"
+     ],
+     "ab": [
+      "slaves",
+      "servants"
+     ],
+     "b": "δούλους",
+     "cn": "ap",
+     "e": "the slaves",
+     "g": "τοὺς δούλους",
+     "l": 4,
+     "ph": "toos DOO-loos"
+    }
+   ],
    "p": "noun",
    "ph": "DOO-los"
   },
   {
    "c": "",
+   "d": 2,
    "e": "deed, work",
    "f": {
     "acc": "τὸ ἔργον",
@@ -99,11 +541,126 @@
    "gen": "",
    "id": "4:ἔργον",
    "m": "\"ergonomic,\" \"energy\" — related to *work*",
+   "nf": [
+    {
+     "a": [
+      "the deed",
+      "the work"
+     ],
+     "ab": [
+      "deed",
+      "work"
+     ],
+     "b": "ἔργον",
+     "cn": "ns/as",
+     "e": "the deed",
+     "g": "τὸ ἔργον",
+     "l": 4,
+     "ph": "to EHR-gon"
+    },
+    {
+     "a": [
+      "of the deed",
+      "of the work"
+     ],
+     "ab": [
+      "deed",
+      "work"
+     ],
+     "b": "ἔργου",
+     "cn": "gs",
+     "e": "of the deed",
+     "g": "τοῦ ἔργου",
+     "l": 4,
+     "ph": "too EHR-goo"
+    },
+    {
+     "a": [
+      "to the deed",
+      "for the deed",
+      "in the deed",
+      "by the deed",
+      "with the deed",
+      "to the work",
+      "for the work",
+      "in the work",
+      "by the work",
+      "with the work"
+     ],
+     "ab": [
+      "deed",
+      "work"
+     ],
+     "b": "ἔργῳ",
+     "cn": "ds",
+     "e": "to/for the deed",
+     "g": "τῷ ἔργῳ",
+     "l": 4,
+     "ph": "toh EHR-goh"
+    },
+    {
+     "a": [
+      "the deeds",
+      "the works"
+     ],
+     "ab": [
+      "deeds",
+      "works"
+     ],
+     "b": "ἔργα",
+     "cn": "np/ap",
+     "e": "the deeds",
+     "g": "τὰ ἔργα",
+     "l": 4,
+     "ph": "tah EHR-gah"
+    },
+    {
+     "a": [
+      "of the deeds",
+      "of the works"
+     ],
+     "ab": [
+      "deeds",
+      "works"
+     ],
+     "b": "ἔργων",
+     "cn": "gp",
+     "e": "of the deeds",
+     "g": "τῶν ἔργων",
+     "l": 4,
+     "ph": "tohn EHR-gohn"
+    },
+    {
+     "a": [
+      "to the deeds",
+      "for the deeds",
+      "in the deeds",
+      "by the deeds",
+      "with the deeds",
+      "to the works",
+      "for the works",
+      "in the works",
+      "by the works",
+      "with the works"
+     ],
+     "ab": [
+      "deeds",
+      "works"
+     ],
+     "b": "ἔργοις",
+     "cn": "dp",
+     "e": "to/for the deeds",
+     "g": "τοῖς ἔργοις",
+     "l": 4,
+     "ph": "toys EHR-goys"
+    }
+   ],
    "p": "noun",
    "ph": "EHR-gon"
   },
   {
    "c": "",
+   "d": 2,
    "e": "death",
    "f": {
     "acc": "τὸν θάνατον",
@@ -119,11 +676,134 @@
    "gen": "",
    "id": "4:θάνατος",
    "m": "Sounds like Thanos — who brings death",
+   "nf": [
+    {
+     "a": [
+      "the death"
+     ],
+     "ab": [
+      "death"
+     ],
+     "b": "θάνατος",
+     "cn": "ns",
+     "e": "the death",
+     "g": "ὁ θάνατος",
+     "l": 4,
+     "ph": "ho THAH-nah-tos"
+    },
+    {
+     "a": [
+      "of the death"
+     ],
+     "ab": [
+      "death"
+     ],
+     "b": "θανάτου",
+     "cn": "gs",
+     "e": "of the death",
+     "g": "τοῦ θανάτου",
+     "l": 4,
+     "ph": "too thah-NAH-too"
+    },
+    {
+     "a": [
+      "to the death",
+      "for the death",
+      "in the death",
+      "by the death",
+      "with the death"
+     ],
+     "ab": [
+      "death"
+     ],
+     "b": "θανάτῳ",
+     "cn": "ds",
+     "e": "to/for the death",
+     "g": "τῷ θανάτῳ",
+     "l": 4,
+     "ph": "toh thah-NAH-toh"
+    },
+    {
+     "a": [
+      "the death"
+     ],
+     "ab": [
+      "death"
+     ],
+     "b": "θάνατον",
+     "cn": "as",
+     "e": "the death",
+     "g": "τὸν θάνατον",
+     "l": 4,
+     "ph": "ton THAH-nah-ton"
+    },
+    {
+     "a": [
+      "the deaths"
+     ],
+     "ab": [
+      "deaths"
+     ],
+     "b": "θάνατοι",
+     "cn": "np",
+     "e": "the deaths",
+     "g": "οἱ θάνατοι",
+     "l": 4,
+     "ph": "hoy THAH-nah-toy"
+    },
+    {
+     "a": [
+      "of the deaths"
+     ],
+     "ab": [
+      "deaths"
+     ],
+     "b": "θανάτων",
+     "cn": "gp",
+     "e": "of the deaths",
+     "g": "τῶν θανάτων",
+     "l": 4,
+     "ph": "tohn thah-NAH-tohn"
+    },
+    {
+     "a": [
+      "to the deaths",
+      "for the deaths",
+      "in the deaths",
+      "by the deaths",
+      "with the deaths"
+     ],
+     "ab": [
+      "deaths"
+     ],
+     "b": "θανάτοις",
+     "cn": "dp",
+     "e": "to/for the deaths",
+     "g": "τοῖς θανάτοις",
+     "l": 4,
+     "ph": "toys thah-NAH-toys"
+    },
+    {
+     "a": [
+      "the deaths"
+     ],
+     "ab": [
+      "deaths"
+     ],
+     "b": "θανάτους",
+     "cn": "ap",
+     "e": "the deaths",
+     "g": "τοὺς θανάτους",
+     "l": 4,
+     "ph": "toos thah-NAH-toos"
+    }
+   ],
    "p": "noun",
    "ph": "THAH-nah-tos"
   },
   {
    "c": "",
+   "d": 2,
    "e": "God, god",
    "f": {
     "acc": "τὸν θεόν",
@@ -139,11 +819,134 @@
    "gen": "",
    "id": "4:θεός",
    "m": "\"theology,\" \"theist\" — the study of *God*",
+   "nf": [
+    {
+     "a": [
+      "the God"
+     ],
+     "ab": [
+      "God"
+     ],
+     "b": "θεός",
+     "cn": "ns",
+     "e": "the God",
+     "g": "ὁ θεός",
+     "l": 4,
+     "ph": "ho theh-OS"
+    },
+    {
+     "a": [
+      "of the God"
+     ],
+     "ab": [
+      "God"
+     ],
+     "b": "θεοῦ",
+     "cn": "gs",
+     "e": "of the God",
+     "g": "τοῦ θεοῦ",
+     "l": 4,
+     "ph": "too theh-OO"
+    },
+    {
+     "a": [
+      "to the God",
+      "for the God",
+      "in the God",
+      "by the God",
+      "with the God"
+     ],
+     "ab": [
+      "God"
+     ],
+     "b": "θεῷ",
+     "cn": "ds",
+     "e": "to/for the God",
+     "g": "τῷ θεῷ",
+     "l": 4,
+     "ph": "toh theh-OH"
+    },
+    {
+     "a": [
+      "the God"
+     ],
+     "ab": [
+      "God"
+     ],
+     "b": "θεόν",
+     "cn": "as",
+     "e": "the God",
+     "g": "τὸν θεόν",
+     "l": 4,
+     "ph": "ton theh-ON"
+    },
+    {
+     "a": [
+      "the gods"
+     ],
+     "ab": [
+      "gods"
+     ],
+     "b": "θεοί",
+     "cn": "np",
+     "e": "the gods",
+     "g": "οἱ θεοί",
+     "l": 4,
+     "ph": "hoy theh-OY"
+    },
+    {
+     "a": [
+      "of the gods"
+     ],
+     "ab": [
+      "gods"
+     ],
+     "b": "θεῶν",
+     "cn": "gp",
+     "e": "of the gods",
+     "g": "τῶν θεῶν",
+     "l": 4,
+     "ph": "tohn theh-OHN"
+    },
+    {
+     "a": [
+      "to the gods",
+      "for the gods",
+      "in the gods",
+      "by the gods",
+      "with the gods"
+     ],
+     "ab": [
+      "gods"
+     ],
+     "b": "θεοῖς",
+     "cn": "dp",
+     "e": "to/for the gods",
+     "g": "τοῖς θεοῖς",
+     "l": 4,
+     "ph": "toys theh-OYS"
+    },
+    {
+     "a": [
+      "the gods"
+     ],
+     "ab": [
+      "gods"
+     ],
+     "b": "θεούς",
+     "cn": "ap",
+     "e": "the gods",
+     "g": "τοὺς θεούς",
+     "l": 4,
+     "ph": "toos theh-OOS"
+    }
+   ],
    "p": "noun",
    "ph": "theh-OS"
   },
   {
    "c": "",
+   "d": 2,
    "e": "Lord, master, owner",
    "f": {
     "acc": "τὸν κύριον",
@@ -159,11 +962,182 @@
    "gen": "",
    "id": "4:κύριος",
    "m": "liturgical \"Kyrie eleison\" = \"*Lord*, have mercy\"",
+   "nf": [
+    {
+     "a": [
+      "the Lord",
+      "the master",
+      "the owner"
+     ],
+     "ab": [
+      "Lord",
+      "master",
+      "owner"
+     ],
+     "b": "κύριος",
+     "cn": "ns",
+     "e": "the Lord",
+     "g": "ὁ κύριος",
+     "l": 4,
+     "ph": "ho KÜ-ree-os"
+    },
+    {
+     "a": [
+      "of the Lord",
+      "of the master",
+      "of the owner"
+     ],
+     "ab": [
+      "Lord",
+      "master",
+      "owner"
+     ],
+     "b": "κυρίου",
+     "cn": "gs",
+     "e": "of the Lord",
+     "g": "τοῦ κυρίου",
+     "l": 4,
+     "ph": "too kü-REE-oo"
+    },
+    {
+     "a": [
+      "to the Lord",
+      "for the Lord",
+      "in the Lord",
+      "by the Lord",
+      "with the Lord",
+      "to the master",
+      "for the master",
+      "in the master",
+      "by the master",
+      "with the master",
+      "to the owner",
+      "for the owner",
+      "in the owner",
+      "by the owner",
+      "with the owner"
+     ],
+     "ab": [
+      "Lord",
+      "master",
+      "owner"
+     ],
+     "b": "κυρίῳ",
+     "cn": "ds",
+     "e": "to/for the Lord",
+     "g": "τῷ κυρίῳ",
+     "l": 4,
+     "ph": "toh kü-REE-oh"
+    },
+    {
+     "a": [
+      "the Lord",
+      "the master",
+      "the owner"
+     ],
+     "ab": [
+      "Lord",
+      "master",
+      "owner"
+     ],
+     "b": "κύριον",
+     "cn": "as",
+     "e": "the Lord",
+     "g": "τὸν κύριον",
+     "l": 4,
+     "ph": "ton KÜ-ree-on"
+    },
+    {
+     "a": [
+      "the lords",
+      "the masters",
+      "the owners"
+     ],
+     "ab": [
+      "lords",
+      "masters",
+      "owners"
+     ],
+     "b": "κύριοι",
+     "cn": "np",
+     "e": "the lords",
+     "g": "οἱ κύριοι",
+     "l": 4,
+     "ph": "hoy KÜ-ree-oy"
+    },
+    {
+     "a": [
+      "of the lords",
+      "of the masters",
+      "of the owners"
+     ],
+     "ab": [
+      "lords",
+      "masters",
+      "owners"
+     ],
+     "b": "κυρίων",
+     "cn": "gp",
+     "e": "of the lords",
+     "g": "τῶν κυρίων",
+     "l": 4,
+     "ph": "tohn kü-REE-ohn"
+    },
+    {
+     "a": [
+      "to the lords",
+      "for the lords",
+      "in the lords",
+      "by the lords",
+      "with the lords",
+      "to the masters",
+      "for the masters",
+      "in the masters",
+      "by the masters",
+      "with the masters",
+      "to the owners",
+      "for the owners",
+      "in the owners",
+      "by the owners",
+      "with the owners"
+     ],
+     "ab": [
+      "lords",
+      "masters",
+      "owners"
+     ],
+     "b": "κυρίοις",
+     "cn": "dp",
+     "e": "to/for the lords",
+     "g": "τοῖς κυρίοις",
+     "l": 4,
+     "ph": "toys kü-REE-oys"
+    },
+    {
+     "a": [
+      "the lords",
+      "the masters",
+      "the owners"
+     ],
+     "ab": [
+      "lords",
+      "masters",
+      "owners"
+     ],
+     "b": "κυρίους",
+     "cn": "ap",
+     "e": "the lords",
+     "g": "τοὺς κυρίους",
+     "l": 4,
+     "ph": "toos kü-REE-oos"
+    }
+   ],
    "p": "noun",
    "ph": "KÜ-ree-os"
   },
   {
    "c": "",
+   "d": 2,
    "e": "word, logic, thought",
    "f": {
     "acc": "τὸν λόγον",
@@ -179,11 +1153,182 @@
    "gen": "",
    "id": "4:λόγος",
    "m": "\"logic,\" \"-ology\" suffix — *word*, reasoned thought",
+   "nf": [
+    {
+     "a": [
+      "the word",
+      "the logic",
+      "the thought"
+     ],
+     "ab": [
+      "word",
+      "logic",
+      "thought"
+     ],
+     "b": "λόγος",
+     "cn": "ns",
+     "e": "the word",
+     "g": "ὁ λόγος",
+     "l": 4,
+     "ph": "ho LO-gos"
+    },
+    {
+     "a": [
+      "of the word",
+      "of the logic",
+      "of the thought"
+     ],
+     "ab": [
+      "word",
+      "logic",
+      "thought"
+     ],
+     "b": "λόγου",
+     "cn": "gs",
+     "e": "of the word",
+     "g": "τοῦ λόγου",
+     "l": 4,
+     "ph": "too LO-goo"
+    },
+    {
+     "a": [
+      "to the word",
+      "for the word",
+      "in the word",
+      "by the word",
+      "with the word",
+      "to the logic",
+      "for the logic",
+      "in the logic",
+      "by the logic",
+      "with the logic",
+      "to the thought",
+      "for the thought",
+      "in the thought",
+      "by the thought",
+      "with the thought"
+     ],
+     "ab": [
+      "word",
+      "logic",
+      "thought"
+     ],
+     "b": "λόγῳ",
+     "cn": "ds",
+     "e": "to/for the word",
+     "g": "τῷ λόγῳ",
+     "l": 4,
+     "ph": "toh LO-goh"
+    },
+    {
+     "a": [
+      "the word",
+      "the logic",
+      "the thought"
+     ],
+     "ab": [
+      "word",
+      "logic",
+      "thought"
+     ],
+     "b": "λόγον",
+     "cn": "as",
+     "e": "the word",
+     "g": "τὸν λόγον",
+     "l": 4,
+     "ph": "ton LO-gon"
+    },
+    {
+     "a": [
+      "the words",
+      "the logic",
+      "the thoughts"
+     ],
+     "ab": [
+      "words",
+      "logic",
+      "thoughts"
+     ],
+     "b": "λόγοι",
+     "cn": "np",
+     "e": "the words",
+     "g": "οἱ λόγοι",
+     "l": 4,
+     "ph": "hoy LO-goy"
+    },
+    {
+     "a": [
+      "of the words",
+      "of the logic",
+      "of the thoughts"
+     ],
+     "ab": [
+      "words",
+      "logic",
+      "thoughts"
+     ],
+     "b": "λόγων",
+     "cn": "gp",
+     "e": "of the words",
+     "g": "τῶν λόγων",
+     "l": 4,
+     "ph": "tohn LO-gohn"
+    },
+    {
+     "a": [
+      "to the words",
+      "for the words",
+      "in the words",
+      "by the words",
+      "with the words",
+      "to the logic",
+      "for the logic",
+      "in the logic",
+      "by the logic",
+      "with the logic",
+      "to the thoughts",
+      "for the thoughts",
+      "in the thoughts",
+      "by the thoughts",
+      "with the thoughts"
+     ],
+     "ab": [
+      "words",
+      "logic",
+      "thoughts"
+     ],
+     "b": "λόγοις",
+     "cn": "dp",
+     "e": "to/for the words",
+     "g": "τοῖς λόγοις",
+     "l": 4,
+     "ph": "toys LO-goys"
+    },
+    {
+     "a": [
+      "the words",
+      "the logic",
+      "the thoughts"
+     ],
+     "ab": [
+      "words",
+      "logic",
+      "thoughts"
+     ],
+     "b": "λόγους",
+     "cn": "ap",
+     "e": "the words",
+     "g": "τοὺς λόγους",
+     "l": 4,
+     "ph": "toos LO-goos"
+    }
+   ],
    "p": "noun",
    "ph": "LO-gos"
   },
   {
    "c": "",
+   "d": 2,
    "e": "law",
    "f": {
     "acc": "τὸν νόμον",
@@ -199,11 +1344,134 @@
    "gen": "",
    "id": "4:νόμος",
    "m": "\"economy\" (oikos+nomos = household *law*/management), \"autonomy\"",
+   "nf": [
+    {
+     "a": [
+      "the law"
+     ],
+     "ab": [
+      "law"
+     ],
+     "b": "νόμος",
+     "cn": "ns",
+     "e": "the law",
+     "g": "ὁ νόμος",
+     "l": 4,
+     "ph": "ho NO-mos"
+    },
+    {
+     "a": [
+      "of the law"
+     ],
+     "ab": [
+      "law"
+     ],
+     "b": "νόμου",
+     "cn": "gs",
+     "e": "of the law",
+     "g": "τοῦ νόμου",
+     "l": 4,
+     "ph": "too NO-moo"
+    },
+    {
+     "a": [
+      "to the law",
+      "for the law",
+      "in the law",
+      "by the law",
+      "with the law"
+     ],
+     "ab": [
+      "law"
+     ],
+     "b": "νόμῳ",
+     "cn": "ds",
+     "e": "to/for the law",
+     "g": "τῷ νόμῳ",
+     "l": 4,
+     "ph": "toh NO-moh"
+    },
+    {
+     "a": [
+      "the law"
+     ],
+     "ab": [
+      "law"
+     ],
+     "b": "νόμον",
+     "cn": "as",
+     "e": "the law",
+     "g": "τὸν νόμον",
+     "l": 4,
+     "ph": "ton NO-mon"
+    },
+    {
+     "a": [
+      "the laws"
+     ],
+     "ab": [
+      "laws"
+     ],
+     "b": "νόμοι",
+     "cn": "np",
+     "e": "the laws",
+     "g": "οἱ νόμοι",
+     "l": 4,
+     "ph": "hoy NO-moy"
+    },
+    {
+     "a": [
+      "of the laws"
+     ],
+     "ab": [
+      "laws"
+     ],
+     "b": "νόμων",
+     "cn": "gp",
+     "e": "of the laws",
+     "g": "τῶν νόμων",
+     "l": 4,
+     "ph": "tohn NO-mohn"
+    },
+    {
+     "a": [
+      "to the laws",
+      "for the laws",
+      "in the laws",
+      "by the laws",
+      "with the laws"
+     ],
+     "ab": [
+      "laws"
+     ],
+     "b": "νόμοις",
+     "cn": "dp",
+     "e": "to/for the laws",
+     "g": "τοῖς νόμοις",
+     "l": 4,
+     "ph": "toys NO-moys"
+    },
+    {
+     "a": [
+      "the laws"
+     ],
+     "ab": [
+      "laws"
+     ],
+     "b": "νόμους",
+     "cn": "ap",
+     "e": "the laws",
+     "g": "τοὺς νόμους",
+     "l": 4,
+     "ph": "toos NO-moos"
+    }
+   ],
    "p": "noun",
    "ph": "NO-mos"
   },
   {
    "c": "",
+   "d": 2,
    "e": "house",
    "f": {
     "acc": "τὸν οἶκον",
@@ -219,11 +1487,134 @@
    "gen": "",
    "id": "4:οἶκος",
    "m": "\"economy,\" \"ecology\" — root meaning *house*/household",
+   "nf": [
+    {
+     "a": [
+      "the house"
+     ],
+     "ab": [
+      "house"
+     ],
+     "b": "οἶκος",
+     "cn": "ns",
+     "e": "the house",
+     "g": "ὁ οἶκος",
+     "l": 4,
+     "ph": "ho OY-kos"
+    },
+    {
+     "a": [
+      "of the house"
+     ],
+     "ab": [
+      "house"
+     ],
+     "b": "οἴκου",
+     "cn": "gs",
+     "e": "of the house",
+     "g": "τοῦ οἴκου",
+     "l": 4,
+     "ph": "too OY-koo"
+    },
+    {
+     "a": [
+      "to the house",
+      "for the house",
+      "in the house",
+      "by the house",
+      "with the house"
+     ],
+     "ab": [
+      "house"
+     ],
+     "b": "οἴκῳ",
+     "cn": "ds",
+     "e": "to/for the house",
+     "g": "τῷ οἴκῳ",
+     "l": 4,
+     "ph": "toh OY-koh"
+    },
+    {
+     "a": [
+      "the house"
+     ],
+     "ab": [
+      "house"
+     ],
+     "b": "οἶκον",
+     "cn": "as",
+     "e": "the house",
+     "g": "τὸν οἶκον",
+     "l": 4,
+     "ph": "ton OY-kon"
+    },
+    {
+     "a": [
+      "the houses"
+     ],
+     "ab": [
+      "houses"
+     ],
+     "b": "οἶκοι",
+     "cn": "np",
+     "e": "the houses",
+     "g": "οἱ οἶκοι",
+     "l": 4,
+     "ph": "hoy OY-koy"
+    },
+    {
+     "a": [
+      "of the houses"
+     ],
+     "ab": [
+      "houses"
+     ],
+     "b": "οἴκων",
+     "cn": "gp",
+     "e": "of the houses",
+     "g": "τῶν οἴκων",
+     "l": 4,
+     "ph": "tohn OY-kohn"
+    },
+    {
+     "a": [
+      "to the houses",
+      "for the houses",
+      "in the houses",
+      "by the houses",
+      "with the houses"
+     ],
+     "ab": [
+      "houses"
+     ],
+     "b": "οἴκοις",
+     "cn": "dp",
+     "e": "to/for the houses",
+     "g": "τοῖς οἴκοις",
+     "l": 4,
+     "ph": "toys OY-koys"
+    },
+    {
+     "a": [
+      "the houses"
+     ],
+     "ab": [
+      "houses"
+     ],
+     "b": "οἴκους",
+     "cn": "ap",
+     "e": "the houses",
+     "g": "τοὺς οἴκους",
+     "l": 4,
+     "ph": "toos OY-koos"
+    }
+   ],
    "p": "noun",
    "ph": "OY-kos"
   },
   {
    "c": "",
+   "d": 2,
    "e": "heaven, sky",
    "f": {
     "acc": "τὸν οὐρανόν",
@@ -239,11 +1630,158 @@
    "gen": "",
    "id": "4:οὐρανός",
    "m": "\"Uranus,\" the sky-god planet — *heaven*",
+   "nf": [
+    {
+     "a": [
+      "the heaven",
+      "the sky"
+     ],
+     "ab": [
+      "heaven",
+      "sky"
+     ],
+     "b": "οὐρανός",
+     "cn": "ns",
+     "e": "the heaven",
+     "g": "ὁ οὐρανός",
+     "l": 4,
+     "ph": "ho oo-rah-NOS"
+    },
+    {
+     "a": [
+      "of the heaven",
+      "of the sky"
+     ],
+     "ab": [
+      "heaven",
+      "sky"
+     ],
+     "b": "οὐρανοῦ",
+     "cn": "gs",
+     "e": "of the heaven",
+     "g": "τοῦ οὐρανοῦ",
+     "l": 4,
+     "ph": "too oo-rah-NOO"
+    },
+    {
+     "a": [
+      "to the heaven",
+      "for the heaven",
+      "in the heaven",
+      "by the heaven",
+      "with the heaven",
+      "to the sky",
+      "for the sky",
+      "in the sky",
+      "by the sky",
+      "with the sky"
+     ],
+     "ab": [
+      "heaven",
+      "sky"
+     ],
+     "b": "οὐρανῷ",
+     "cn": "ds",
+     "e": "to/for the heaven",
+     "g": "τῷ οὐρανῷ",
+     "l": 4,
+     "ph": "toh oo-rah-NOH"
+    },
+    {
+     "a": [
+      "the heaven",
+      "the sky"
+     ],
+     "ab": [
+      "heaven",
+      "sky"
+     ],
+     "b": "οὐρανόν",
+     "cn": "as",
+     "e": "the heaven",
+     "g": "τὸν οὐρανόν",
+     "l": 4,
+     "ph": "ton oo-rah-NON"
+    },
+    {
+     "a": [
+      "the heavens",
+      "the skies"
+     ],
+     "ab": [
+      "heavens",
+      "skies"
+     ],
+     "b": "οὐρανοί",
+     "cn": "np",
+     "e": "the heavens",
+     "g": "οἱ οὐρανοί",
+     "l": 4,
+     "ph": "hoy oo-rah-NOY"
+    },
+    {
+     "a": [
+      "of the heavens",
+      "of the skies"
+     ],
+     "ab": [
+      "heavens",
+      "skies"
+     ],
+     "b": "οὐρανῶν",
+     "cn": "gp",
+     "e": "of the heavens",
+     "g": "τῶν οὐρανῶν",
+     "l": 4,
+     "ph": "tohn oo-rah-NOHN"
+    },
+    {
+     "a": [
+      "to the heavens",
+      "for the heavens",
+      "in the heavens",
+      "by the heavens",
+      "with the heavens",
+      "to the skies",
+      "for the skies",
+      "in the skies",
+      "by the skies",
+      "with the skies"
+     ],
+     "ab": [
+      "heavens",
+      "skies"
+     ],
+     "b": "οὐρανοῖς",
+     "cn": "dp",
+     "e": "to/for the heavens",
+     "g": "τοῖς οὐρανοῖς",
+     "l": 4,
+     "ph": "toys oo-rah-NOYS"
+    },
+    {
+     "a": [
+      "the heavens",
+      "the skies"
+     ],
+     "ab": [
+      "heavens",
+      "skies"
+     ],
+     "b": "οὐρανούς",
+     "cn": "ap",
+     "e": "the heavens",
+     "g": "τοὺς οὐρανούς",
+     "l": 4,
+     "ph": "toos oo-rah-NOOS"
+    }
+   ],
    "p": "noun",
    "ph": "oo-rah-NOS"
   },
   {
    "c": "",
+   "d": 2,
    "e": "child",
    "f": {
     "acc": "τὸ τέκνον",
@@ -259,11 +1797,106 @@
    "gen": "",
    "id": "4:τέκνον",
    "m": "sounds like \"tech-known\" — a *child* you've come to know/raise",
+   "nf": [
+    {
+     "a": [
+      "the child"
+     ],
+     "ab": [
+      "child"
+     ],
+     "b": "τέκνον",
+     "cn": "ns/as",
+     "e": "the child",
+     "g": "τὸ τέκνον",
+     "l": 4,
+     "ph": "to TEH-knon"
+    },
+    {
+     "a": [
+      "of the child"
+     ],
+     "ab": [
+      "child"
+     ],
+     "b": "τέκνου",
+     "cn": "gs",
+     "e": "of the child",
+     "g": "τοῦ τέκνου",
+     "l": 4,
+     "ph": "too TEH-knoo"
+    },
+    {
+     "a": [
+      "to the child",
+      "for the child",
+      "in the child",
+      "by the child",
+      "with the child"
+     ],
+     "ab": [
+      "child"
+     ],
+     "b": "τέκνῳ",
+     "cn": "ds",
+     "e": "to/for the child",
+     "g": "τῷ τέκνῳ",
+     "l": 4,
+     "ph": "toh TEH-knoh"
+    },
+    {
+     "a": [
+      "the children"
+     ],
+     "ab": [
+      "children"
+     ],
+     "b": "τέκνα",
+     "cn": "np/ap",
+     "e": "the children",
+     "g": "τὰ τέκνα",
+     "l": 4,
+     "ph": "tah TEH-knah"
+    },
+    {
+     "a": [
+      "of the children"
+     ],
+     "ab": [
+      "children"
+     ],
+     "b": "τέκνων",
+     "cn": "gp",
+     "e": "of the children",
+     "g": "τῶν τέκνων",
+     "l": 4,
+     "ph": "tohn TEH-knohn"
+    },
+    {
+     "a": [
+      "to the children",
+      "for the children",
+      "in the children",
+      "by the children",
+      "with the children"
+     ],
+     "ab": [
+      "children"
+     ],
+     "b": "τέκνοις",
+     "cn": "dp",
+     "e": "to/for the children",
+     "g": "τοῖς τέκνοις",
+     "l": 4,
+     "ph": "toys TEH-knoys"
+    }
+   ],
    "p": "noun",
    "ph": "TEH-knon"
   },
   {
    "c": "",
+   "d": 2,
    "e": "son",
    "f": {
     "acc": "τὸν υἱόν",
@@ -279,6 +1912,128 @@
    "gen": "",
    "id": "4:υἱός",
    "m": "short, sharp sound — think \"you, oh son!\"",
+   "nf": [
+    {
+     "a": [
+      "the son"
+     ],
+     "ab": [
+      "son"
+     ],
+     "b": "υἱός",
+     "cn": "ns",
+     "e": "the son",
+     "g": "ὁ υἱός",
+     "l": 4,
+     "ph": "ho hwee-OS"
+    },
+    {
+     "a": [
+      "of the son"
+     ],
+     "ab": [
+      "son"
+     ],
+     "b": "υἱοῦ",
+     "cn": "gs",
+     "e": "of the son",
+     "g": "τοῦ υἱοῦ",
+     "l": 4,
+     "ph": "too hwee-OO"
+    },
+    {
+     "a": [
+      "to the son",
+      "for the son",
+      "in the son",
+      "by the son",
+      "with the son"
+     ],
+     "ab": [
+      "son"
+     ],
+     "b": "υἱῷ",
+     "cn": "ds",
+     "e": "to/for the son",
+     "g": "τῷ υἱῷ",
+     "l": 4,
+     "ph": "toh hwee-OH"
+    },
+    {
+     "a": [
+      "the son"
+     ],
+     "ab": [
+      "son"
+     ],
+     "b": "υἱόν",
+     "cn": "as",
+     "e": "the son",
+     "g": "τὸν υἱόν",
+     "l": 4,
+     "ph": "ton hwee-ON"
+    },
+    {
+     "a": [
+      "the sons"
+     ],
+     "ab": [
+      "sons"
+     ],
+     "b": "υἱοί",
+     "cn": "np",
+     "e": "the sons",
+     "g": "οἱ υἱοί",
+     "l": 4,
+     "ph": "hoy hwee-OY"
+    },
+    {
+     "a": [
+      "of the sons"
+     ],
+     "ab": [
+      "sons"
+     ],
+     "b": "υἱῶν",
+     "cn": "gp",
+     "e": "of the sons",
+     "g": "τῶν υἱῶν",
+     "l": 4,
+     "ph": "tohn hwee-OHN"
+    },
+    {
+     "a": [
+      "to the sons",
+      "for the sons",
+      "in the sons",
+      "by the sons",
+      "with the sons"
+     ],
+     "ab": [
+      "sons"
+     ],
+     "b": "υἱοῖς",
+     "cn": "dp",
+     "e": "to/for the sons",
+     "g": "τοῖς υἱοῖς",
+     "l": 4,
+     "ph": "toys hwee-OYS"
+    },
+    {
+     "a": [
+      "the sons"
+     ],
+     "ab": [
+      "sons"
+     ],
+     "b": "υἱούς",
+     "cn": "ap",
+     "e": "the sons",
+     "g": "τοὺς υἱούς",
+     "l": 4,
+     "ph": "toos hwee-OOS"
+    }
+   ],
    "p": "noun",
    "ph": "hwee-OS"
   }

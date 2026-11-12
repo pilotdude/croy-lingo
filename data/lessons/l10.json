@@ -3110,6 +3110,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "apostle",
    "f": {
     "acc": "τὸν ἀπόστολον",
@@ -3125,11 +3126,134 @@
    "gen": "m",
    "id": "10:ἀπόστολος",
    "m": "noun form of ἀποστέλλω (I send, L8) — an *apostle* is \"one who is sent\"",
+   "nf": [
+    {
+     "a": [
+      "the apostle"
+     ],
+     "ab": [
+      "apostle"
+     ],
+     "b": "ἀπόστολος",
+     "cn": "ns",
+     "e": "the apostle",
+     "g": "ὁ ἀπόστολος",
+     "l": 4,
+     "ph": "ho ah-PO-sto-los"
+    },
+    {
+     "a": [
+      "of the apostle"
+     ],
+     "ab": [
+      "apostle"
+     ],
+     "b": "ἀποστόλου",
+     "cn": "gs",
+     "e": "of the apostle",
+     "g": "τοῦ ἀποστόλου",
+     "l": 4,
+     "ph": "too ah-po-STO-loo"
+    },
+    {
+     "a": [
+      "to the apostle",
+      "for the apostle",
+      "in the apostle",
+      "by the apostle",
+      "with the apostle"
+     ],
+     "ab": [
+      "apostle"
+     ],
+     "b": "ἀποστόλῳ",
+     "cn": "ds",
+     "e": "to/for the apostle",
+     "g": "τῷ ἀποστόλῳ",
+     "l": 4,
+     "ph": "toh ah-po-STO-loh"
+    },
+    {
+     "a": [
+      "the apostle"
+     ],
+     "ab": [
+      "apostle"
+     ],
+     "b": "ἀπόστολον",
+     "cn": "as",
+     "e": "the apostle",
+     "g": "τὸν ἀπόστολον",
+     "l": 4,
+     "ph": "ton ah-PO-sto-lon"
+    },
+    {
+     "a": [
+      "the apostles"
+     ],
+     "ab": [
+      "apostles"
+     ],
+     "b": "ἀπόστολοι",
+     "cn": "np",
+     "e": "the apostles",
+     "g": "οἱ ἀπόστολοι",
+     "l": 4,
+     "ph": "hoy ah-PO-sto-loy"
+    },
+    {
+     "a": [
+      "of the apostles"
+     ],
+     "ab": [
+      "apostles"
+     ],
+     "b": "ἀποστόλων",
+     "cn": "gp",
+     "e": "of the apostles",
+     "g": "τῶν ἀποστόλων",
+     "l": 4,
+     "ph": "tohn ah-po-STO-lohn"
+    },
+    {
+     "a": [
+      "to the apostles",
+      "for the apostles",
+      "in the apostles",
+      "by the apostles",
+      "with the apostles"
+     ],
+     "ab": [
+      "apostles"
+     ],
+     "b": "ἀποστόλοις",
+     "cn": "dp",
+     "e": "to/for the apostles",
+     "g": "τοῖς ἀποστόλοις",
+     "l": 4,
+     "ph": "toys ah-po-STO-loys"
+    },
+    {
+     "a": [
+      "the apostles"
+     ],
+     "ab": [
+      "apostles"
+     ],
+     "b": "ἀποστόλους",
+     "cn": "ap",
+     "e": "the apostles",
+     "g": "τοὺς ἀποστόλους",
+     "l": 4,
+     "ph": "toos ah-po-STO-loos"
+    }
+   ],
    "p": "noun",
    "ph": "ah-PO-sto-los, ho"
   },
   {
    "c": "",
+   "d": 2,
    "e": "temple (→ hierarchy)",
    "f": {
     "acc": "τὸ ἱερόν",
@@ -3145,6 +3269,100 @@
    "gen": "n",
    "id": "10:ἱερόν",
    "m": "\"hierarchy\" (*sacred* rule), \"hieroglyphics\" (*sacred* carvings) — ἱερόν is the *sacred* place",
+   "nf": [
+    {
+     "a": [
+      "the temple"
+     ],
+     "ab": [
+      "temple"
+     ],
+     "b": "ἱερόν",
+     "cn": "ns/as",
+     "e": "the temple",
+     "g": "τὸ ἱερόν",
+     "l": 4,
+     "ph": "to hee-eh-RON"
+    },
+    {
+     "a": [
+      "of the temple"
+     ],
+     "ab": [
+      "temple"
+     ],
+     "b": "ἱεροῦ",
+     "cn": "gs",
+     "e": "of the temple",
+     "g": "τοῦ ἱεροῦ",
+     "l": 4,
+     "ph": "too hee-eh-ROO"
+    },
+    {
+     "a": [
+      "to the temple",
+      "for the temple",
+      "in the temple",
+      "by the temple",
+      "with the temple"
+     ],
+     "ab": [
+      "temple"
+     ],
+     "b": "ἱερῷ",
+     "cn": "ds",
+     "e": "to/for the temple",
+     "g": "τῷ ἱερῷ",
+     "l": 4,
+     "ph": "toh hee-eh-ROH"
+    },
+    {
+     "a": [
+      "the temples"
+     ],
+     "ab": [
+      "temples"
+     ],
+     "b": "ἱερά",
+     "cn": "np/ap",
+     "e": "the temples",
+     "g": "τὰ ἱερά",
+     "l": 4,
+     "ph": "tah hee-eh-RAH"
+    },
+    {
+     "a": [
+      "of the temples"
+     ],
+     "ab": [
+      "temples"
+     ],
+     "b": "ἱερῶν",
+     "cn": "gp",
+     "e": "of the temples",
+     "g": "τῶν ἱερῶν",
+     "l": 4,
+     "ph": "tohn hee-eh-ROHN"
+    },
+    {
+     "a": [
+      "to the temples",
+      "for the temples",
+      "in the temples",
+      "by the temples",
+      "with the temples"
+     ],
+     "ab": [
+      "temples"
+     ],
+     "b": "ἱεροῖς",
+     "cn": "dp",
+     "e": "to/for the temples",
+     "g": "τοῖς ἱεροῖς",
+     "l": 4,
+     "ph": "toys hee-eh-ROYS"
+    }
+   ],
    "p": "noun",
    "ph": "hee-eh-RON, to"
   },

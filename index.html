@@ -86,6 +86,9 @@ button{cursor:pointer}
 .etile{padding:8px 12px;border:2px solid var(--line);border-radius:var(--radius);background:var(--surface);color:var(--ink);font-family:var(--serif);font-size:21px;min-height:44px}
 .etile.sel{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent) inset}
 .echart.static .ecell{min-height:0;border-style:solid;border-width:1px}
+.echart.decl{grid-template-columns:auto minmax(0,1fr) minmax(0,1fr)}
+.echart.decl .erow{font-size:13px}
+.ecell .ehint{font-size:13px;color:var(--ink2)}
 .etense{display:inline-block;margin:2px 0;padding:3px 14px;border:2px solid var(--accent);border-radius:999px;color:var(--accent);font-weight:700;font-size:19px;line-height:1.3}
 @media (max-width:520px){.ecell .grk{font-size:18px}.etile{font-size:19px;padding:8px 10px}}
 .modehint{margin:0 0 8px;font-size:13px;color:var(--ink2)}
@@ -351,7 +354,7 @@ function shuffle(a){ a=a.slice(); for(let i=a.length-1;i>0;i--){const j=Math.flo
 /* ---------- state ---------- */
 let cap = {db:null, uid:null, status:"loading", save:"idle", acct:null};   // acct: the site's account (sign in / out); null in the Claude artifact
 let lessons = [], W = [], byId = new Map();
-let progress = {v:1, w:{}, prefs:{sel:null, n:10, lo:0, hi:3, pair:true, vforms:true}};
+let progress = {v:1, w:{}, prefs:{sel:null, n:10, lo:0, hi:3, pair:true, vforms:true, nforms:false, cnFocus:false}};
 let sel = new Set();
 let screen = "home", S = null, listOpen = false, setOpen = false, listSort = "lesson", confirmReset = false, rangeFrom = null, rangeTo = null;
 
@@ -359,7 +362,7 @@ function prep(r, n){
   const disp = clean(r.e), vs = new Set();
   parts(disp).forEach(p=>{ const x=norm(p); if(x) vs.add(x); });
   const whole = norm(disp); if(whole) vs.add(whole);
-  return {id:r.id, lesson:n, g:r.g, c:r.c||"", gen:r.gen||"", e:disp, p:r.p||"other", m:r.m||"", f:r.f||null, fp:r.fp||null, ph:r.ph||"", vf:r.vf||null, v:vs};
+  return {id:r.id, lesson:n, g:r.g, c:r.c||"", gen:r.gen||"", e:disp, p:r.p||"other", m:r.m||"", f:r.f||null, fp:r.fp||null, ph:r.ph||"", vf:r.vf||null, nf:r.nf||null, d:r.d||0, v:vs};
 }
 function rebuild(){
   W = []; byId = new Map();
@@ -404,7 +407,15 @@ function vocabOnly(){ return progress.prefs.vforms===false; }          // "Vocab
 function pnOn(){ return !!progress.prefs.pnFocus && !vocabOnly(); }
 function tenseSet(){ const t=progress.prefs.tenses; return !vocabOnly() && Array.isArray(t) && t.length ? new Set(t) : null; }
 function vOnly(){ return !!(progress.prefs.verbsOnly || pnOn()); }
-function formKey(f){ return f ? f.t+"|"+f.pn+"|"+f.g : "vocab"; }
+function formKey(f){ return f ? (f.cn ? "n|"+f.cn+"|"+f.g : f.t+"|"+f.pn+"|"+f.g) : "vocab"; }
+// Nouns: "Mix in forms" is off until the student turns it on (prefs.nforms, remembered on the profile).
+function nounOn(){ return progress.prefs.nforms===true; }
+function cnOn(){ return !!progress.prefs.cnFocus && nounOn() && !pnOn(); }     // Case & number needs noun forms on
+const CASE_LABEL = {ns:"nominative singular", gs:"genitive singular", ds:"dative singular", as:"accusative singular",
+  np:"nominative plural", gp:"genitive plural", dp:"dative plural", ap:"accusative plural"};
+function cnLabel(cn){ const p=cn.split("/"); return p.length===2 && p[0][1]===p[1][1] ? CASE_LABEL[p[0]].split(" ")[0]+" or "+CASE_LABEL[p[1]] : p.map(x=>CASE_LABEL[x]).join(" or "); }
+const nounAlts = w => (w.nf||[]).filter(x=>x.cn.split("/").indexOf("ns")<0);   // forms other than the nominative singular
+function cnOK(w){ return w.p==="noun" && formOK(w) && !!w.nf && new Set(w.nf.map(x=>x.g)).size>=4; }
 // tenses with at least 4 different person/number forms, limited to the chosen tenses (if any)
 function pnTenses(w){
   if(!w.vf) return [];
@@ -416,7 +427,7 @@ function formOK(w){ const x=st(w.id); return x==="s" || x==="l"; }   // only Str
 function pnOK(w){ return w.p==="verb" && formOK(w) && pnTenses(w).length>0; }
 function pool(){
   let p=selWords().filter(inRange);
-  if(pnOn()) p=p.filter(pnOK); else if(progress.prefs.verbsOnly) p=p.filter(w=>w.p==="verb");
+  if(pnOn()) p=p.filter(pnOK); else if(cnOn()) p=p.filter(cnOK); else if(progress.prefs.verbsOnly) p=p.filter(w=>w.p==="verb");
   return p;
 }
 function label(w){ return w.g + (w.c ? " ("+w.c+")" : ""); }
@@ -449,7 +460,7 @@ function weightedOrder(words){
 let reports = [];
 function reportEntry(f, note){
   const w=f.word, base = w.form ? w.base : w.pair ? w.pair.prep : w;
-  return {at:new Date().toISOString(), kind: w.form ? "verb form" : w.pair ? "preposition phrase" : "word", id: base.id, shown: w.g,
+  return {at:new Date().toISOString(), kind: w.form ? (w.form.cn ? "noun form" : "verb form") : w.pair ? "preposition phrase" : "word", id: base.id, shown: w.g,
     label: w.form ? formLabel(w) : (w.pair ? "with "+w.pair.noun.g : ""), expected: w.e, typed: f.typed||"", mode: S ? S.mode : "", note: note||""};
 }
 let savedName = ""; try{ savedName = localStorage.getItem("croyvocab:name")||""; }catch(e){}
@@ -486,6 +497,11 @@ document.addEventListener("visibilitychange", ()=>{ if(document.visibilityState=
 
 /* ---------- grading ---------- */
 function grade(input, word){
+  const r = gradeSet(input, word.v); if(r.ok || r.empty || !word.alt || !word.alt.size) return r;
+  const r2 = gradeSet(input, word.alt); return r2.ok ? r2 : r;
+}
+function gradeSet(input, V){
+  const word = {v:V};
   const raw = String(input||"").trim(); if(!raw) return {ok:false, empty:true};
   const segs = [raw].concat(parts(raw));
   for(const s of segs){ const n=norm(s); if(n && word.v.has(n)) return {ok:true}; }
@@ -505,6 +521,7 @@ const TENSE_LABEL = {pa:"present active", pmp:"present middle/passive", ia:"impe
 const PERSON_LABEL = {"1s":"1st person singular","2s":"2nd person singular","3s":"3rd person singular","1p":"1st person plural","2p":"2nd person plural","3p":"3rd person plural"};
 function formLabel(w){
   const f=w.form, b=w.pair?null:w.base; if(!f) return "";
+  if(f.cn) return cnLabel(f.cn);
   const dep = b && b.vf && !b.vf.some(x=>x.t==="pa" || x.t==="ia") && b.id.indexOf("εἰμί")<0;
   let t = f.tl || TENSE_LABEL[f.t] || f.t; if(dep) t = t.replace("middle/passive","middle (deponent)");
   return (w.sh ? [w.sh.pn] : f.pn.split("/")).map(p=>PERSON_LABEL[p]).join(" or ")+", "+t;
@@ -512,6 +529,10 @@ function formLabel(w){
 // Strong and Learned verbs are shown in other forms that have been taught; Unlearned and Weak verbs always use the vocab form.
 function makeForm(w, f){
   const vs = new Set(); (f.a||[]).forEach(x=>{ const n=norm(clean(x)); if(n) vs.add(n); });
+  if(f.cn){                                                         // a noun form: the article shows the case; the bare meaning also counts when typed
+    const ab = new Set(); (f.ab||[]).forEach(x=>{ const n=norm(clean(x)); if(n) ab.add(n); });
+    return Object.assign({}, w, {g:f.g, e:f.e, ph:f.ph||"", v:vs, alt:ab, form:f, base:w});
+  }
   const c = Object.assign({}, w, {g:f.g, e:f.e, ph:f.ph||"", v:vs, form:f, base:w});
   // one spelling can serve two persons (ἔλυον = I was loosing / they were loosing): ask about one, accept either, mention the other on the answer card
   const pns=f.pn.split("/"), es=String(f.e).split(" / ");
@@ -524,6 +545,7 @@ function availTenses(){
 }
 // every question a verb could be asked as under the current settings; null stands for the vocab form
 function formOptions(w){
+  if(w.p==="noun"){ if(!w.nf || !formOK(w) || !nounOn()) return [null]; return cnOn() ? w.nf.slice() : [null].concat(nounAlts(w)); }
   if(!w.vf || !formOK(w)) return [null];
   const ts=tenseSet();
   if(pnOn()){ const ok=new Set(pnTenses(w)); return w.vf.filter(x=>ok.has(x.t)); }
@@ -555,6 +577,19 @@ function formUp(w){
   for(const x of alts){ r-=wt(x); if(r<=0){ pick=x; break; } }
   return makeForm(w, pick);
 }
+// Strong and Learned nouns are shown in their other forms (with the article) when Nouns is set to Mix in forms: 40% vocab form, 60% another form.
+function nounUp(w){
+  if(!nounOn() || !w.nf || !formOK(w)) return w;
+  if(cnOn()) return makeForm(w, w.nf[Math.floor(Math.random()*w.nf.length)]);
+  if(Math.random()<0.4) return w;
+  const alts=nounAlts(w); if(!alts.length) return w;
+  return makeForm(w, alts[Math.floor(Math.random()*alts.length)]);
+}
+function nounLike(w, cn){                                            // another noun in the same case, as a wrong answer next to a noun form
+  if(!nounOn() || !w.nf || !formOK(w)) return w;
+  const c0=cn.split("/")[0], same=w.nf.filter(x=>x.cn.split("/").indexOf(c0)>=0), from=same.length?same:nounAlts(w);
+  return from.length ? makeForm(w, shuffle(from)[0]) : w;
+}
 function formLike(w, tense){
   if(!formOK(w)) return w;                                            // a verb that isn't Strong yet only ever appears as its vocab form                                          // a form of another verb, used as a wrong answer next to a form
   if(!w.vf) return w;
@@ -567,18 +602,22 @@ const nounUse = new Map();
 const GRAVE = {"ά":"ὰ","έ":"ὲ","ή":"ὴ","ί":"ὶ","ό":"ὸ","ύ":"ὺ","ώ":"ὼ"};
 function pairUp(w){
   if(w.p==="verb") return formUp(w);
+  if(w.p==="noun") return nounUp(w);
   if(!progress.prefs.pair || w.p!=="preposition") return w;
   const cs = (String(w.c).match(/gen|dat|acc/)||[])[0]; if(!cs) return w;
-  const all = W.filter(x=>x.p==="noun" && x.f && x.f[cs]);
+  const caseForms = x => (x.nf||[]).filter(f=>f.cn.split("/").some(c=>c===cs[0]+"s" || c===cs[0]+"p"));
+  const all = W.filter(x=>x.p==="noun" && (caseForms(x).length || (x.f && x.f[cs])));
   const mine = all.filter(x=>sel.has(x.lesson));
   const from = mine.length ? mine : all; if(!from.length) return w;
   const least = Math.min(...from.map(x=>nounUse.get(x.id)||0));
   const n = shuffle(from.filter(x=>(nounUse.get(x.id)||0)===least))[0];
   nounUse.set(n.id, least+1);
   const base = w.g.split(",")[0].trim().replace(/([άέήίόύώ])([ρςνξ]?)$/, (m,a,b)=>GRAVE[a]+b);   // ἀπό → ἀπὸ before another word
-  const pe = parts(clean(w.e)), ne = parts(clean(n.e)), vs = new Set();
+  const cf = caseForms(n), nfm = cf.length ? cf[Math.floor(Math.random()*cf.length)] : null;   // singular or plural
+  const ng = nfm ? nfm.g : n.f[cs], nph = nfm ? nfm.ph : ((n.fp&&n.fp[cs])||"");
+  const pe = parts(clean(w.e)), ne = nfm && nfm.ab && nfm.ab.length ? nfm.ab : parts(clean(n.e)), vs = new Set();
   for(const p of pe) for(const q of ne){ vs.add(norm(p+" the "+q)); vs.add(norm(p+" "+q)); vs.add(norm(p+" a "+q)); }
-  return Object.assign({}, w, {g: base+" "+n.f[cs], ph: ((w.ph||"").split(",")[0].trim()+" "+((n.fp&&n.fp[cs])||"")).trim(), e: pe[0]+" the "+ne[0], v: vs, pair:{prep:w, noun:n}});
+  return Object.assign({}, w, {g: base+" "+ng, ph: ((w.ph||"").split(",")[0].trim()+" "+(nph||"")).trim(), e: pe[0]+" the "+ne[0], v: vs, pair:{prep:w, noun:n}});
 }
 
 /* ---------- multiple choice ---------- */
@@ -591,10 +630,11 @@ function makeChoices(target, mode){
   // rank 0 = the kind we want (same part of speech for strong words, different for the rest); 1 = unclassified; 2 = the opposite
   const rank = w => strong ? (w.p===target.p ? 0 : vague(w) ? 1 : 2)
                            : (!vague(w) && w.p!==target.p ? 0 : vague(w) ? 1 : 2);
-  const kindOK = w => target.pair ? w.p==="preposition" : target.p==="verb" ? w.p==="verb" : true;   // a preposition phrase or a verb is never the only one of its kind
-  const dress = w => target.pair && w.p==="preposition" ? pairUp(w) : target.form && w.p==="verb" ? formLike(w, target.form.t) : w;
+  const nb = target.p==="noun" && target.form && target.form.cn ? target.base : null;   // the noun being asked about, as a form
+  const kindOK = w => target.pair ? w.p==="preposition" : target.p==="verb" ? w.p==="verb" : nb ? w.p==="noun" : true;   // a preposition phrase or a verb is never the only one of its kind
+  const dress = w => target.pair && w.p==="preposition" ? pairUp(w) : target.form && target.form.t && w.p==="verb" ? formLike(w, target.form.t) : nb && w.p==="noun" ? nounLike(w, target.form.cn) : w;
   const cand = shuffle(W.filter(w => w.id!==target.id)).map(dress).filter(w => !conflict(w,target) && lab(w)!==lab(target))
-    .map(w => ({w, k: (kindOK(w)?0:100) + rank(w)*2 + (inSel.has(w.id)?0:1) + (target.form && w.p==="verb" && !formOK(w.base||w) ? 3 : 0)}))   // a phrase target gets other prepositions (as phrases) as wrong answers, so it doesn't stand out
+    .map(w => ({w, k: (kindOK(w)?0:100) + rank(w)*2 + (inSel.has(w.id)?0:1) + (target.form && w.p==="verb" && !formOK(w.base||w) ? 3 : 0) + (nb && w.p==="noun" && !w.form ? 3 : 0)}))   // a phrase target gets other prepositions (as phrases) as wrong answers, so it doesn't stand out
     .sort((a,b)=>a.k-b.k).map(o=>o.w);
   const picked=[], labels=new Set([lab(target)]);
   const vb = target.p==="verb" && !target.pair ? (target.form ? target.base : target) : null;   // the verb being asked about
@@ -604,7 +644,19 @@ function makeChoices(target, mode){
   const add = (list, k) => { for(const w of list){ if(k<=0 || picked.length>=want) break;
       if(picked.includes(w) || conflict(w,target) || labels.has(lab(w)) || picked.some(p=>conflict(p,w))) continue;
       picked.push(w); labels.add(lab(w)); k--; } };
-  if(pnOn() && target.form){                       // same verb, same tense: only the ending differs
+  const nsibs = nb ? shuffle(nb.nf.filter(x=>x.g!==target.g)).map(f=>makeForm(nb,f)) : [];
+  if(nb && cnOn()){                                 // Case & number: the same noun in other cases and numbers
+    add(nsibs, want);
+  }else if(nb && strong){
+    // A noun form gets wrong answers of one kind only: other nouns in the same case, or other forms of the same noun.
+    const c0 = target.form.cn.split("/")[0];
+    const same = shuffle(W.filter(w=>w.p==="noun" && w.id!==nb.id && w.nf && formOK(w))).map(w=>{
+      const f = w.nf.find(x=>x.cn===target.form.cn) || w.nf.find(x=>x.cn.split("/").indexOf(c0)>=0); return f ? {c:makeForm(w,f), k:inSel.has(w.id)?0:1} : null;
+    }).filter(Boolean).sort((a,b)=>a.k-b.k).map(o=>o.c);
+    const okS = nsibs.length>=want, okP = same.length>=want;
+    const useSibs = okS && okP ? Math.random()<0.5 : okS ? true : okP ? false : nsibs.length>same.length;
+    if(useSibs){ add(nsibs, want); add(same, want); } else { add(same, want); add(nsibs, want); }
+  }else if(pnOn() && target.form){                       // same verb, same tense: only the ending differs
     add(sibs.filter(w=>w.form.t===target.form.t), want);
   }else if(strong && vb){
     // A Strong or Learned verb gets wrong answers of one kind only, so neither the ending nor the stem gives the answer away:
@@ -640,6 +692,33 @@ const PERSONS = ["1s","2s","3s","1p","2p","3p"];
 const CHART_ROWS = [["1s","1p"],["2s","2p"],["3s","3p"]];
 const ROW_LABEL = ["1st","2nd","3rd"];
 const ENDS_CHARTS = 3;
+const SUBJ_HINT = {"1s":"I ____","2s":"you ____","3s":"he/she/it ____","1p":"we ____","2p":"y'all ____","3p":"they ____"};
+// Noun Declensions: the eight forms of one noun (without the article) in a 4 x 2 table. It does not read or change Mastery.
+const CASES8 = ["ns","gs","ds","as","np","gp","dp","ap"];
+const DECL_ROWS = [["ns","np"],["gs","gp"],["ds","dp"],["as","ap"]];
+const DECL_LABEL = ["Nominative","Genitive","Dative","Accusative"];
+const DECL_HINT = {ns:"the ____", gs:"of the ____", ds:"to/for the ____", as:"the ____", np:"the ____s", gp:"of the ____s", dp:"to/for the ____s", ap:"the ____s"};
+const GENDER_NAME = {m:"masculine", f:"feminine", n:"neuter"}, ORD = ["","1st","2nd","3rd"];
+function nounGender(w){ const x=(w.nf||[]).find(f=>f.cn.split("/")[0]==="ns"); return ({"ὁ":"m","ἡ":"f","τὸ":"n"})[x?x.g.split(" ")[0]:""] || w.gen || ""; }
+function declName(w){ const g=nounGender(w); return [w.d?ORD[w.d]+" declension":"", g?GENDER_NAME[g]:""].filter(Boolean).join(", "); }
+function declItems(){                                             // every noun in the selected lessons with all eight forms
+  const out=[];
+  for(const w of selWords()){
+    if(w.p!=="noun" || !w.nf) continue;
+    const cells={};
+    w.nf.forEach(f=>f.cn.split("/").forEach(c=>{ if(!cells[c]) cells[c]={g:f.b, e:f.e}; }));   // a neuter nom = acc form fills both cells
+    if(CASES8.every(c=>cells[c])) out.push({w, t:"decl", tn:declName(w), cells});
+  }
+  return out;
+}
+function startDecl(fixed){
+  const all=declItems(); if(!all.length) return;
+  const items = fixed ? shuffle(fixed.map(k=>all.find(x=>x.w.id===k.id)).filter(Boolean)) : shuffle(all).slice(0, ENDS_CHARTS);   // always 3 tables
+  if(!items.length) return;
+  S={mode:"decl", items, idx:0, results:[], fb:null, startedAt:Date.now(), lk:new Map()};
+  loadChart(); screen="drill"; render();
+}
+const chartKeys = () => S.mode==="decl" ? CASES8 : PERSONS;
 function tenseName(w, f){
   const dep = w.vf && !w.vf.some(x=>x.t==="pa" || x.t==="ia") && w.id.indexOf("εἰμί")<0;
   let t = f.tl || TENSE_LABEL[f.t] || f.t; if(dep) t = t.replace("middle/passive","middle (deponent)"); return t;
@@ -678,7 +757,8 @@ function startEnds(fixed){
 }
 function loadChart(){
   const it=S.items[S.idx];
-  S.cur={tiles:shuffle(PERSONS.map((p,i)=>({id:i, g:it.cells[p].g}))), slots:Object.fromEntries(PERSONS.map(p=>[p,null])), sel:null, checked:false, ok:{}};
+  const K=chartKeys();
+  S.cur={tiles:shuffle(K.map((p,i)=>({id:i, g:it.cells[p].g}))), slots:Object.fromEntries(K.map(p=>[p,null])), sel:null, checked:false, ok:{}};
 }
 const tileBy = id => S.cur.tiles.find(t=>t.id===id);                // tiles are shuffled, so look them up by id, not by position
 function endsTile(id){ const c=S.cur; if(c.checked) return; c.sel = c.sel===id ? null : id; render(); }
@@ -688,17 +768,19 @@ function endsCell(p){
   else if(c.slots[p]!==null) c.slots[p]=null;                    // tapping a placed tile returns it
   render();
 }
-function endsClear(){ const c=S.cur; if(c.checked) return; PERSONS.forEach(p=>c.slots[p]=null); c.sel=null; render(); }
+function endsClear(){ const c=S.cur; if(c.checked) return; chartKeys().forEach(p=>c.slots[p]=null); c.sel=null; render(); }
 function endsCheck(){
   const c=S.cur, it=S.items[S.idx]; if(c.checked) return;
   c.checked=true; c.sel=null; let n=0;
-  for(const p of PERSONS){ const tid=c.slots[p]; c.ok[p] = tid!==null && tileBy(tid).g===it.cells[p].g; if(c.ok[p]) n++; }   // identical spellings are interchangeable
-  S.results.push({id:it.w.id, t:it.t, tn:it.tn, ok:n===6, n, w:it.w}); render();
+  const K=chartKeys();
+  for(const p of K){ const tid=c.slots[p]; c.ok[p] = tid!==null && tileBy(tid).g===it.cells[p].g; if(c.ok[p]) n++; }   // identical spellings are interchangeable
+  S.results.push({id:it.w.id, t:it.t, tn:it.tn, ok:n===K.length, n, w:it.w}); render();
 }
 
 /* ---------- sessions ---------- */
 function startSession(mode, fixed){
   if(mode==="ends"){ startEnds(fixed); return; }
+  if(mode==="decl"){ startDecl(fixed); return; }
   const words = fixed || pool();
   if(!words.length) return;
   if(mode==="flash"){   // flashcards: every selected word in lesson order, as listed in the vocab, no scoring
@@ -709,7 +791,7 @@ function startSession(mode, fixed){
   nounUse.clear();
   let items;
   const used = new Map();
-  if(!fixed && vOnly() && !vocabOnly() && n && n>words.length){                    // more questions than verbs: ask each verb again, changing the question
+  if(!fixed && ((vOnly() && !vocabOnly()) || cnOn()) && n && n>words.length){                    // more questions than verbs: ask each verb again, changing the question
     const order=[]; let pass=0;
     while(order.length<n){
       let round=weightedOrder(words).slice(0, n-order.length);
@@ -844,7 +926,7 @@ function flashMove(d){
   S.idx=Math.max(0,Math.min(S.items.length-1,S.idx+d)); S.flipped=false; render();
 }
 function nextItem(){
-  if(S.mode==="ends"){ S.idx++; if(S.idx>=S.items.length){ finish(); return; } loadChart(); render(); return; }
+  if(S.mode==="ends" || S.mode==="decl"){ S.idx++; if(S.idx>=S.items.length){ finish(); return; } loadChart(); render(); return; }
   S.fb=null; S.idx++;
   if(S.idx>=S.items.length){ finish(); return; }
   if(S.mode==="mc"||S.mode==="mce") S.choices=makeChoices(S.items[S.idx], S.mode);
@@ -930,11 +1012,11 @@ function renderHome(){
   const rf = rangeFrom ?? nums[0], rt = rangeTo ?? nums[nums.length-1];
   const opt = (v)=>nums.map(n=>`<option value="${n}" ${n===v?"selected":""}>Lesson ${n}</option>`).join("");
   const sw = selWords(), cnt={n:0,w:0,s:0,l:0}; sw.forEach(w=>cnt[st(w.id)]++);
-  const p = pool(), canGo = p.length>0, canMatch = p.length>=2, canEnds = endsPairs().length>0;
+  const p = pool(), canGo = p.length>0, canMatch = p.length>=2, canEnds = endsPairs().length>0, canDecl = declItems().length>0;
   const n = progress.prefs.n, [rlo,rhi] = rng();
   const listHtml = lessons.filter(L=>sel.has(L.n)).map(L=>{
     let ws=(L.words||[]).map(r=>byId.get(r.id)).filter(Boolean);
-    if(vOnly()) ws=ws.filter(w=>w.p==="verb");
+    if(vOnly()) ws=ws.filter(w=>w.p==="verb"); else if(cnOn()) ws=ws.filter(w=>w.p==="noun");
     if(!ws.length) return "";
     if(listSort!=="lesson"){ const dir=listSort==="weak"?1:-1; ws=ws.map((w,i)=>({w,i})).sort((a,b)=>dir*(RANK[st(a.w.id)]-RANK[st(b.w.id)])||a.i-b.i).map(o=>o.w); }
     const rows=ws.map(w=>{ const s=st(w.id);
@@ -965,7 +1047,7 @@ function renderHome(){
   <section class="panel" aria-labelledby="h-prac">
     <h2 id="h-prac">Practice</h2>
     <details class="settings" id="ps" ${setOpen?"open":""}>
-    <summary>Settings <span class="small muted">${n?n+" questions":"All questions"} · mastery: ${rangeText().toLowerCase()} · ${pnOn()?"person &amp; number":progress.prefs.verbsOnly?"verbs only":(progress.prefs.pair!==false?"prepositions with a noun":"prepositions alone")} · ${tenseSet()?"tenses: "+availTenses().filter(x=>tenseSet().has(x.t)).map(x=>x.name).join(", "):progress.prefs.vforms!==false?"verb forms mixed in":"vocab verb form"}</span></summary>
+    <summary>Settings <span class="small muted">${n?n+" questions":"All questions"} · mastery: ${rangeText().toLowerCase()} · ${pnOn()?"person &amp; number":cnOn()?"case &amp; number":progress.prefs.verbsOnly?"verbs only":(progress.prefs.pair!==false?"prepositions with a noun":"prepositions alone")} · ${tenseSet()?"tenses: "+availTenses().filter(x=>tenseSet().has(x.t)).map(x=>x.name).join(", "):progress.prefs.vforms!==false?"verb forms mixed in":"vocab verb form"} · ${nounOn()?"noun forms mixed in":"vocab noun form"}</span></summary>
     <div class="opts">
       <label>Questions <span class="seg" role="group" aria-label="Number of questions">
         ${[10,12,20,24,0].map(v=>`<button data-act="n" data-v="${v}" aria-pressed="${n===v}">${v?v:"All"}</button>`).join("")}</span></label>
@@ -982,10 +1064,14 @@ function renderHome(){
       <label>Verbs <span class="seg" role="group" aria-label="Verb forms">
         <button data-act="vforms" data-v="1" aria-pressed="${progress.prefs.vforms!==false}">Mix in forms</button>
         <button data-act="vforms" data-v="0" aria-pressed="${progress.prefs.vforms===false}">Vocab form only</button></span></label>
-      <label>Focus on verbs <span class="seg" role="group" aria-label="Focus on verbs">
-        <button data-act="vonly" data-v="0" aria-pressed="${!progress.prefs.verbsOnly&&!pnOn()}">All words</button>
-        <button data-act="vonly" data-v="1" aria-pressed="${!!progress.prefs.verbsOnly&&!pnOn()}">Verbs only</button>
-        <button data-act="pnfocus" data-v="1" aria-pressed="${pnOn()}" ${vocabOnly()?"disabled":""}>Person &amp; number</button></span>${vocabOnly()?`<span class="small muted">Person &amp; number is off while Verbs is set to Vocab form only.</span>`:""}${pnOn()?`<span class="small muted">Only Strong or Learned verbs are used here${p.length?"":": none in your selection yet"}.</span>`:""}</label>
+      <label>Nouns <span class="seg" role="group" aria-label="Noun forms">
+        <button data-act="nforms" data-v="1" aria-pressed="${nounOn()}">Mix in forms</button>
+        <button data-act="nforms" data-v="0" aria-pressed="${!nounOn()}">Vocab form only</button></span></label>
+      <label>Focus <span class="seg wrap" role="group" aria-label="Focus">
+        <button data-act="vonly" data-v="0" aria-pressed="${!progress.prefs.verbsOnly&&!pnOn()&&!cnOn()}">All words</button>
+        <button data-act="vonly" data-v="1" aria-pressed="${!!progress.prefs.verbsOnly&&!pnOn()&&!cnOn()}">Verbs only</button>
+        <button data-act="pnfocus" data-v="1" aria-pressed="${pnOn()}" ${vocabOnly()?"disabled":""}>Person &amp; number</button>
+        <button data-act="cnfocus" data-v="1" aria-pressed="${cnOn()}" ${nounOn()?"":"disabled"}>Case &amp; number</button></span>${vocabOnly()?`<span class="small muted">Person &amp; number is off while Verbs is set to Vocab form only.</span>`:""}${!nounOn()?`<span class="small muted">Case &amp; number is off while Nouns is set to Vocab form only.</span>`:""}${pnOn()?`<span class="small muted">Only Strong or Learned verbs are used here${p.length?"":": none in your selection yet"}.</span>`:""}${cnOn()?`<span class="small muted">Only Strong or Learned nouns are used here${p.length?"":": none in your selection yet"}.</span>`:""}</label>
       <div class="wordsrow"><span class="lbl">Verb tenses <span class="small muted">${vocabOnly()?"off while Verbs is set to Vocab form only":tenseSet()?"only the vocab form and the tenses you pick":"all tenses"}</span></span>
         <span class="seg wrap" role="group" aria-label="Verb tenses"><button data-act="tenseall" aria-pressed="${!tenseSet()}" ${vocabOnly()?"disabled":""}>All tenses</button>${availTenses().map(x=>`<button data-act="tense" data-v="${x.t}" aria-pressed="${!!tenseSet()&&tenseSet().has(x.t)}" ${vocabOnly()?"disabled":""}>${esc(x.name)}</button>`).join("")}</span></div>
     </div>
@@ -996,12 +1082,13 @@ function renderHome(){
       <button class="mode t-mc" data-act="start" data-mode="mce" ${canGo?"":"disabled"}><b>Multiple Choice: Greek → English</b><span>See the Greek, pick the English.</span></button>
       <button class="mode t-match" data-act="start" data-mode="match" ${canMatch?"":"disabled"}><b>Matching</b><span>Pair Greek words with their English.</span></button>
       <button class="mode t-ends" data-act="start" data-mode="ends" ${canEnds?"":"disabled"}><b>Verb Endings</b><span>Place all six forms in the chart. Doesn't change Mastery.</span></button>
+      <button class="mode t-ends" data-act="start" data-mode="decl" ${canDecl?"":"disabled"}><b>Noun Declensions</b><span>Place all eight forms in the table. Doesn't change Mastery.</span></button>
       <button class="mode t-write" data-act="start" data-mode="write" ${canGo?"":"disabled"}><b>Written test</b><span>See the Greek, type the English.</span></button>
     </div>
   </section>
 
   <details class="list" id="wl" ${listOpen?"open":""}>
-    <summary>${vOnly()?"Verb list":"Word list"} for selected lessons (${vOnly()?sw.filter(w=>w.p==="verb").length:sw.length})</summary>
+    <summary>${vOnly()?"Verb list":cnOn()?"Noun list":"Word list"} for selected lessons (${vOnly()?sw.filter(w=>w.p==="verb").length:cnOn()?sw.filter(w=>w.p==="noun").length:sw.length})</summary>
     <div class="wsort"><select id="wsort" data-act="sortwl" aria-label="Sort by mastery"><option value="lesson" ${listSort==="lesson"?"selected":""}>Lesson order</option><option value="weak" ${listSort==="weak"?"selected":""}>Unlearned first</option><option value="strong" ${listSort==="strong"?"selected":""}>Learned first</option></select></div>
     <div class="wl">${listHtml || `<p class="empty">No lessons selected.</p>`}</div>
   </details>
@@ -1113,51 +1200,57 @@ function renderFlash(){
   S.anim=false;
 }
 function renderEnds(){
-  const it=S.items[S.idx], c=S.cur, total=S.items.length, w=it.w;
-  const used=new Set(PERSONS.map(p=>c.slots[p]).filter(v=>v!==null));
+  const it=S.items[S.idx], c=S.cur, total=S.items.length, w=it.w, decl=S.mode==="decl", K=chartKeys(), N=K.length;
+  const used=new Set(K.map(p=>c.slots[p]).filter(v=>v!==null));
   const bank=c.tiles.filter(t=>!used.has(t.id));
   const cell=p=>{
     const tid=c.slots[p], t=tid===null?null:tileBy(tid), exp=it.cells[p];
     let cls="ecell"+(t?" filled":""); if(c.checked) cls+=c.ok[p]?" right":" wrong"; else if(c.sel!==null) cls+=" target";
-    let inner = t ? `<span class="grk">${esc(t.g)}</span>` : `<span class="small muted">${c.sel!==null?"place here":"empty"}</span>`;
+    const hint = decl ? DECL_HINT[p] : SUBJ_HINT[p];               // the English that fits this cell, instead of "empty"
+    let inner = t ? `<span class="grk">${esc(t.g)}</span>` : `<span class="ehint">${c.sel!==null?"place here":esc(hint)}</span>`;
     if(c.checked){
       if(!c.ok[p]) inner += `<span class="eans">should be <span class="grk">${esc(exp.g)}</span></span>`;
       inner += `<span class="een muted">${esc(clean(exp.e))}</span>`;
     }
-    return `<button class="${cls}" data-act="ecell" data-p="${p}" ${c.checked?"disabled":""} aria-label="${PERSON_LABEL[p]}: ${t?esc(t.g):"empty"}">${inner}</button>`;
+    return `<button class="${cls}" data-act="ecell" data-p="${p}" ${c.checked?"disabled":""} aria-label="${decl?CASE_LABEL[p]:PERSON_LABEL[p]}: ${t?esc(t.g):"empty, "+esc(hint)}">${inner}</button>`;
   };
-  const chart=`<div class="echart" role="group" aria-label="Verb chart"><span></span><span class="ehead">Singular</span><span class="ehead">Plural</span>
+  const chart = decl
+    ? `<div class="echart decl" role="group" aria-label="Declension table"><span></span><span class="ehead">Singular</span><span class="ehead">Plural</span>
+    ${DECL_ROWS.map((r,i)=>`<span class="erow">${DECL_LABEL[i]}</span>${cell(r[0])}${cell(r[1])}`).join("")}</div>`
+    : `<div class="echart" role="group" aria-label="Verb chart"><span></span><span class="ehead">Singular</span><span class="ehead">Plural</span>
     ${CHART_ROWS.map((r,i)=>`<span class="erow">${ROW_LABEL[i]}</span>${cell(r[0])}${cell(r[1])}`).join("")}</div>`;
-  const n=PERSONS.filter(p=>c.ok[p]).length, last=S.idx===total-1;
+  const n=K.filter(p=>c.ok[p]).length, last=S.idx===total-1, word=decl?"eight":"six";
   const foot = c.checked
-    ? `<div class="fb ${n===6?"ok":"no"}" role="status"><div class="verdict">${n===6?"All six correct":n+" of 6 correct"}</div>
+    ? `<div class="fb ${n===N?"ok":"no"}" role="status"><div class="verdict">${n===N?"All "+word+" correct":n+" of "+N+" correct"}</div>
         ${w.m?`<div class="mnem">${em(w.m)}</div>`:""}
-        <div class="row"><button class="btn primary" data-act="next" id="nextbtn">${last?"See results":"Next chart"}</button></div></div>`
-    : `<div class="bank" role="group" aria-label="Forms to place">${bank.length?bank.map(t=>`<button class="etile ${c.sel===t.id?"sel":""}" data-act="etile" data-id="${t.id}" aria-pressed="${c.sel===t.id}">${esc(t.g)}</button>`).join(""):`<span class="small muted">All six placed. Check when you're ready.</span>`}</div>
+        <div class="row"><button class="btn primary" data-act="next" id="nextbtn">${last?"See results":decl?"Next table":"Next chart"}</button></div></div>`
+    : `<div class="bank" role="group" aria-label="Forms to place">${bank.length?bank.map(t=>`<button class="etile ${c.sel===t.id?"sel":""}" data-act="etile" data-id="${t.id}" aria-pressed="${c.sel===t.id}">${esc(t.g)}</button>`).join(""):`<span class="small muted">All ${word} placed. Check when you're ready.</span>`}</div>
        <div class="row"><button class="btn primary" data-act="echeck">Check</button><button class="btn" data-act="eclear">Clear</button></div>`;
   $app.innerHTML=`${topbar(S.idx+(c.checked?1:0), total, `${S.idx+1} of ${total}`)}
-  <div class="card t-ends"><div class="prompt"><span class="hint">Place the six forms of</span>
+  <div class="card t-ends"><div class="prompt"><span class="hint">Place the ${word} forms of</span>
       <div class="big"><span class="grk">${esc(w.g)}</span>${tagFor(w)}</div>
       <div class="etense">${esc(it.tn.charAt(0).toUpperCase()+it.tn.slice(1))}</div>
-      <div class="small muted">${esc(clean(w.e))}</div>${c.checked?"":`<span class="hint">Tap a form, then tap its place in the chart. Tap a placed form to take it back.</span>`}</div>
+      <div class="small muted">${esc(clean(w.e))}</div>${c.checked?"":`<span class="hint">Tap a form, then tap its place in the ${decl?"table":"chart"}. Tap a placed form to take it back.</span>`}</div>
     ${chart}${foot}</div>`;
   if(c.checked){ const b=document.getElementById("nextbtn"); if(b) b.focus(); }
 }
 function staticChart(it){
   const cell=p=>`<div class="ecell"><span class="grk">${esc(it.cells[p].g)}</span></div>`;
+  if(it.t==="decl") return `<div class="echart static decl"><span></span><span class="ehead">Singular</span><span class="ehead">Plural</span>${DECL_ROWS.map((r,i)=>`<span class="erow">${DECL_LABEL[i]}</span>${cell(r[0])}${cell(r[1])}`).join("")}</div>`;
   return `<div class="echart static"><span></span><span class="ehead">Singular</span><span class="ehead">Plural</span>${CHART_ROWS.map((r,i)=>`<span class="erow">${ROW_LABEL[i]}</span>${cell(r[0])}${cell(r[1])}`).join("")}</div>`;
 }
 function renderEndsResults(){
   const R=S.results, perfect=R.filter(r=>r.ok).length, cells=R.reduce((a,r)=>a+r.n,0), miss=R.filter(r=>!r.ok);
-  const review=miss.map(r=>{ const it=S.items.find(x=>x.w.id===r.id && x.t===r.t); return it ? `<div class="miss"><div><span class="g">${esc(r.w.g)}</span>${tagFor(r.w)} <span class="muted">${esc(clean(r.w.e))} · ${esc(r.tn)}</span> <span class="small muted">(${r.n} of 6)</span></div>${staticChart(it)}</div>` : ""; }).join("");
+  const decl=S.mode==="decl", N=decl?8:6, one=decl?"table":"chart", many=decl?"tables":"charts";
+  const review=miss.map(r=>{ const it=S.items.find(x=>x.w.id===r.id && x.t===r.t); return it ? `<div class="miss"><div><span class="g">${esc(r.w.g)}</span>${tagFor(r.w)} <span class="muted">${esc(clean(r.w.e))} · ${esc(r.tn)}</span> <span class="small muted">(${r.n} of ${N})</span></div>${staticChart(it)}</div>` : ""; }).join("");
   $app.innerHTML=`<header class="row between"><h1>Results</h1></header>
   <section class="panel"><div class="res-score">${perfect}<span class="muted"> / ${R.length}</span></div>
-    <p>${perfect===1?"chart":"charts"} completed perfectly. ${cells} of ${R.length*6} forms were in the right place. Verb Endings does not change Mastery.</p>
-    <div class="row"><button class="btn primary" data-act="again">New session</button>${miss.length?`<button class="btn" data-act="retry">Retry missed charts (${miss.length})</button>`:""}<button class="btn ghost" data-act="home">Back to lessons</button></div></section>
-  <section class="panel"><h2>Charts to review</h2>${review || `<p>No misses. Nice work.</p>`}</section>`;
+    <p>${perfect===1?one:many} completed perfectly. ${cells} of ${R.length*N} forms were in the right place. ${decl?"Noun Declensions":"Verb Endings"} does not change Mastery.</p>
+    <div class="row"><button class="btn primary" data-act="again">New session</button>${miss.length?`<button class="btn" data-act="retry">Retry missed ${many} (${miss.length})</button>`:""}<button class="btn ghost" data-act="home">Back to lessons</button></div></section>
+  <section class="panel"><h2>${decl?"Tables":"Charts"} to review</h2>${review || `<p>No misses. Nice work.</p>`}</section>`;
 }
 function renderDrill(){
-  if(S.mode==="ends") return renderEnds();
+  if(S.mode==="ends" || S.mode==="decl") return renderEnds();
   if(S.mode==="flash") return renderFlash();
   if(S.mode==="match") return renderMatch();
   const w=S.items[S.idx], total=S.items.length, f=S.fb;
@@ -1214,7 +1307,7 @@ function renderMatch(){
 }
 
 function renderResults(){
-  if(S.mode==="ends") return renderEndsResults();
+  if(S.mode==="ends" || S.mode==="decl") return renderEndsResults();
   const R=S.results, tried=R.filter(r=>!r.pass), passed=R.filter(r=>r.pass), ok=tried.filter(r=>r.ok).length, miss=tried.filter(r=>!r.ok);
   const up=R.filter(r=>RANK[r.after]>RANK[r.before]);
   const down=R.filter(r=>RANK[r.after]<RANK[r.before]);
@@ -1299,7 +1392,7 @@ function applyImport(how){
   const fresh=!hasProgress(), valid=new Set(lessons.filter(L=>(L.words||[]).length).map(L=>L.n));
   if(how==="replace" || fresh){
     progress.w=c.w;
-    const keep=Object.assign({sel:null,n:10,lo:0,hi:3,pair:true,vforms:true,verbsOnly:false,tenses:[],pnFocus:false}, c.prefs); delete keep.focus;
+    const keep=Object.assign({sel:null,n:10,lo:0,hi:3,pair:true,vforms:true,verbsOnly:false,tenses:[],pnFocus:false,nforms:false,cnFocus:false}, c.prefs); delete keep.focus;
     progress.prefs=keep;
     sel=new Set((keep.sel||Array.from(valid)).filter(n=>valid.has(n)));
     xferMsg = how==="replace" ? "Progress replaced with the file ("+c.count+" words)." : "Progress imported ("+c.count+" words).";
@@ -1323,8 +1416,10 @@ $app.addEventListener("click", e=>{
   else if(a==="range"){ const f=+document.getElementById("rf").value, to=+document.getElementById("rt").value; const lo=Math.min(f,to), hi=Math.max(f,to);
     sel=new Set(lessons.filter(L=>(L.words||[]).length&&L.n>=lo&&L.n<=hi).map(L=>L.n)); persistSel(); render(); }
   else if(a==="n"){ progress.prefs.n=+t.dataset.v; persistSel(); render(); }
-  else if(a==="vonly"){ progress.prefs.verbsOnly = t.dataset.v==="1"; progress.prefs.pnFocus=false; persistSel(); render(); }
-  else if(a==="pnfocus"){ progress.prefs.pnFocus = !progress.prefs.pnFocus; persistSel(); render(); }
+  else if(a==="vonly"){ progress.prefs.verbsOnly = t.dataset.v==="1"; progress.prefs.pnFocus=false; progress.prefs.cnFocus=false; persistSel(); render(); }
+  else if(a==="pnfocus"){ progress.prefs.pnFocus = !progress.prefs.pnFocus; if(progress.prefs.pnFocus) progress.prefs.cnFocus=false; persistSel(); render(); }
+  else if(a==="cnfocus"){ progress.prefs.cnFocus = !cnOn(); if(progress.prefs.cnFocus){ progress.prefs.pnFocus=false; progress.prefs.verbsOnly=false; } persistSel(); render(); }
+  else if(a==="nforms"){ progress.prefs.nforms = t.dataset.v==="1"; persistSel(); render(); }
   else if(a==="tenseall"){ progress.prefs.tenses=[]; persistSel(); render(); }
   else if(a==="tense"){ const cur=new Set(progress.prefs.tenses||[]); cur.has(t.dataset.v)?cur.delete(t.dataset.v):cur.add(t.dataset.v); progress.prefs.tenses=[...cur]; persistSel(); render(); }
   else if(a==="vforms"){ progress.prefs.vforms = t.dataset.v==="1"; persistSel(); render(); }
@@ -1371,6 +1466,7 @@ $app.addEventListener("click", e=>{
   else if(a==="nextround"){ nextRound(); }
   else if(a==="again"){ const mode=S.mode; screen="home"; startSession(mode); }
   else if(a==="retry" && S.mode==="ends"){ startEnds(S.results.filter(r=>!r.ok).map(r=>({id:r.id, t:r.t}))); }
+  else if(a==="retry" && S.mode==="decl"){ startDecl(S.results.filter(r=>!r.ok).map(r=>({id:r.id}))); }
   else if(a==="retry"){ const mode=S.mode, ids=S.results.filter(r=>!r.ok).map(r=>r.id); startSession(mode, ids.map(id=>byId.get(id)).filter(Boolean)); }
   else if(a==="home"){ screen="home"; S=null; render(); }
 });
@@ -1516,7 +1612,7 @@ async function boot(){
   if(cap.uid){
     try{
       const snap = await db.doc("data/users/"+cap.uid+"/progress").get();
-      if(snap.exists){ const d=JSON.parse(JSON.stringify(snap.data()||{})); progress.w = d.w || {}; progress.prefs = Object.assign({sel:null,n:10,lo:0,hi:3,pair:true,vforms:true,verbsOnly:false,tenses:[],pnFocus:false}, d.prefs||{}); if(d.prefs && d.prefs.focus==="needs" && d.prefs.lo===undefined){ progress.prefs.lo=0; progress.prefs.hi=1; } delete progress.prefs.focus; }
+      if(snap.exists){ const d=JSON.parse(JSON.stringify(snap.data()||{})); progress.w = d.w || {}; progress.prefs = Object.assign({sel:null,n:10,lo:0,hi:3,pair:true,vforms:true,verbsOnly:false,tenses:[],pnFocus:false,nforms:false,cnFocus:false}, d.prefs||{}); if(d.prefs && d.prefs.focus==="needs" && d.prefs.lo===undefined){ progress.prefs.lo=0; progress.prefs.hi=1; } delete progress.prefs.focus; }
     }catch(e){}
     try{ const rs = await db.doc("data/users/"+cap.uid+"/reports").get(); if(rs.exists){ const d=JSON.parse(JSON.stringify(rs.data()||{})); reports = Array.isArray(d.items)?d.items:[]; } }catch(e){}
   }
@@ -1528,15 +1624,18 @@ async function boot(){
   }, ()=>{ if(cap.status!=="ready") return; });
   render();
 }
-/* ---------- one-time notice: new irregular futures in Lesson 12 (shown once per person, through Tuesday 27 Oct 2026) ---------- */
-const NOTICE = {id:"l12-irregular-futures-2026-10-25", until:new Date(2026,9,28).getTime(),
-  ids:["12:δυνήσομαι","12:φάγομαι","12:εὑρήσω","12:ἕξω","12:θαυμάσομαι","12:οἴσω"]};
+/* ---------- one-time notice: noun forms (shown once per person, through Sunday 22 Nov 2026) ---------- */
+const NOTICE = {id:"noun-forms-2026-11", until:new Date(2026,10,23).getTime(), ids:[], head:"New: practice nouns in all their forms",
+  lead:"Nouns can now be practiced in their other cases, the way verbs are.",
+  items:[["Settings → Nouns → Mix in forms", "Once a noun is Strong or Learned, it is also asked in its other forms, with the article in front: τοῦ λόγου (of the word), τοῖς λόγοις (to/for the words). Unlearned and Weak nouns stay in the vocab form."],
+         ["Off until you turn it on", "We suggest turning it on when you study Chapter 17 (3rd declension nouns). Your choice is remembered."],
+         ["Also new", "Case & number (Settings → Focus) asks one noun in different cases, and Noun Declensions has you place all eight forms of a noun in a table."]]};
 let noticeState="idle", noticeSeen={};
 async function maybeNotice(){
   if(noticeState!=="idle" || cap.status!=="ready" || !W.length) return;
   if(Date.now()>=NOTICE.until){ noticeState="done"; return; }
   const items=NOTICE.ids.map(id=>byId.get(id)).filter(Boolean);
-  if(items.length<NOTICE.ids.length) return;                       // wait until the new words have loaded
+  if(items.length<NOTICE.ids.length) return;                       // wait until any words it names have loaded
   noticeState="checking";
   let seen=false;
   try{ if(localStorage.getItem("notice:"+NOTICE.id)) seen=true; }catch(e){}
@@ -1551,9 +1650,9 @@ function showNotice(items){
   const back=document.createElement("div"); back.className="nt-back";
   const prevFocus=document.activeElement, prevOverflow=document.body.style.overflow;
   back.innerHTML=`<div class="nt" role="dialog" aria-modal="true" aria-labelledby="nt-h" aria-describedby="nt-d">
-    <div class="nt-head"><h2 id="nt-h">New in Lesson 12</h2>
-      <p id="nt-d">Six irregular future verb forms were added to the Lesson 12 vocabulary.</p></div>
-    <div class="nt-list" tabindex="0" aria-label="The six new verb forms">${items.map(w=>`<div class="nt-item"><div class="g">${esc(w.g)}</div><div class="e">${esc(w.e)}</div><div class="m">${em(w.m)}</div></div>`).join("")}</div>
+    <div class="nt-head"><h2 id="nt-h">${esc(NOTICE.head)}</h2>
+      <p id="nt-d">${esc(NOTICE.lead)}</p></div>
+    <div class="nt-list" tabindex="0" aria-label="What is new">${NOTICE.items.map(([h,t])=>`<div class="nt-item"><div class="e">${esc(h)}</div><div class="m">${esc(t)}</div></div>`).join("")}</div>
     <div class="nt-foot"><button class="btn primary" type="button" id="nt-ok">Got it</button></div></div>`;
   document.body.appendChild(back); document.body.style.overflow="hidden";
   const ok=back.querySelector("#nt-ok"); ok.focus();

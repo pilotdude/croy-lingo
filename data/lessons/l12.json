@@ -445,6 +445,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "teacher",
    "f": {
     "acc": "τὸν διδάσκαλον",
@@ -460,6 +461,128 @@
    "gen": "m",
    "id": "12:διδάσκαλος",
    "m": "from διδάσκω (L2, I teach): the one who does the *teaching*; \"didactic\"",
+   "nf": [
+    {
+     "a": [
+      "the teacher"
+     ],
+     "ab": [
+      "teacher"
+     ],
+     "b": "διδάσκαλος",
+     "cn": "ns",
+     "e": "the teacher",
+     "g": "ὁ διδάσκαλος",
+     "l": 4,
+     "ph": "ho dee-DAH-skah-los"
+    },
+    {
+     "a": [
+      "of the teacher"
+     ],
+     "ab": [
+      "teacher"
+     ],
+     "b": "διδασκάλου",
+     "cn": "gs",
+     "e": "of the teacher",
+     "g": "τοῦ διδασκάλου",
+     "l": 4,
+     "ph": "too dee-dah-SKAH-loo"
+    },
+    {
+     "a": [
+      "to the teacher",
+      "for the teacher",
+      "in the teacher",
+      "by the teacher",
+      "with the teacher"
+     ],
+     "ab": [
+      "teacher"
+     ],
+     "b": "διδασκάλῳ",
+     "cn": "ds",
+     "e": "to/for the teacher",
+     "g": "τῷ διδασκάλῳ",
+     "l": 4,
+     "ph": "toh dee-dah-SKAH-loh"
+    },
+    {
+     "a": [
+      "the teacher"
+     ],
+     "ab": [
+      "teacher"
+     ],
+     "b": "διδάσκαλον",
+     "cn": "as",
+     "e": "the teacher",
+     "g": "τὸν διδάσκαλον",
+     "l": 4,
+     "ph": "ton dee-DAH-skah-lon"
+    },
+    {
+     "a": [
+      "the teachers"
+     ],
+     "ab": [
+      "teachers"
+     ],
+     "b": "διδάσκαλοι",
+     "cn": "np",
+     "e": "the teachers",
+     "g": "οἱ διδάσκαλοι",
+     "l": 4,
+     "ph": "hoy dee-DAH-skah-loy"
+    },
+    {
+     "a": [
+      "of the teachers"
+     ],
+     "ab": [
+      "teachers"
+     ],
+     "b": "διδασκάλων",
+     "cn": "gp",
+     "e": "of the teachers",
+     "g": "τῶν διδασκάλων",
+     "l": 4,
+     "ph": "tohn dee-dah-SKAH-lohn"
+    },
+    {
+     "a": [
+      "to the teachers",
+      "for the teachers",
+      "in the teachers",
+      "by the teachers",
+      "with the teachers"
+     ],
+     "ab": [
+      "teachers"
+     ],
+     "b": "διδασκάλοις",
+     "cn": "dp",
+     "e": "to/for the teachers",
+     "g": "τοῖς διδασκάλοις",
+     "l": 4,
+     "ph": "toys dee-dah-SKAH-loys"
+    },
+    {
+     "a": [
+      "the teachers"
+     ],
+     "ab": [
+      "teachers"
+     ],
+     "b": "διδασκάλους",
+     "cn": "ap",
+     "e": "the teachers",
+     "g": "τοὺς διδασκάλους",
+     "l": 4,
+     "ph": "toos dee-dah-SKAH-loos"
+    }
+   ],
    "p": "noun",
    "ph": "dee-DAH-skah-los, ho"
   },

@@ -1186,6 +1186,7 @@
   },
   {
    "c": "",
+   "d": 1,
    "e": "righteousness",
    "f": {
     "acc": "τὴν δικαιοσύνην",
@@ -1201,6 +1202,128 @@
    "gen": "f",
    "id": "13:δικαιοσύνη",
    "m": "from δίκαιος (righteous, L5) + the noun ending -σύνη (the *state* of being): the *quality* of being righteous = *righteousness*",
+   "nf": [
+    {
+     "a": [
+      "the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσύνη",
+     "cn": "ns",
+     "e": "the righteousness",
+     "g": "ἡ δικαιοσύνη",
+     "l": 3,
+     "ph": "hay dee-kai-o-SÜ-nay"
+    },
+    {
+     "a": [
+      "of the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσύνης",
+     "cn": "gs",
+     "e": "of the righteousness",
+     "g": "τῆς δικαιοσύνης",
+     "l": 3,
+     "ph": "tays dee-kai-o-SÜ-nays"
+    },
+    {
+     "a": [
+      "to the righteousness",
+      "for the righteousness",
+      "in the righteousness",
+      "by the righteousness",
+      "with the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσύνῃ",
+     "cn": "ds",
+     "e": "to/for the righteousness",
+     "g": "τῇ δικαιοσύνῃ",
+     "l": 3,
+     "ph": "tay dee-kai-o-SÜ-nay"
+    },
+    {
+     "a": [
+      "the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσύνην",
+     "cn": "as",
+     "e": "the righteousness",
+     "g": "τὴν δικαιοσύνην",
+     "l": 3,
+     "ph": "tayn dee-kai-o-SÜ-nayn"
+    },
+    {
+     "a": [
+      "the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσύναι",
+     "cn": "np",
+     "e": "the righteousness",
+     "g": "αἱ δικαιοσύναι",
+     "l": 3,
+     "ph": "hai dee-kai-o-SÜ-nai"
+    },
+    {
+     "a": [
+      "of the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσυνῶν",
+     "cn": "gp",
+     "e": "of the righteousness",
+     "g": "τῶν δικαιοσυνῶν",
+     "l": 3,
+     "ph": "tohn dee-kai-o-sü-NOHN"
+    },
+    {
+     "a": [
+      "to the righteousness",
+      "for the righteousness",
+      "in the righteousness",
+      "by the righteousness",
+      "with the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσύναις",
+     "cn": "dp",
+     "e": "to/for the righteousness",
+     "g": "ταῖς δικαιοσύναις",
+     "l": 3,
+     "ph": "tais dee-kai-o-SÜ-nais"
+    },
+    {
+     "a": [
+      "the righteousness"
+     ],
+     "ab": [
+      "righteousness"
+     ],
+     "b": "δικαιοσύνας",
+     "cn": "ap",
+     "e": "the righteousness",
+     "g": "τὰς δικαιοσύνας",
+     "l": 3,
+     "ph": "tahs dee-kai-o-SÜ-nahs"
+    }
+   ],
    "p": "noun",
    "ph": "dee-kai-o-SÜ-nay, hay"
   },
@@ -3027,6 +3150,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "throne",
    "f": {
     "acc": "τὸν θρόνον",
@@ -3042,12 +3166,134 @@
    "gen": "m",
    "id": "13:θρόνος",
    "m": "direct cognate: \"throne\" — θρόν-ος → thron-e",
+   "nf": [
+    {
+     "a": [
+      "the throne"
+     ],
+     "ab": [
+      "throne"
+     ],
+     "b": "θρόνος",
+     "cn": "ns",
+     "e": "the throne",
+     "g": "ὁ θρόνος",
+     "l": 4,
+     "ph": "ho THRO-nos"
+    },
+    {
+     "a": [
+      "of the throne"
+     ],
+     "ab": [
+      "throne"
+     ],
+     "b": "θρόνου",
+     "cn": "gs",
+     "e": "of the throne",
+     "g": "τοῦ θρόνου",
+     "l": 4,
+     "ph": "too THRO-noo"
+    },
+    {
+     "a": [
+      "to the throne",
+      "for the throne",
+      "in the throne",
+      "by the throne",
+      "with the throne"
+     ],
+     "ab": [
+      "throne"
+     ],
+     "b": "θρόνῳ",
+     "cn": "ds",
+     "e": "to/for the throne",
+     "g": "τῷ θρόνῳ",
+     "l": 4,
+     "ph": "toh THRO-noh"
+    },
+    {
+     "a": [
+      "the throne"
+     ],
+     "ab": [
+      "throne"
+     ],
+     "b": "θρόνον",
+     "cn": "as",
+     "e": "the throne",
+     "g": "τὸν θρόνον",
+     "l": 4,
+     "ph": "ton THRO-non"
+    },
+    {
+     "a": [
+      "the thrones"
+     ],
+     "ab": [
+      "thrones"
+     ],
+     "b": "θρόνοι",
+     "cn": "np",
+     "e": "the thrones",
+     "g": "οἱ θρόνοι",
+     "l": 4,
+     "ph": "hoy THRO-noy"
+    },
+    {
+     "a": [
+      "of the thrones"
+     ],
+     "ab": [
+      "thrones"
+     ],
+     "b": "θρόνων",
+     "cn": "gp",
+     "e": "of the thrones",
+     "g": "τῶν θρόνων",
+     "l": 4,
+     "ph": "tohn THRO-nohn"
+    },
+    {
+     "a": [
+      "to the thrones",
+      "for the thrones",
+      "in the thrones",
+      "by the thrones",
+      "with the thrones"
+     ],
+     "ab": [
+      "thrones"
+     ],
+     "b": "θρόνοις",
+     "cn": "dp",
+     "e": "to/for the thrones",
+     "g": "τοῖς θρόνοις",
+     "l": 4,
+     "ph": "toys THRO-noys"
+    },
+    {
+     "a": [
+      "the thrones"
+     ],
+     "ab": [
+      "thrones"
+     ],
+     "b": "θρόνους",
+     "cn": "ap",
+     "e": "the thrones",
+     "g": "τοὺς θρόνους",
+     "l": 4,
+     "ph": "toos THRO-noos"
+    }
+   ],
    "p": "noun",
    "ph": "THRO-nos, ho"
   },
   {
    "c": "",
-   "e": "one's own (→ idiosyncrasy, idiom)",
+   "e": "one's own or unique (→ idiosyncrasy, idiom)",
    "g": "ἴδιος, -α, -ον",
    "gen": "",
    "id": "13:ἴδιος",
@@ -3057,6 +3303,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "garment",
    "f": {
     "acc": "τὸ ἱμάτιον",
@@ -3072,11 +3319,106 @@
    "gen": "n",
    "id": "13:ἱμάτιον",
    "m": "sounds like \"him-AH-tee-on\" — \"*him*, at tea, *on* in his *garment*\"; the cloak you have *on*",
+   "nf": [
+    {
+     "a": [
+      "the garment"
+     ],
+     "ab": [
+      "garment"
+     ],
+     "b": "ἱμάτιον",
+     "cn": "ns/as",
+     "e": "the garment",
+     "g": "τὸ ἱμάτιον",
+     "l": 4,
+     "ph": "to hee-MAH-tee-on"
+    },
+    {
+     "a": [
+      "of the garment"
+     ],
+     "ab": [
+      "garment"
+     ],
+     "b": "ἱματίου",
+     "cn": "gs",
+     "e": "of the garment",
+     "g": "τοῦ ἱματίου",
+     "l": 4,
+     "ph": "too hee-mah-TEE-oo"
+    },
+    {
+     "a": [
+      "to the garment",
+      "for the garment",
+      "in the garment",
+      "by the garment",
+      "with the garment"
+     ],
+     "ab": [
+      "garment"
+     ],
+     "b": "ἱματίῳ",
+     "cn": "ds",
+     "e": "to/for the garment",
+     "g": "τῷ ἱματίῳ",
+     "l": 4,
+     "ph": "toh hee-mah-TEE-oh"
+    },
+    {
+     "a": [
+      "the garments"
+     ],
+     "ab": [
+      "garments"
+     ],
+     "b": "ἱμάτια",
+     "cn": "np/ap",
+     "e": "the garments",
+     "g": "τὰ ἱμάτια",
+     "l": 4,
+     "ph": "tah hee-MAH-tee-ah"
+    },
+    {
+     "a": [
+      "of the garments"
+     ],
+     "ab": [
+      "garments"
+     ],
+     "b": "ἱματίων",
+     "cn": "gp",
+     "e": "of the garments",
+     "g": "τῶν ἱματίων",
+     "l": 4,
+     "ph": "tohn hee-mah-TEE-ohn"
+    },
+    {
+     "a": [
+      "to the garments",
+      "for the garments",
+      "in the garments",
+      "by the garments",
+      "with the garments"
+     ],
+     "ab": [
+      "garments"
+     ],
+     "b": "ἱματίοις",
+     "cn": "dp",
+     "e": "to/for the garments",
+     "g": "τοῖς ἱματίοις",
+     "l": 4,
+     "ph": "toys hee-mah-TEE-oys"
+    }
+   ],
    "p": "noun",
    "ph": "hee-MAH-tee-on, to"
   },
   {
    "c": "",
+   "d": 1,
    "e": "head (→ cephalic)",
    "f": {
     "acc": "τὴν κεφαλήν",
@@ -3092,6 +3434,128 @@
    "gen": "f",
    "id": "13:κεφαλή",
    "m": "\"cephalic\" — relating to the *head*; \"encephalitis\" — inflammation inside the *head*; \"hydrocephalus\" (water on the head)",
+   "nf": [
+    {
+     "a": [
+      "the head"
+     ],
+     "ab": [
+      "head"
+     ],
+     "b": "κεφαλή",
+     "cn": "ns",
+     "e": "the head",
+     "g": "ἡ κεφαλή",
+     "l": 3,
+     "ph": "hay keh-fah-LAY"
+    },
+    {
+     "a": [
+      "of the head"
+     ],
+     "ab": [
+      "head"
+     ],
+     "b": "κεφαλῆς",
+     "cn": "gs",
+     "e": "of the head",
+     "g": "τῆς κεφαλῆς",
+     "l": 3,
+     "ph": "tays keh-fah-LAYS"
+    },
+    {
+     "a": [
+      "to the head",
+      "for the head",
+      "in the head",
+      "by the head",
+      "with the head"
+     ],
+     "ab": [
+      "head"
+     ],
+     "b": "κεφαλῇ",
+     "cn": "ds",
+     "e": "to/for the head",
+     "g": "τῇ κεφαλῇ",
+     "l": 3,
+     "ph": "tay keh-fah-LAY"
+    },
+    {
+     "a": [
+      "the head"
+     ],
+     "ab": [
+      "head"
+     ],
+     "b": "κεφαλήν",
+     "cn": "as",
+     "e": "the head",
+     "g": "τὴν κεφαλήν",
+     "l": 3,
+     "ph": "tayn keh-fah-LAYN"
+    },
+    {
+     "a": [
+      "the heads"
+     ],
+     "ab": [
+      "heads"
+     ],
+     "b": "κεφαλαί",
+     "cn": "np",
+     "e": "the heads",
+     "g": "αἱ κεφαλαί",
+     "l": 3,
+     "ph": "hai keh-fah-LAI"
+    },
+    {
+     "a": [
+      "of the heads"
+     ],
+     "ab": [
+      "heads"
+     ],
+     "b": "κεφαλῶν",
+     "cn": "gp",
+     "e": "of the heads",
+     "g": "τῶν κεφαλῶν",
+     "l": 3,
+     "ph": "tohn keh-fah-LOHN"
+    },
+    {
+     "a": [
+      "to the heads",
+      "for the heads",
+      "in the heads",
+      "by the heads",
+      "with the heads"
+     ],
+     "ab": [
+      "heads"
+     ],
+     "b": "κεφαλαῖς",
+     "cn": "dp",
+     "e": "to/for the heads",
+     "g": "ταῖς κεφαλαῖς",
+     "l": 3,
+     "ph": "tais keh-fah-LAIS"
+    },
+    {
+     "a": [
+      "the heads"
+     ],
+     "ab": [
+      "heads"
+     ],
+     "b": "κεφαλάς",
+     "cn": "ap",
+     "e": "the heads",
+     "g": "τὰς κεφαλάς",
+     "l": 3,
+     "ph": "tahs keh-fah-LAHS"
+    }
+   ],
    "p": "noun",
    "ph": "keh-fah-LAY, hay"
   },

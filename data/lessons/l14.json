@@ -8,7 +8,7 @@
    "g": "εἶδον",
    "gen": "",
    "id": "14:εἶδον",
-   "m": "\"idea\" — an *idea* is something you have *seen* in your mind's eye; the aorist uses a different root (ἰδ-) than ὁράω",
+   "m": "If you squint, the δ is a periscope which you *saw* through.",
    "p": "verb",
    "ph": "AY-don"
   },
@@ -44,6 +44,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "wine (→ oenophile)",
    "f": {
     "acc": "τὸν οἶνον",
@@ -59,6 +60,128 @@
    "gen": "m",
    "id": "14:οἶνος",
    "m": "\"oenophile\" — a *wine* lover; \"oenology\" — the study of *wine*",
+   "nf": [
+    {
+     "a": [
+      "the wine"
+     ],
+     "ab": [
+      "wine"
+     ],
+     "b": "οἶνος",
+     "cn": "ns",
+     "e": "the wine",
+     "g": "ὁ οἶνος",
+     "l": 4,
+     "ph": "ho OY-nos"
+    },
+    {
+     "a": [
+      "of the wine"
+     ],
+     "ab": [
+      "wine"
+     ],
+     "b": "οἴνου",
+     "cn": "gs",
+     "e": "of the wine",
+     "g": "τοῦ οἴνου",
+     "l": 4,
+     "ph": "too OY-noo"
+    },
+    {
+     "a": [
+      "to the wine",
+      "for the wine",
+      "in the wine",
+      "by the wine",
+      "with the wine"
+     ],
+     "ab": [
+      "wine"
+     ],
+     "b": "οἴνῳ",
+     "cn": "ds",
+     "e": "to/for the wine",
+     "g": "τῷ οἴνῳ",
+     "l": 4,
+     "ph": "toh OY-noh"
+    },
+    {
+     "a": [
+      "the wine"
+     ],
+     "ab": [
+      "wine"
+     ],
+     "b": "οἶνον",
+     "cn": "as",
+     "e": "the wine",
+     "g": "τὸν οἶνον",
+     "l": 4,
+     "ph": "ton OY-non"
+    },
+    {
+     "a": [
+      "the wines"
+     ],
+     "ab": [
+      "wines"
+     ],
+     "b": "οἶνοι",
+     "cn": "np",
+     "e": "the wines",
+     "g": "οἱ οἶνοι",
+     "l": 4,
+     "ph": "hoy OY-noy"
+    },
+    {
+     "a": [
+      "of the wines"
+     ],
+     "ab": [
+      "wines"
+     ],
+     "b": "οἴνων",
+     "cn": "gp",
+     "e": "of the wines",
+     "g": "τῶν οἴνων",
+     "l": 4,
+     "ph": "tohn OY-nohn"
+    },
+    {
+     "a": [
+      "to the wines",
+      "for the wines",
+      "in the wines",
+      "by the wines",
+      "with the wines"
+     ],
+     "ab": [
+      "wines"
+     ],
+     "b": "οἴνοις",
+     "cn": "dp",
+     "e": "to/for the wines",
+     "g": "τοῖς οἴνοις",
+     "l": 4,
+     "ph": "toys OY-noys"
+    },
+    {
+     "a": [
+      "the wines"
+     ],
+     "ab": [
+      "wines"
+     ],
+     "b": "οἴνους",
+     "cn": "ap",
+     "e": "the wines",
+     "g": "τοὺς οἴνους",
+     "l": 4,
+     "ph": "toos OY-noos"
+    }
+   ],
    "p": "noun",
    "ph": "OY-nos, ho"
   },
@@ -2183,6 +2306,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "sign, miracle, portent (→ semaphore)",
    "f": {
     "acc": "τὸ σημεῖον",
@@ -2198,6 +2322,140 @@
    "gen": "n",
    "id": "14:σημεῖον",
    "m": "\"semaphore\" — signal flags that carry a *sign*; \"semantics\" — the study of *signs*/meaning",
+   "nf": [
+    {
+     "a": [
+      "the sign",
+      "the miracle",
+      "the portent"
+     ],
+     "ab": [
+      "sign",
+      "miracle",
+      "portent"
+     ],
+     "b": "σημεῖον",
+     "cn": "ns/as",
+     "e": "the sign",
+     "g": "τὸ σημεῖον",
+     "l": 4,
+     "ph": "to say-MAY-on"
+    },
+    {
+     "a": [
+      "of the sign",
+      "of the miracle",
+      "of the portent"
+     ],
+     "ab": [
+      "sign",
+      "miracle",
+      "portent"
+     ],
+     "b": "σημείου",
+     "cn": "gs",
+     "e": "of the sign",
+     "g": "τοῦ σημείου",
+     "l": 4,
+     "ph": "too say-MAY-oo"
+    },
+    {
+     "a": [
+      "to the sign",
+      "for the sign",
+      "in the sign",
+      "by the sign",
+      "with the sign",
+      "to the miracle",
+      "for the miracle",
+      "in the miracle",
+      "by the miracle",
+      "with the miracle",
+      "to the portent",
+      "for the portent",
+      "in the portent",
+      "by the portent",
+      "with the portent"
+     ],
+     "ab": [
+      "sign",
+      "miracle",
+      "portent"
+     ],
+     "b": "σημείῳ",
+     "cn": "ds",
+     "e": "to/for the sign",
+     "g": "τῷ σημείῳ",
+     "l": 4,
+     "ph": "toh say-MAY-oh"
+    },
+    {
+     "a": [
+      "the signs",
+      "the miracles",
+      "the portents"
+     ],
+     "ab": [
+      "signs",
+      "miracles",
+      "portents"
+     ],
+     "b": "σημεῖα",
+     "cn": "np/ap",
+     "e": "the signs",
+     "g": "τὰ σημεῖα",
+     "l": 4,
+     "ph": "tah say-MAY-ah"
+    },
+    {
+     "a": [
+      "of the signs",
+      "of the miracles",
+      "of the portents"
+     ],
+     "ab": [
+      "signs",
+      "miracles",
+      "portents"
+     ],
+     "b": "σημείων",
+     "cn": "gp",
+     "e": "of the signs",
+     "g": "τῶν σημείων",
+     "l": 4,
+     "ph": "tohn say-MAY-ohn"
+    },
+    {
+     "a": [
+      "to the signs",
+      "for the signs",
+      "in the signs",
+      "by the signs",
+      "with the signs",
+      "to the miracles",
+      "for the miracles",
+      "in the miracles",
+      "by the miracles",
+      "with the miracles",
+      "to the portents",
+      "for the portents",
+      "in the portents",
+      "by the portents",
+      "with the portents"
+     ],
+     "ab": [
+      "signs",
+      "miracles",
+      "portents"
+     ],
+     "b": "σημείοις",
+     "cn": "dp",
+     "e": "to/for the signs",
+     "g": "τοῖς σημείοις",
+     "l": 4,
+     "ph": "toys say-MAY-oys"
+    }
+   ],
    "p": "noun",
    "ph": "say-MAY-on, to"
   },

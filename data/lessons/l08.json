@@ -2166,6 +2166,7 @@
   },
   {
    "c": "",
+   "d": 1,
    "e": "peace (→ irenic)",
    "f": {
     "acc": "τὴν εἰρήνην",
@@ -2181,6 +2182,128 @@
    "gen": "f",
    "id": "8:εἰρήνη",
    "m": "\"irenic\" = peaceful; the name *Irene* means *peace*",
+   "nf": [
+    {
+     "a": [
+      "the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρήνη",
+     "cn": "ns",
+     "e": "the peace",
+     "g": "ἡ εἰρήνη",
+     "l": 3,
+     "ph": "hay ay-RAY-nay"
+    },
+    {
+     "a": [
+      "of the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρήνης",
+     "cn": "gs",
+     "e": "of the peace",
+     "g": "τῆς εἰρήνης",
+     "l": 3,
+     "ph": "tays ay-RAY-nays"
+    },
+    {
+     "a": [
+      "to the peace",
+      "for the peace",
+      "in the peace",
+      "by the peace",
+      "with the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρήνῃ",
+     "cn": "ds",
+     "e": "to/for the peace",
+     "g": "τῇ εἰρήνῃ",
+     "l": 3,
+     "ph": "tay ay-RAY-nay"
+    },
+    {
+     "a": [
+      "the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρήνην",
+     "cn": "as",
+     "e": "the peace",
+     "g": "τὴν εἰρήνην",
+     "l": 3,
+     "ph": "tayn ay-RAY-nayn"
+    },
+    {
+     "a": [
+      "the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρῆναι",
+     "cn": "np",
+     "e": "the peace",
+     "g": "αἱ εἰρῆναι",
+     "l": 3,
+     "ph": "hai ay-RAY-nai"
+    },
+    {
+     "a": [
+      "of the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρηνῶν",
+     "cn": "gp",
+     "e": "of the peace",
+     "g": "τῶν εἰρηνῶν",
+     "l": 3,
+     "ph": "tohn ay-ray-NOHN"
+    },
+    {
+     "a": [
+      "to the peace",
+      "for the peace",
+      "in the peace",
+      "by the peace",
+      "with the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρήναις",
+     "cn": "dp",
+     "e": "to/for the peace",
+     "g": "ταῖς εἰρήναις",
+     "l": 3,
+     "ph": "tais ay-RAY-nais"
+    },
+    {
+     "a": [
+      "the peace"
+     ],
+     "ab": [
+      "peace"
+     ],
+     "b": "εἰρήνας",
+     "cn": "ap",
+     "e": "the peace",
+     "g": "τὰς εἰρήνας",
+     "l": 3,
+     "ph": "tahs ay-RAY-nahs"
+    }
+   ],
    "p": "noun",
    "ph": "ay-RAY-nay, hay"
   },
@@ -2196,6 +2319,7 @@
   },
   {
    "c": "",
+   "d": 1,
    "e": "authority",
    "f": {
     "acc": "τὴν ἐξουσίαν",
@@ -2211,6 +2335,128 @@
    "gen": "f",
    "id": "8:ἐξουσία",
    "m": "ἐξ (out of, L6) + \"being\" — power that comes *out of* who you are = *authority*",
+   "nf": [
+    {
+     "a": [
+      "the authority"
+     ],
+     "ab": [
+      "authority"
+     ],
+     "b": "ἐξουσία",
+     "cn": "ns",
+     "e": "the authority",
+     "g": "ἡ ἐξουσία",
+     "l": 3,
+     "ph": "hay eh-ksoo-SEE-ah"
+    },
+    {
+     "a": [
+      "of the authority"
+     ],
+     "ab": [
+      "authority"
+     ],
+     "b": "ἐξουσίας",
+     "cn": "gs",
+     "e": "of the authority",
+     "g": "τῆς ἐξουσίας",
+     "l": 3,
+     "ph": "tays eh-ksoo-SEE-ahs"
+    },
+    {
+     "a": [
+      "to the authority",
+      "for the authority",
+      "in the authority",
+      "by the authority",
+      "with the authority"
+     ],
+     "ab": [
+      "authority"
+     ],
+     "b": "ἐξουσίᾳ",
+     "cn": "ds",
+     "e": "to/for the authority",
+     "g": "τῇ ἐξουσίᾳ",
+     "l": 3,
+     "ph": "tay eh-ksoo-SEE-ah"
+    },
+    {
+     "a": [
+      "the authority"
+     ],
+     "ab": [
+      "authority"
+     ],
+     "b": "ἐξουσίαν",
+     "cn": "as",
+     "e": "the authority",
+     "g": "τὴν ἐξουσίαν",
+     "l": 3,
+     "ph": "tayn eh-ksoo-SEE-ahn"
+    },
+    {
+     "a": [
+      "the authorities"
+     ],
+     "ab": [
+      "authorities"
+     ],
+     "b": "ἐξουσίαι",
+     "cn": "np",
+     "e": "the authorities",
+     "g": "αἱ ἐξουσίαι",
+     "l": 3,
+     "ph": "hai eh-ksoo-SEE-ai"
+    },
+    {
+     "a": [
+      "of the authorities"
+     ],
+     "ab": [
+      "authorities"
+     ],
+     "b": "ἐξουσιῶν",
+     "cn": "gp",
+     "e": "of the authorities",
+     "g": "τῶν ἐξουσιῶν",
+     "l": 3,
+     "ph": "tohn eh-ksoo-see-OHN"
+    },
+    {
+     "a": [
+      "to the authorities",
+      "for the authorities",
+      "in the authorities",
+      "by the authorities",
+      "with the authorities"
+     ],
+     "ab": [
+      "authorities"
+     ],
+     "b": "ἐξουσίαις",
+     "cn": "dp",
+     "e": "to/for the authorities",
+     "g": "ταῖς ἐξουσίαις",
+     "l": 3,
+     "ph": "tais eh-ksoo-SEE-ais"
+    },
+    {
+     "a": [
+      "the authorities"
+     ],
+     "ab": [
+      "authorities"
+     ],
+     "b": "ἐξουσίας",
+     "cn": "ap",
+     "e": "the authorities",
+     "g": "τὰς ἐξουσίας",
+     "l": 3,
+     "ph": "tahs eh-ksoo-SEE-ahs"
+    }
+   ],
    "p": "noun",
    "ph": "eh-ksoo-SEE-ah, hay"
   },
@@ -3607,6 +3853,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "people (→ laity)",
    "f": {
     "acc": "τὸν λαόν",
@@ -3622,6 +3869,128 @@
    "gen": "m",
    "id": "8:λαός",
    "m": "\"laity\" — the *people* of the church, as opposed to the clergy",
+   "nf": [
+    {
+     "a": [
+      "the people"
+     ],
+     "ab": [
+      "people"
+     ],
+     "b": "λαός",
+     "cn": "ns",
+     "e": "the people",
+     "g": "ὁ λαός",
+     "l": 4,
+     "ph": "ho lah-OS"
+    },
+    {
+     "a": [
+      "of the people"
+     ],
+     "ab": [
+      "people"
+     ],
+     "b": "λαοῦ",
+     "cn": "gs",
+     "e": "of the people",
+     "g": "τοῦ λαοῦ",
+     "l": 4,
+     "ph": "too lah-OO"
+    },
+    {
+     "a": [
+      "to the people",
+      "for the people",
+      "in the people",
+      "by the people",
+      "with the people"
+     ],
+     "ab": [
+      "people"
+     ],
+     "b": "λαῷ",
+     "cn": "ds",
+     "e": "to/for the people",
+     "g": "τῷ λαῷ",
+     "l": 4,
+     "ph": "toh lah-OH"
+    },
+    {
+     "a": [
+      "the people"
+     ],
+     "ab": [
+      "people"
+     ],
+     "b": "λαόν",
+     "cn": "as",
+     "e": "the people",
+     "g": "τὸν λαόν",
+     "l": 4,
+     "ph": "ton lah-ON"
+    },
+    {
+     "a": [
+      "the peoples"
+     ],
+     "ab": [
+      "peoples"
+     ],
+     "b": "λαοί",
+     "cn": "np",
+     "e": "the peoples",
+     "g": "οἱ λαοί",
+     "l": 4,
+     "ph": "hoy lah-OY"
+    },
+    {
+     "a": [
+      "of the peoples"
+     ],
+     "ab": [
+      "peoples"
+     ],
+     "b": "λαῶν",
+     "cn": "gp",
+     "e": "of the peoples",
+     "g": "τῶν λαῶν",
+     "l": 4,
+     "ph": "tohn lah-OHN"
+    },
+    {
+     "a": [
+      "to the peoples",
+      "for the peoples",
+      "in the peoples",
+      "by the peoples",
+      "with the peoples"
+     ],
+     "ab": [
+      "peoples"
+     ],
+     "b": "λαοῖς",
+     "cn": "dp",
+     "e": "to/for the peoples",
+     "g": "τοῖς λαοῖς",
+     "l": 4,
+     "ph": "toys lah-OYS"
+    },
+    {
+     "a": [
+      "the peoples"
+     ],
+     "ab": [
+      "peoples"
+     ],
+     "b": "λαούς",
+     "cn": "ap",
+     "e": "the peoples",
+     "g": "τοὺς λαούς",
+     "l": 4,
+     "ph": "toos lah-OOS"
+    }
+   ],
    "p": "noun",
    "ph": "lah-OS, ho"
   },
@@ -3657,6 +4026,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "face",
    "f": {
     "acc": "τὸ πρόσωπον",
@@ -3672,6 +4042,100 @@
    "gen": "n",
    "id": "8:πρόσωπον",
    "m": "πρός (toward, L6) + ὤψ (eye) — the part of you turned *toward* someone = *face*",
+   "nf": [
+    {
+     "a": [
+      "the face"
+     ],
+     "ab": [
+      "face"
+     ],
+     "b": "πρόσωπον",
+     "cn": "ns/as",
+     "e": "the face",
+     "g": "τὸ πρόσωπον",
+     "l": 4,
+     "ph": "to PRO-soh-pon"
+    },
+    {
+     "a": [
+      "of the face"
+     ],
+     "ab": [
+      "face"
+     ],
+     "b": "προσώπου",
+     "cn": "gs",
+     "e": "of the face",
+     "g": "τοῦ προσώπου",
+     "l": 4,
+     "ph": "too pro-SOH-poo"
+    },
+    {
+     "a": [
+      "to the face",
+      "for the face",
+      "in the face",
+      "by the face",
+      "with the face"
+     ],
+     "ab": [
+      "face"
+     ],
+     "b": "προσώπῳ",
+     "cn": "ds",
+     "e": "to/for the face",
+     "g": "τῷ προσώπῳ",
+     "l": 4,
+     "ph": "toh pro-SOH-poh"
+    },
+    {
+     "a": [
+      "the faces"
+     ],
+     "ab": [
+      "faces"
+     ],
+     "b": "πρόσωπα",
+     "cn": "np/ap",
+     "e": "the faces",
+     "g": "τὰ πρόσωπα",
+     "l": 4,
+     "ph": "tah PRO-soh-pah"
+    },
+    {
+     "a": [
+      "of the faces"
+     ],
+     "ab": [
+      "faces"
+     ],
+     "b": "προσώπων",
+     "cn": "gp",
+     "e": "of the faces",
+     "g": "τῶν προσώπων",
+     "l": 4,
+     "ph": "tohn pro-SOH-pohn"
+    },
+    {
+     "a": [
+      "to the faces",
+      "for the faces",
+      "in the faces",
+      "by the faces",
+      "with the faces"
+     ],
+     "ab": [
+      "faces"
+     ],
+     "b": "προσώποις",
+     "cn": "dp",
+     "e": "to/for the faces",
+     "g": "τοῖς προσώποις",
+     "l": 4,
+     "ph": "toys pro-SOH-poys"
+    }
+   ],
    "p": "noun",
    "ph": "PRO-soh-pon, to"
   }

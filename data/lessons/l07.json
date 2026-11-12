@@ -4,6 +4,7 @@
  "words": [
   {
    "c": "",
+   "d": 1,
    "e": "love",
    "f": {
     "acc": "τὴν ἀγάπην",
@@ -19,11 +20,134 @@
    "gen": "f",
    "id": "7:ἀγάπη",
    "m": "\"agape\" is a direct loanword — selfless *love*",
+   "nf": [
+    {
+     "a": [
+      "the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγάπη",
+     "cn": "ns",
+     "e": "the love",
+     "g": "ἡ ἀγάπη",
+     "l": 3,
+     "ph": "hay ah-GAH-pay"
+    },
+    {
+     "a": [
+      "of the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγάπης",
+     "cn": "gs",
+     "e": "of the love",
+     "g": "τῆς ἀγάπης",
+     "l": 3,
+     "ph": "tays ah-GAH-pays"
+    },
+    {
+     "a": [
+      "to the love",
+      "for the love",
+      "in the love",
+      "by the love",
+      "with the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγάπῃ",
+     "cn": "ds",
+     "e": "to/for the love",
+     "g": "τῇ ἀγάπῃ",
+     "l": 3,
+     "ph": "tay ah-GAH-pay"
+    },
+    {
+     "a": [
+      "the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγάπην",
+     "cn": "as",
+     "e": "the love",
+     "g": "τὴν ἀγάπην",
+     "l": 3,
+     "ph": "tayn ah-GAH-payn"
+    },
+    {
+     "a": [
+      "the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγάπαι",
+     "cn": "np",
+     "e": "the love",
+     "g": "αἱ ἀγάπαι",
+     "l": 3,
+     "ph": "hai ah-GAH-pai"
+    },
+    {
+     "a": [
+      "of the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγαπῶν",
+     "cn": "gp",
+     "e": "of the love",
+     "g": "τῶν ἀγαπῶν",
+     "l": 3,
+     "ph": "tohn ah-gah-POHN"
+    },
+    {
+     "a": [
+      "to the love",
+      "for the love",
+      "in the love",
+      "by the love",
+      "with the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγάπαις",
+     "cn": "dp",
+     "e": "to/for the love",
+     "g": "ταῖς ἀγάπαις",
+     "l": 3,
+     "ph": "tais ah-GAH-pais"
+    },
+    {
+     "a": [
+      "the love"
+     ],
+     "ab": [
+      "love"
+     ],
+     "b": "ἀγάπας",
+     "cn": "ap",
+     "e": "the love",
+     "g": "τὰς ἀγάπας",
+     "l": 3,
+     "ph": "tahs ah-GAH-pahs"
+    }
+   ],
    "p": "noun",
    "ph": "ah-GAH-pay, hay"
   },
   {
    "c": "",
+   "d": 1,
    "e": "sin (→ hamartiology)",
    "f": {
     "acc": "τὴν ἁμαρτίαν",
@@ -39,11 +163,134 @@
    "gen": "f",
    "id": "7:ἁμαρτία",
    "m": "\"hamartiology\" — the study of *sin*",
+   "nf": [
+    {
+     "a": [
+      "the sin"
+     ],
+     "ab": [
+      "sin"
+     ],
+     "b": "ἁμαρτία",
+     "cn": "ns",
+     "e": "the sin",
+     "g": "ἡ ἁμαρτία",
+     "l": 3,
+     "ph": "hay hah-mahr-TEE-ah"
+    },
+    {
+     "a": [
+      "of the sin"
+     ],
+     "ab": [
+      "sin"
+     ],
+     "b": "ἁμαρτίας",
+     "cn": "gs",
+     "e": "of the sin",
+     "g": "τῆς ἁμαρτίας",
+     "l": 3,
+     "ph": "tays hah-mahr-TEE-ahs"
+    },
+    {
+     "a": [
+      "to the sin",
+      "for the sin",
+      "in the sin",
+      "by the sin",
+      "with the sin"
+     ],
+     "ab": [
+      "sin"
+     ],
+     "b": "ἁμαρτίᾳ",
+     "cn": "ds",
+     "e": "to/for the sin",
+     "g": "τῇ ἁμαρτίᾳ",
+     "l": 3,
+     "ph": "tay hah-mahr-TEE-ah"
+    },
+    {
+     "a": [
+      "the sin"
+     ],
+     "ab": [
+      "sin"
+     ],
+     "b": "ἁμαρτίαν",
+     "cn": "as",
+     "e": "the sin",
+     "g": "τὴν ἁμαρτίαν",
+     "l": 3,
+     "ph": "tayn hah-mahr-TEE-ahn"
+    },
+    {
+     "a": [
+      "the sins"
+     ],
+     "ab": [
+      "sins"
+     ],
+     "b": "ἁμαρτίαι",
+     "cn": "np",
+     "e": "the sins",
+     "g": "αἱ ἁμαρτίαι",
+     "l": 3,
+     "ph": "hai hah-mahr-TEE-ai"
+    },
+    {
+     "a": [
+      "of the sins"
+     ],
+     "ab": [
+      "sins"
+     ],
+     "b": "ἁμαρτιῶν",
+     "cn": "gp",
+     "e": "of the sins",
+     "g": "τῶν ἁμαρτιῶν",
+     "l": 3,
+     "ph": "tohn hah-mahr-tee-OHN"
+    },
+    {
+     "a": [
+      "to the sins",
+      "for the sins",
+      "in the sins",
+      "by the sins",
+      "with the sins"
+     ],
+     "ab": [
+      "sins"
+     ],
+     "b": "ἁμαρτίαις",
+     "cn": "dp",
+     "e": "to/for the sins",
+     "g": "ταῖς ἁμαρτίαις",
+     "l": 3,
+     "ph": "tais hah-mahr-TEE-ais"
+    },
+    {
+     "a": [
+      "the sins"
+     ],
+     "ab": [
+      "sins"
+     ],
+     "b": "ἁμαρτίας",
+     "cn": "ap",
+     "e": "the sins",
+     "g": "τὰς ἁμαρτίας",
+     "l": 3,
+     "ph": "tahs hah-mahr-TEE-ahs"
+    }
+   ],
    "p": "noun",
    "ph": "hah-mahr-TEE-ah, hay"
   },
   {
    "c": "",
+   "d": 2,
    "e": "bread, loaf",
    "f": {
     "acc": "τὸν ἄρτον",
@@ -59,6 +306,140 @@
    "gen": "m",
    "id": "7:ἄρτος",
    "m": "sounds like \"artisan\" — an *artisan loaf* of bread",
+   "nf": [
+    {
+     "a": [
+      "the bread",
+      "the loaf"
+     ],
+     "ab": [
+      "bread",
+      "loaf"
+     ],
+     "b": "ἄρτος",
+     "cn": "ns",
+     "e": "the bread",
+     "g": "ὁ ἄρτος",
+     "l": 4,
+     "ph": "ho AHR-tos"
+    },
+    {
+     "a": [
+      "of the bread",
+      "of the loaf"
+     ],
+     "ab": [
+      "bread",
+      "loaf"
+     ],
+     "b": "ἄρτου",
+     "cn": "gs",
+     "e": "of the bread",
+     "g": "τοῦ ἄρτου",
+     "l": 4,
+     "ph": "too AHR-too"
+    },
+    {
+     "a": [
+      "to the bread",
+      "for the bread",
+      "in the bread",
+      "by the bread",
+      "with the bread",
+      "to the loaf",
+      "for the loaf",
+      "in the loaf",
+      "by the loaf",
+      "with the loaf"
+     ],
+     "ab": [
+      "bread",
+      "loaf"
+     ],
+     "b": "ἄρτῳ",
+     "cn": "ds",
+     "e": "to/for the bread",
+     "g": "τῷ ἄρτῳ",
+     "l": 4,
+     "ph": "toh AHR-toh"
+    },
+    {
+     "a": [
+      "the bread",
+      "the loaf"
+     ],
+     "ab": [
+      "bread",
+      "loaf"
+     ],
+     "b": "ἄρτον",
+     "cn": "as",
+     "e": "the bread",
+     "g": "τὸν ἄρτον",
+     "l": 4,
+     "ph": "ton AHR-ton"
+    },
+    {
+     "a": [
+      "the loaves"
+     ],
+     "ab": [
+      "loaves"
+     ],
+     "b": "ἄρτοι",
+     "cn": "np",
+     "e": "the loaves",
+     "g": "οἱ ἄρτοι",
+     "l": 4,
+     "ph": "hoy AHR-toy"
+    },
+    {
+     "a": [
+      "of the loaves"
+     ],
+     "ab": [
+      "loaves"
+     ],
+     "b": "ἄρτων",
+     "cn": "gp",
+     "e": "of the loaves",
+     "g": "τῶν ἄρτων",
+     "l": 4,
+     "ph": "tohn AHR-tohn"
+    },
+    {
+     "a": [
+      "to the loaves",
+      "for the loaves",
+      "in the loaves",
+      "by the loaves",
+      "with the loaves"
+     ],
+     "ab": [
+      "loaves"
+     ],
+     "b": "ἄρτοις",
+     "cn": "dp",
+     "e": "to/for the loaves",
+     "g": "τοῖς ἄρτοις",
+     "l": 4,
+     "ph": "toys AHR-toys"
+    },
+    {
+     "a": [
+      "the loaves"
+     ],
+     "ab": [
+      "loaves"
+     ],
+     "b": "ἄρτους",
+     "cn": "ap",
+     "e": "the loaves",
+     "g": "τοὺς ἄρτους",
+     "l": 4,
+     "ph": "toos AHR-toos"
+    }
+   ],
    "p": "noun",
    "ph": "AHR-tos, ho"
   },
@@ -74,6 +455,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "gift",
    "f": {
     "acc": "τὸ δῶρον",
@@ -89,6 +471,100 @@
    "gen": "n",
    "id": "7:δῶρον",
    "m": "sounds like \"adorn\" — a *gift* you adorn someone with",
+   "nf": [
+    {
+     "a": [
+      "the gift"
+     ],
+     "ab": [
+      "gift"
+     ],
+     "b": "δῶρον",
+     "cn": "ns/as",
+     "e": "the gift",
+     "g": "τὸ δῶρον",
+     "l": 4,
+     "ph": "to DOH-ron"
+    },
+    {
+     "a": [
+      "of the gift"
+     ],
+     "ab": [
+      "gift"
+     ],
+     "b": "δώρου",
+     "cn": "gs",
+     "e": "of the gift",
+     "g": "τοῦ δώρου",
+     "l": 4,
+     "ph": "too DOH-roo"
+    },
+    {
+     "a": [
+      "to the gift",
+      "for the gift",
+      "in the gift",
+      "by the gift",
+      "with the gift"
+     ],
+     "ab": [
+      "gift"
+     ],
+     "b": "δώρῳ",
+     "cn": "ds",
+     "e": "to/for the gift",
+     "g": "τῷ δώρῳ",
+     "l": 4,
+     "ph": "toh DOH-roh"
+    },
+    {
+     "a": [
+      "the gifts"
+     ],
+     "ab": [
+      "gifts"
+     ],
+     "b": "δῶρα",
+     "cn": "np/ap",
+     "e": "the gifts",
+     "g": "τὰ δῶρα",
+     "l": 4,
+     "ph": "tah DOH-rah"
+    },
+    {
+     "a": [
+      "of the gifts"
+     ],
+     "ab": [
+      "gifts"
+     ],
+     "b": "δώρων",
+     "cn": "gp",
+     "e": "of the gifts",
+     "g": "τῶν δώρων",
+     "l": 4,
+     "ph": "tohn DOH-rohn"
+    },
+    {
+     "a": [
+      "to the gifts",
+      "for the gifts",
+      "in the gifts",
+      "by the gifts",
+      "with the gifts"
+     ],
+     "ab": [
+      "gifts"
+     ],
+     "b": "δώροις",
+     "cn": "dp",
+     "e": "to/for the gifts",
+     "g": "τοῖς δώροις",
+     "l": 4,
+     "ph": "toys DOH-roys"
+    }
+   ],
    "p": "noun",
    "ph": "DOH-ron, to"
   },
@@ -838,6 +1314,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "crowd, multitude (→ ochlocracy)",
    "f": {
     "acc": "τὸν ὄχλον",
@@ -853,11 +1330,158 @@
    "gen": "m",
    "id": "7:ὄχλος",
    "m": "\"ochlocracy\" — mob rule, rule by the *crowd*",
+   "nf": [
+    {
+     "a": [
+      "the crowd",
+      "the multitude"
+     ],
+     "ab": [
+      "crowd",
+      "multitude"
+     ],
+     "b": "ὄχλος",
+     "cn": "ns",
+     "e": "the crowd",
+     "g": "ὁ ὄχλος",
+     "l": 4,
+     "ph": "ho O-khlos"
+    },
+    {
+     "a": [
+      "of the crowd",
+      "of the multitude"
+     ],
+     "ab": [
+      "crowd",
+      "multitude"
+     ],
+     "b": "ὄχλου",
+     "cn": "gs",
+     "e": "of the crowd",
+     "g": "τοῦ ὄχλου",
+     "l": 4,
+     "ph": "too O-khloo"
+    },
+    {
+     "a": [
+      "to the crowd",
+      "for the crowd",
+      "in the crowd",
+      "by the crowd",
+      "with the crowd",
+      "to the multitude",
+      "for the multitude",
+      "in the multitude",
+      "by the multitude",
+      "with the multitude"
+     ],
+     "ab": [
+      "crowd",
+      "multitude"
+     ],
+     "b": "ὄχλῳ",
+     "cn": "ds",
+     "e": "to/for the crowd",
+     "g": "τῷ ὄχλῳ",
+     "l": 4,
+     "ph": "toh O-khloh"
+    },
+    {
+     "a": [
+      "the crowd",
+      "the multitude"
+     ],
+     "ab": [
+      "crowd",
+      "multitude"
+     ],
+     "b": "ὄχλον",
+     "cn": "as",
+     "e": "the crowd",
+     "g": "τὸν ὄχλον",
+     "l": 4,
+     "ph": "ton O-khlon"
+    },
+    {
+     "a": [
+      "the crowds",
+      "the multitudes"
+     ],
+     "ab": [
+      "crowds",
+      "multitudes"
+     ],
+     "b": "ὄχλοι",
+     "cn": "np",
+     "e": "the crowds",
+     "g": "οἱ ὄχλοι",
+     "l": 4,
+     "ph": "hoy O-khloy"
+    },
+    {
+     "a": [
+      "of the crowds",
+      "of the multitudes"
+     ],
+     "ab": [
+      "crowds",
+      "multitudes"
+     ],
+     "b": "ὄχλων",
+     "cn": "gp",
+     "e": "of the crowds",
+     "g": "τῶν ὄχλων",
+     "l": 4,
+     "ph": "tohn O-khlohn"
+    },
+    {
+     "a": [
+      "to the crowds",
+      "for the crowds",
+      "in the crowds",
+      "by the crowds",
+      "with the crowds",
+      "to the multitudes",
+      "for the multitudes",
+      "in the multitudes",
+      "by the multitudes",
+      "with the multitudes"
+     ],
+     "ab": [
+      "crowds",
+      "multitudes"
+     ],
+     "b": "ὄχλοις",
+     "cn": "dp",
+     "e": "to/for the crowds",
+     "g": "τοῖς ὄχλοις",
+     "l": 4,
+     "ph": "toys O-khloys"
+    },
+    {
+     "a": [
+      "the crowds",
+      "the multitudes"
+     ],
+     "ab": [
+      "crowds",
+      "multitudes"
+     ],
+     "b": "ὄχλους",
+     "cn": "ap",
+     "e": "the crowds",
+     "g": "τοὺς ὄχλους",
+     "l": 4,
+     "ph": "toos O-khloos"
+    }
+   ],
    "p": "noun",
    "ph": "O-khlos, ho"
   },
   {
    "c": "",
+   "d": 2,
    "e": "boat",
    "f": {
     "acc": "τὸ πλοῖον",
@@ -873,6 +1497,100 @@
    "gen": "n",
    "id": "7:πλοῖον",
    "m": "sounds like \"ploy on\" — a *boat* setting off on a voyage",
+   "nf": [
+    {
+     "a": [
+      "the boat"
+     ],
+     "ab": [
+      "boat"
+     ],
+     "b": "πλοῖον",
+     "cn": "ns/as",
+     "e": "the boat",
+     "g": "τὸ πλοῖον",
+     "l": 4,
+     "ph": "to PLOY-on"
+    },
+    {
+     "a": [
+      "of the boat"
+     ],
+     "ab": [
+      "boat"
+     ],
+     "b": "πλοίου",
+     "cn": "gs",
+     "e": "of the boat",
+     "g": "τοῦ πλοίου",
+     "l": 4,
+     "ph": "too PLOY-oo"
+    },
+    {
+     "a": [
+      "to the boat",
+      "for the boat",
+      "in the boat",
+      "by the boat",
+      "with the boat"
+     ],
+     "ab": [
+      "boat"
+     ],
+     "b": "πλοίῳ",
+     "cn": "ds",
+     "e": "to/for the boat",
+     "g": "τῷ πλοίῳ",
+     "l": 4,
+     "ph": "toh PLOY-oh"
+    },
+    {
+     "a": [
+      "the boats"
+     ],
+     "ab": [
+      "boats"
+     ],
+     "b": "πλοῖα",
+     "cn": "np/ap",
+     "e": "the boats",
+     "g": "τὰ πλοῖα",
+     "l": 4,
+     "ph": "tah PLOY-ah"
+    },
+    {
+     "a": [
+      "of the boats"
+     ],
+     "ab": [
+      "boats"
+     ],
+     "b": "πλοίων",
+     "cn": "gp",
+     "e": "of the boats",
+     "g": "τῶν πλοίων",
+     "l": 4,
+     "ph": "tohn PLOY-ohn"
+    },
+    {
+     "a": [
+      "to the boats",
+      "for the boats",
+      "in the boats",
+      "by the boats",
+      "with the boats"
+     ],
+     "ab": [
+      "boats"
+     ],
+     "b": "πλοίοις",
+     "cn": "dp",
+     "e": "to/for the boats",
+     "g": "τοῖς πλοίοις",
+     "l": 4,
+     "ph": "toys PLOY-oys"
+    }
+   ],
    "p": "noun",
    "ph": "PLOY-on, to"
   },
@@ -1781,6 +2499,7 @@
   },
   {
    "c": "",
+   "d": 1,
    "e": "soul, life (→ psycho-)",
    "f": {
     "acc": "τὴν ψυχήν",
@@ -1796,6 +2515,152 @@
    "gen": "f",
    "id": "7:ψυχή",
    "m": "\"psyche,\" \"psychology\" — the study of the *soul*/mind",
+   "nf": [
+    {
+     "a": [
+      "the soul",
+      "the life"
+     ],
+     "ab": [
+      "soul",
+      "life"
+     ],
+     "b": "ψυχή",
+     "cn": "ns",
+     "e": "the soul",
+     "g": "ἡ ψυχή",
+     "l": 3,
+     "ph": "hay psü-KHAY"
+    },
+    {
+     "a": [
+      "of the soul",
+      "of the life"
+     ],
+     "ab": [
+      "soul",
+      "life"
+     ],
+     "b": "ψυχῆς",
+     "cn": "gs",
+     "e": "of the soul",
+     "g": "τῆς ψυχῆς",
+     "l": 3,
+     "ph": "tays psü-KHAYS"
+    },
+    {
+     "a": [
+      "to the soul",
+      "for the soul",
+      "in the soul",
+      "by the soul",
+      "with the soul",
+      "to the life",
+      "for the life",
+      "in the life",
+      "by the life",
+      "with the life"
+     ],
+     "ab": [
+      "soul",
+      "life"
+     ],
+     "b": "ψυχῇ",
+     "cn": "ds",
+     "e": "to/for the soul",
+     "g": "τῇ ψυχῇ",
+     "l": 3,
+     "ph": "tay psü-KHAY"
+    },
+    {
+     "a": [
+      "the soul",
+      "the life"
+     ],
+     "ab": [
+      "soul",
+      "life"
+     ],
+     "b": "ψυχήν",
+     "cn": "as",
+     "e": "the soul",
+     "g": "τὴν ψυχήν",
+     "l": 3,
+     "ph": "tayn psü-KHAYN"
+    },
+    {
+     "a": [
+      "the souls",
+      "the lives"
+     ],
+     "ab": [
+      "souls",
+      "lives"
+     ],
+     "b": "ψυχαί",
+     "cn": "np",
+     "e": "the souls",
+     "g": "αἱ ψυχαί",
+     "l": 3,
+     "ph": "hai psü-KHAI"
+    },
+    {
+     "a": [
+      "of the souls",
+      "of the lives"
+     ],
+     "ab": [
+      "souls",
+      "lives"
+     ],
+     "b": "ψυχῶν",
+     "cn": "gp",
+     "e": "of the souls",
+     "g": "τῶν ψυχῶν",
+     "l": 3,
+     "ph": "tohn psü-KHOHN"
+    },
+    {
+     "a": [
+      "to the souls",
+      "for the souls",
+      "in the souls",
+      "by the souls",
+      "with the souls",
+      "to the lives",
+      "for the lives",
+      "in the lives",
+      "by the lives",
+      "with the lives"
+     ],
+     "ab": [
+      "souls",
+      "lives"
+     ],
+     "b": "ψυχαῖς",
+     "cn": "dp",
+     "e": "to/for the souls",
+     "g": "ταῖς ψυχαῖς",
+     "l": 3,
+     "ph": "tais psü-KHAIS"
+    },
+    {
+     "a": [
+      "the souls",
+      "the lives"
+     ],
+     "ab": [
+      "souls",
+      "lives"
+     ],
+     "b": "ψυχάς",
+     "cn": "ap",
+     "e": "the souls",
+     "g": "τὰς ψυχάς",
+     "l": 3,
+     "ph": "tahs psü-KHAHS"
+    }
+   ],
    "p": "noun",
    "ph": "psü-KHAY, hay"
   }

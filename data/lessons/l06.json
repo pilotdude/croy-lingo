@@ -4,6 +4,7 @@
  "words": [
   {
    "c": "",
+   "d": 2,
    "e": "angel, messenger",
    "f": {
     "acc": "τὸν ἄγγελον",
@@ -19,6 +20,152 @@
    "gen": "m",
    "id": "6:ἄγγελος",
    "m": "\"angel\" is a direct cognate — the *messenger*",
+   "nf": [
+    {
+     "a": [
+      "the angel",
+      "the messenger"
+     ],
+     "ab": [
+      "angel",
+      "messenger"
+     ],
+     "b": "ἄγγελος",
+     "cn": "ns",
+     "e": "the angel",
+     "g": "ὁ ἄγγελος",
+     "l": 4,
+     "ph": "ho AHN-geh-los"
+    },
+    {
+     "a": [
+      "of the angel",
+      "of the messenger"
+     ],
+     "ab": [
+      "angel",
+      "messenger"
+     ],
+     "b": "ἀγγέλου",
+     "cn": "gs",
+     "e": "of the angel",
+     "g": "τοῦ ἀγγέλου",
+     "l": 4,
+     "ph": "too ahn-GEH-loo"
+    },
+    {
+     "a": [
+      "to the angel",
+      "for the angel",
+      "in the angel",
+      "by the angel",
+      "with the angel",
+      "to the messenger",
+      "for the messenger",
+      "in the messenger",
+      "by the messenger",
+      "with the messenger"
+     ],
+     "ab": [
+      "angel",
+      "messenger"
+     ],
+     "b": "ἀγγέλῳ",
+     "cn": "ds",
+     "e": "to/for the angel",
+     "g": "τῷ ἀγγέλῳ",
+     "l": 4,
+     "ph": "toh ahn-GEH-loh"
+    },
+    {
+     "a": [
+      "the angel",
+      "the messenger"
+     ],
+     "ab": [
+      "angel",
+      "messenger"
+     ],
+     "b": "ἄγγελον",
+     "cn": "as",
+     "e": "the angel",
+     "g": "τὸν ἄγγελον",
+     "l": 4,
+     "ph": "ton AHN-geh-lon"
+    },
+    {
+     "a": [
+      "the angels",
+      "the messengers"
+     ],
+     "ab": [
+      "angels",
+      "messengers"
+     ],
+     "b": "ἄγγελοι",
+     "cn": "np",
+     "e": "the angels",
+     "g": "οἱ ἄγγελοι",
+     "l": 4,
+     "ph": "hoy AHN-geh-loy"
+    },
+    {
+     "a": [
+      "of the angels",
+      "of the messengers"
+     ],
+     "ab": [
+      "angels",
+      "messengers"
+     ],
+     "b": "ἀγγέλων",
+     "cn": "gp",
+     "e": "of the angels",
+     "g": "τῶν ἀγγέλων",
+     "l": 4,
+     "ph": "tohn ahn-GEH-lohn"
+    },
+    {
+     "a": [
+      "to the angels",
+      "for the angels",
+      "in the angels",
+      "by the angels",
+      "with the angels",
+      "to the messengers",
+      "for the messengers",
+      "in the messengers",
+      "by the messengers",
+      "with the messengers"
+     ],
+     "ab": [
+      "angels",
+      "messengers"
+     ],
+     "b": "ἀγγέλοις",
+     "cn": "dp",
+     "e": "to/for the angels",
+     "g": "τοῖς ἀγγέλοις",
+     "l": 4,
+     "ph": "toys ahn-GEH-loys"
+    },
+    {
+     "a": [
+      "the angels",
+      "the messengers"
+     ],
+     "ab": [
+      "angels",
+      "messengers"
+     ],
+     "b": "ἀγγέλους",
+     "cn": "ap",
+     "e": "the angels",
+     "g": "τοὺς ἀγγέλους",
+     "l": 4,
+     "ph": "toos ahn-GEH-loos"
+    }
+   ],
    "p": "noun",
    "ph": "AHN-geh-los, ho"
   },
@@ -1185,6 +1332,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "desert",
    "f": {
     "acc": "τὴν ἔρημον",
@@ -1200,11 +1348,134 @@
    "gen": "f",
    "id": "6:ἔρημος",
    "m": "\"hermit\" — one who withdraws to the *desert*",
+   "nf": [
+    {
+     "a": [
+      "the desert"
+     ],
+     "ab": [
+      "desert"
+     ],
+     "b": "ἔρημος",
+     "cn": "ns",
+     "e": "the desert",
+     "g": "ἡ ἔρημος",
+     "l": 4,
+     "ph": "hay EH-ray-mos"
+    },
+    {
+     "a": [
+      "of the desert"
+     ],
+     "ab": [
+      "desert"
+     ],
+     "b": "ἐρήμου",
+     "cn": "gs",
+     "e": "of the desert",
+     "g": "τῆς ἐρήμου",
+     "l": 4,
+     "ph": "tays eh-RAY-moo"
+    },
+    {
+     "a": [
+      "to the desert",
+      "for the desert",
+      "in the desert",
+      "by the desert",
+      "with the desert"
+     ],
+     "ab": [
+      "desert"
+     ],
+     "b": "ἐρήμῳ",
+     "cn": "ds",
+     "e": "to/for the desert",
+     "g": "τῇ ἐρήμῳ",
+     "l": 4,
+     "ph": "tay eh-RAY-moh"
+    },
+    {
+     "a": [
+      "the desert"
+     ],
+     "ab": [
+      "desert"
+     ],
+     "b": "ἔρημον",
+     "cn": "as",
+     "e": "the desert",
+     "g": "τὴν ἔρημον",
+     "l": 4,
+     "ph": "tayn EH-ray-mon"
+    },
+    {
+     "a": [
+      "the deserts"
+     ],
+     "ab": [
+      "deserts"
+     ],
+     "b": "ἔρημοι",
+     "cn": "np",
+     "e": "the deserts",
+     "g": "αἱ ἔρημοι",
+     "l": 4,
+     "ph": "hai EH-ray-moy"
+    },
+    {
+     "a": [
+      "of the deserts"
+     ],
+     "ab": [
+      "deserts"
+     ],
+     "b": "ἐρήμων",
+     "cn": "gp",
+     "e": "of the deserts",
+     "g": "τῶν ἐρήμων",
+     "l": 4,
+     "ph": "tohn eh-RAY-mohn"
+    },
+    {
+     "a": [
+      "to the deserts",
+      "for the deserts",
+      "in the deserts",
+      "by the deserts",
+      "with the deserts"
+     ],
+     "ab": [
+      "deserts"
+     ],
+     "b": "ἐρήμοις",
+     "cn": "dp",
+     "e": "to/for the deserts",
+     "g": "ταῖς ἐρήμοις",
+     "l": 4,
+     "ph": "tais eh-RAY-moys"
+    },
+    {
+     "a": [
+      "the deserts"
+     ],
+     "ab": [
+      "deserts"
+     ],
+     "b": "ἐρήμους",
+     "cn": "ap",
+     "e": "the deserts",
+     "g": "τὰς ἐρήμους",
+     "l": 4,
+     "ph": "tahs eh-RAY-moos"
+    }
+   ],
    "p": "noun",
    "ph": "EH-ray-mos, hay"
   },
   {
    "c": "",
+   "d": 2,
    "e": "world",
    "f": {
     "acc": "τὸν κόσμον",
@@ -1220,11 +1491,134 @@
    "gen": "m",
    "id": "6:κόσμος",
    "m": "\"cosmic,\" \"cosmos\" — the *world*/universe",
+   "nf": [
+    {
+     "a": [
+      "the world"
+     ],
+     "ab": [
+      "world"
+     ],
+     "b": "κόσμος",
+     "cn": "ns",
+     "e": "the world",
+     "g": "ὁ κόσμος",
+     "l": 4,
+     "ph": "ho KO-smos"
+    },
+    {
+     "a": [
+      "of the world"
+     ],
+     "ab": [
+      "world"
+     ],
+     "b": "κόσμου",
+     "cn": "gs",
+     "e": "of the world",
+     "g": "τοῦ κόσμου",
+     "l": 4,
+     "ph": "too KO-smoo"
+    },
+    {
+     "a": [
+      "to the world",
+      "for the world",
+      "in the world",
+      "by the world",
+      "with the world"
+     ],
+     "ab": [
+      "world"
+     ],
+     "b": "κόσμῳ",
+     "cn": "ds",
+     "e": "to/for the world",
+     "g": "τῷ κόσμῳ",
+     "l": 4,
+     "ph": "toh KO-smoh"
+    },
+    {
+     "a": [
+      "the world"
+     ],
+     "ab": [
+      "world"
+     ],
+     "b": "κόσμον",
+     "cn": "as",
+     "e": "the world",
+     "g": "τὸν κόσμον",
+     "l": 4,
+     "ph": "ton KO-smon"
+    },
+    {
+     "a": [
+      "the worlds"
+     ],
+     "ab": [
+      "worlds"
+     ],
+     "b": "κόσμοι",
+     "cn": "np",
+     "e": "the worlds",
+     "g": "οἱ κόσμοι",
+     "l": 4,
+     "ph": "hoy KO-smoy"
+    },
+    {
+     "a": [
+      "of the worlds"
+     ],
+     "ab": [
+      "worlds"
+     ],
+     "b": "κόσμων",
+     "cn": "gp",
+     "e": "of the worlds",
+     "g": "τῶν κόσμων",
+     "l": 4,
+     "ph": "tohn KO-smohn"
+    },
+    {
+     "a": [
+      "to the worlds",
+      "for the worlds",
+      "in the worlds",
+      "by the worlds",
+      "with the worlds"
+     ],
+     "ab": [
+      "worlds"
+     ],
+     "b": "κόσμοις",
+     "cn": "dp",
+     "e": "to/for the worlds",
+     "g": "τοῖς κόσμοις",
+     "l": 4,
+     "ph": "toys KO-smoys"
+    },
+    {
+     "a": [
+      "the worlds"
+     ],
+     "ab": [
+      "worlds"
+     ],
+     "b": "κόσμους",
+     "cn": "ap",
+     "e": "the worlds",
+     "g": "τοὺς κόσμους",
+     "l": 4,
+     "ph": "toos KO-smoos"
+    }
+   ],
    "p": "noun",
    "ph": "KO-smos, ho"
   },
   {
    "c": "",
+   "d": 2,
    "e": "stone",
    "f": {
     "acc": "τὸν λίθον",
@@ -1240,11 +1634,134 @@
    "gen": "m",
    "id": "6:λίθος",
    "m": "\"monolith,\" \"lithosphere\" — made of *stone*",
+   "nf": [
+    {
+     "a": [
+      "the stone"
+     ],
+     "ab": [
+      "stone"
+     ],
+     "b": "λίθος",
+     "cn": "ns",
+     "e": "the stone",
+     "g": "ὁ λίθος",
+     "l": 4,
+     "ph": "ho LEE-thos"
+    },
+    {
+     "a": [
+      "of the stone"
+     ],
+     "ab": [
+      "stone"
+     ],
+     "b": "λίθου",
+     "cn": "gs",
+     "e": "of the stone",
+     "g": "τοῦ λίθου",
+     "l": 4,
+     "ph": "too LEE-thoo"
+    },
+    {
+     "a": [
+      "to the stone",
+      "for the stone",
+      "in the stone",
+      "by the stone",
+      "with the stone"
+     ],
+     "ab": [
+      "stone"
+     ],
+     "b": "λίθῳ",
+     "cn": "ds",
+     "e": "to/for the stone",
+     "g": "τῷ λίθῳ",
+     "l": 4,
+     "ph": "toh LEE-thoh"
+    },
+    {
+     "a": [
+      "the stone"
+     ],
+     "ab": [
+      "stone"
+     ],
+     "b": "λίθον",
+     "cn": "as",
+     "e": "the stone",
+     "g": "τὸν λίθον",
+     "l": 4,
+     "ph": "ton LEE-thon"
+    },
+    {
+     "a": [
+      "the stones"
+     ],
+     "ab": [
+      "stones"
+     ],
+     "b": "λίθοι",
+     "cn": "np",
+     "e": "the stones",
+     "g": "οἱ λίθοι",
+     "l": 4,
+     "ph": "hoy LEE-thoy"
+    },
+    {
+     "a": [
+      "of the stones"
+     ],
+     "ab": [
+      "stones"
+     ],
+     "b": "λίθων",
+     "cn": "gp",
+     "e": "of the stones",
+     "g": "τῶν λίθων",
+     "l": 4,
+     "ph": "tohn LEE-thohn"
+    },
+    {
+     "a": [
+      "to the stones",
+      "for the stones",
+      "in the stones",
+      "by the stones",
+      "with the stones"
+     ],
+     "ab": [
+      "stones"
+     ],
+     "b": "λίθοις",
+     "cn": "dp",
+     "e": "to/for the stones",
+     "g": "τοῖς λίθοις",
+     "l": 4,
+     "ph": "toys LEE-thoys"
+    },
+    {
+     "a": [
+      "the stones"
+     ],
+     "ab": [
+      "stones"
+     ],
+     "b": "λίθους",
+     "cn": "ap",
+     "e": "the stones",
+     "g": "τοὺς λίθους",
+     "l": 4,
+     "ph": "toos LEE-thoos"
+    }
+   ],
    "p": "noun",
    "ph": "LEE-thos, ho"
   },
   {
    "c": "",
+   "d": 1,
    "e": "disciple",
    "f": {
     "acc": "τὸν μαθητήν",
@@ -1260,6 +1777,128 @@
    "gen": "m",
    "id": "6:μαθητής",
    "m": "\"mathematics\" — a *disciple* is one who learns/studies",
+   "nf": [
+    {
+     "a": [
+      "the disciple"
+     ],
+     "ab": [
+      "disciple"
+     ],
+     "b": "μαθητής",
+     "cn": "ns",
+     "e": "the disciple",
+     "g": "ὁ μαθητής",
+     "l": 3,
+     "ph": "ho mah-thay-TAYS"
+    },
+    {
+     "a": [
+      "of the disciple"
+     ],
+     "ab": [
+      "disciple"
+     ],
+     "b": "μαθητοῦ",
+     "cn": "gs",
+     "e": "of the disciple",
+     "g": "τοῦ μαθητοῦ",
+     "l": 3,
+     "ph": "too mah-thay-TOO"
+    },
+    {
+     "a": [
+      "to the disciple",
+      "for the disciple",
+      "in the disciple",
+      "by the disciple",
+      "with the disciple"
+     ],
+     "ab": [
+      "disciple"
+     ],
+     "b": "μαθητῇ",
+     "cn": "ds",
+     "e": "to/for the disciple",
+     "g": "τῷ μαθητῇ",
+     "l": 3,
+     "ph": "toh mah-thay-TAY"
+    },
+    {
+     "a": [
+      "the disciple"
+     ],
+     "ab": [
+      "disciple"
+     ],
+     "b": "μαθητήν",
+     "cn": "as",
+     "e": "the disciple",
+     "g": "τὸν μαθητήν",
+     "l": 3,
+     "ph": "ton mah-thay-TAYN"
+    },
+    {
+     "a": [
+      "the disciples"
+     ],
+     "ab": [
+      "disciples"
+     ],
+     "b": "μαθηταί",
+     "cn": "np",
+     "e": "the disciples",
+     "g": "οἱ μαθηταί",
+     "l": 3,
+     "ph": "hoy mah-thay-TAI"
+    },
+    {
+     "a": [
+      "of the disciples"
+     ],
+     "ab": [
+      "disciples"
+     ],
+     "b": "μαθητῶν",
+     "cn": "gp",
+     "e": "of the disciples",
+     "g": "τῶν μαθητῶν",
+     "l": 3,
+     "ph": "tohn mah-thay-TOHN"
+    },
+    {
+     "a": [
+      "to the disciples",
+      "for the disciples",
+      "in the disciples",
+      "by the disciples",
+      "with the disciples"
+     ],
+     "ab": [
+      "disciples"
+     ],
+     "b": "μαθηταῖς",
+     "cn": "dp",
+     "e": "to/for the disciples",
+     "g": "τοῖς μαθηταῖς",
+     "l": 3,
+     "ph": "toys mah-thay-TAIS"
+    },
+    {
+     "a": [
+      "the disciples"
+     ],
+     "ab": [
+      "disciples"
+     ],
+     "b": "μαθητάς",
+     "cn": "ap",
+     "e": "the disciples",
+     "g": "τοὺς μαθητάς",
+     "l": 3,
+     "ph": "toos mah-thay-TAHS"
+    }
+   ],
    "p": "noun",
    "ph": "mah-thay-TAYS, ho"
   },
@@ -1479,6 +2118,7 @@
   },
   {
    "c": "",
+   "d": 2,
    "e": "way, road",
    "f": {
     "acc": "τὴν ὁδόν",
@@ -1494,6 +2134,152 @@
    "gen": "f",
    "id": "6:ὁδός",
    "m": "\"odometer\" — measures distance along the *road*",
+   "nf": [
+    {
+     "a": [
+      "the way",
+      "the road"
+     ],
+     "ab": [
+      "way",
+      "road"
+     ],
+     "b": "ὁδός",
+     "cn": "ns",
+     "e": "the way",
+     "g": "ἡ ὁδός",
+     "l": 4,
+     "ph": "hay ho-DOS"
+    },
+    {
+     "a": [
+      "of the way",
+      "of the road"
+     ],
+     "ab": [
+      "way",
+      "road"
+     ],
+     "b": "ὁδοῦ",
+     "cn": "gs",
+     "e": "of the way",
+     "g": "τῆς ὁδοῦ",
+     "l": 4,
+     "ph": "tays ho-DOO"
+    },
+    {
+     "a": [
+      "to the way",
+      "for the way",
+      "in the way",
+      "by the way",
+      "with the way",
+      "to the road",
+      "for the road",
+      "in the road",
+      "by the road",
+      "with the road"
+     ],
+     "ab": [
+      "way",
+      "road"
+     ],
+     "b": "ὁδῷ",
+     "cn": "ds",
+     "e": "to/for the way",
+     "g": "τῇ ὁδῷ",
+     "l": 4,
+     "ph": "tay ho-DOH"
+    },
+    {
+     "a": [
+      "the way",
+      "the road"
+     ],
+     "ab": [
+      "way",
+      "road"
+     ],
+     "b": "ὁδόν",
+     "cn": "as",
+     "e": "the way",
+     "g": "τὴν ὁδόν",
+     "l": 4,
+     "ph": "tayn ho-DON"
+    },
+    {
+     "a": [
+      "the ways",
+      "the roads"
+     ],
+     "ab": [
+      "ways",
+      "roads"
+     ],
+     "b": "ὁδοί",
+     "cn": "np",
+     "e": "the ways",
+     "g": "αἱ ὁδοί",
+     "l": 4,
+     "ph": "hai ho-DOY"
+    },
+    {
+     "a": [
+      "of the ways",
+      "of the roads"
+     ],
+     "ab": [
+      "ways",
+      "roads"
+     ],
+     "b": "ὁδῶν",
+     "cn": "gp",
+     "e": "of the ways",
+     "g": "τῶν ὁδῶν",
+     "l": 4,
+     "ph": "tohn ho-DOHN"
+    },
+    {
+     "a": [
+      "to the ways",
+      "for the ways",
+      "in the ways",
+      "by the ways",
+      "with the ways",
+      "to the roads",
+      "for the roads",
+      "in the roads",
+      "by the roads",
+      "with the roads"
+     ],
+     "ab": [
+      "ways",
+      "roads"
+     ],
+     "b": "ὁδοῖς",
+     "cn": "dp",
+     "e": "to/for the ways",
+     "g": "ταῖς ὁδοῖς",
+     "l": 4,
+     "ph": "tais ho-DOYS"
+    },
+    {
+     "a": [
+      "the ways",
+      "the roads"
+     ],
+     "ab": [
+      "ways",
+      "roads"
+     ],
+     "b": "ὁδούς",
+     "cn": "ap",
+     "e": "the ways",
+     "g": "τὰς ὁδούς",
+     "l": 4,
+     "ph": "tahs ho-DOOS"
+    }
+   ],
    "p": "noun",
    "ph": "ho-DOS, hay"
   },
@@ -2272,6 +3058,7 @@
   },
   {
    "c": "",
+   "d": 1,
    "e": "prophet",
    "f": {
     "acc": "τὸν προφήτην",
@@ -2287,6 +3074,128 @@
    "gen": "m",
    "id": "6:προφήτης",
    "m": "\"prophet\" is a direct cognate — one who speaks *forth*",
+   "nf": [
+    {
+     "a": [
+      "the prophet"
+     ],
+     "ab": [
+      "prophet"
+     ],
+     "b": "προφήτης",
+     "cn": "ns",
+     "e": "the prophet",
+     "g": "ὁ προφήτης",
+     "l": 3,
+     "ph": "ho pro-FAY-tays"
+    },
+    {
+     "a": [
+      "of the prophet"
+     ],
+     "ab": [
+      "prophet"
+     ],
+     "b": "προφήτου",
+     "cn": "gs",
+     "e": "of the prophet",
+     "g": "τοῦ προφήτου",
+     "l": 3,
+     "ph": "too pro-FAY-too"
+    },
+    {
+     "a": [
+      "to the prophet",
+      "for the prophet",
+      "in the prophet",
+      "by the prophet",
+      "with the prophet"
+     ],
+     "ab": [
+      "prophet"
+     ],
+     "b": "προφήτῃ",
+     "cn": "ds",
+     "e": "to/for the prophet",
+     "g": "τῷ προφήτῃ",
+     "l": 3,
+     "ph": "toh pro-FAY-tay"
+    },
+    {
+     "a": [
+      "the prophet"
+     ],
+     "ab": [
+      "prophet"
+     ],
+     "b": "προφήτην",
+     "cn": "as",
+     "e": "the prophet",
+     "g": "τὸν προφήτην",
+     "l": 3,
+     "ph": "ton pro-FAY-tayn"
+    },
+    {
+     "a": [
+      "the prophets"
+     ],
+     "ab": [
+      "prophets"
+     ],
+     "b": "προφῆται",
+     "cn": "np",
+     "e": "the prophets",
+     "g": "οἱ προφῆται",
+     "l": 3,
+     "ph": "hoy pro-FAY-tai"
+    },
+    {
+     "a": [
+      "of the prophets"
+     ],
+     "ab": [
+      "prophets"
+     ],
+     "b": "προφητῶν",
+     "cn": "gp",
+     "e": "of the prophets",
+     "g": "τῶν προφητῶν",
+     "l": 3,
+     "ph": "tohn pro-fay-TOHN"
+    },
+    {
+     "a": [
+      "to the prophets",
+      "for the prophets",
+      "in the prophets",
+      "by the prophets",
+      "with the prophets"
+     ],
+     "ab": [
+      "prophets"
+     ],
+     "b": "προφήταις",
+     "cn": "dp",
+     "e": "to/for the prophets",
+     "g": "τοῖς προφήταις",
+     "l": 3,
+     "ph": "toys pro-FAY-tais"
+    },
+    {
+     "a": [
+      "the prophets"
+     ],
+     "ab": [
+      "prophets"
+     ],
+     "b": "προφήτας",
+     "cn": "ap",
+     "e": "the prophets",
+     "g": "τοὺς προφήτας",
+     "l": 3,
+     "ph": "toos pro-FAY-tahs"
+    }
+   ],
    "p": "noun",
    "ph": "pro-FAY-tays, ho"
   }

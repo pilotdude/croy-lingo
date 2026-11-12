@@ -4,6 +4,7 @@
  "words": [
   {
    "c": "",
+   "d": 2,
    "e": "sinner",
    "f": {
     "acc": "τὸν ἁμαρτωλόν",
@@ -19,6 +20,128 @@
    "gen": "m",
    "id": "9:ἁμαρτωλός",
    "m": "built on ἁμαρτία (sin, L7) — one who commits sin, a *sinner*",
+   "nf": [
+    {
+     "a": [
+      "the sinner"
+     ],
+     "ab": [
+      "sinner"
+     ],
+     "b": "ἁμαρτωλός",
+     "cn": "ns",
+     "e": "the sinner",
+     "g": "ὁ ἁμαρτωλός",
+     "l": 4,
+     "ph": "ho hah-mahr-toh-LOS"
+    },
+    {
+     "a": [
+      "of the sinner"
+     ],
+     "ab": [
+      "sinner"
+     ],
+     "b": "ἁμαρτωλοῦ",
+     "cn": "gs",
+     "e": "of the sinner",
+     "g": "τοῦ ἁμαρτωλοῦ",
+     "l": 4,
+     "ph": "too hah-mahr-toh-LOO"
+    },
+    {
+     "a": [
+      "to the sinner",
+      "for the sinner",
+      "in the sinner",
+      "by the sinner",
+      "with the sinner"
+     ],
+     "ab": [
+      "sinner"
+     ],
+     "b": "ἁμαρτωλῷ",
+     "cn": "ds",
+     "e": "to/for the sinner",
+     "g": "τῷ ἁμαρτωλῷ",
+     "l": 4,
+     "ph": "toh hah-mahr-toh-LOH"
+    },
+    {
+     "a": [
+      "the sinner"
+     ],
+     "ab": [
+      "sinner"
+     ],
+     "b": "ἁμαρτωλόν",
+     "cn": "as",
+     "e": "the sinner",
+     "g": "τὸν ἁμαρτωλόν",
+     "l": 4,
+     "ph": "ton hah-mahr-toh-LON"
+    },
+    {
+     "a": [
+      "the sinners"
+     ],
+     "ab": [
+      "sinners"
+     ],
+     "b": "ἁμαρτωλοί",
+     "cn": "np",
+     "e": "the sinners",
+     "g": "οἱ ἁμαρτωλοί",
+     "l": 4,
+     "ph": "hoy hah-mahr-toh-LOY"
+    },
+    {
+     "a": [
+      "of the sinners"
+     ],
+     "ab": [
+      "sinners"
+     ],
+     "b": "ἁμαρτωλῶν",
+     "cn": "gp",
+     "e": "of the sinners",
+     "g": "τῶν ἁμαρτωλῶν",
+     "l": 4,
+     "ph": "tohn hah-mahr-toh-LOHN"
+    },
+    {
+     "a": [
+      "to the sinners",
+      "for the sinners",
+      "in the sinners",
+      "by the sinners",
+      "with the sinners"
+     ],
+     "ab": [
+      "sinners"
+     ],
+     "b": "ἁμαρτωλοῖς",
+     "cn": "dp",
+     "e": "to/for the sinners",
+     "g": "τοῖς ἁμαρτωλοῖς",
+     "l": 4,
+     "ph": "toys hah-mahr-toh-LOYS"
+    },
+    {
+     "a": [
+      "the sinners"
+     ],
+     "ab": [
+      "sinners"
+     ],
+     "b": "ἁμαρτωλούς",
+     "cn": "ap",
+     "e": "the sinners",
+     "g": "τοὺς ἁμαρτωλούς",
+     "l": 4,
+     "ph": "toos hah-mahr-toh-LOOS"
+    }
+   ],
    "p": "noun",
    "ph": "hah-mahr-toh-LOS, ho"
   },
